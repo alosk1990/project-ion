@@ -1,0 +1,12 @@
+<map id="DFMessageWriter_DFLogStart::process" name="DFMessageWriter_DFLogStart::process">
+<area shape="rect" id="node2" href="$classDataFlash__Backend.html#af17a5022c4e47cfdd56c1a5887e85632" title="DataFlash_Backend::\lWriteMoreStartupMessages" alt="" coords="256,104,440,145"/>
+<area shape="rect" id="node3" href="$classDataFlash__MAVLink.html#a250d61a602a4792e744532d41ea38d34" title="DataFlash_MAVLink::\lpush_log_blocks" alt="" coords="488,71,639,112"/>
+<area shape="rect" id="node6" href="$classDataFlash__Backend.html#af5ccb067107a1ee7289ec208b5bc3bae" title="DataFlash_Backend::\lpush_log_blocks" alt="" coords="489,136,637,177"/>
+<area shape="rect" id="node4" href="$classDataFlash__MAVLink.html#a7ce5650e9a386a430ca3ba71c7f733f2" title="DataFlash_MAVLink::\lListAvailableLogs" alt="" coords="725,5,875,47"/>
+<area shape="rect" id="node5" href="$classDataFlash__MAVLink.html#a62e4eb460ca5b7f9ea2869763518803c" title="DataFlash_MAVLink::\lperiodic_fullrate" alt="" coords="725,71,875,112"/>
+<area shape="rect" id="node7" href="$classDataFlash__Backend.html#a82784dcb330ac456bbd1d3333b7c5769" title="DataFlash_Backend::\lWriteBlockCheckStartupMessages" alt="" coords="687,136,913,177"/>
+<area shape="rect" id="node8" href="$classDataFlash__Block.html#aeb4df7ca0d756fa0f7e6d5e172b35658" title="DataFlash_Block::WritePrioritised\lBlock" alt="" coords="961,103,1180,144"/>
+<area shape="rect" id="node10" href="$classDataFlash__MAVLink.html#a4451409ec8511931125181af1a2cbf00" title="DataFlash_MAVLink::\lWritePrioritisedBlock" alt="" coords="995,168,1146,209"/>
+<area shape="rect" id="node9" href="$classDataFlash__Block.html#aa7f35f8bc82176c68574db0d23c44c97" title="DataFlash_Block::DataFlash\l_Block" alt="" coords="1228,103,1419,144"/>
+<area shape="rect" id="node11" href="$classDataFlash__MAVLink.html#a29ea50e386834a25c9605ac94218b371" title="DataFlash_MAVLink::\llogging_started" alt="" coords="1248,168,1399,209"/>
+</map>

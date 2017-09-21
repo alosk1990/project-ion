@@ -1,0 +1,30 @@
+<map id="AP_Frsky_Telem::calc_velandyaw" name="AP_Frsky_Telem::calc_velandyaw">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a964855631b6a020e36e3913f51d448d7" title="AP_AHRS::get_velocity_NED" alt="" coords="208,5,407,32"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#aea60e986f6cff0d30f76fff2c80c758a" title="AP_Frsky_Telem::prep\l_number" alt="" coords="229,57,385,98"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a2e82ec5ae0f44ff0e9e944e354b17eb3" title="AP_AHRS::get_airspeed" alt="" coords="224,123,391,149"/>
+<area shape="rect" id="node5" href="$classAP__Airspeed.html#a4721e9a79d9611e1f693d4850c07edc0" title="AP_Airspeed::enabled" alt="" coords="232,173,383,200"/>
+<area shape="rect" id="node6" href="$classAP__Airspeed.html#a1027b15b91e0af1dbfe8b999a88c8a25" title="AP_Airspeed::get_airspeed" alt="" coords="1196,317,1376,344"/>
+<area shape="rect" id="node7" href="$classAP__AHRS.html#a11efcc2b48256bf736f33ac26063ae16" title="AP_AHRS::groundspeed" alt="" coords="224,275,391,301"/>
+<area shape="rect" id="node8" href="$classAP__AHRS.html#aa2fd48ce0265df723cc8d05bb2150749" title="AP_AHRS::groundspeed\l_vector" alt="" coords="455,445,621,486"/>
+<area shape="rect" id="node27" href="$structVector2.html#ad8ebafde96f43521d3647e2552387529" title="Vector2::length" alt="" coords="483,275,593,301"/>
+<area shape="rect" id="node9" href="$classAP__AHRS.html#a1c783993c43f6d833d67cebea7e82a2c" title="AP_AHRS::airspeed_estimate_true" alt="" coords="669,579,897,605"/>
+<area shape="rect" id="node14" href="$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="Query GPS status. " alt="" coords="1227,680,1345,707"/>
+<area shape="rect" id="node15" href="$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="1204,393,1368,420"/>
+<area shape="rect" id="node24" href="$classAP__AHRS.html#a4cdb54b496f9381a4c629cf0b10c8f8a" title="AP_AHRS::wind_estimate" alt="" coords="695,376,872,403"/>
+<area shape="rect" id="node25" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="751,427,815,453"/>
+<area shape="rect" id="node26" href="$classAP__GPS.html#a94caaa8676fecb6c0c4a8a58eea3b106" title="AP_GPS::ground_course_cd" alt="" coords="689,477,878,504"/>
+<area shape="rect" id="node10" href="$classAP__AHRS.html#a39289d0dde31413ad172fcf2847fce4a" title="AP_AHRS::airspeed_estimate" alt="" coords="945,579,1144,605"/>
+<area shape="rect" id="node16" href="$classAP__AHRS.html#a2648b5fc68b22e83205161cf1274939c" title="AP_AHRS::get_EAS2TAS" alt="" coords="1197,629,1375,656"/>
+<area shape="rect" id="node11" href="$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="1192,513,1380,554"/>
+<area shape="rect" id="node18" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="1233,579,1339,605"/>
+<area shape="rect" id="node12" href="$classAP__Airspeed.html#a6162295b433e3a863c0d4b9086b19014" title="AP_Airspeed::use" alt="" coords="1460,473,1587,500"/>
+<area shape="rect" id="node13" href="$classAP__Airspeed.html#acddaade777fa87d5b8c904c79be01204" title="AP_Airspeed::healthy" alt="" coords="1449,524,1597,551"/>
+<area shape="rect" id="node17" href="$classAP__Airspeed.html#a9bb14f83815ed35b067dd2f4a7c1851f" title="AP_Airspeed::get_EAS2TAS" alt="" coords="1428,629,1619,656"/>
+<area shape="rect" id="node19" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1467,579,1580,605"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1679,503,1829,529"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1671,553,1837,580"/>
+<area shape="rect" id="node22" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1673,604,1835,631"/>
+<area shape="rect" id="node23" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1667,655,1841,681"/>
+<area shape="rect" id="node28" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="758,275,809,301"/>
+<area shape="rect" id="node29" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="1025,275,1064,301"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SRV_Channel::get_trim" name="SRV_Channel::get_trim">
+<area shape="rect" id="node2" href="$classAP__Motors.html#aa6fed710b23884653861bcfddc897211" title="AP_Motors::calc_pwm\l_output_1to1" alt="" coords="214,188,369,229"/>
+<area shape="rect" id="node12" href="$classAP__MotorsTri.html#ac31585c2f58d9cf5ece0f17677d8685c" title="AP_MotorsTri::calc\l_yaw_radio_output" alt="" coords="224,377,359,419"/>
+<area shape="rect" id="node14" href="$classAP__MotorsTri.html#a6c06a1118a44b56de85743435e46a061" title="AP_MotorsTri::output\l_to_motors" alt="" coords="431,436,577,477"/>
+<area shape="rect" id="node15" href="$classAP__ServoRelayEvents.html#abae99d08dbec323313058baebc468f0e" title="AP_ServoRelayEvents\l::update_events" alt="" coords="213,531,369,572"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Dual.html#a79cf1328b1d8a2be75b8a3440e9a5800" title="AP_MotorsHeli_Dual\l::move_actuators" alt="" coords="432,5,576,47"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli__Single.html#a7be196cb13761dc47480224bc1b51115" title="AP_MotorsHeli_Single\l::move_actuators" alt="" coords="673,93,827,135"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli__Single.html#aee95052c1595896c05db5b1617e504d0" title="AP_MotorsHeli_Single\l::move_yaw" alt="" coords="427,123,581,164"/>
+<area shape="rect" id="node6" href="$classAP__MotorsSingle.html#ad11a229a69b96ec2c47855a8a1f6e0f7" title="AP_MotorsSingle::output\l_to_motors" alt="" coords="421,188,587,229"/>
+<area shape="rect" id="node8" href="$classAP__MotorsCoax.html#aae4781ab9f5b147a18f9f6b43e54242c" title="AP_MotorsCoax::output\l_to_motors" alt="" coords="423,253,585,295"/>
+<area shape="rect" id="node10" href="$classAP__Motors.html#a56d032390df0e7934ccf838a0694a2b1" title="AP_Motors::save_params\l_on_disarm" alt="" coords="417,319,591,360"/>
+<area shape="rect" id="node7" href="$classAP__MotorsSingle.html#a93eade83957680ac6f0b01fadc8fbbfa" title="Constructor. " alt="" coords="675,188,825,229"/>
+<area shape="rect" id="node9" href="$classAP__MotorsCoax.html#a9f2013067a9ad3699bad4bd7ec4fba55" title="Constructor. " alt="" coords="639,261,861,287"/>
+<area shape="rect" id="node11" href="$classAP__Motors.html#a1b5528994f61d6cc7c03fc640bbc376c" title="AP_Motors::armed" alt="" coords="685,326,815,353"/>
+<area shape="rect" id="node13" href="$classAP__MotorsTri.html#a282f48b7e788fbbe5ae835a00937cb02" title="Constructor. " alt="" coords="655,414,845,441"/>
+<area shape="rect" id="node16" href="$classAP__ServoRelayEvents.html#a7bc553c3358ab805cc1ff315ca60ff97" title="AP_ServoRelayEvents\l::do_repeat_relay" alt="" coords="426,501,582,543"/>
+<area shape="rect" id="node17" href="$classAP__ServoRelayEvents.html#ad44dd442ccbbff357fcd6c1a37df2d47" title="AP_ServoRelayEvents\l::set_channel_mask" alt="" coords="672,560,828,601"/>
+<area shape="rect" id="node18" href="$classAP__ServoRelayEvents.html#af3cde3623c5f0fa9368aa46eb85f916e" title="AP_ServoRelayEvents\l::do_repeat_servo" alt="" coords="426,619,582,660"/>
+</map>

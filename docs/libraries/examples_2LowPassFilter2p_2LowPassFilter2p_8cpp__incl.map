@@ -1,0 +1,49 @@
+<map id="libraries/Filter/examples/LowPassFilter2p/LowPassFilter2p.cpp" name="libraries/Filter/examples/LowPassFilter2p/LowPassFilter2p.cpp">
+<area shape="rect" id="node2" href="$AP__HAL_8h.html" title="AP_HAL/AP_HAL.h" alt="" coords="1047,468,1185,495"/>
+<area shape="rect" id="node39" href="$Filter_8h.html" title="Filter/Filter.h" alt="" coords="2187,95,2282,121"/>
+<area shape="rect" id="node63" href="$LowPassFilter2p_8h.html" title="A class to implement a second order low pass filter. " alt="" coords="1615,169,1777,196"/>
+<area shape="rect" id="node4" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="1427,991,1589,1017"/>
+<area shape="rect" id="node8" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="446,916,578,943"/>
+<area shape="rect" id="node9" href="$AP__HAL__Macros_8h.html" title="AP_HAL_Macros.h" alt="" coords="647,767,782,793"/>
+<area shape="rect" id="node10" href="$AP__HAL__Main_8h.html" title="AP_HAL_Main.h" alt="" coords="1433,543,1551,569"/>
+<area shape="rect" id="node11" href="$HAL_8h.html" title="HAL.h" alt="" coords="1461,617,1520,644"/>
+<area shape="rect" id="node12" href="$AnalogIn_8h.html" title="AnalogIn.h" alt="" coords="1741,841,1825,868"/>
+<area shape="rect" id="node14" href="$GPIO_8h.html" title="GPIO.h" alt="" coords="1009,767,1076,793"/>
+<area shape="rect" id="node15" href="$RCInput_8h.html" title="RCInput.h" alt="" coords="1845,692,1928,719"/>
+<area shape="rect" id="node16" href="$RCOutput_8h.html" title="RCOutput.h" alt="" coords="1678,692,1770,719"/>
+<area shape="rect" id="node21" href="$Storage_8h.html" title="Storage.h" alt="" coords="1321,767,1399,793"/>
+<area shape="rect" id="node22" href="$UARTDriver_8h.html" title="UARTDriver.h" alt="" coords="1243,692,1349,719"/>
+<area shape="rect" id="node30" href="$BetterStream_8h.html" title="utility/BetterStream.h" alt="" coords="1151,767,1297,793"/>
+<area shape="rect" id="node32" href="$Stream_8h.html" title="Stream.h" alt="" coords="1276,841,1351,868"/>
+<area shape="rect" id="node33" href="$Print_8h.html" title="Print.h" alt="" coords="1258,916,1318,943"/>
+<area shape="rect" id="node34" href="$system_8h.html" title="system.h" alt="" coords="710,692,786,719"/>
+<area shape="rect" id="node35" href="$AP__HAL_2OpticalFlow_8h.html" title="OpticalFlow.h" alt="" coords="1065,692,1167,719"/>
+<area shape="rect" id="node36" href="$Scheduler_8h.html" title="Scheduler.h" alt="" coords="481,767,572,793"/>
+<area shape="rect" id="node37" href="$Semaphores_8h.html" title="Semaphores.h" alt="" coords="1872,543,1979,569"/>
+<area shape="rect" id="node38" href="$Util_8h.html" title="Util.h" alt="" coords="1576,767,1629,793"/>
+<area shape="rect" id="node6" href="$functor_8h.html" title="utility/functor.h" alt="" coords="1454,1065,1562,1092"/>
+<area shape="rect" id="node17" href="$SPIDevice_8h.html" title="SPIDevice.h" alt="" coords="2019,841,2115,868"/>
+<area shape="rect" id="node18" href="$Device_8h.html" title="Device.h" alt="" coords="2129,916,2204,943"/>
+<area shape="rect" id="node19" href="$OwnPtr_8h.html" title="utility/OwnPtr.h" alt="" coords="1993,916,2105,943"/>
+<area shape="rect" id="node23" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries. " alt="" coords="245,841,438,868"/>
+<area shape="rect" id="node25" href="$replace_8h.html" title="AP_HAL_QURT/replace.h" alt="" coords="94,916,269,943"/>
+<area shape="rect" id="node40" href="$FilterClass_8h.html" title="A pure virtual interface class. " alt="" coords="2329,319,2425,345"/>
+<area shape="rect" id="node41" href="$AverageFilter_8h.html" title="A class to provide the average of a number of samples. " alt="" coords="2226,169,2337,196"/>
+<area shape="rect" id="node42" href="$FilterWithBuffer_8h.html" title="A filter with a buffer. This is implemented separately to the base Filter class to get around restric..." alt="" coords="2315,244,2439,271"/>
+<area shape="rect" id="node43" href="$DerivativeFilter_8h.html" title="DerivativeFilter.h" alt="" coords="2413,169,2534,196"/>
+<area shape="rect" id="node44" href="$LowPassFilter_8h.html" title="A class to implement a low pass filter without losing precision even for int types the downside being..." alt="" coords="2034,169,2150,196"/>
+<area shape="rect" id="node61" href="$ModeFilter_8h.html" title="A class to apply a mode filter which is basically picking the median value from the last x samples th..." alt="" coords="2558,169,2653,196"/>
+<area shape="rect" id="node62" href="$Butter_8h.html" title="Butter.h" alt="" coords="713,244,781,271"/>
+<area shape="rect" id="node45" href="$AP__Math_8h.html" title="AP_Math/AP_Math.h" alt="" coords="1623,244,1769,271"/>
+<area shape="rect" id="node48" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system. " alt="" coords="1037,319,1200,345"/>
+<area shape="rect" id="node52" href="$definitions_8h.html" title="definitions.h" alt="" coords="1719,393,1811,420"/>
+<area shape="rect" id="node53" href="$edc_8h.html" title="edc.h" alt="" coords="2371,617,2426,644"/>
+<area shape="rect" id="node54" href="$location_8h.html" title="location.h" alt="" coords="1377,319,1455,345"/>
+<area shape="rect" id="node55" href="$vector2_8h.html" title="vector2.h" alt="" coords="1887,393,1963,420"/>
+<area shape="rect" id="node56" href="$vector3_8h.html" title="vector3.h" alt="" coords="1567,393,1643,420"/>
+<area shape="rect" id="node57" href="$rotations_8h.html" title="rotations.h" alt="" coords="1604,468,1687,495"/>
+<area shape="rect" id="node58" href="$matrix3_8h.html" title="matrix3.h" alt="" coords="1479,319,1555,345"/>
+<area shape="rect" id="node59" href="$polygon_8h.html" title="polygon.h" alt="" coords="1918,319,1997,345"/>
+<area shape="rect" id="node60" href="$quaternion_8h.html" title="quaternion.h" alt="" coords="1988,393,2081,420"/>
+<area shape="rect" id="node50" href="$StorageManager_8h.html" title="StorageManager/StorageManager.h" alt="" coords="919,393,1145,420"/>
+</map>

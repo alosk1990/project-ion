@@ -1,0 +1,12 @@
+<map id="AC_Fence::get_enabled_fences" name="AC_Fence::get_enabled_fences">
+<area shape="rect" id="node2" href="$classAC__Avoid.html#ab17bec0b2b5b58be5d4686d680a68a6a" title="AC_Avoid::adjust_velocity\l_circle_fence" alt="" coords="227,5,403,47"/>
+<area shape="rect" id="node8" href="$classAC__Avoid.html#ac02a966259c9abb5ca2e5e4ee8e72d91" title="AC_Avoid::adjust_velocity\l_polygon_fence" alt="" coords="227,71,403,112"/>
+<area shape="rect" id="node9" href="$classAC__Avoid.html#a951c0fa76621cd6ab06d0aa8138392dd" title="AC_Avoid::adjust_velocity_z" alt="" coords="219,137,410,163"/>
+<area shape="rect" id="node10" href="$classAC__Fence.html#a1ddf2b4968acee81332875003c5ff64d" title="AC_Fence::check_destination\l_within_fence" alt="" coords="216,188,413,229"/>
+<area shape="rect" id="node11" href="$classAC__Fence.html#acdc600f19a3e4eb6de655c26f52e0968" title="enabled &#45; returns true if fence is enabled " alt="" coords="481,225,618,251"/>
+<area shape="rect" id="node3" href="$classAC__Avoid.html#abee541d127ce0da1fe6be54f987a0779" title="AC_Avoid::adjust_velocity" alt="" coords="461,46,637,73"/>
+<area shape="rect" id="node4" href="$classAC__Avoid.html#a95e227fdefd6f8c85b4d4888cad8993f" title="AC_Avoid::adjust_velocity" alt="" coords="685,17,861,43"/>
+<area shape="rect" id="node5" href="$classAC__WPNav.html#a3dbf7bda89b127cdc81bca29e2af25de" title="AC_WPNav::calc_loiter\l_desired_velocity" alt="" coords="693,68,854,109"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="909,75,1085,102"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#ae34a88192799de8f2b96c8cd295bb971" title="get_loiter_target &#45; returns loiter target position " alt="" coords="1133,68,1288,109"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Copter::verify_payload_place" name="Copter::verify_payload_place">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="AP_HAL::millis" alt="" coords="259,48,369,75"/>
+<area shape="rect" id="node3" href="$classCopter.html#ade04c0f3d989c3b0089dc3e733ed5dfd" title="Copter::gcs_send_text_fmt" alt="" coords="224,99,404,125"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#adbec07431487eb68aa5bd5d0f8a0c9cd" title="AC_WPNav::reached_wp\l_destination" alt="" coords="228,150,400,191"/>
+<area shape="rect" id="node9" href="$classCopter.html#ae36581d55895dc0ef38f0c314783d916" title="Copter::auto_payload\l_place_start" alt="" coords="241,215,387,257"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a1f1fb37b868a5651ac2699cd26662ed0" title="AC_WPNav::get_wp_destination" alt="" coords="207,281,421,308"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ae38f7e9a5a386e838368e5e2b59ff3d9" title="AP_InertialNav_NavEKF\l::get_altitude" alt="" coords="231,333,397,374"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="282,399,346,425"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ab0ed9ccbf6fad1a2cdae8a30a582c5ee" title="AP_InertialNav_NavEKF\l::get_position" alt="" coords="231,450,397,491"/>
+<area shape="rect" id="node15" href="$classCopter.html#a1b6c72a4b81e73cfc46014355308754a" title="Copter::auto_wp_start" alt="" coords="239,516,389,543"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#ac57ef0a9815cd597ad5cab5d6c31c6c8" title="AP_HAL::Util::vsnprintf" alt="" coords="497,5,656,32"/>
+<area shape="rect" id="node5" href="$classCopter.html#a503a0d6127a35aba92d850dca874991e" title="Copter::gcs" alt="" coords="531,56,622,83"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classGCS.html#a313e604179053ea42415b1c9289f13cd" title="GCS::send_statustext" alt="" coords="501,107,653,133"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Notify.html#a0f38b9b4be211e200675dd048c81f500" title="AP_Notify::send_text" alt="" coords="503,157,650,184"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a2b0f45cd553e217e5ee44dfef68a674c" title="AC_WPNav::get_loiter\l_stopping_point_xy" alt="" coords="499,215,654,257"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a7e131ba7b7deffa86cbf343c495bdf4e" title="AC_WPNav::set_wp_destination" alt="" coords="469,465,684,492"/>
+<area shape="rect" id="node17" href="$classCopter.html#ac13e772c6d71e6d96b659da5c8669e43" title="Copter::set_auto_yaw_mode" alt="" coords="482,516,671,543"/>
+<area shape="rect" id="node18" href="$classCopter.html#a823bae1858289f33ca59765ba6a4e1eb" title="Copter::get_default\l_auto_yaw_mode" alt="" coords="510,567,643,609"/>
+</map>

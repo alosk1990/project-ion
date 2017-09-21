@@ -1,0 +1,12 @@
+<map id="AC_PID::set_integrator" name="AC_PID::set_integrator">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="init_takeoff &#45; initialises target altitude if we are taking off " alt="" coords="222,49,361,91"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl__Heli.html#ae1e17847d017cc4f71e36397df689ddb" title="AC_AttitudeControl\l_Heli::rate_bf_to_motor\l_roll_pitch" alt="" coords="212,114,371,170"/>
+<area shape="rect" id="node10" href="$classAC__PosControl.html#a73ba96e0c072bf80ac6c7be005ca312e" title="relax_alt_hold_controllers &#45; set all desired and targets to measured " alt="" coords="217,193,366,235"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#a9113b44ed876dd2d9a326eb59f3d625a" title="AC_PosControl::get\l_alt_target" alt="" coords="434,49,573,91"/>
+<area shape="rect" id="node4" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller " alt="" coords="667,13,796,39"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#a8542028b741ca81881b9e00d42cc2eea" title="get_desired_alt &#45; get desired altitude (in cm above home) from loiter or wp controller which should b..." alt="" coords="636,63,827,90"/>
+<area shape="rect" id="node5" href="$classAC__Circle.html#a176fe6b798510eb180d35f62d7f6487c" title="get_angle_total &#45; return total angle in radians that vehicle has circled " alt="" coords="875,5,1021,47"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl__Heli.html#a38cb1684d4155d8f1f319d7385d3f2c6" title="AC_AttitudeControl\l_Heli::rate_controller_run" alt="" coords="420,121,587,163"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl__Heli.html#aae3cc5dc6f4db3bdb7d17b9d7f54f371" title="AC_AttitudeControl\l_Heli::get_rate_yaw_pid" alt="" coords="650,121,813,163"/>
+<area shape="rect" id="node11" href="$classAC__PosControl.html#aad49fb4ca95f76231c9645c6cfee937d" title="set_alt_target_to_current_alt &#45; set altitude target to current altitude " alt="" coords="419,193,588,235"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="AP_RangeFinder_Backend::update_status" name="AP_RangeFinder_Backend::update_status">
+<area shape="rect" id="node2" href="$classAP__RangeFinder__Backend.html#a9523288ea1f3eb55fd797f0504ad4ca0" title="AP_RangeFinder_Backend\l::handle_msg" alt="" coords="252,9,431,51"/>
+<area shape="rect" id="node7" href="$classAP__RangeFinder__LightWareI2C.html#af397f083c33ab36aab840d89831b0e7d" title="AP_RangeFinder_LightWare\lI2C::timer" alt="" coords="248,75,435,116"/>
+<area shape="rect" id="node12" href="$classAP__RangeFinder__PulsedLightLRF.html#a14a616968340128e69452cb742254f50" title="AP_RangeFinder_PulsedLight\lLRF::timer" alt="" coords="243,140,439,181"/>
+<area shape="rect" id="node16" href="$classAP__RangeFinder__trone.html#af23adcc387a4122e844d3c9c8e9105db" title="AP_RangeFinder_trone\l::update" alt="" coords="263,205,420,247"/>
+<area shape="rect" id="node17" href="$classAP__RangeFinder__analog.html#ad997f109f592a3c9f875655af6ad6de0" title="AP_RangeFinder_analog\l::update" alt="" coords="258,271,425,312"/>
+<area shape="rect" id="node18" href="$classAP__RangeFinder__LightWareSerial.html#af41994f15178d579a75658acb1de5dca" title="AP_RangeFinder_LightWare\lSerial::update" alt="" coords="248,336,435,377"/>
+<area shape="rect" id="node19" href="$classAP__RangeFinder__MaxsonarSerialLV.html#a054c451a728eb541ffbced36d5a5a2d5" title="AP_RangeFinder_MaxsonarSerial\lLV::update" alt="" coords="232,401,451,443"/>
+<area shape="rect" id="node20" href="$classAP__RangeFinder__uLanding.html#aa63ce5a4d5f9aeb31a9cc1535ecb1951" title="AP_RangeFinder_uLanding\l::update" alt="" coords="251,467,431,508"/>
+<area shape="rect" id="node21" href="$classAP__RangeFinder__MAVLink.html#ad15f18cc0d84f8fc589612217195494f" title="AP_RangeFinder_MAVLink\l::update" alt="" coords="251,532,432,573"/>
+<area shape="rect" id="node22" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a6e990839c7d9bbced27ead7b6f4d3a38" title="AP_RangeFinder_MaxsonarI2\lCXL::update" alt="" coords="243,597,439,639"/>
+<area shape="rect" id="node23" href="$classAP__RangeFinder__PX4__PWM.html#a434a00adf4f58b34de67fb54131cdec0" title="AP_RangeFinder_PX4\l_PWM::update" alt="" coords="265,663,418,704"/>
+<area shape="rect" id="node24" href="$classAP__RangeFinder__LeddarOne.html#aecd5d8b1de8071b550265a52fa202be4" title="AP_RangeFinder_LeddarOne\l::update" alt="" coords="246,728,437,769"/>
+<area shape="rect" id="node3" href="$classRangeFinder.html#ab9d8fbc11a60ed3e9ecefb9f7b84db46" title="RangeFinder::handle_msg" alt="" coords="987,17,1161,43"/>
+<area shape="rect" id="node4" href="$classRangeFinder.html#a95856f52f03d5234d587600faedcbfaf" title="RangeFinder::num_sensors" alt="" coords="1379,19,1561,46"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__RangeFinder.html#a00972bd55509a984f8a71c4cfdb78445" title="AP_Proximity_RangeFinder\l::update" alt="" coords="1609,5,1792,47"/>
+<area shape="rect" id="node6" href="$RFIND__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1673,71,1728,98"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__LightWareI2C.html#a4ecab260116f4b01a5e0853b3830736a" title="AP_RangeFinder_LightWare\lI2C::init" alt="" coords="503,72,690,113"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__LightWareI2C.html#a8244a17a7b5b90e559e999a1cb5dc40a" title="AP_RangeFinder_LightWare\lI2C::detect" alt="" coords="747,68,934,109"/>
+<area shape="rect" id="node10" href="$classRangeFinder.html#a7f7f9dce880eb37d53df67cba39bdda9" title="RangeFinder::detect\l_instance" alt="" coords="1004,68,1144,109"/>
+<area shape="rect" id="node11" href="$classRangeFinder.html#a1c2d6a488e35a856814b5d48ca3d5d9e" title="RangeFinder::init" alt="" coords="1209,71,1331,98"/>
+<area shape="rect" id="node13" href="$classAP__RangeFinder__PulsedLightLRF.html#a1fe58514ce7282108e5aea8800c2451d" title="AP_RangeFinder_PulsedLight\lLRF::init" alt="" coords="499,140,695,181"/>
+<area shape="rect" id="node15" href="$classAP__RangeFinder__PulsedLightLRF.html#a95733e2bb087ab50b224364be04da722" title="AP_RangeFinder_PulsedLight\lLRF::update" alt="" coords="743,199,939,240"/>
+<area shape="rect" id="node14" href="$classAP__RangeFinder__PulsedLightLRF.html#ad87857d39b8c6d2cbc53209498b60f73" title="AP_RangeFinder_PulsedLight\lLRF::detect" alt="" coords="743,133,939,175"/>
+</map>

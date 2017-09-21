@@ -1,0 +1,34 @@
+<map id="AP_GPS::get_hdop" name="AP_GPS::get_hdop">
+<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#ac5edb8c5db113e6b11f836cce49c3b4e" title="AP_Frsky_Telem::calc\l_gps_status" alt="" coords="211,61,366,102"/>
+<area shape="rect" id="node6" href="$classNavEKF2__core.html#af17ad10645eedde6134e5988ed2b80b2" title="NavEKF2_core::calcGpsGood\lToAlign" alt="" coords="189,217,388,258"/>
+<area shape="rect" id="node22" href="$classNavEKF3__core.html#ab712c6228fff3e0413b5bf039755ccaf" title="NavEKF3_core::calcGpsGood\lToAlign" alt="" coords="189,151,388,193"/>
+<area shape="rect" id="node31" href="$classDataFlash__Class.html#a8a9087dec83092f0ea67b6741ff9f32e" title="DataFlash_Class::Log\l_Write_GPS" alt="" coords="703,345,855,386"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a9b833af29753a8113e5db32c27da7427" title="AP_Frsky_Telem::send\l_SPort_Passthrough" alt="" coords="455,47,613,89"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title="AP_Frsky_Telem::tick" alt="" coords="703,13,855,40"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="948,5,1096,32"/>
+<area shape="rect" id="node7" href="$classNavEKF2__core.html#ae325dba2deac733f1de41c5e7ee4f707" title="NavEKF2_core::readGpsData" alt="" coords="436,224,632,251"/>
+<area shape="rect" id="node8" href="$classNavEKF2__core.html#a4a06ae47c3edebdecd2b179a0567f00b" title="NavEKF2_core::Initialise\lFilterBootstrap" alt="" coords="696,214,863,255"/>
+<area shape="rect" id="node19" href="$classNavEKF2__core.html#aff31047fa71772bca7ce574617ede0f6" title="NavEKF2_core::SelectVelPos\lFusion" alt="" coords="680,279,879,321"/>
+<area shape="rect" id="node9" href="$classNavEKF2.html#a9c447b8d84abf2dfc845ddbbbad46a2b" title="NavEKF2::InitialiseFilter" alt="" coords="1165,247,1329,273"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1377,297,1607,324"/>
+<area shape="rect" id="node13" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="1403,247,1581,273"/>
+<area shape="rect" id="node14" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="1403,181,1581,222"/>
+<area shape="rect" id="node15" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="1413,348,1571,375"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1656,235,1845,261"/>
+<area shape="rect" id="node12" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1946,235,1993,261"/>
+<area shape="rect" id="node16" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1675,286,1827,327"/>
+<area shape="rect" id="node18" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1655,352,1847,379"/>
+<area shape="rect" id="node17" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1895,342,2044,383"/>
+<area shape="rect" id="node20" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="927,289,1117,316"/>
+<area shape="rect" id="node21" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="1168,297,1327,324"/>
+<area shape="rect" id="node23" href="$classNavEKF3__core.html#ac8dc281034818e5fc9b2207daa2b7c3a" title="NavEKF3_core::readGpsData" alt="" coords="436,159,632,185"/>
+<area shape="rect" id="node24" href="$classNavEKF3__core.html#aae18ada44b1b7be0d45af03391ef961a" title="NavEKF3_core::Initialise\lFilterBootstrap" alt="" coords="939,173,1105,214"/>
+<area shape="rect" id="node28" href="$classNavEKF3__core.html#a8f4723dabc873f7112948a18b290fb01" title="NavEKF3_core::SelectVelPos\lFusion" alt="" coords="680,75,879,117"/>
+<area shape="rect" id="node25" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="1165,180,1329,207"/>
+<area shape="rect" id="node26" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="1377,79,1607,105"/>
+<area shape="rect" id="node27" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="1413,129,1571,156"/>
+<area shape="rect" id="node29" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title="NavEKF3_core::UpdateFilter" alt="" coords="927,56,1117,83"/>
+<area shape="rect" id="node30" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="1168,79,1327,105"/>
+<area shape="rect" id="node32" href="$classNavEKF2.html#a124df957952b2cb0c04e4318a173f67a" title="NavEKF2::check_log\l_write" alt="" coords="949,341,1095,382"/>
+<area shape="rect" id="node33" href="$classNavEKF3.html#afa5a1b626563d35ad95545e8f056214b" title="NavEKF3::check_log\l_write" alt="" coords="949,107,1095,149"/>
+</map>

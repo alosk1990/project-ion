@@ -1,0 +1,13 @@
+<map id="Copter::auto_loiter_start" name="Copter::auto_loiter_start">
+<area shape="rect" id="node2" href="$classCopter.html#a06cf9a8d680a08e194896f711b1940cf" title="Copter::position_ok" alt="" coords="210,53,345,79"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ab0ed9ccbf6fad1a2cdae8a30a582c5ee" title="AP_InertialNav_NavEKF\l::get_position" alt="" coords="194,104,361,145"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a4054e2d2dc53b9b0c2fd26898781af89" title="AC_PosControl::get\l_stopping_point_xy" alt="" coords="208,169,347,211"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a20ac6348cbb9a1ac803c626c91ec93e5" title="AC_PosControl::get\l_stopping_point_z" alt="" coords="208,235,347,276"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#aa218844a5ba6f88bf67ae4a8f188f962" title="AC_WPNav::set_wp_origin\l_and_destination" alt="" coords="186,300,369,341"/>
+<area shape="rect" id="node12" href="$classCopter.html#ac13e772c6d71e6d96b659da5c8669e43" title="Copter::set_auto_yaw_mode" alt="" coords="183,366,372,393"/>
+<area shape="rect" id="node3" href="$classCopter.html#a09f2741a18ba8ca80ee125411602d366" title="Copter::ekf_position_ok" alt="" coords="432,27,592,54"/>
+<area shape="rect" id="node6" href="$classCopter.html#a48f22a85435e9ab7998e79f5acae9c10" title="Copter::optflow_position_ok" alt="" coords="420,78,604,105"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a7933552ae34a7fd8fdfc1e51a4e2fad6" title="AP_AHRS_NavEKF::have\l_inertial_nav" alt="" coords="652,71,831,112"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ad6004ffb427fd086592cc1c56f5de17a" title="AP_InertialNav_NavEKF\l::get_filter_status" alt="" coords="658,5,825,47"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="669,137,813,163"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="NavEKF2_core::getMagXYZ" name="NavEKF2_core::getMagXYZ">
+<area shape="rect" id="node2" href="$classNavEKF2.html#a9c0a90c87c90740026c7d5020a4fde19" title="NavEKF2::getMagXYZ" alt="" coords="241,67,397,94"/>
+<area shape="rect" id="node3" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="451,67,608,94"/>
+<area shape="rect" id="node4" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="695,5,847,47"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#a27b7fa53666efbe33a5b30ec75d060b4" title="AP_AHRS_NavEKF::get\l_mag_field_correction" alt="" coords="445,123,613,164"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="675,71,867,98"/>
+<area shape="rect" id="node5" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="957,5,1106,47"/>
+<area shape="rect" id="node8" href="$classSoloGimbalEKF.html#a84f878df87ed6057c63306b2c16e8c22" title="SoloGimbalEKF::calcMagHeading\lInnov" alt="" coords="661,123,881,164"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__NavEKF.html#add98225e5350abab51cccd311f5496c3" title="AP_AHRS_NavEKF::get\l_NavEKF3_const" alt="" coords="687,188,855,229"/>
+<area shape="rect" id="node9" href="$classSoloGimbalEKF.html#af7f8f4cca1a21c25d200b9360d669578" title="SoloGimbalEKF::fuseCompass" alt="" coords="929,105,1133,131"/>
+<area shape="rect" id="node11" href="$classSoloGimbalEKF.html#ae3a2e7a2ef3021289c6919ab9613fe14" title="SoloGimbalEKF::alignHeading" alt="" coords="932,155,1131,182"/>
+<area shape="rect" id="node10" href="$classSoloGimbalEKF.html#a3be12acb5c78532662967b12d611800b" title="SoloGimbalEKF::RunEKF" alt="" coords="1181,130,1355,157"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="Copter::auto_spline_run" name="Copter::auto_spline_run">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a33492a0f71a317f64c14332075a6d3ec" title="AC_AttitudeControl\l::input_euler_angle\l_roll_pitch_euler_rate_yaw" alt="" coords="223,5,399,61"/>
+<area shape="rect" id="node3" href="$classCopter.html#ac69fa24956514cd16213b9e12c1a8fdb" title="Copter::get_smoothing_gain" alt="" coords="219,85,404,112"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#afb7047fed5ca67153e98c7369b3b9cd7" title="AC_AttitudeControl\l::set_throttle_out" alt="" coords="244,137,379,178"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a76dacd70bc0485c1046bf0c948bc0156" title="AC_AttitudeControl\l::set_throttle_out_unstabilized" alt="" coords="213,202,409,243"/>
+<area shape="rect" id="node6" href="$classCopter.html#a137b8fa20c894fa03c3412af6457f769" title="Copter::set_throttle\l_takeoff" alt="" coords="244,267,379,309"/>
+<area shape="rect" id="node8" href="$classCopter.html#ad6d7f207c4e3d770203644c916276d15" title="Copter::get_pilot_desired\l_yaw_rate" alt="" coords="228,333,395,374"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channel.html#aeda74820f7954d870c2ee17235ad9577" title="RC_Channel::get_control_in" alt="" coords="218,399,405,425"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="279,449,343,476"/>
+<area shape="rect" id="node11" href="$classCopter.html#ac13e772c6d71e6d96b659da5c8669e43" title="Copter::set_auto_yaw_mode" alt="" coords="217,500,406,527"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="AC_WPNav::update_spline" alt="" coords="220,551,403,577"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#af9c555a3b07ea1420ea28e7333379941" title="AC_PosControl::update\l_z_controller" alt="" coords="231,602,391,643"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#ad4e50cf167d6a170df3a28c208fcff8d" title="AC_WPNav::get_roll" alt="" coords="239,668,383,695"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a1b550d6757dfc517259d9d6c6a130f7a" title="AC_WPNav::get_pitch" alt="" coords="234,719,389,745"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#aadd2cdd6b18aceaea1134d99ef870b18" title="AC_AttitudeControl\l::input_euler_angle\l_roll_pitch_yaw" alt="" coords="244,769,379,825"/>
+<area shape="rect" id="node17" href="$classCopter.html#a3ed8c43e1ec4cec54d1ff115897dba8f" title="Copter::get_auto_heading" alt="" coords="226,849,397,876"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="AC_PosControl::init\l_takeoff" alt="" coords="483,267,622,309"/>
+<area shape="rect" id="node18" href="$classCopter.html#a9a77e2f88cde2d9eb992c12c33c697a8" title="Copter::get_roi_yaw" alt="" coords="483,761,622,788"/>
+<area shape="rect" id="node21" href="$classCopter.html#a904b0da0d37dfc16526c5614878aa092" title="Copter::get_look_ahead_yaw" alt="" coords="457,849,648,876"/>
+<area shape="rect" id="node30" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a53a3a893d06b17ff18802d838fbd6584" title="AC_WPNav::get_yaw" alt="" coords="477,900,628,927"/>
+<area shape="rect" id="node19" href="$classCopter.html#a3255a1a5c6abe1483485e4532b87118a" title="Copter::pv_get_bearing_cd" alt="" coords="696,703,875,729"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ab0ed9ccbf6fad1a2cdae8a30a582c5ee" title="AP_InertialNav_NavEKF\l::get_position" alt="" coords="702,754,869,795"/>
+<area shape="rect" id="node22" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a165213f497e183250e96c0daa4815c34" title="AP_InertialNav_NavEKF\l::get_velocity" alt="" coords="702,871,869,913"/>
+<area shape="rect" id="node23" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="760,937,811,964"/>
+<area shape="rect" id="node24" href="$classCopter.html#a06cf9a8d680a08e194896f711b1940cf" title="Copter::position_ok" alt="" coords="718,820,853,847"/>
+<area shape="rect" id="node25" href="$classCopter.html#a09f2741a18ba8ca80ee125411602d366" title="Copter::ekf_position_ok" alt="" coords="935,795,1095,821"/>
+<area shape="rect" id="node28" href="$classCopter.html#a48f22a85435e9ab7998e79f5acae9c10" title="Copter::optflow_position_ok" alt="" coords="923,845,1107,872"/>
+<area shape="rect" id="node26" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a7933552ae34a7fd8fdfc1e51a4e2fad6" title="AP_AHRS_NavEKF::have\l_inertial_nav" alt="" coords="1155,838,1333,879"/>
+<area shape="rect" id="node27" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ad6004ffb427fd086592cc1c56f5de17a" title="AP_InertialNav_NavEKF\l::get_filter_status" alt="" coords="1161,773,1327,814"/>
+<area shape="rect" id="node29" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="1172,904,1316,931"/>
+</map>

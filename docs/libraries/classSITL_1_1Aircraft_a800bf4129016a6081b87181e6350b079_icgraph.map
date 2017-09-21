@@ -1,0 +1,27 @@
+<map id="SITL::Aircraft::rand_normal" name="SITL::Aircraft::rand_normal">
+<area shape="rect" id="node2" href="$classSITL_1_1Aircraft.html#a883504982388741338171de112e4e05e" title="SITL::Aircraft::add\l_noise" alt="" coords="199,70,329,111"/>
+<area shape="rect" id="node6" href="$classSITL_1_1Frame.html#a87ba820ad586d329b09e18db644114a9" title="SITL::Frame::calculate\l_forces" alt="" coords="187,213,341,254"/>
+<area shape="rect" id="node11" href="$classSITL_1_1Aircraft.html#a061f04e9f5bc75cc1f250a4e7c3d8421" title="SITL::Aircraft::set\l_interface_ports" alt="" coords="201,278,327,319"/>
+<area shape="rect" id="node12" href="$classSITL_1_1ADSB__Vehicle.html#a90fd2d8c93ff7790f347d10bfdbddfd3" title="SITL::ADSB_Vehicle\l::update" alt="" coords="191,382,337,423"/>
+<area shape="rect" id="node22" href="$classSITL_1_1Aircraft.html#ac31615e28dcbd1e2c761386741d1d45e" title="SITL::Aircraft::update_wind" alt="" coords="389,161,571,188"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Plane.html#a23a7248ca498b4b952d1673372689cb0" title="SITL::Plane::calculate\l_forces" alt="" coords="405,45,555,86"/>
+<area shape="rect" id="node4" href="$classSITL_1_1Plane.html#a7852409df29e250b1903384d1446930c" title="SITL::Plane::update" alt="" coords="634,56,773,83"/>
+<area shape="rect" id="node5" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title="SITL::QuadPlane::update" alt="" coords="619,5,788,32"/>
+<area shape="rect" id="node7" href="$classSITL_1_1Frame.html#a326ecc99ce3c71ca671585884cb69b7b" title="SITL::Frame::Frame" alt="" coords="410,220,550,247"/>
+<area shape="rect" id="node8" href="$classSITL_1_1MultiCopter.html#a9694f42e1889713252a5b01312622bed" title="SITL::MultiCopter::\lcalculate_forces" alt="" coords="413,326,547,367"/>
+<area shape="rect" id="node9" href="$classSITL_1_1MultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="SITL::MultiCopter::\lupdate" alt="" coords="637,326,770,367"/>
+<area shape="rect" id="node10" href="$classSITL_1_1MultiCopter.html#a9f90e1aa754f77fc472e461ec526c5a4" title="SITL::MultiCopter::\lcreate" alt="" coords="637,391,770,433"/>
+<area shape="rect" id="node13" href="$classSITL_1_1ADSB.html#a113108f8ba5bd7e384430ffb446b33b6" title="SITL::ADSB::update" alt="" coords="409,428,551,455"/>
+<area shape="rect" id="node14" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="628,457,779,498"/>
+<area shape="rect" id="node15" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="836,457,987,498"/>
+<area shape="rect" id="node16" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="1035,457,1185,498"/>
+<area shape="rect" id="node17" href="$classHALSITL_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="HALSITL::Scheduler\l::delay_microseconds" alt="" coords="1233,457,1383,498"/>
+<area shape="rect" id="node18" href="$classHALSITL_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="HALSITL::Scheduler\l::delay" alt="" coords="1431,486,1573,527"/>
+<area shape="rect" id="node19" href="$classHALSITL_1_1Scheduler.html#a2c3ea70328333081349821921242cb39" title="HALSITL::Scheduler\l::from" alt="" coords="1621,457,1764,498"/>
+<area shape="rect" id="node20" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="1812,457,1963,498"/>
+<area shape="rect" id="node21" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title="HAL_SITL::run" alt="" coords="2011,464,2120,491"/>
+<area shape="rect" id="node23" href="$classSITL_1_1Balloon.html#a34f5716a3c9ba0805d89dc36656ae90c" title="SITL::Balloon::update" alt="" coords="629,107,777,133"/>
+<area shape="rect" id="node24" href="$classSITL_1_1Helicopter.html#a0e8602ead0fe804552ab7ade9a1b171e" title="SITL::Helicopter::update" alt="" coords="621,157,785,184"/>
+<area shape="rect" id="node25" href="$classSITL_1_1SingleCopter.html#a07d0997518b86260a6a80b914733d7b5" title="SITL::SingleCopter\l::update" alt="" coords="637,209,770,250"/>
+<area shape="rect" id="node26" href="$classSITL_1_1Submarine.html#ae172876dbb527df84dfb38c9fa383878" title="SITL::Submarine::update" alt="" coords="620,275,787,301"/>
+</map>

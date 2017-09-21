@@ -1,0 +1,23 @@
+<map id="AC_Circle::set_rate" name="AC_Circle::set_rate">
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title="is_equal" alt="" coords="243,93,314,120"/>
+<area shape="rect" id="node3" href="$classAC__Circle.html#a158b85e4c80f553ccce4250565a3b23f" title="AC_Circle::calc_velocities" alt="" coords="191,144,367,171"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="459,5,509,32"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="461,56,507,83"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#aa29e7079a2637d1820276bd35a76c084" title="AC_PosControl::get\l_speed_xy" alt="" coords="415,107,553,149"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="446,173,522,200"/>
+<area shape="rect" id="node12" href="$classAC__PosControl.html#a00403fdcd2f83a4218f58dd59db4863c" title="AC_PosControl::get\l_accel_xy" alt="" coords="415,250,553,291"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="431,341,537,368"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#aa5cb9421d48def32eb7574adb1b152b0" title="safe_sqrt\&lt; int \&gt;" alt="" coords="613,59,728,85"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#a6952300e3d03222491051d674312b67d" title="safe_sqrt\&lt; short \&gt;" alt="" coords="606,109,735,136"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a40ae6cfccff676d9d2ff57e2e9ca549c" title="safe_sqrt\&lt; float \&gt;" alt="" coords="608,160,733,187"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#acf6795fb73b8b915b53126f71cd2712a" title="safe_sqrt\&lt; double \&gt;" alt="" coords="601,211,740,237"/>
+<area shape="rect" id="node13" href="$classAC__PosControl.html#aeb636a56d87a2495d86e394ff6ac7549" title="AC_PosControl::set\l_speed_xy" alt="" coords="601,262,740,303"/>
+<area shape="rect" id="node14" href="$classAC__PosControl.html#ac4f923c39399266568b9ae9419a0596f" title="AC_PosControl::calc\l_leash_length_xy" alt="" coords="803,237,948,278"/>
+<area shape="rect" id="node15" href="$classAC__PosControl.html#a92e0998be57c8a917a7a7514c542e314" title="calc_leash_length &#45; calculates the horizontal leash length given a maximum speed, acceleration and po..." alt="" coords="1011,207,1156,249"/>
+<area shape="rect" id="node16" href="$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title="AC_P::kP" alt="" coords="1043,273,1124,300"/>
+<area shape="rect" id="node18" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="614,353,727,380"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="800,303,951,329"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="792,353,959,380"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="794,404,957,431"/>
+<area shape="rect" id="node22" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="788,455,963,481"/>
+</map>

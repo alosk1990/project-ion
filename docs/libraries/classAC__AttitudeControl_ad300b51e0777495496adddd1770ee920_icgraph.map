@@ -1,0 +1,17 @@
+<map id="AC_AttitudeControl::get_rate_roll_pid" name="AC_AttitudeControl::get_rate_roll_pid">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a487553ac1448b6ba791d029c9cf18dac" title="AC_AttitudeControl\l::control_monitor_update" alt="" coords="193,8,358,49"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl.html#ab0c18224d65a40e039632291cdbd3fd6" title="AC_AttitudeControl\l::get_angle_yaw_p" alt="" coords="208,139,343,180"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl.html#a81707c8a063a129c3025c87687b06b52" title="AC_AttitudeControl\l::max_rate_step_bf_roll" alt="" coords="196,204,355,245"/>
+<area shape="rect" id="node11" href="$classAC__AttitudeControl.html#a11b25e42766e40c97e90d9dc33164b3e" title="AC_AttitudeControl\l::rate_target_to_motor_roll" alt="" coords="188,73,363,115"/>
+<area shape="rect" id="node12" href="$classAC__AttitudeControl.html#ad5f06ff5ba37d9af1afdb1ab18827a06" title="AC_AttitudeControl\l::relax_attitude_controllers" alt="" coords="188,269,363,311"/>
+<area shape="rect" id="node16" href="$classAC__AttitudeControl.html#af1ad60b3bcec6ab34e77248a6755da4e" title="AC_AttitudeControl\l::reset_rate_controller\l_I_terms" alt="" coords="201,334,349,390"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Sub.html#a448de11eb6f1caa81c9195c8e958ca37" title="AC_AttitudeControl\l_Sub::rate_controller_run" alt="" coords="425,8,592,49"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Multi.html#a5b0f032a592442fb04a83ac254442b4c" title="AC_AttitudeControl\l_Multi::rate_controller_run" alt="" coords="423,73,595,115"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Sub.html#a5d384f89e97c92b0c0d62277b2de982e" title="AC_AttitudeControl\l_Sub::is_throttle_mix_min" alt="" coords="655,5,828,47"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl__Multi.html#a6318b45690210c7514bb5aae5dfd0904" title="AC_AttitudeControl\l_Multi::is_throttle\l_mix_min" alt="" coords="674,70,809,126"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl.html#abd68c885291f6295086d634f69c013b0" title="AC_AttitudeControl\l::rate_bf_yaw_target" alt="" coords="438,139,579,180"/>
+<area shape="rect" id="node10" href="$classAC__AttitudeControl.html#ac1746c80bb8ee8eddb2bcc6c5158fd1c" title="AC_AttitudeControl\l::max_angle_step_bf_roll" alt="" coords="425,204,592,245"/>
+<area shape="rect" id="node13" href="$classAC__AttitudeControl.html#a76dacd70bc0485c1046bf0c948bc0156" title="AC_AttitudeControl\l::set_throttle_out_unstabilized" alt="" coords="411,269,607,311"/>
+<area shape="rect" id="node15" href="$classAC__AttitudeControl.html#a4d838134584cd11d89b7e65848624d58" title="AC_AttitudeControl\l::save_accel_yaw_max" alt="" coords="429,337,588,379"/>
+<area shape="rect" id="node14" href="$classAC__AttitudeControl.html#a4b0e45d449268c319b63534dccebe134" title="AC_AttitudeControl\l::get_bf_feedforward" alt="" coords="671,269,812,311"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="AP_InertialSensor::get_sample_rate" name="AP_InertialSensor::get_sample_rate">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#ad87496184e3c6a775a10b3b5eb069cd9" title="AP_InertialSensor::\lcalibrate_trim" alt="" coords="212,5,347,47"/>
+<area shape="rect" id="node3" href="$classNavEKF2__core.html#af30ae9800184649557fe5854fd7b7fb5" title="NavEKF2_core::setup_core" alt="" coords="188,71,371,98"/>
+<area shape="rect" id="node4" href="$classNavEKF3__core.html#a0b8f47e59f846a862b145edfaa9b7e99" title="NavEKF3_core::setup_core" alt="" coords="188,173,371,199"/>
+<area shape="rect" id="node14" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="421,122,580,149"/>
+<area shape="rect" id="node15" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="421,290,580,317"/>
+<area shape="rect" id="node5" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="419,173,583,199"/>
+<area shape="rect" id="node6" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="631,71,860,98"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="656,173,835,199"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="656,224,835,265"/>
+<area shape="rect" id="node11" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="667,122,824,149"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="909,110,1099,137"/>
+<area shape="rect" id="node8" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1199,110,1246,137"/>
+<area shape="rect" id="node12" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="928,199,1080,240"/>
+<area shape="rect" id="node13" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1148,199,1297,240"/>
+<area shape="rect" id="node16" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="631,290,860,317"/>
+<area shape="rect" id="node17" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="667,341,824,367"/>
+<area shape="rect" id="node18" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="908,341,1100,367"/>
+</map>

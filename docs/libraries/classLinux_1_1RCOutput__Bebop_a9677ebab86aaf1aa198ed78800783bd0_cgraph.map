@@ -1,0 +1,16 @@
+<map id="Linux::RCOutput_Bebop::read_obs_data" name="Linux::RCOutput_Bebop::read_obs_data">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title="AP_HAL::I2CDevice::\lget_semaphore" alt="" coords="232,5,383,47"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="217,71,397,98"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title="AP_HAL::Device::read\l_registers" alt="" coords="230,123,385,164"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="218,189,397,215"/>
+<area shape="rect" id="node7" href="$classLinux_1_1RCOutput__Bebop.html#a0753f720be9a7b4150fd671810784193" title="Linux::RCOutput_Bebop\l::_checksum" alt="" coords="225,240,389,281"/>
+<area shape="rect" id="node8" href="$sparse-endian_8h.html#a4460d76503583c1209bc0e78a5ccaefb" title="be16toh" alt="" coords="273,306,341,333"/>
+<area shape="rect" id="node9" href="$classLinux_1_1RCOutput__Bebop.html#a8608a9d1cbd2c80b1d52b7712bbb777b" title="Linux::RCOutput_Bebop\l::_period_us_to_rpm" alt="" coords="225,357,389,399"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="445,130,620,157"/>
+<area shape="rect" id="node10" href="$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title="constrain_int16" alt="" coords="477,365,588,391"/>
+<area shape="rect" id="node11" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="668,365,781,391"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="841,289,992,315"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="833,339,1000,366"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="835,390,998,417"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="829,441,1004,467"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Copter::get_pilot_desired_angle_rates" name="Copter::get_pilot_desired_angle_rates">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="278,5,329,32"/>
+<area shape="rect" id="node3" href="$classCopter.html#ad6d7f207c4e3d770203644c916276d15" title="Copter::get_pilot_desired\l_yaw_rate" alt="" coords="220,57,387,98"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a4e136782e86e2adaaf7f0f759067dfe1" title="wrap_180_cd" alt="" coords="254,123,353,149"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a40141a958e445f6293a659e856c49f55" title="constrain_int32" alt="" coords="248,173,359,200"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#abce5e85f5f44937815184c17aa2a33b6" title="AC_AttitudeControl\l::euler_rate_to_ang_vel" alt="" coords="225,225,382,266"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#aec35222c9dee5999aaf029484ea356c9" title="AC_AttitudeControl\l::get_att_target_euler_cd" alt="" coords="220,290,387,331"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="250,356,357,383"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aae50efebd31d79c279e6155298433493" title="AP_AHRS::cos_pitch" alt="" coords="229,407,378,433"/>
+</map>

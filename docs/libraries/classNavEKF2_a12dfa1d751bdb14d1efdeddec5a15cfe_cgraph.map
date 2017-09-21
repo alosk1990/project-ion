@@ -1,0 +1,17 @@
+<map id="NavEKF2::updateLaneSwitchPosResetData" name="NavEKF2::updateLaneSwitchPosResetData">
+<area shape="rect" id="node2" href="$classNavEKF2.html#a65c98a3bd8b65fac20dd322c434d4f81" title="NavEKF2::getLastPosNorth\lEastReset" alt="" coords="248,57,433,98"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a9f9ff585b49f6f6a812d74ca5f1e0eca" title="NavEKF2_core::getPosNE" alt="" coords="251,173,430,200"/>
+<area shape="rect" id="node3" href="$structVector2.html#a6b537328ae913e3e7267b539e7a4af92" title="Vector2::zero" alt="" coords="524,5,624,32"/>
+<area shape="rect" id="node4" href="$classNavEKF2__core.html#aba5d999b9a92ba7c8d5825bda374b1a8" title="NavEKF2_core::getLastPos\lNorthEastReset" alt="" coords="481,57,667,98"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a3316284b2bf12b8db1b4a39539799efc" title="AP_AHRS::get_gps" alt="" coords="505,123,643,149"/>
+<area shape="rect" id="node7" href="$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="Query GPS status. " alt="" coords="515,173,633,200"/>
+<area shape="rect" id="node8" href="$classAP__GPS.html#a2ca8a9bad47faad1baeb09e124979022" title="AP_GPS::location" alt="" coords="510,224,638,251"/>
+<area shape="rect" id="node9" href="$location_8cpp.html#a527b26472ed6f2e0c141e109a0722a0a" title="location_diff" alt="" coords="528,275,620,301"/>
+<area shape="rect" id="node10" href="$location_8cpp.html#ad2368c582f3e0c135e2a74772f4db61a" title="longitude_scale" alt="" coords="715,275,827,301"/>
+<area shape="rect" id="node11" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="875,275,981,301"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1029,275,1143,301"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1203,199,1353,225"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1195,249,1361,276"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1197,300,1359,327"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1191,351,1365,377"/>
+</map>

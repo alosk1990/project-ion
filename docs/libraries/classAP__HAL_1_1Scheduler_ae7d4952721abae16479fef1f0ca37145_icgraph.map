@@ -1,0 +1,16 @@
+<map id="AP_HAL::Scheduler::suspend_timer_procs" name="AP_HAL::Scheduler::suspend_timer_procs">
+<area shape="rect" id="node2" href="$classAnalogIn__ADS1115.html#a4dbe06d5858fbcacea9da4341dd65444" title="AnalogIn_ADS1115::init" alt="" coords="236,5,397,32"/>
+<area shape="rect" id="node3" href="$classPX4_1_1PX4AnalogSource.html#a70fb63a3bf1c7a5613ce9cd78453aadc" title="PX4::PX4AnalogSource\l::read_average" alt="" coords="236,57,397,98"/>
+<area shape="rect" id="node6" href="$classVRBRAIN_1_1VRBRAINAnalogSource.html#a97755c565c9b2cf9016da767d732590e" title="VRBRAIN::VRBRAINAnalogSource\l::read_average" alt="" coords="200,122,433,163"/>
+<area shape="rect" id="node9" href="$classAnalogSource__IIO.html#a99e4878021dcfe65223db6416e0c8087" title="AnalogSource_IIO::read\l_average" alt="" coords="236,187,397,229"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#a7b76a3578fca13230ebf3e8f51306ef6" title="AP_HAL::Scheduler::\lregister_timer_process" alt="" coords="239,253,394,294"/>
+<area shape="rect" id="node13" href="$classPX4_1_1PX4AnalogSource.html#a9664889e0a5f407152d44da27471e8b0" title="PX4::PX4AnalogSource\l::set_pin" alt="" coords="236,318,397,359"/>
+<area shape="rect" id="node14" href="$classVRBRAIN_1_1VRBRAINAnalogSource.html#a2050a1c3972344da090578be53140076" title="VRBRAIN::VRBRAINAnalogSource\l::set_pin" alt="" coords="200,383,433,425"/>
+<area shape="rect" id="node15" href="$classAnalogSource__IIO.html#a318541caaaae9fd9a4fb916a39064395" title="AnalogSource_IIO::set_pin" alt="" coords="227,449,406,476"/>
+<area shape="rect" id="node4" href="$classPX4_1_1PX4AnalogSource.html#a254619275d9239396e49c858414a7c25" title="PX4::PX4AnalogSource\l::voltage_average" alt="" coords="517,57,679,98"/>
+<area shape="rect" id="node5" href="$classPX4_1_1PX4AnalogSource.html#a4a045494b02f13d840c7e8830f6d4e9e" title="PX4::PX4AnalogSource\l::voltage_average_ratiometric" alt="" coords="783,57,976,98"/>
+<area shape="rect" id="node7" href="$classVRBRAIN_1_1VRBRAINAnalogSource.html#adebcdf5de43a73f3ebdd8f1a6f2e9b5b" title="VRBRAIN::VRBRAINAnalogSource\l::voltage_average" alt="" coords="481,122,715,163"/>
+<area shape="rect" id="node8" href="$classVRBRAIN_1_1VRBRAINAnalogSource.html#a8a4e25afd0b30c9810b1a505a402c8f0" title="VRBRAIN::VRBRAINAnalogSource\l::voltage_average_ratiometric" alt="" coords="763,122,996,163"/>
+<area shape="rect" id="node10" href="$classAnalogSource__IIO.html#a93c21dea3c2b90c0d53d37b0a2d61ed3" title="AnalogSource_IIO::voltage\l_average" alt="" coords="509,187,687,229"/>
+<area shape="rect" id="node11" href="$classAnalogSource__IIO.html#a9dcf2c3943c42ab9d990819fd57b4370" title="AnalogSource_IIO::voltage\l_average_ratiometric" alt="" coords="790,187,969,229"/>
+</map>

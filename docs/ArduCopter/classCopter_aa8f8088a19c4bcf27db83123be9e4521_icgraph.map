@@ -1,0 +1,18 @@
+<map id="Copter::pv_alt_above_origin" name="Copter::pv_alt_above_origin">
+<area shape="rect" id="node2" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="1245,327,1400,353"/>
+<area shape="rect" id="node4" href="$classCopter.html#a386447c928be1efba668cc4e676cba77" title="Copter::pv_location\l_to_vector" alt="" coords="200,343,335,385"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="1448,319,1611,361"/>
+<area shape="rect" id="node5" href="$classCopter.html#ae95165923efdf079021b9f9d6ecc1df7" title="Copter::verify_circle" alt="" coords="624,428,763,455"/>
+<area shape="rect" id="node9" href="$classCopter.html#a43d789ad6bd2ca59692a0ae00897cde9" title="Copter::set_auto_yaw_roi" alt="" coords="391,537,562,564"/>
+<area shape="rect" id="node12" href="$classCopter.html#aefcace28f5e2b55dc1070fce586efcfb" title="Copter::calc_home_distance\l_and_bearing" alt="" coords="383,189,571,230"/>
+<area shape="rect" id="node17" href="$classCopter.html#a25ed4c81030923e06809bda997cf1a03" title="Copter::pv_distance\l_to_home_cm" alt="" coords="624,311,763,353"/>
+<area shape="rect" id="node6" href="$classCopter.html#ad32dd631377eed4a7746ae5126cbc2fe" title="Copter::verify_command" alt="" coords="816,479,981,505"/>
+<area shape="rect" id="node7" href="$classCopter.html#a6e494599e972209bba151d7540ebe4c6" title="Copter::verify_command\l_callback" alt="" coords="1031,530,1196,571"/>
+<area shape="rect" id="node8" href="$classCopter.html#a42d6cd95e346fa67559b307fd3d85b82" title="Copter::Copter" alt="" coords="1269,592,1377,619"/>
+<area shape="rect" id="node10" href="$classCopter.html#a0d5d638bf54605eac814c872569a4592" title="Copter::do_roi" alt="" coords="847,596,951,623"/>
+<area shape="rect" id="node11" href="$classCopter.html#a2cf235a443c7340387c4f767b4edba1d" title="Copter::start_command" alt="" coords="1034,647,1193,673"/>
+<area shape="rect" id="node13" href="$classCopter.html#aeb2000c7b535bf3bf01c559e1c009844" title="Copter::calc_distance\l_and_bearing" alt="" coords="619,189,768,230"/>
+<area shape="rect" id="node14" href="$classCopter.html#a72a557f0cc50a672db8223f628363b21" title="Copter::init_arm_motors" alt="" coords="817,196,980,223"/>
+<area shape="rect" id="node16" href="$classCopter.html#a8ecff7ec6118d3d783f927551879b7e9" title="Copter::run_nav_updates" alt="" coords="1029,108,1197,135"/>
+<area shape="rect" id="node15" href="$classCopter.html#aeda76eb57229df64b95b257218007640" title="Copter::arm_motors\l_check" alt="" coords="1044,159,1183,201"/>
+</map>

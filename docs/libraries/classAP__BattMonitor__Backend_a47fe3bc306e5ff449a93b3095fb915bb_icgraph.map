@@ -1,0 +1,17 @@
+<map id="AP_BattMonitor_Backend::capacity_remaining_pct" name="AP_BattMonitor_Backend::capacity_remaining_pct">
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#af18badc88524b2cf400fb43418daa8c9" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100) " alt="" coords="226,57,397,98"/>
+<area shape="rect" id="node7" href="$classAP__BattMonitor__Backend.html#a333708b23c3532575284833ca4e4f058" title="AP_BattMonitor_Backend\l::init" alt="" coords="225,122,397,163"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a81d20064aeec737cd687d9b9da73fe09" title="AP_Frsky_Telem::send_D" alt="" coords="445,5,621,32"/>
+<area shape="rect" id="node6" href="$classAP__Frsky__Telem.html#a1d2ecbdaac867d8265d72d1471a37c2f" title="AP_Frsky_Telem::send\l_SPort" alt="" coords="454,57,613,98"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title="AP_Frsky_Telem::tick" alt="" coords="669,5,821,32"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="899,5,1047,32"/>
+<area shape="rect" id="node8" href="$classAP__BattMonitor.html#ac1a8593b0b20f9316f22084947bae7fe" title="AP_BattMonitor::init" alt="" coords="464,129,603,156"/>
+<area shape="rect" id="node9" href="$classAP__BattMonitor.html#a72b1cb4d4ca246859bd8bf5a11df9c1d" title="AP_BattMonitor::num\l_instances" alt="" coords="672,122,819,163"/>
+<area shape="rect" id="node16" href="$AP__BattMonitor__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="718,188,773,215"/>
+<area shape="rect" id="node10" href="$classAP__Arming.html#a03bd378dc54cf6f8624cac6c2e59aa79" title="AP_Arming::battery\l_checks" alt="" coords="905,57,1041,98"/>
+<area shape="rect" id="node13" href="$classDataFlash__Class.html#a6bc40fe7e7fd0b068700d5b89d85a920" title="DataFlash_Class::Log\l_Write_Current" alt="" coords="897,122,1049,163"/>
+<area shape="rect" id="node15" href="$classGCS__MAVLINK.html#ae2890f1cb94266ce3c1626144478a8b5" title="GCS_MAVLINK::send_battery2" alt="" coords="869,188,1076,215"/>
+<area shape="rect" id="node11" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="1127,57,1270,98"/>
+<area shape="rect" id="node12" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="1321,64,1440,91"/>
+<area shape="rect" id="node14" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1124,122,1273,163"/>
+</map>

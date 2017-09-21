@@ -1,0 +1,13 @@
+<map id="AP_GPS::send_mavlink_gps2_raw" name="AP_GPS::send_mavlink_gps2_raw">
+<area shape="rect" id="node2" href="$classAP__GPS.html#ae306f6cf545ee9f1f61cc38301ef76ca" title="AP_GPS::status" alt="" coords="248,13,367,39"/>
+<area shape="rect" id="node5" href="$classAP__GPS.html#a99be30769d9ebba8b0184a5635012198" title="AP_GPS::last_message\l_time_ms" alt="" coords="225,64,389,105"/>
+<area shape="rect" id="node6" href="$classAP__GPS.html#a98307dafca6849d38b983258a0ab361c" title="AP_GPS::location" alt="" coords="243,130,371,157"/>
+<area shape="rect" id="node7" href="$classAP__GPS.html#ad9057eb7d0fa2a0fcf39fee4d2d1036b" title="AP_GPS::last_fix_time_ms" alt="" coords="216,181,399,207"/>
+<area shape="rect" id="node8" href="$classAP__GPS.html#a4e2f4adf4afb5c25bcf8cea537ec1221" title="AP_GPS::get_hdop" alt="" coords="239,231,375,258"/>
+<area shape="rect" id="node9" href="$classAP__GPS.html#aff725a10762e8edc0871c522c0f7cfac" title="AP_GPS::get_vdop" alt="" coords="239,282,375,309"/>
+<area shape="rect" id="node10" href="$classAP__GPS.html#a7424d6be88b259250ee31e9897f98f36" title="AP_GPS::ground_speed" alt="" coords="225,333,389,359"/>
+<area shape="rect" id="node11" href="$classAP__GPS.html#a82e1a85bea008e3d97588a185659c336" title="AP_GPS::ground_course" alt="" coords="223,383,391,410"/>
+<area shape="rect" id="node12" href="$classAP__GPS.html#afcc2442ab71102ddabde55e6fb58bf0a" title="AP_GPS::num_sats" alt="" coords="237,434,377,461"/>
+<area shape="rect" id="node3" href="$classAP__GPS.html#a28239e96e836d57525366b6529b76a51" title="AP_GPS::highest_supported\l_status" alt="" coords="447,5,636,47"/>
+<area shape="rect" id="node4" href="$classAP__GPS__Backend.html#a8c5b16c4ac289e283effa184eb9df9c8" title="AP_GPS_Backend::highest\l_supported_status" alt="" coords="684,5,867,47"/>
+</map>

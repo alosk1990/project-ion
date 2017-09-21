@@ -1,0 +1,44 @@
+<map id="Linux::RCOutput_Bebop::init" name="Linux::RCOutput_Bebop::init">
+<area shape="rect" id="node2" href="$classLinux_1_1RCOutput__Bebop.html#a268f09061922bcc792a67fabf70617bc" title="Linux::RCOutput_Bebop\l::_control_thread" alt="" coords="217,424,381,465"/>
+<area shape="rect" id="node33" href="$classLinux_1_1RCOutput__Bebop.html#ab68f6278b7a4a894cbd3f6a4c8435adb" title="Linux::RCOutput_Bebop\l::_clear_error" alt="" coords="641,271,805,312"/>
+<area shape="rect" id="node38" href="$classLinux_1_1RCOutput__Bebop.html#a434f7677359b941d2f3cd00f0c4884cc" title="Linux::RCOutput_Bebop\l::_toggle_gpio" alt="" coords="641,140,805,181"/>
+<area shape="rect" id="node3" href="$classLinux_1_1RCOutput__Bebop.html#a1baaeabaade1ea15e4c770c9277821cc" title="Linux::RCOutput_Bebop\l::_run_rcout" alt="" coords="429,487,593,528"/>
+<area shape="rect" id="node4" href="$classLinux_1_1RCOutput__Bebop.html#aa2ea705fca68e17bde411377af8a2c30" title="Linux::RCOutput_Bebop\l::_get_info" alt="" coords="641,205,805,247"/>
+<area shape="rect" id="node10" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="667,650,779,677"/>
+<area shape="rect" id="node19" href="$classLinux_1_1Util.html#addd6070e02a90ee0a7063f0c3db4fecc" title="Linux::Util::from" alt="" coords="666,701,781,727"/>
+<area shape="rect" id="node21" href="$classLinux_1_1Util.html#a7be36bbc123b07ab7c5b5e583773f39a" title="Linux::Util::get_hw\l_arm32" alt="" coords="658,752,789,793"/>
+<area shape="rect" id="node22" href="$sparse-endian_8h.html#a4460d76503583c1209bc0e78a5ccaefb" title="be16toh" alt="" coords="689,818,757,845"/>
+<area shape="rect" id="node23" href="$sparse-endian_8h.html#ac9479471ad041b1c2674a58bf7660c6c" title="be32toh" alt="" coords="689,337,757,363"/>
+<area shape="rect" id="node24" href="$classLinux_1_1RCOutput__Bebop.html#a8608a9d1cbd2c80b1d52b7712bbb777b" title="Linux::RCOutput_Bebop\l::_period_us_to_rpm" alt="" coords="641,584,805,625"/>
+<area shape="rect" id="node31" href="$classLinux_1_1RCOutput__Bebop.html#acf39e1069dc57bdadd83b83d9e0d6176" title="Linux::RCOutput_Bebop\l::_stop_prop" alt="" coords="641,388,805,429"/>
+<area shape="rect" id="node34" href="$classLinux_1_1RCOutput__Bebop.html#ae64a4603212a9a18737f3fa2f7832a0d" title="Linux::RCOutput_Bebop\l::_start_prop" alt="" coords="641,453,805,495"/>
+<area shape="rect" id="node35" href="$classLinux_1_1RCOutput__Bebop.html#a05c9035307cc4e1ae1b136469ca7c007" title="Linux::RCOutput_Bebop\l::_set_ref_speed" alt="" coords="641,519,805,560"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title="AP_HAL::I2CDevice::\lget_semaphore" alt="" coords="873,253,1024,295"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="859,319,1039,346"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title="AP_HAL::Device::read\l_registers" alt="" coords="1317,187,1471,228"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="859,370,1038,397"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="1529,223,1704,250"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="853,721,1044,747"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="875,655,1022,696"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="1094,909,1257,951"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="1094,596,1257,637"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="1094,662,1257,689"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="1097,713,1253,755"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="1097,779,1253,820"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="1092,844,1259,885"/>
+<area shape="rect" id="node20" href="$classLinux_1_1Util.html#ae03dc062803bf3bcda9cbd77e781c7d4" title="Linux::Util::init" alt="" coords="895,771,1002,798"/>
+<area shape="rect" id="node25" href="$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title="constrain_int16" alt="" coords="893,603,1004,630"/>
+<area shape="rect" id="node26" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1119,545,1232,571"/>
+<area shape="rect" id="node27" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1319,621,1469,647"/>
+<area shape="rect" id="node28" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1311,469,1477,495"/>
+<area shape="rect" id="node29" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1313,519,1475,546"/>
+<area shape="rect" id="node30" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1307,570,1481,597"/>
+<area shape="rect" id="node32" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title="AP_HAL::I2CDevice::\ltransfer" alt="" coords="873,421,1024,463"/>
+<area shape="rect" id="node36" href="$sparse-endian_8h.html#afeadfffc79afb9d2c017f0921b187204" title="htobe16" alt="" coords="915,553,983,579"/>
+<area shape="rect" id="node37" href="$classLinux_1_1RCOutput__Bebop.html#a0753f720be9a7b4150fd671810784193" title="Linux::RCOutput_Bebop\l::_checksum" alt="" coords="867,487,1031,528"/>
+<area shape="rect" id="node39" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title="AP_HAL::Device::write\l_register" alt="" coords="869,111,1028,152"/>
+<area shape="rect" id="node40" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title="AP_HAL::Device::set\l_checked_register" alt="" coords="1101,5,1249,47"/>
+<area shape="rect" id="node42" href="$classAP__HAL_1_1Device.html#a4bad879386bd93b7f2340bff1437d041" title="AP_HAL::Device::setup\l_checked_registers" alt="" coords="1094,136,1257,177"/>
+<area shape="rect" id="node43" href="$classAP__HAL_1_1Device.html#a81202d89062b62f93bf8d13fa30a86d0" title="AP_HAL::Device::check\l_next_register" alt="" coords="1093,71,1258,112"/>
+<area shape="rect" id="node41" href="$classAP__HAL_1_1Device.html#a682fd556614308cb02773e94ec8e4b26" title="AP_HAL::Device::get\l_bus_id" alt="" coords="1320,39,1468,80"/>
+</map>

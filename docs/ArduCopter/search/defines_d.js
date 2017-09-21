@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['rangefinder_5fenabled',['RANGEFINDER_ENABLED',['../config_8h.html#ad78cbe5b74d0ba8ff4715fd3742b5fcc',1,'config.h']]],
+  ['rangefinder_5fgain_5fdefault',['RANGEFINDER_GAIN_DEFAULT',['../config_8h.html#a4f1fd55edb38ccc70b0285a82371a056',1,'config.h']]],
+  ['rangefinder_5fglitch_5falt_5fcm',['RANGEFINDER_GLITCH_ALT_CM',['../config_8h.html#a739da6254eb591d69d4a07e0e22a75aa',1,'config.h']]],
+  ['rangefinder_5fglitch_5fnum_5fsamples',['RANGEFINDER_GLITCH_NUM_SAMPLES',['../config_8h.html#a55914a1d8ffaab0013340980258d74b1',1,'config.h']]],
+  ['rangefinder_5fhealth_5fmax',['RANGEFINDER_HEALTH_MAX',['../config_8h.html#a200f05bed3859b2011b428415b4fbcdb',1,'config.h']]],
+  ['rangefinder_5ftilt_5fcorrection',['RANGEFINDER_TILT_CORRECTION',['../config_8h.html#a787c194c83af4416d5ab6177beeed7ec',1,'config.h']]],
+  ['rangefinder_5ftimeout_5fms',['RANGEFINDER_TIMEOUT_MS',['../config_8h.html#aa3c311646985c625125e369424e31607',1,'config.h']]],
+  ['rangefinder_5fwpnav_5ffilt_5fhz',['RANGEFINDER_WPNAV_FILT_HZ',['../config_8h.html#ab2a9b7d83d630e16f32e57686a1cf61f',1,'config.h']]],
+  ['rc_5ffast_5fspeed',['RC_FAST_SPEED',['../config_8h.html#af3fb4aaab27d576be49566986989ded4',1,'config.h']]],
+  ['rc_5ffeel_5frp_5fcrisp',['RC_FEEL_RP_CRISP',['../defines_8h.html#a9b63f6c009ddca6b09fd4bfb94aa0d1d',1,'defines.h']]],
+  ['rc_5ffeel_5frp_5fmedium',['RC_FEEL_RP_MEDIUM',['../defines_8h.html#ac5fb2e21d5120adb406313e8903498e6',1,'defines.h']]],
+  ['rc_5ffeel_5frp_5fsoft',['RC_FEEL_RP_SOFT',['../defines_8h.html#a214e67bf9f9790849a38ee66e1cc18ca',1,'defines.h']]],
+  ['rc_5ffeel_5frp_5fvery_5fcrisp',['RC_FEEL_RP_VERY_CRISP',['../defines_8h.html#ac032a34ea938a1687df5a4d86059f7f4',1,'defines.h']]],
+  ['rc_5ffeel_5frp_5fvery_5fsoft',['RC_FEEL_RP_VERY_SOFT',['../defines_8h.html#a7995140259a38fc3ffdef8d8124bd2f7',1,'defines.h']]],
+  ['read_5faux_5fswitch',['read_aux_switch',['../switches_8cpp.html#a55757a0a073abe1da6fe3bd7503dfdde',1,'switches.cpp']]],
+  ['roll_5fpitch_5fyaw_5finput_5fmax',['ROLL_PITCH_YAW_INPUT_MAX',['../config_8h.html#a8ca428281c3e62d64461b76f5b6fe870',1,'config.h']]],
+  ['rtl_5fabs_5fmin_5fclimb',['RTL_ABS_MIN_CLIMB',['../config_8h.html#ab55a8604b3c15be24932e36030d8aa42',1,'config.h']]],
+  ['rtl_5falt',['RTL_ALT',['../config_8h.html#a7e82dc60fc412d0fd36f52c3c4f4e332',1,'config.h']]],
+  ['rtl_5falt_5ffinal',['RTL_ALT_FINAL',['../config_8h.html#a31ee7796b813a2686895a93e7e369f49',1,'config.h']]],
+  ['rtl_5falt_5fmin',['RTL_ALT_MIN',['../config_8h.html#a0e22c43053139f0d2d4ae9fe3d8b58e1',1,'config.h']]],
+  ['rtl_5fclimb_5fmin_5fdefault',['RTL_CLIMB_MIN_DEFAULT',['../config_8h.html#ab0ba738d15e9724a9d80be5410c8fd17',1,'config.h']]],
+  ['rtl_5fcone_5fslope_5fdefault',['RTL_CONE_SLOPE_DEFAULT',['../config_8h.html#a9942bdf6258ee6aa84ccf7cdccc863b8',1,'config.h']]],
+  ['rtl_5floiter_5ftime',['RTL_LOITER_TIME',['../config_8h.html#a7d47e8551144b790aac6de3b6f340137',1,'config.h']]],
+  ['rtl_5fmin_5fcone_5fslope',['RTL_MIN_CONE_SLOPE',['../config_8h.html#a2e23cc3e4ad44b695e78aa24f956eb4e',1,'config.h']]]
+];

@@ -1,0 +1,15 @@
+<map id="RC_Channels::rc_channel" name="RC_Channels::rc_channel">
+<area shape="rect" id="node2" href="$classAP__Tuning.html#a26bf8c5e3711e547ce95654ca285fecb" title="AP_Tuning::check_input" alt="" coords="468,22,632,49"/>
+<area shape="rect" id="node3" href="$classAP__Tuning.html#a2c322bf5acb10cb09aee89436abf4e04" title="AP_Tuning::check_selector\l_switch" alt="" coords="228,44,411,85"/>
+<area shape="rect" id="node4" href="$classSRV__Channels.html#a18512c3aefc057740eb9d0c8b6c534cc" title="SRV_Channels::copy\l_radio_in_out" alt="" coords="245,109,393,151"/>
+<area shape="rect" id="node5" href="$classSRV__Channel.html#ac9074968b671d4de259ecd24a27fc8cd" title="map a function to a servo channel and output it " alt="" coords="234,175,405,202"/>
+<area shape="rect" id="node6" href="$classSRV__Channels.html#a051247375f93b5a9426c9b614695a0a0" title="SRV_Channels::set_output\l_limit" alt="" coords="229,227,410,268"/>
+<area shape="rect" id="node13" href="$classSRV__Channels.html#a57f0ecf99ec827bb14a15d597464fab3" title="SRV_Channels::set_trim\l_to_radio_in_for" alt="" coords="236,292,403,333"/>
+<area shape="rect" id="node14" href="$examples_2RC__Channel_2RC__Channel_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="292,358,347,385"/>
+<area shape="rect" id="node7" href="$classAC__Sprayer.html#a59d3a75e4b14db5a1b57d4d66470ad93" title="AC_Sprayer::stop_spraying" alt="" coords="459,175,641,202"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli__Dual.html#a45912c55dd1eb49676cea2096daab6a7" title="AP_MotorsHeli_Dual\l::update_motor_control" alt="" coords="473,227,627,268"/>
+<area shape="rect" id="node12" href="$classAP__MotorsHeli__Single.html#ac19ec15e0d8e3a3142762f6e1e1c0812" title="AP_MotorsHeli_Single\l::update_motor_control" alt="" coords="473,292,627,333"/>
+<area shape="rect" id="node8" href="$classAC__Sprayer.html#a7a1ce1f48972331e59db1cb1edc8a40a" title="run &#45; allow or disallow spraying to occur " alt="" coords="689,150,808,177"/>
+<area shape="rect" id="node9" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity " alt="" coords="856,175,996,202"/>
+<area shape="rect" id="node10" href="$classAC__Sprayer.html#a6655f109faaab8b29fa923f7112887c0" title="To&#45;Do: add function to decode pilot input from channel 6 tuning knob. " alt="" coords="1044,175,1231,202"/>
+</map>

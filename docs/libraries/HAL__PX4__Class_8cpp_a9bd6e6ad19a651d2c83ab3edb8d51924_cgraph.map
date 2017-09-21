@@ -1,0 +1,13 @@
+<map id="main_loop" name="main_loop">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title="AP_HAL::UARTDriver\l::begin" alt="" coords="145,5,298,47"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a4003ad5b2ebcbb767700f0d483216a56" title="AP_HAL::Scheduler::init" alt="" coords="139,71,303,98"/>
+<area shape="rect" id="node4" href="$HAL__PX4__Class_8cpp.html#a010ca86746de255a9ca02a1adcc8988f" title="hal_px4_set_priority" alt="" coords="362,281,501,307"/>
+<area shape="rect" id="node5" href="$classPX4_1_1PX4Scheduler.html#ab1e7673b78d5b50a48628905b7a9609b" title="PX4::PX4Scheduler::\lhal_initialized" alt="" coords="148,123,295,164"/>
+<area shape="rect" id="node8" href="$structAP__HAL_1_1HAL_1_1Callbacks.html#ac17391b6bc7af1125a01f714db4416ea" title="AP_HAL::HAL::Callbacks\l::setup" alt="" coords="135,240,308,281"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#aedeb9c9f5b782f55afeebc8d2f612c8a" title="AP_HAL::Scheduler::\lsystem_initialized" alt="" coords="148,305,295,347"/>
+<area shape="rect" id="node10" href="$HAL__PX4__Class_8cpp.html#a40474356ac2f5b07b6f59d651681b740" title="loop_overtime" alt="" coords="170,371,273,398"/>
+<area shape="rect" id="node11" href="$structAP__HAL_1_1HAL_1_1Callbacks.html#a639c16a1964775a5bf52a2d5a906ceeb" title="AP_HAL::HAL::Callbacks\l::loop" alt="" coords="135,423,308,464"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="148,488,295,529"/>
+<area shape="rect" id="node6" href="$classPX4_1_1PX4Scheduler.html#a1b2304a0f662b9818ada7b6bb39841e1" title="PX4::PX4Scheduler::\lcreate_uavcan_thread" alt="" coords="356,123,507,164"/>
+<area shape="rect" id="node7" href="$classPX4_1_1PX4Scheduler.html#aca642572b64e1d35f4ef09443aeca08b" title="PX4::PX4Scheduler::\l_uavcan_thread" alt="" coords="555,123,701,164"/>
+</map>

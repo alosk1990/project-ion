@@ -1,0 +1,76 @@
+<map id="AC_PosControl::check_for_ekf_z_reset" name="AC_PosControl::check_for_ekf_z_reset">
+<area shape="rect" id="node2" href="$classAP__AHRS__View.html#a26c40a71ff04297ec75f7fbcf0cc89ad" title="AP_AHRS_View::getLastPos\lDownReset" alt="" coords="209,447,404,489"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#add9f8e5a5f3e35c0e99ddc3af4d9090b" title="shift altitude target (positive means move altitude up) " alt="" coords="233,513,380,554"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a943d914cf96c8e823f73249758e39209" title="AP_AHRS::getLastPosDownReset" alt="" coords="452,455,680,481"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="534,563,598,589"/>
+<area shape="rect" id="node75" href="$classAC__PosControl.html#aa979d20c99f08a96d0f482c1dad50f78" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="473,512,659,539"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a3370ada2588e54722319d65e00d8545c" title="safe_asin" alt="" coords="745,107,824,133"/>
+<area shape="rect" id="node11" href="$AP__Math_8h.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="747,309,823,336"/>
+<area shape="rect" id="node16" href="$AP__Math_8h.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="742,360,827,387"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="742,411,827,437"/>
+<area shape="rect" id="node26" href="$AP__Math_8h.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="749,613,821,640"/>
+<area shape="rect" id="node27" href="$AP__Math_8h.html#adfb798dabbcb4c7a82b3a08978bd8738" title="inverse" alt="" coords="753,512,817,539"/>
+<area shape="rect" id="node37" href="$AP__Math_8h.html#aa390ab9ca0ab04bd33b7234cfefa0cba" title="wrap_180" alt="" coords="937,715,1016,741"/>
+<area shape="rect" id="node47" href="$AP__Math_8h.html#a4e136782e86e2adaaf7f0f759067dfe1" title="wrap_180_cd" alt="" coords="735,867,834,893"/>
+<area shape="rect" id="node53" href="$AP__Math_8h.html#a0399a64a07d5928b98db1b5dadc45816" title="wrap_360" alt="" coords="1149,664,1228,691"/>
+<area shape="rect" id="node54" href="$AP__Math_8h.html#a7be6cecc012fbd1984f4c6c19ffd6997" title="wrap_360_cd" alt="" coords="735,1145,834,1172"/>
+<area shape="rect" id="node59" href="$AP__Math_8h.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="749,1449,820,1476"/>
+<area shape="rect" id="node69" href="$AP__Math_8h.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="938,1323,1015,1349"/>
+<area shape="rect" id="node70" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="728,1677,841,1704"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#acde8e5813f30717986b84509948bf530" title="safe_asin\&lt; int \&gt;" alt="" coords="919,157,1035,184"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#a6baeda4985886aba9f6d5d5008ac2b10" title="safe_asin\&lt; short \&gt;" alt="" coords="911,5,1042,32"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#a48612e903b0ef12fa5653056a6d5b3f7" title="safe_asin\&lt; float \&gt;" alt="" coords="913,56,1040,83"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a9f2aae5b5adb09329c1a64b433d148dd" title="safe_asin\&lt; double \&gt;" alt="" coords="907,107,1047,133"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#aa5cb9421d48def32eb7574adb1b152b0" title="safe_sqrt\&lt; int \&gt;" alt="" coords="919,360,1034,387"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a6952300e3d03222491051d674312b67d" title="safe_sqrt\&lt; short \&gt;" alt="" coords="912,208,1041,235"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#a40ae6cfccff676d9d2ff57e2e9ca549c" title="safe_sqrt\&lt; float \&gt;" alt="" coords="914,259,1039,285"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#acf6795fb73b8b915b53126f71cd2712a" title="safe_sqrt\&lt; double \&gt;" alt="" coords="907,309,1046,336"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="1112,395,1265,437"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="1313,395,1467,437"/>
+<area shape="rect" id="node20" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="1515,403,1605,429"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="1653,301,1797,328"/>
+<area shape="rect" id="node22" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="1681,352,1770,379"/>
+<area shape="rect" id="node23" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="1695,403,1756,429"/>
+<area shape="rect" id="node24" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="1679,453,1771,480"/>
+<area shape="rect" id="node25" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="1681,504,1770,531"/>
+<area shape="rect" id="node28" href="$matrix__alg_8cpp.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="934,563,1019,589"/>
+<area shape="rect" id="node29" href="$matrix__alg_8cpp.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="934,461,1019,488"/>
+<area shape="rect" id="node30" href="$matrix__alg_8cpp.html#aec3cfc51b8c044f4faa4ab1d3a146435" title="mat_inverse" alt="" coords="930,512,1023,539"/>
+<area shape="rect" id="node31" href="$matrix__alg_8cpp.html#a71120309d433abdf23de6c2d78440b1c" title="mat_LU_decompose" alt="" coords="1117,613,1260,640"/>
+<area shape="rect" id="node34" href="$matrix__alg_8cpp.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="1354,512,1426,539"/>
+<area shape="rect" id="node35" href="$matrix__alg_8cpp.html#ae99d89fadc41e4ff699c74822490a71e" title="mat_forward_sub" alt="" coords="1127,512,1250,539"/>
+<area shape="rect" id="node36" href="$matrix__alg_8cpp.html#a5f5a54d345886bbaf464910d3a1cf139" title="mat_back_sub" alt="" coords="1135,563,1242,589"/>
+<area shape="rect" id="node32" href="$matrix__alg_8cpp.html#a7a49fc8b7a650e05045994ffba7c1dbc" title="mat_pivot" alt="" coords="1351,613,1429,640"/>
+<area shape="rect" id="node33" href="$matrix__alg_8cpp.html#a4ae7bd9da0bae1b05a7c352df26008ff" title="swap" alt="" coords="1533,613,1587,640"/>
+<area shape="rect" id="node38" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title="wrap_360" alt="" coords="1149,917,1228,944"/>
+<area shape="rect" id="node43" href="$AP__Math_8cpp.html#a02a2cf5a700e31fcf6b444311939d6f8" title="wrap_180\&lt; int \&gt;" alt="" coords="1131,715,1247,741"/>
+<area shape="rect" id="node44" href="$AP__Math_8cpp.html#a3a086dd71d651cf1d4a28ec87decb8b0" title="wrap_180\&lt; short \&gt;" alt="" coords="1123,765,1254,792"/>
+<area shape="rect" id="node45" href="$AP__Math_8cpp.html#abfa396c065d0b24a9fd841beb6404a7b" title="wrap_180\&lt; float \&gt;" alt="" coords="1125,816,1252,843"/>
+<area shape="rect" id="node46" href="$AP__Math_8cpp.html#addf2d396e8779d86f1296f2fecf105e4" title="wrap_180\&lt; double \&gt;" alt="" coords="1119,867,1259,893"/>
+<area shape="rect" id="node39" href="$AP__Math_8cpp.html#ad909fc5c89c69617f13018963a685bd5" title="wrap_360\&lt; int \&gt;" alt="" coords="1332,867,1448,893"/>
+<area shape="rect" id="node40" href="$AP__Math_8cpp.html#a3c6b3854a342ae989b7c2296b4c6c6ec" title="wrap_360\&lt; short \&gt;" alt="" coords="1325,671,1455,697"/>
+<area shape="rect" id="node41" href="$AP__Math_8cpp.html#ad75d42039e8eda0c32431b8882b46fc4" title="wrap_360\&lt; float \&gt;" alt="" coords="1327,733,1453,760"/>
+<area shape="rect" id="node42" href="$AP__Math_8cpp.html#aaf5c8a69731644be38edeaedbd1b1c8d" title="wrap_360\&lt; double \&gt;" alt="" coords="1320,791,1460,817"/>
+<area shape="rect" id="node48" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title="wrap_180" alt="" coords="937,765,1016,792"/>
+<area shape="rect" id="node49" href="$AP__Math_8cpp.html#a367ccd21afe9102ba4b07edf5bdb5c0a" title="wrap_180_cd\&lt; float \&gt;" alt="" coords="903,816,1051,843"/>
+<area shape="rect" id="node50" href="$AP__Math_8cpp.html#aee482bfa15bfcda25d325d9eaa3e0005" title="wrap_180_cd\&lt; int \&gt;" alt="" coords="908,867,1045,893"/>
+<area shape="rect" id="node51" href="$AP__Math_8cpp.html#a2bcbe621ba8d5858dd35a9b31d0be6f5" title="wrap_180_cd\&lt; short \&gt;" alt="" coords="901,968,1053,995"/>
+<area shape="rect" id="node52" href="$AP__Math_8cpp.html#a30a0b71c603ccc75a2c7fb51cad4847b" title="wrap_180_cd\&lt; double \&gt;" alt="" coords="896,1019,1057,1045"/>
+<area shape="rect" id="node55" href="$AP__Math_8cpp.html#a65f9580f731ae50efa9d260e18a28814" title="wrap_360_cd\&lt; float \&gt;" alt="" coords="903,1171,1051,1197"/>
+<area shape="rect" id="node56" href="$AP__Math_8cpp.html#a6f88cc481dbc9533d2fc7da9a3745af2" title="wrap_360_cd\&lt; int \&gt;" alt="" coords="908,1272,1045,1299"/>
+<area shape="rect" id="node57" href="$AP__Math_8cpp.html#a39562b15d93402e664734dc55477aa75" title="wrap_360_cd\&lt; short \&gt;" alt="" coords="901,1069,1053,1096"/>
+<area shape="rect" id="node58" href="$AP__Math_8cpp.html#a246e635093530f9a461cd59493e057ea" title="wrap_360_cd\&lt; double \&gt;" alt="" coords="896,1120,1057,1147"/>
+<area shape="rect" id="node60" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="938,1373,1015,1400"/>
+<area shape="rect" id="node65" href="$AP__Math_8cpp.html#a044023fcfa899d449f5a219ca7596ca4" title="wrap_PI\&lt; int \&gt;" alt="" coords="923,1424,1031,1451"/>
+<area shape="rect" id="node66" href="$AP__Math_8cpp.html#ad0041912c2965b653fa9cf6854e47bc8" title="wrap_PI\&lt; short \&gt;" alt="" coords="915,1475,1038,1501"/>
+<area shape="rect" id="node67" href="$AP__Math_8cpp.html#a789e7d40c173a1fab6560d1b61609952" title="wrap_PI\&lt; float \&gt;" alt="" coords="917,1525,1036,1552"/>
+<area shape="rect" id="node68" href="$AP__Math_8cpp.html#a66b3a8191d62a34f4d673d5c62d8d1cf" title="wrap_PI\&lt; double \&gt;" alt="" coords="911,1576,1043,1603"/>
+<area shape="rect" id="node61" href="$AP__Math_8cpp.html#a50a4ded454375642e1944882b01a1ae5" title="wrap_2PI\&lt; int \&gt;" alt="" coords="1131,1424,1246,1451"/>
+<area shape="rect" id="node62" href="$AP__Math_8cpp.html#aaf8ce7d4f9e3837bdbd5aac6545b4000" title="wrap_2PI\&lt; short \&gt;" alt="" coords="1123,1272,1254,1299"/>
+<area shape="rect" id="node63" href="$AP__Math_8cpp.html#a7182302503c136742396e3057b680dc7" title="wrap_2PI\&lt; float \&gt;" alt="" coords="1125,1323,1252,1349"/>
+<area shape="rect" id="node64" href="$AP__Math_8cpp.html#a0b4be48e39c65e97084146b9f1d22c00" title="wrap_2PI\&lt; double \&gt;" alt="" coords="1119,1373,1258,1400"/>
+<area shape="rect" id="node71" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="901,1779,1052,1805"/>
+<area shape="rect" id="node72" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="893,1627,1060,1653"/>
+<area shape="rect" id="node73" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="895,1677,1058,1704"/>
+<area shape="rect" id="node74" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="889,1728,1064,1755"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="Copter::set_mode_RTL_or_land_with_pause" name="Copter::set_mode_RTL_or_land_with_pause">
+<area shape="rect" id="node2" href="$classCopter.html#a36e4fd8b0054e2e6420ac2ff756ed95e" title="Copter::failsafe_battery\l_event" alt="" coords="407,180,565,221"/>
+<area shape="rect" id="node8" href="$classCopter.html#a3e05f940683ebe911e014fff602e5571" title="Copter::failsafe_gcs\l_check" alt="" coords="613,636,752,677"/>
+<area shape="rect" id="node10" href="$classCopter.html#adea90603a44dc36fc4d196277d3ebd43" title="Copter::failsafe_radio\l_on_event" alt="" coords="212,388,359,429"/>
+<area shape="rect" id="node21" href="$classCopter.html#a04f0ac05def12322363ffc78086cabff" title="Copter::failsafe_terrain\l_on_event" alt="" coords="978,547,1133,588"/>
+<area shape="rect" id="node3" href="$classCopter.html#afc713ac9b46532e141374d29b024ca5d" title="Copter::read_battery" alt="" coords="1390,71,1531,98"/>
+<area shape="rect" id="node4" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="1828,391,1983,418"/>
+<area shape="rect" id="node6" href="$classCopter.html#abd3ea1d00d3c109e18a5ab0ae08aea4f" title="Copter::mavlink_compassmot" alt="" coords="1584,122,1780,149"/>
+<area shape="rect" id="node7" href="$classCopter.html#a9df230b133ae3d697cd96ae14ba4b36d" title="Copter::update_batt\l_compass" alt="" coords="1613,5,1751,47"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="2031,384,2193,425"/>
+<area shape="rect" id="node9" href="$classCopter.html#a563dd88c9990c4a03ae5701fe358ffbb" title="Copter::three_hz_loop" alt="" coords="1385,707,1536,734"/>
+<area shape="rect" id="node11" href="$classCopter.html#aacbcc71b75217e04fe13be6a6100cc8f" title="Copter::set_failsafe\l_radio" alt="" coords="418,372,554,413"/>
+<area shape="rect" id="node12" href="$classCopter.html#ac5ff97f20044374f1b4b920228ecfe0a" title="Copter::read_radio" alt="" coords="800,282,929,309"/>
+<area shape="rect" id="node20" href="$classCopter.html#ac03470242d53d3cae09e11b6467e1c5d" title="Copter::set_throttle\l_and_failsafe" alt="" coords="615,372,750,413"/>
+<area shape="rect" id="node13" href="$classCopter.html#ac591bd59db1512b7bc72798cd80df138" title="Copter::esc_calibration\l_passthrough" alt="" coords="977,275,1133,316"/>
+<area shape="rect" id="node15" href="$classCopter.html#aa0807aaa2460671f21b21c7f082a297d" title="Copter::init_rc_out" alt="" coords="1396,198,1525,225"/>
+<area shape="rect" id="node19" href="$classCopter.html#a004840e4a777ae959ec34f7da34b46c8" title="Copter::rc_loop" alt="" coords="1000,223,1111,250"/>
+<area shape="rect" id="node14" href="$classCopter.html#af0284b6bd2b24b55c38661665fc50807" title="Copter::esc_calibration\l_startup_check" alt="" coords="1181,249,1337,291"/>
+<area shape="rect" id="node16" href="$classCopter.html#a3dd81483501146cda2aec5d898c2592b" title="Copter::init_ardupilot" alt="" coords="1611,173,1753,199"/>
+<area shape="rect" id="node18" href="$classCopter.html#a79a1d0d0c01a287893782f396b69f662" title="Copter::mavlink_motor\l_test_start" alt="" coords="1605,275,1759,316"/>
+<area shape="rect" id="node17" href="$classCopter.html#ad672001a9ffbac72fe0ec2d8e336a4aa" title="Copter::setup" alt="" coords="1855,173,1956,199"/>
+<area shape="rect" id="node22" href="$classCopter.html#ac0bf95e686ade52db52db8444c38fdf7" title="Copter::auto_circle\l_movetoedge_start" alt="" coords="1193,449,1326,491"/>
+<area shape="rect" id="node26" href="$classCopter.html#ac931294c224169ea64d2c693d807c7e3" title="Copter::auto_spline\l_start" alt="" coords="1192,515,1327,556"/>
+<area shape="rect" id="node28" href="$classCopter.html#ac2a856dddf1dd5d5dc959d793caf50d3" title="Copter::auto_takeoff\l_start" alt="" coords="1189,580,1330,621"/>
+<area shape="rect" id="node30" href="$classCopter.html#ad26dd2c64fa1c96a14f9b634d08fa3d0" title="Copter::auto_wp_start" alt="" coords="1184,711,1335,738"/>
+<area shape="rect" id="node31" href="$classCopter.html#aa79b7d499d3969f3de9cde10c6a52fc9" title="Copter::failsafe_terrain\l_check" alt="" coords="1182,645,1337,687"/>
+<area shape="rect" id="node23" href="$classCopter.html#aa4ac3cd31db363a144b466fea7e24042" title="Copter::do_circle" alt="" coords="1400,493,1521,519"/>
+<area shape="rect" id="node24" href="$classCopter.html#a2cf235a443c7340387c4f767b4edba1d" title="Copter::start_command" alt="" coords="1603,594,1761,621"/>
+<area shape="rect" id="node25" href="$classCopter.html#a42d6cd95e346fa67559b307fd3d85b82" title="Copter::Copter" alt="" coords="1851,594,1959,621"/>
+<area shape="rect" id="node27" href="$classCopter.html#a6e67e20e61fb007cad10d25295b738af" title="Copter::do_spline_wp" alt="" coords="1387,543,1535,570"/>
+<area shape="rect" id="node29" href="$classCopter.html#aa2a88780ff0454d3621ba51b20d35a38" title="Copter::do_takeoff" alt="" coords="1395,594,1526,621"/>
+</map>

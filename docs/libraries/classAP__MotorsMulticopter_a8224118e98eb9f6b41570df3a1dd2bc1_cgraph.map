@@ -1,0 +1,92 @@
+<map id="AP_MotorsMulticopter::output_min" name="AP_MotorsMulticopter::output_min">
+<area shape="rect" id="node2" href="$classAP__Motors.html#a991566f27a6407972932620a001fd408" title="AP_Motors::set_desired\l_spool_state" alt="" coords="204,331,367,373"/>
+<area shape="rect" id="node3" href="$classAP__MotorsMulticopter.html#aaf6c07b5dc56f5a91988bf7cccbbe067" title="AP_MotorsMulticopter\l::output" alt="" coords="210,397,361,438"/>
+<area shape="rect" id="node4" href="$classAP__MotorsMulticopter.html#abf6f8e888f48855f4f47d39efe0fd4a1" title="AP_MotorsMulticopter\l::update_throttle_filter" alt="" coords="431,78,581,119"/>
+<area shape="rect" id="node9" href="$classAP__MotorsMulticopter.html#ae3f6bd6257eefb13d228e1f667ceceb3" title="AP_MotorsMulticopter\l::update_battery_resistance" alt="" coords="415,331,597,373"/>
+<area shape="rect" id="node18" href="$classAP__MotorsMulticopter.html#af907aef170efec7b52312b8440986f95" title="AP_MotorsMulticopter\l::update_lift_max_from\l_batt_voltage" alt="" coords="429,172,583,228"/>
+<area shape="rect" id="node20" href="$classAP__MotorsMulticopter.html#a5f8d52cbd1cd93c53f81767a3ad3d3bf" title="AP_MotorsMulticopter\l::output_logic" alt="" coords="431,397,581,438"/>
+<area shape="rect" id="node88" href="$classAP__Motors.html#a617a5bb4ec5549a934f0ece9200872a7" title="AP_Motors::output_armed\l_stabilizing" alt="" coords="419,462,593,503"/>
+<area shape="rect" id="node89" href="$classAP__MotorsMulticopter.html#abea2f7f648045f53f31eab0fc26a3ad8" title="AP_MotorsMulticopter\l::thrust_compensation" alt="" coords="431,527,581,569"/>
+<area shape="rect" id="node91" href="$classAP__MotorsMulticopter.html#a6e3827ec17473d440fb74a551110c714" title="AP_MotorsMulticopter\l::output_to_motors" alt="" coords="431,593,581,634"/>
+<area shape="rect" id="node5" href="$classAP__Motors.html#abb781661db2b685644795dfe8f5a655f" title="AP_Motors::armed" alt="" coords="667,35,798,61"/>
+<area shape="rect" id="node6" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title="LowPassFilter::apply" alt="" coords="661,85,805,112"/>
+<area shape="rect" id="node7" href="$classLowPassFilter.html#af4fadecd2b4865888d6262f2fe67f8d1" title="LowPassFilter::get" alt="" coords="878,107,1009,133"/>
+<area shape="rect" id="node8" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title="LowPassFilter::reset" alt="" coords="661,136,804,163"/>
+<area shape="rect" id="node10" href="$classAP__Motors.html#a82a340f9ada90ee7399c857b3464e11a" title="AP_Motors::get_throttle" alt="" coords="653,339,813,365"/>
+<area shape="rect" id="node17" href="$classAP__MotorsMulticopter.html#aa7112979a502a3ee12b8c1dbc1abfef4" title="AP_MotorsMulticopter\l::get_throttle_hover" alt="" coords="868,281,1019,322"/>
+<area shape="rect" id="node11" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="890,347,997,373"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1091,277,1204,304"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1288,353,1439,380"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1280,201,1447,228"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1282,252,1445,279"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1276,303,1451,329"/>
+<area shape="rect" id="node19" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="707,187,758,213"/>
+<area shape="rect" id="node21" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="920,404,967,431"/>
+<area shape="rect" id="node22" href="$classAP__MotorsMulticopter.html#a19f40d1fe87f44055e2ee89b9470d11c" title="AP_MotorsMulticopter\l::get_current_limit_max\l_throttle" alt="" coords="653,389,812,445"/>
+<area shape="rect" id="node23" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="701,936,765,963"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#a3370ada2588e54722319d65e00d8545c" title="safe_asin" alt="" coords="904,733,983,760"/>
+<area shape="rect" id="node29" href="$AP__Math_8h.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="905,936,981,963"/>
+<area shape="rect" id="node34" href="$AP__Math_8h.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="901,885,986,912"/>
+<area shape="rect" id="node35" href="$AP__Math_8h.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="901,505,986,532"/>
+<area shape="rect" id="node44" href="$AP__Math_8h.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="907,1139,979,1165"/>
+<area shape="rect" id="node45" href="$AP__Math_8h.html#adfb798dabbcb4c7a82b3a08978bd8738" title="inverse" alt="" coords="911,1088,975,1115"/>
+<area shape="rect" id="node55" href="$AP__Math_8h.html#aa390ab9ca0ab04bd33b7234cfefa0cba" title="wrap_180" alt="" coords="1108,1595,1187,1621"/>
+<area shape="rect" id="node65" href="$AP__Math_8h.html#a4e136782e86e2adaaf7f0f759067dfe1" title="wrap_180_cd" alt="" coords="894,1341,993,1368"/>
+<area shape="rect" id="node71" href="$AP__Math_8h.html#a0399a64a07d5928b98db1b5dadc45816" title="wrap_360" alt="" coords="1324,1696,1403,1723"/>
+<area shape="rect" id="node72" href="$AP__Math_8h.html#a7be6cecc012fbd1984f4c6c19ffd6997" title="wrap_360_cd" alt="" coords="894,1671,993,1697"/>
+<area shape="rect" id="node77" href="$AP__Math_8h.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="908,556,979,583"/>
+<area shape="rect" id="node87" href="$AP__Math_8h.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="1109,1088,1186,1115"/>
+<area shape="rect" id="node25" href="$AP__Math_8cpp.html#acde8e5813f30717986b84509948bf530" title="safe_asin\&lt; int \&gt;" alt="" coords="1089,784,1205,811"/>
+<area shape="rect" id="node26" href="$AP__Math_8cpp.html#a6baeda4985886aba9f6d5d5008ac2b10" title="safe_asin\&lt; short \&gt;" alt="" coords="1082,632,1213,659"/>
+<area shape="rect" id="node27" href="$AP__Math_8cpp.html#a48612e903b0ef12fa5653056a6d5b3f7" title="safe_asin\&lt; float \&gt;" alt="" coords="1084,683,1211,709"/>
+<area shape="rect" id="node28" href="$AP__Math_8cpp.html#a9f2aae5b5adb09329c1a64b433d148dd" title="safe_asin\&lt; double \&gt;" alt="" coords="1077,733,1217,760"/>
+<area shape="rect" id="node30" href="$AP__Math_8cpp.html#aa5cb9421d48def32eb7574adb1b152b0" title="safe_sqrt\&lt; int \&gt;" alt="" coords="1090,987,1205,1013"/>
+<area shape="rect" id="node31" href="$AP__Math_8cpp.html#a6952300e3d03222491051d674312b67d" title="safe_sqrt\&lt; short \&gt;" alt="" coords="1083,835,1212,861"/>
+<area shape="rect" id="node32" href="$AP__Math_8cpp.html#a40ae6cfccff676d9d2ff57e2e9ca549c" title="safe_sqrt\&lt; float \&gt;" alt="" coords="1085,885,1210,912"/>
+<area shape="rect" id="node33" href="$AP__Math_8cpp.html#acf6795fb73b8b915b53126f71cd2712a" title="safe_sqrt\&lt; double \&gt;" alt="" coords="1078,936,1217,963"/>
+<area shape="rect" id="node36" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="1287,465,1440,506"/>
+<area shape="rect" id="node37" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="1499,465,1652,506"/>
+<area shape="rect" id="node38" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="1700,472,1791,499"/>
+<area shape="rect" id="node39" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="1839,371,1983,397"/>
+<area shape="rect" id="node40" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="1866,421,1955,448"/>
+<area shape="rect" id="node41" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="1880,472,1941,499"/>
+<area shape="rect" id="node42" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="1865,523,1957,549"/>
+<area shape="rect" id="node43" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="1866,573,1955,600"/>
+<area shape="rect" id="node46" href="$matrix__alg_8cpp.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="1105,1189,1190,1216"/>
+<area shape="rect" id="node47" href="$matrix__alg_8cpp.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="1105,1037,1190,1064"/>
+<area shape="rect" id="node48" href="$matrix__alg_8cpp.html#aec3cfc51b8c044f4faa4ab1d3a146435" title="mat_inverse" alt="" coords="1101,1139,1194,1165"/>
+<area shape="rect" id="node49" href="$matrix__alg_8cpp.html#a71120309d433abdf23de6c2d78440b1c" title="mat_LU_decompose" alt="" coords="1292,1231,1435,1257"/>
+<area shape="rect" id="node52" href="$matrix__alg_8cpp.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="1539,1129,1611,1156"/>
+<area shape="rect" id="node53" href="$matrix__alg_8cpp.html#ae99d89fadc41e4ff699c74822490a71e" title="mat_forward_sub" alt="" coords="1302,1129,1425,1156"/>
+<area shape="rect" id="node54" href="$matrix__alg_8cpp.html#a5f5a54d345886bbaf464910d3a1cf139" title="mat_back_sub" alt="" coords="1310,1180,1417,1207"/>
+<area shape="rect" id="node50" href="$matrix__alg_8cpp.html#a7a49fc8b7a650e05045994ffba7c1dbc" title="mat_pivot" alt="" coords="1536,1231,1615,1257"/>
+<area shape="rect" id="node51" href="$matrix__alg_8cpp.html#a4ae7bd9da0bae1b05a7c352df26008ff" title="swap" alt="" coords="1719,1231,1772,1257"/>
+<area shape="rect" id="node56" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title="wrap_360" alt="" coords="1324,1443,1403,1469"/>
+<area shape="rect" id="node61" href="$AP__Math_8cpp.html#a02a2cf5a700e31fcf6b444311939d6f8" title="wrap_180\&lt; int \&gt;" alt="" coords="1305,1645,1421,1672"/>
+<area shape="rect" id="node62" href="$AP__Math_8cpp.html#a3a086dd71d651cf1d4a28ec87decb8b0" title="wrap_180\&lt; short \&gt;" alt="" coords="1298,1544,1429,1571"/>
+<area shape="rect" id="node63" href="$AP__Math_8cpp.html#abfa396c065d0b24a9fd841beb6404a7b" title="wrap_180\&lt; float \&gt;" alt="" coords="1300,1595,1427,1621"/>
+<area shape="rect" id="node64" href="$AP__Math_8cpp.html#addf2d396e8779d86f1296f2fecf105e4" title="wrap_180\&lt; double \&gt;" alt="" coords="1293,1493,1433,1520"/>
+<area shape="rect" id="node57" href="$AP__Math_8cpp.html#ad909fc5c89c69617f13018963a685bd5" title="wrap_360\&lt; int \&gt;" alt="" coords="1517,1551,1633,1577"/>
+<area shape="rect" id="node58" href="$AP__Math_8cpp.html#a3c6b3854a342ae989b7c2296b4c6c6ec" title="wrap_360\&lt; short \&gt;" alt="" coords="1510,1613,1641,1640"/>
+<area shape="rect" id="node59" href="$AP__Math_8cpp.html#ad75d42039e8eda0c32431b8882b46fc4" title="wrap_360\&lt; float \&gt;" alt="" coords="1512,1689,1639,1716"/>
+<area shape="rect" id="node60" href="$AP__Math_8cpp.html#aaf5c8a69731644be38edeaedbd1b1c8d" title="wrap_360\&lt; double \&gt;" alt="" coords="1505,1493,1645,1520"/>
+<area shape="rect" id="node66" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title="wrap_180" alt="" coords="1108,1443,1187,1469"/>
+<area shape="rect" id="node67" href="$AP__Math_8cpp.html#a367ccd21afe9102ba4b07edf5bdb5c0a" title="wrap_180_cd\&lt; float \&gt;" alt="" coords="1073,1493,1221,1520"/>
+<area shape="rect" id="node68" href="$AP__Math_8cpp.html#aee482bfa15bfcda25d325d9eaa3e0005" title="wrap_180_cd\&lt; int \&gt;" alt="" coords="1079,1240,1216,1267"/>
+<area shape="rect" id="node69" href="$AP__Math_8cpp.html#a2bcbe621ba8d5858dd35a9b31d0be6f5" title="wrap_180_cd\&lt; short \&gt;" alt="" coords="1071,1341,1223,1368"/>
+<area shape="rect" id="node70" href="$AP__Math_8cpp.html#a30a0b71c603ccc75a2c7fb51cad4847b" title="wrap_180_cd\&lt; double \&gt;" alt="" coords="1067,1392,1228,1419"/>
+<area shape="rect" id="node73" href="$AP__Math_8cpp.html#a65f9580f731ae50efa9d260e18a28814" title="wrap_360_cd\&lt; float \&gt;" alt="" coords="1073,1797,1221,1824"/>
+<area shape="rect" id="node74" href="$AP__Math_8cpp.html#a6f88cc481dbc9533d2fc7da9a3745af2" title="wrap_360_cd\&lt; int \&gt;" alt="" coords="1079,1645,1216,1672"/>
+<area shape="rect" id="node75" href="$AP__Math_8cpp.html#a39562b15d93402e664734dc55477aa75" title="wrap_360_cd\&lt; short \&gt;" alt="" coords="1071,1696,1223,1723"/>
+<area shape="rect" id="node76" href="$AP__Math_8cpp.html#a246e635093530f9a461cd59493e057ea" title="wrap_360_cd\&lt; double \&gt;" alt="" coords="1067,1747,1228,1773"/>
+<area shape="rect" id="node78" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="1109,581,1186,608"/>
+<area shape="rect" id="node83" href="$AP__Math_8cpp.html#a044023fcfa899d449f5a219ca7596ca4" title="wrap_PI\&lt; int \&gt;" alt="" coords="1093,480,1201,507"/>
+<area shape="rect" id="node84" href="$AP__Math_8cpp.html#ad0041912c2965b653fa9cf6854e47bc8" title="wrap_PI\&lt; short \&gt;" alt="" coords="1086,531,1209,557"/>
+<area shape="rect" id="node85" href="$AP__Math_8cpp.html#a789e7d40c173a1fab6560d1b61609952" title="wrap_PI\&lt; float \&gt;" alt="" coords="1088,379,1207,405"/>
+<area shape="rect" id="node86" href="$AP__Math_8cpp.html#a66b3a8191d62a34f4d673d5c62d8d1cf" title="wrap_PI\&lt; double \&gt;" alt="" coords="1081,429,1213,456"/>
+<area shape="rect" id="node79" href="$AP__Math_8cpp.html#a50a4ded454375642e1944882b01a1ae5" title="wrap_2PI\&lt; int \&gt;" alt="" coords="1306,592,1421,619"/>
+<area shape="rect" id="node80" href="$AP__Math_8cpp.html#aaf8ce7d4f9e3837bdbd5aac6545b4000" title="wrap_2PI\&lt; short \&gt;" alt="" coords="1298,680,1429,707"/>
+<area shape="rect" id="node81" href="$AP__Math_8cpp.html#a7182302503c136742396e3057b680dc7" title="wrap_2PI\&lt; float \&gt;" alt="" coords="1300,807,1427,833"/>
+<area shape="rect" id="node82" href="$AP__Math_8cpp.html#a0b4be48e39c65e97084146b9f1d22c00" title="wrap_2PI\&lt; double \&gt;" alt="" coords="1294,1009,1433,1036"/>
+<area shape="rect" id="node90" href="$classAP__MotorsMulticopter.html#a9ca49c0852c6a514adb2998277bd123d" title="AP_MotorsMulticopter\l::save_params_on_disarm" alt="" coords="645,987,820,1029"/>
+</map>

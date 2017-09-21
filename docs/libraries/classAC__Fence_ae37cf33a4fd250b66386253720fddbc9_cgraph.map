@@ -1,0 +1,85 @@
+<map id="AC_Fence::set_home_distance" name="AC_Fence::set_home_distance">
+<area shape="rect" id="node2" href="$classAC__Fence.html#ad7b2fae72b7a0d41fa341916be48e3f7" title="returns pointer to array of polygon points and num_points is filled in with the total number ..." alt="" coords="203,5,365,47"/>
+<area shape="rect" id="node3" href="$classAC__Fence.html#a9ab2e92431697e0f47896edce9e87cf9" title="returns true if we&#39;ve breached the polygon boundary. simple passthrough to underlying _poly_loader ob..." alt="" coords="211,71,357,112"/>
+<area shape="rect" id="node6" href="$classAC__Fence.html#aa656adbd11c84edbf4e2b840054dfebb" title="handler for polygon fence messages with GCS " alt="" coords="203,177,365,203"/>
+<area shape="rect" id="node4" href="$classAC__PolyFence__loader.html#a91a6b4c5611590d524eacac2c2aeec3a" title="AC_PolyFence_loader\l::boundary_breached" alt="" coords="464,31,616,72"/>
+<area shape="rect" id="node5" href="$polygon_8cpp.html#a69c7755ab39f2ede645c4542b3aed07c" title="Polygon_outside" alt="" coords="731,17,850,43"/>
+<area shape="rect" id="node7" href="$location_8cpp.html#a8e3c1a8152caf33ff0ec0d96e4c79a96" title="check_latlng" alt="" coords="493,118,587,145"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#a24cdfb25ddef1c35ebb8470fd6672d7e" title="GCS_MAVLINK::send_statustext_chan" alt="" coords="413,491,667,518"/>
+<area shape="rect" id="node74" href="$classAC__PolyFence__loader.html#ab58f95e4a19e4f30d9bb8e42cc2c910e" title="AC_PolyFence_loader\l::save_point_to_eeprom" alt="" coords="459,169,621,211"/>
+<area shape="rect" id="node81" href="$classAC__PolyFence__loader.html#a28f972058b2fca40ed02a043e399d297" title="AC_PolyFence_loader\l::load_point_from_eeprom" alt="" coords="454,235,626,276"/>
+<area shape="rect" id="node8" href="$location_8cpp.html#a876969302a68a712453970f9389873c4" title="check_lat" alt="" coords="751,118,830,145"/>
+<area shape="rect" id="node9" href="$location_8cpp.html#a35c0354ad630c4fd4124d48310efe927" title="check_lng" alt="" coords="750,67,831,94"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Util.html#ac57ef0a9815cd597ad5cab5d6c31c6c8" title="AP_HAL::Util::vsnprintf" alt="" coords="1861,366,2019,393"/>
+<area shape="rect" id="node19" href="$GCS__Common_8cpp.html#a1d3cc361b864ddf64a44c12ab3bd044e" title="gcs" alt="" coords="769,542,812,569"/>
+<area shape="rect" id="node21" href="$classGCS.html#a313e604179053ea42415b1c9289f13cd" title="GCS::send_statustext" alt="" coords="1117,491,1269,518"/>
+<area shape="rect" id="node12" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="2860,425,2951,451"/>
+<area shape="rect" id="node18" href="$classBufferPrinter.html#a0b98d7f59a6591097d2011d68359b8a0" title="BufferPrinter::write" alt="" coords="2125,315,2255,342"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="3056,374,3200,401"/>
+<area shape="rect" id="node14" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="3083,425,3173,451"/>
+<area shape="rect" id="node15" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="3097,475,3159,502"/>
+<area shape="rect" id="node16" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="3082,526,3174,553"/>
+<area shape="rect" id="node17" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="3083,323,3173,350"/>
+<area shape="rect" id="node20" href="$classGCS.html#ae4cc34bdfabd2de4587d3553e6b4582d" title="GCS::instance" alt="" coords="934,542,1042,569"/>
+<area shape="rect" id="node73" href="$classGCS.html#a824e538eff6cbf7c9074840600fbf6ff" title="GCS::service_statustext" alt="" coords="1109,542,1276,569"/>
+<area shape="rect" id="node22" href="$classAP__Frsky__Telem.html#aef21b9f33af863589feda48a23877380" title="AP_Frsky_Telem::queue\l_message" alt="" coords="1332,417,1499,459"/>
+<area shape="rect" id="node24" href="$classGCS__MAVLINK.html#acad5b4ab40c7b7486392f07193ce4190" title="GCS_MAVLINK::active\l_channel_mask" alt="" coords="1335,535,1495,576"/>
+<area shape="rect" id="node25" href="$classGCS__MAVLINK.html#af948c4a65f98679941885e2c7cc12ac5" title="GCS_MAVLINK::streaming\l_channel_mask" alt="" coords="1324,652,1507,693"/>
+<area shape="rect" id="node23" href="$classObjectArray.html#aec1630ad862991767b30ae80a71a26ea" title="ObjectArray::push_force" alt="" coords="1593,425,1755,451"/>
+<area shape="rect" id="node26" href="$classGCS__MAVLINK.html#ae1d5ebd46ec3ddb644862c747e2968bf" title="GCS_MAVLINK::send_statustext_all" alt="" coords="1555,542,1793,569"/>
+<area shape="rect" id="node27" href="$classGCS__MAVLINK.html#a1b0f7429c8fb152e17cd5fc0ff0d9267" title="GCS_MAVLINK::send_parameter\l_value_all" alt="" coords="1565,659,1783,700"/>
+<area shape="rect" id="node28" href="$GCS__MAVLink_8cpp.html#a4952a82a239f8f856c59724eb66847a2" title="mav_var_type" alt="" coords="1888,717,1992,743"/>
+<area shape="rect" id="node29" href="$classAP__Param.html#a0819a26c7b80edb7a245036d1303cc75" title="AP_Param::count_parameters" alt="" coords="1841,1287,2039,1314"/>
+<area shape="rect" id="node41" href="$classDataFlash__Class.html#af898b7f68e05b5d2a6eaf53d2c178983" title="DataFlash_Class::instance" alt="" coords="1850,666,2030,693"/>
+<area shape="rect" id="node72" href="$classDataFlash__Class.html#a488ee9ba241f827fcb979dbccfdab76d" title="DataFlash_Class::Log\l_Write_Parameter" alt="" coords="1864,600,2016,641"/>
+<area shape="rect" id="node30" href="$classAP__Param.html#adc0c44f152f0e3cbb12703b2a58d8f6b" title="AP_Param::first" alt="" coords="2372,1462,2487,1489"/>
+<area shape="rect" id="node32" href="$classAP__Param.html#a8cf8477edefdb6a0b2173d8229894173" title="AP_Param::next_scalar" alt="" coords="2110,1287,2270,1314"/>
+<area shape="rect" id="node31" href="$classAP__Param.html#a1dcc7820ea51e29cfb762387a9212818" title="AP_Param::get_base" alt="" coords="3055,1337,3201,1363"/>
+<area shape="rect" id="node33" href="$classAP__Param.html#ae329f47d0829a6ca578562fbec2d7383" title="AP_Param::next" alt="" coords="2370,1233,2489,1259"/>
+<area shape="rect" id="node39" href="$classAP__Param.html#aa2638d3b9db28506452fc121c7faa7ff" title="AP_Param::find_var\l_info_token" alt="" coords="2360,1325,2499,1367"/>
+<area shape="rect" id="node34" href="$classAP__Param.html#af535cde8cb54b9c361e199b2161980e7" title="AP_Param::check_frame_type" alt="" coords="2805,1118,3005,1145"/>
+<area shape="rect" id="node35" href="$classAP__Param.html#a69baa95e011c7a8c4a29625c558c5501" title="get group_info pointer based on flags " alt="" coords="2816,1387,2995,1414"/>
+<area shape="rect" id="node36" href="$classAP__Param.html#a17601b9ec7791da2904e07683e059e11" title="AP_Param::next_group" alt="" coords="2582,1219,2739,1246"/>
+<area shape="rect" id="node37" href="$classAP__Param.html#aa8b43d95bca6adbf5497e8102cf73857" title="AP_Param::adjust_group\l_offset" alt="" coords="2822,1220,2989,1261"/>
+<area shape="rect" id="node38" href="$classAP__Param.html#a90f6be43b427d44475380211164f8292" title="AP_Param::group_id" alt="" coords="2834,1286,2977,1313"/>
+<area shape="rect" id="node40" href="$classAP__Param.html#a0a5b0b035c7d17569e4a814f20f00985" title="AP_Param::find_var\l_info_group" alt="" coords="2591,1271,2730,1312"/>
+<area shape="rect" id="node42" href="$classDataFlash__Class.html#a95bf3cac993c1ee326acc6447e99d875" title="DataFlash_Class::set\l_mission" alt="" coords="2115,768,2265,809"/>
+<area shape="rect" id="node43" href="$classDataFlash__Class.html#aabebe7ff9db07e2890274fceaa81b063" title="DataFlash_Class::Init" alt="" coords="2115,666,2265,693"/>
+<area shape="rect" id="node49" href="$classDataFlash__Class.html#a7ac0e748bbc5c6e72645bb6245257600" title="DataFlash_Class::structure" alt="" coords="2814,622,2997,649"/>
+<area shape="rect" id="node66" href="$classDataFlash__Backend.html#a33e7a1703d68bd91ac6782bb10b209f8" title="DataFlash_Backend::\lnum_types" alt="" coords="2116,833,2264,875"/>
+<area shape="rect" id="node67" href="$classDataFlash__Class.html#a1d18bc15f196f1deb794f9ebd4878da8" title="DataFlash_Class::CardInserted" alt="" coords="2087,899,2293,926"/>
+<area shape="rect" id="node68" href="$classDataFlash__Class.html#a803c6dd673a2eaac58eea2012e57ea17" title="DataFlash_Class::NeedErase" alt="" coords="2092,463,2288,490"/>
+<area shape="rect" id="node69" href="$classDataFlash__Class.html#a53a4a975a3813e9f58ddaaa3b5865a4a" title="DataFlash_Class::EraseAll" alt="" coords="2100,514,2280,541"/>
+<area shape="rect" id="node70" href="$classDataFlash__Class.html#a25205f61e9f81e241851833ac864541c" title="DataFlash_Class::NeedPrep" alt="" coords="2095,565,2285,591"/>
+<area shape="rect" id="node71" href="$classDataFlash__Class.html#a65077b33c55004bee38cd4a6ca6ae489" title="DataFlash_Class::Prep" alt="" coords="2111,615,2269,642"/>
+<area shape="rect" id="node44" href="$classDataFlash__Class.html#aae0343c167962178a8139f80e273a18a" title="DataFlash_Class::validate\l_structures" alt="" coords="2341,585,2517,627"/>
+<area shape="rect" id="node48" href="$classDataFlash__Class.html#a4217c35af395ef003e87caa8a27093fc" title="DataFlash_Class::dump\l_structures" alt="" coords="2579,651,2742,692"/>
+<area shape="rect" id="node50" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="2373,775,2485,802"/>
+<area shape="rect" id="node59" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="2353,469,2506,511"/>
+<area shape="rect" id="node61" href="$classDataFlash__Backend.html#aff10c329f79c1bdaedbc6fdf4028c2a5" title="DataFlash_Backend::Init" alt="" coords="2346,927,2513,954"/>
+<area shape="rect" id="node45" href="$DataFlash_8cpp.html#a6c29cfdd6f10b5426f57e67da4d1263a" title="return the number of commas present in string " alt="" coords="2605,534,2716,561"/>
+<area shape="rect" id="node46" href="$classDataFlash__Class.html#a474e87959e63149998c6e28e4f723f1b" title="DataFlash_Class::Log\l_Write_calc_msg_len" alt="" coords="2585,585,2737,627"/>
+<area shape="rect" id="node47" href="$classDataFlash__Class.html#abad9785e74911292cd9eb16895896202" title="pretty&#45;print field information from a log structure " alt="" coords="2824,516,2987,557"/>
+<area shape="rect" id="node51" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="2565,834,2756,861"/>
+<area shape="rect" id="node58" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="2587,768,2734,809"/>
+<area shape="rect" id="node52" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="2824,673,2987,715"/>
+<area shape="rect" id="node53" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="2824,739,2987,780"/>
+<area shape="rect" id="node54" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="2824,805,2987,831"/>
+<area shape="rect" id="node55" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="2827,856,2983,897"/>
+<area shape="rect" id="node56" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="2827,921,2983,963"/>
+<area shape="rect" id="node57" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="2822,987,2989,1028"/>
+<area shape="rect" id="node60" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="2584,417,2737,459"/>
+<area shape="rect" id="node62" href="$classDataFlash__Backend.html#a0d81b33bb8560bac27b7395e58045a76" title="DataFlash_Backend::\lset_mission" alt="" coords="2587,1036,2735,1077"/>
+<area shape="rect" id="node64" href="$classDataFlash__Backend.html#a225465cb83db429757bbbf224796ed8f" title="DataFlash_Backend::\lbufferspace_available" alt="" coords="2587,953,2735,995"/>
+<area shape="rect" id="node65" href="$classDataFlash__Backend.html#a5ff05c4c6461f5bfe61798adb4205a38" title="DataFlash_Backend::\lstart_new_log" alt="" coords="2587,888,2735,929"/>
+<area shape="rect" id="node63" href="$classDFMessageWriter__DFLogStart.html#a8584b1fa0775b7ff593a1760f5461074" title="DFMessageWriter_DFLogStart\l::set_mission" alt="" coords="2804,1052,3007,1093"/>
+<area shape="rect" id="node75" href="$classAC__PolyFence__loader.html#a67055066bbd2e25a6a22a4978a837a5d" title="AC_PolyFence_loader\l::max_points" alt="" coords="715,235,867,276"/>
+<area shape="rect" id="node78" href="$classStorageAccess.html#a9e24d113aece3ade8c6de808937555e9" title="StorageAccess::write\l_uint32" alt="" coords="717,169,864,211"/>
+<area shape="rect" id="node76" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="965,198,1011,225"/>
+<area shape="rect" id="node77" href="$classStorageAccess.html#a82088aa568b13d18acc9e41a01fd1f19" title="StorageAccess::size" alt="" coords="917,249,1059,275"/>
+<area shape="rect" id="node79" href="$classStorageAccess.html#aa527b50188a7138b173defe07b9b7bf6" title="StorageAccess::write\l_block" alt="" coords="915,132,1061,173"/>
+<area shape="rect" id="node80" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title="AP_HAL::Storage::write\l_block" alt="" coords="1111,132,1274,173"/>
+<area shape="rect" id="node82" href="$classStorageAccess.html#af10e9fa6cda0cb973243e4852c9d16c6" title="StorageAccess::read\l_uint32" alt="" coords="719,300,863,341"/>
+<area shape="rect" id="node83" href="$classStorageAccess.html#ab2a8575d541549a15645edc360fdaa91" title="StorageAccess::read\l_block" alt="" coords="916,300,1060,341"/>
+<area shape="rect" id="node84" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="1113,300,1272,341"/>
+</map>

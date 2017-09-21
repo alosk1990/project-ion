@@ -1,0 +1,29 @@
+<map id="AP_HAL::UARTDriver::begin" name="AP_HAL::UARTDriver::begin">
+<area shape="rect" id="node2" href="$classAP__GPS__UBLOX.html#a16ae8ab4b0babfbc2245beb0a438ec33" title="AP_GPS_UBLOX::_parse_gps" alt="" coords="235,5,437,32"/>
+<area shape="rect" id="node4" href="$classAP__Beacon__Pozyx.html#af04a9586164ad91c2fb27adc8fdbcf3e" title="AP_Beacon_Pozyx::AP\l_Beacon_Pozyx" alt="" coords="255,57,417,98"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__LightWareSF40C.html#a5c2fc4063a2ca5aed46cf8906e26d5c8" title="AP_Proximity_LightWareSF40\lC::AP_Proximity_LightWareSF40C" alt="" coords="223,122,449,163"/>
+<area shape="rect" id="node6" href="$classAP__Proximity__TeraRangerTower.html#a71cb30c6fe9b3850d6a9f172c5e3550d" title="AP_Proximity_TeraRangerTower\l::AP_Proximity_TeraRangerTower" alt="" coords="225,187,447,229"/>
+<area shape="rect" id="node7" href="$classAP__RangeFinder__LeddarOne.html#afe62befa48e9caebd2d3e9b227c8519b" title="AP_RangeFinder_LeddarOne\l::AP_RangeFinder_LeddarOne" alt="" coords="237,253,435,294"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__LightWareSerial.html#a1e1c2db82dc21ab575aeaa8e1bc878da" title="AP_RangeFinder_LightWare\lSerial::AP_RangeFinder\l_LightWareSerial" alt="" coords="243,317,429,373"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__MaxsonarSerialLV.html#a624ffd0eeaf5d4ee9f9e481720c258ef" title="AP_RangeFinder_MaxsonarSerial\lLV::AP_RangeFinder_MaxsonarSerialLV" alt="" coords="207,397,465,438"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__uLanding.html#a8860a7bd3f570b5ad2510e24440a8029" title="AP_RangeFinder_uLanding\l::AP_RangeFinder_uLanding" alt="" coords="242,462,430,503"/>
+<area shape="rect" id="node11" href="$classAP__GPS.html#a4bdd5c70ed358b4147a58c7d09f040dd" title="AP_GPS::detect_instance" alt="" coords="249,528,423,555"/>
+<area shape="rect" id="node15" href="$classGCS__MAVLINK.html#adecc982b9dd27229f29b0756733ed137" title="GCS_MAVLINK::handle\l_serial_control" alt="" coords="255,579,417,621"/>
+<area shape="rect" id="node16" href="$HAL__PX4__Class_8cpp.html#a9bd6e6ad19a651d2c83ab3edb8d51924" title="main_loop" alt="" coords="295,645,377,672"/>
+<area shape="rect" id="node18" href="$classHAL__Linux.html#a9b8394eb66ea6d3d5539aaaf47c3bf80" title="HAL_Linux::run" alt="" coords="280,696,392,723"/>
+<area shape="rect" id="node19" href="$classHAL__Empty.html#ae8a0753f0bf4a4d00e5c771ecaae0a14" title="HAL_Empty::run" alt="" coords="277,747,395,773"/>
+<area shape="rect" id="node20" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title="HAL_SITL::run" alt="" coords="281,797,391,824"/>
+<area shape="rect" id="node21" href="$classHAL__QURT.html#a7cb90b613730829561df2721e90f6994" title="HAL_QURT::run" alt="" coords="277,848,395,875"/>
+<area shape="rect" id="node22" href="$GPS__UBLOX__passthrough_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="309,899,363,925"/>
+<area shape="rect" id="node23" href="$UART__test_8cpp.html#a437f0b278eef26b876fd7f0e4cf85503" title="setup_uart" alt="" coords="295,949,377,976"/>
+<area shape="rect" id="node25" href="$classGCS__MAVLINK.html#a0680c93d81d7de3273931c5bccc890f5" title="GCS_MAVLINK::setup_uart" alt="" coords="243,1000,429,1027"/>
+<area shape="rect" id="node26" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title="AP_Frsky_Telem::tick" alt="" coords="260,1051,412,1077"/>
+<area shape="rect" id="node28" href="$classAP__HAL_1_1UARTDriver.html#a22005a4ba685f3b397f83372450c0efb" title="AP_HAL::UARTDriver\l::UARTDriver" alt="" coords="259,1102,413,1143"/>
+<area shape="rect" id="node3" href="$classAP__GPS__UBLOX.html#a09825f5ca37ee9bdb5e0939a4073a84e" title="AP_GPS_UBLOX::read" alt="" coords="523,5,683,32"/>
+<area shape="rect" id="node12" href="$classAP__GPS.html#a83302e8b52e5d01ae67375b3542eb460" title="AP_GPS::update_instance" alt="" coords="513,528,692,555"/>
+<area shape="rect" id="node13" href="$classAP__GPS.html#afe04427a47ab5e630cb979815abd911e" title="AP_GPS::update" alt="" coords="740,528,863,555"/>
+<area shape="rect" id="node14" href="$GPS__AUTO__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="911,528,957,555"/>
+<area shape="rect" id="node17" href="$classHAL__PX4.html#aa6fa9699a474be4e451d7135bf407259" title="HAL_PX4::run" alt="" coords="549,645,656,672"/>
+<area shape="rect" id="node24" href="$UART__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="575,949,630,976"/>
+<area shape="rect" id="node27" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="529,1051,677,1077"/>
+</map>

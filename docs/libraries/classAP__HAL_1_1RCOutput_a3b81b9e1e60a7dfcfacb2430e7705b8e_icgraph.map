@@ -1,0 +1,20 @@
+<map id="AP_HAL::RCOutput::push" name="AP_HAL::RCOutput::push">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli__Dual.html#a79cf1328b1d8a2be75b8a3440e9a5800" title="AP_MotorsHeli_Dual\l::move_actuators" alt="" coords="255,5,399,47"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli__Single.html#a7be196cb13761dc47480224bc1b51115" title="AP_MotorsHeli_Single\l::move_actuators" alt="" coords="251,71,404,112"/>
+<area shape="rect" id="node4" href="$classAP__Motors6DOF.html#ab5e5f48f7b6d9f6c73fe730e6b603fb4" title="AP_Motors6DOF::output_min" alt="" coords="230,137,425,163"/>
+<area shape="rect" id="node5" href="$classAP__MotorsMulticopter.html#a07a50e781cb2af5a642571ff25d895d1" title="AP_MotorsMulticopter\l::output_motor_mask" alt="" coords="252,188,403,229"/>
+<area shape="rect" id="node7" href="$classAP__MotorsMatrix.html#a39465beda648409a64e27ad97a776505" title="AP_MotorsMatrix::output_test" alt="" coords="229,319,425,346"/>
+<area shape="rect" id="node11" href="$classAP__MotorsMatrix.html#a63cad236c6cb9e145b764f3eec202262" title="AP_MotorsMatrix::output\l_to_motors" alt="" coords="244,253,411,295"/>
+<area shape="rect" id="node12" href="$classAP__Motors6DOF.html#a0ad2756c91378eb63f55c9fa7682a8a0" title="AP_Motors6DOF::output\l_to_motors" alt="" coords="244,371,411,412"/>
+<area shape="rect" id="node13" href="$classAP__MotorsTri.html#a6c06a1118a44b56de85743435e46a061" title="AP_MotorsTri::output\l_to_motors" alt="" coords="254,436,401,477"/>
+<area shape="rect" id="node15" href="$classAP__MotorsSingle.html#ad11a229a69b96ec2c47855a8a1f6e0f7" title="AP_MotorsSingle::output\l_to_motors" alt="" coords="244,501,411,543"/>
+<area shape="rect" id="node17" href="$classAP__MotorsCoax.html#aae4781ab9f5b147a18f9f6b43e54242c" title="AP_MotorsCoax::output\l_to_motors" alt="" coords="246,567,409,608"/>
+<area shape="rect" id="node19" href="$classAP__MotorsMulticopter.html#acd98af713018a640928e74778a441cf7" title="AP_MotorsMulticopter\l::set_throttle_passthrough\l_for_esc_calibration" alt="" coords="241,631,414,687"/>
+<area shape="rect" id="node6" href="$classAP__MotorsMulticopter.html#a13a87713cac91aa728707f636a2a9355" title="AP_MotorsMulticopter\l::spool_up_complete" alt="" coords="509,188,660,229"/>
+<area shape="rect" id="node8" href="$classAP__MotorsMatrix.html#a1079a240f98556fe4cb0af7d1d039917" title="Constructor. " alt="" coords="510,253,659,295"/>
+<area shape="rect" id="node9" href="$AP__Motors__test_8cpp.html#a57a49546fb6c5b2c9b423caa333e82b1" title="motor_order_test" alt="" coords="525,319,645,346"/>
+<area shape="rect" id="node10" href="$AP__Motors__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="744,319,791,346"/>
+<area shape="rect" id="node14" href="$classAP__MotorsTri.html#a282f48b7e788fbbe5ae835a00937cb02" title="Constructor. " alt="" coords="489,443,680,470"/>
+<area shape="rect" id="node16" href="$classAP__MotorsSingle.html#a93eade83957680ac6f0b01fadc8fbbfa" title="Constructor. " alt="" coords="510,501,659,543"/>
+<area shape="rect" id="node18" href="$classAP__MotorsCoax.html#a9f2013067a9ad3699bad4bd7ec4fba55" title="Constructor. " alt="" coords="473,574,696,601"/>
+</map>

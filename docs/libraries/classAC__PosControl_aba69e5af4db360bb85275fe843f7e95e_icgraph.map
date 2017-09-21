@@ -1,0 +1,14 @@
+<map id="AC_PosControl::time_since_last_xy_update" name="AC_PosControl::time_since_last_xy_update">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a108438fd7e58452fbc210685c76a3242" title="AC_PosControl::get\l_accel_target" alt="" coords="232,7,371,48"/>
+<area shape="rect" id="node5" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller " alt="" coords="237,75,366,102"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#af9d3f98ad44166d4c5d072bf3ba4a3db" title="update_brake &#45; run the brake controller &#45; should be called at 400hz " alt="" coords="211,126,391,153"/>
+<area shape="rect" id="node9" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="213,177,389,203"/>
+<area shape="rect" id="node10" href="$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="update_spline &#45; update spline controller " alt="" coords="210,227,393,254"/>
+<area shape="rect" id="node12" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher " alt="" coords="208,282,395,309"/>
+<area shape="rect" id="node3" href="$classDataFlash__Class.html#a5db08f0e524269d5b88c5919424af11c" title="DataFlash_Class::Log\l_Write_Rate" alt="" coords="461,5,613,47"/>
+<area shape="rect" id="node4" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="680,5,829,47"/>
+<area shape="rect" id="node6" href="$classAC__Circle.html#a176fe6b798510eb180d35f62d7f6487c" title="get_angle_total &#45; return total angle in radians that vehicle has circled " alt="" coords="464,71,611,112"/>
+<area shape="rect" id="node8" href="$classAC__WPNav.html#ae34a88192799de8f2b96c8cd295bb971" title="get_loiter_target &#45; returns loiter target position " alt="" coords="460,144,615,185"/>
+<area shape="rect" id="node11" href="$classAC__WPNav.html#a3169a6fb417742e33c3a5197bb7a6c6d" title="reached_spline_destination &#45; true when we have come within RADIUS cm of the waypoint ..." alt="" coords="443,216,632,257"/>
+<area shape="rect" id="node13" href="$classAC__WPNav.html#a4795d6f44811c6ca8b592c5cc098e0c0" title="set_fast_waypoint &#45; set to true to ignore the waypoint radius and consider the waypoint &#39;reached&#39; the..." alt="" coords="463,281,612,323"/>
+</map>

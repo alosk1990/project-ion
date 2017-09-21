@@ -1,0 +1,21 @@
+<map id="NavEKF2::writeOptFlowMeas" name="NavEKF2::writeOptFlowMeas">
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#a1ae36e972c268b37708b173265fde619" title="NavEKF2_core::writeOptFlowMeas" alt="" coords="249,296,477,323"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="574,81,681,108"/>
+<area shape="rect" id="node9" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="1053,221,1153,248"/>
+<area shape="rect" id="node10" href="$classNavEKF2__core.html#ab4a53b93652e6452cd9d39014b00b6eb" title="NavEKF2_core::detectOptFlow\lTakeoff" alt="" coords="525,255,729,297"/>
+<area shape="rect" id="node18" href="$classQuaternion.html#afb7132c9c69a984a40be950a17effeaa" title="Quaternion::rotation\l_matrix" alt="" coords="559,321,695,362"/>
+<area shape="rect" id="node19" href="$structVector2.html#ad8ebafde96f43521d3647e2552387529" title="Vector2::length" alt="" coords="572,387,683,413"/>
+<area shape="rect" id="node20" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="602,437,653,464"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="816,81,929,108"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1028,5,1179,32"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1020,56,1187,83"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1022,107,1185,133"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1016,157,1191,184"/>
+<area shape="rect" id="node11" href="$classAP__AHRS.html#a14398c5d2ae68bbe1c67482a91909ad9" title="AP_AHRS::get_ins" alt="" coords="805,183,940,209"/>
+<area shape="rect" id="node12" href="$classNavEKF2__core.html#aa7c5a7c26d96ea7f9a6ad74fed9a37cb" title="NavEKF2_core::getGyroBias" alt="" coords="777,233,968,260"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor.html#abc8c1aea2c3bc58a05d8d9832a9d1194" title="AP_InertialSensor::\lget_gyro_health" alt="" coords="805,285,940,326"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor.html#a6df2d8ad956d4f375bdee541102f16af" title="AP_InertialSensor::\lget_gyro" alt="" coords="805,350,940,391"/>
+<area shape="rect" id="node15" href="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3::length" alt="" coords="817,416,928,443"/>
+<area shape="rect" id="node16" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="1078,441,1129,468"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="1239,441,1277,468"/>
+</map>

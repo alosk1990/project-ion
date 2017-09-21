@@ -1,0 +1,17 @@
+<map id="AC_WPNav::init_loiter_target" name="AC_WPNav::init_loiter_target">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#ae1676c283b03793693b7c94cecdcd0b2" title="AC_PosControl::init\l_xy_controller" alt="" coords="211,64,349,105"/>
+<area shape="rect" id="node9" href="$classAC__PosControl.html#aeb636a56d87a2495d86e394ff6ac7549" title="AC_PosControl::set\l_speed_xy" alt="" coords="211,129,349,171"/>
+<area shape="rect" id="node13" href="$classAC__PosControl.html#a5e47fd89f68af7f00d9bd59cfcb422a8" title="AC_PosControl::set\l_accel_xy" alt="" coords="211,195,349,236"/>
+<area shape="rect" id="node14" href="$classAC__PosControl.html#adfe1243326de1130e9a5a7d031c00ebb" title="set_jerk_xy &#45; set max horizontal jerk in cm/s/s/s " alt="" coords="211,260,349,301"/>
+<area shape="rect" id="node15" href="$classAC__PosControl.html#a1acdd0aec3b36ec2fad0b05cbca0c252" title="set_xy_target in cm from home " alt="" coords="211,325,349,367"/>
+<area shape="rect" id="node16" href="$classAC__PosControl.html#a86db328ce60f79e07a417e55bb5deb5f" title="AC_PosControl::set\l_desired_velocity_xy" alt="" coords="208,391,352,432"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#a146634dd74332c97600e933213a75d5a" title="AC_PosControl::lean\l_angles_to_accel" alt="" coords="413,5,559,47"/>
+<area shape="rect" id="node5" href="$classAC__PI__2D.html#a8ac4814c01feeaf004cb2b51de479cc5" title="AC_PI_2D::set_integrator" alt="" coords="400,71,572,98"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#a85a901d243ace613341b084dec4cc816" title="initialise and check for ekf position resets " alt="" coords="417,123,555,164"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="692,13,743,39"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__View.html#aece6c9bacb017a76fdc659fa0c38b0f3" title="AP_AHRS_View::getLastPos\lNorthEastReset" alt="" coords="620,123,815,164"/>
+<area shape="rect" id="node8" href="$classAP__AHRS.html#aa185cf9c48e53ea7d3738160aee7eed7" title="AP_AHRS::getLastPosNorth\lEastReset" alt="" coords="863,123,1053,164"/>
+<area shape="rect" id="node10" href="$classAC__PosControl.html#ac4f923c39399266568b9ae9419a0596f" title="AC_PosControl::calc\l_leash_length_xy" alt="" coords="413,192,559,233"/>
+<area shape="rect" id="node11" href="$classAC__PosControl.html#a92e0998be57c8a917a7a7514c542e314" title="calc_leash_length &#45; calculates the horizontal leash length given a maximum speed, acceleration and po..." alt="" coords="645,189,790,231"/>
+<area shape="rect" id="node12" href="$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title="AC_P::kP" alt="" coords="677,255,758,282"/>
+</map>

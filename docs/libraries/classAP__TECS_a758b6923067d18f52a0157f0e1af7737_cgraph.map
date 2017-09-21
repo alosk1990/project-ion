@@ -1,0 +1,9 @@
+<map id="AP_TECS::_update_throttle_without_airspeed" name="AP_TECS::_update_throttle_without_airspeed">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a8a1988bb283c488c86b329be18271fbf" title="AP_AHRS::get_rotation\l_body_to_ned" alt="" coords="237,15,399,57"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="265,81,371,108"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="447,81,560,108"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="620,5,771,32"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="612,56,779,83"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="614,107,777,133"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="608,157,783,184"/>
+</map>

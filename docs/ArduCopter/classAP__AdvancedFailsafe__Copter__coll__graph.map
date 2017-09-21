@@ -1,0 +1,154 @@
+<map id="AP_AdvancedFailsafe_Copter" name="AP_AdvancedFailsafe_Copter">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AdvancedFailsafe.html" title="AP_AdvancedFailsafe" alt="" coords="1917,1917,2068,1944"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRCMapper.html" title="RCMapper" alt="" coords="3677,601,3762,627"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="4957,283,5108,310"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Baro.html" title="AP_Baro" alt="" coords="4471,786,4546,813"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Mission.html" title="AP_Mission" alt="" coords="3724,1202,3816,1229"/>
+<area shape="rect" id="node37" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html" title="AP_AHRS" alt="" coords="6555,979,6641,1006"/>
+<area shape="rect" id="node41" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow.html" title="OpticalFlow" alt="" coords="5789,1501,5879,1528"/>
+<area shape="rect" id="node45" href="/home/ubuntu/ardupilot/docs/tags/libraries$classNavEKF2.html" title="NavEKF2" alt="" coords="6003,1202,6081,1229"/>
+<area shape="rect" id="node46" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRangeFinder.html" title="RangeFinder" alt="" coords="5389,786,5485,813"/>
+<area shape="rect" id="node47" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__SerialManager.html" title="AP_SerialManager" alt="" coords="3883,445,4014,471"/>
+<area shape="rect" id="node74" href="/home/ubuntu/ardupilot/docs/tags/libraries$classNavEKF3.html" title="NavEKF3" alt="" coords="6117,1202,6196,1229"/>
+<area shape="rect" id="node87" href="/home/ubuntu/ardupilot/docs/tags/libraries$classSITL_1_1SITL.html" title="SITL::SITL" alt="" coords="4480,445,4567,471"/>
+<area shape="rect" id="node93" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialSensor.html" title="AP_InertialSensor" alt="" coords="6336,1828,6463,1855"/>
+<area shape="rect" id="node106" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html" title="DataFlash_Class" alt="" coords="4553,1731,4675,1758"/>
+<area shape="rect" id="node116" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Param_1_1Info.html" title="AP_Param::Info" alt="" coords="4769,601,4883,627"/>
+<area shape="rect" id="node119" href="/home/ubuntu/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html" title="GCS_MAVLINK" alt="" coords="4499,1393,4617,1419"/>
+<area shape="rect" id="node123" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__BattMonitor.html" title="AP_BattMonitor" alt="" coords="6794,445,6909,471"/>
+<area shape="rect" id="node127" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Airspeed.html" title="AP_Airspeed" alt="" coords="6669,786,6767,813"/>
+<area shape="rect" id="node130" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__GPS.html" title="AP_GPS" alt="" coords="4137,1828,4211,1855"/>
+<area shape="rect" id="node143" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Beacon.html" title="AP_Beacon" alt="" coords="3449,786,3539,813"/>
+<area shape="rect" id="node146" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompass.html" title="Compass" alt="" coords="6337,786,6416,813"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Baro__Backend.html" title="AP_Baro_Backend" alt="" coords="4395,979,4527,1006"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Baro_1_1sensor.html" title="AP_Baro::sensor" alt="" coords="4691,445,4812,471"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDerivativeFilter.html" title="DerivativeFilter\&lt; float, 7 \&gt;" alt="" coords="4089,445,4264,471"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classFilterWithBuffer.html" title="FilterWithBuffer\&lt; float,\l FILTER_SIZE \&gt;" alt="" coords="186,276,341,317"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classFilter.html" title="Filter\&lt; float \&gt;" alt="" coords="213,157,313,184"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="5165,786,5311,813"/>
+<area shape="rect" id="node53" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__RangeFinder__Backend.html" title="AP_RangeFinder_Backend" alt="" coords="5226,979,5405,1006"/>
+<area shape="rect" id="node90" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow__backend.html" title="OpticalFlow_backend" alt="" coords="5678,1611,5825,1638"/>
+<area shape="rect" id="node98" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialSensor__Backend.html" title="AP_InertialSensor_Backend" alt="" coords="6208,1917,6393,1944"/>
+<area shape="rect" id="node128" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Airspeed__Backend.html" title="AP_Airspeed_Backend" alt="" coords="6665,979,6821,1006"/>
+<area shape="rect" id="node150" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Compass__Backend.html" title="AP_Compass_Backend" alt="" coords="6369,979,6531,1006"/>
+<area shape="rect" id="node112" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDFMessageWriter__WriteEntireMission.html" title="DFMessageWriter_WriteEntire\lMission" alt="" coords="3270,1385,3470,1427"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classStorageAccess.html" title="StorageAccess" alt="" coords="4181,979,4292,1006"/>
+<area shape="rect" id="node115" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Param.html" title="AP_Param" alt="" coords="4219,1202,4305,1229"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Mission__Command.html" title="AP_Mission::Mission\l_Command" alt="" coords="1908,972,2053,1013"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$unionAP__Mission_1_1Content.html" title="AP_Mission::Content" alt="" coords="1907,786,2054,813"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Guided__Limits__Command.html" title="AP_Mission::Guided\l_Limits_Command" alt="" coords="441,437,582,479"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Mount__Control.html" title="AP_Mission::Mount_Control" alt="" coords="607,445,792,471"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Repeat__Relay__Command.html" title="AP_Mission::Repeat\l_Relay_Command" alt="" coords="816,437,959,479"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Do__VTOL__Transition.html" title="AP_Mission::Do_VTOL\l_Transition" alt="" coords="983,437,1141,479"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Conditional__Distance__Command.html" title="AP_Mission::Conditional\l_Distance_Command" alt="" coords="1166,437,1331,479"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Set__Servo__Command.html" title="AP_Mission::Set_Servo\l_Command" alt="" coords="1356,437,1517,479"/>
+<area shape="rect" id="node22" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Navigation__Delay__Command.html" title="AP_Mission::Navigation\l_Delay_Command" alt="" coords="1542,437,1705,479"/>
+<area shape="rect" id="node23" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Change__Speed__Command.html" title="AP_Mission::Change\l_Speed_Command" alt="" coords="1729,437,1875,479"/>
+<area shape="rect" id="node24" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Cam__Trigg__Distance.html" title="AP_Mission::Cam_Trigg\l_Distance" alt="" coords="1899,437,2063,479"/>
+<area shape="rect" id="node25" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Conditional__Delay__Command.html" title="AP_Mission::Conditional\l_Delay_Command" alt="" coords="2087,437,2253,479"/>
+<area shape="rect" id="node26" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Jump__Command.html" title="AP_Mission::Jump_Command" alt="" coords="2276,445,2475,471"/>
+<area shape="rect" id="node27" href="/home/ubuntu/ardupilot/docs/tags/libraries$structLocation.html" title="Location" alt="" coords="7107,445,7177,471"/>
+<area shape="rect" id="node54" href="/home/ubuntu/ardupilot/docs/tags/libraries$classNavEKF2__core.html" title="NavEKF2_core" alt="" coords="8325,1393,8436,1419"/>
+<area shape="rect" id="node75" href="/home/ubuntu/ardupilot/docs/tags/libraries$classNavEKF3__core.html" title="NavEKF3_core" alt="" coords="10675,1393,10785,1419"/>
+<area shape="rect" id="node141" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__GPS_1_1GPS__State.html" title="AP_GPS::GPS_State" alt="" coords="4963,913,5113,939"/>
+<area shape="rect" id="node28" href="/home/ubuntu/ardupilot/docs/tags/libraries$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="7075,283,7230,310"/>
+<area shape="rect" id="node29" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Digicam__Configure.html" title="AP_Mission::Digicam\l_Configure" alt="" coords="2499,437,2647,479"/>
+<area shape="rect" id="node30" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Set__Relay__Command.html" title="AP_Mission::Set_Relay\l_Command" alt="" coords="2671,437,2832,479"/>
+<area shape="rect" id="node31" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Yaw__Command.html" title="AP_Mission::Yaw_Command" alt="" coords="2856,445,3049,471"/>
+<area shape="rect" id="node32" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Do__Engine__Control.html" title="AP_Mission::Do_Engine\l_Control" alt="" coords="3073,437,3237,479"/>
+<area shape="rect" id="node33" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Gripper__Command.html" title="AP_Mission::Gripper\l_Command" alt="" coords="3261,437,3404,479"/>
+<area shape="rect" id="node34" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Digicam__Control.html" title="AP_Mission::Digicam\l_Control" alt="" coords="3428,437,3576,479"/>
+<area shape="rect" id="node35" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Repeat__Servo__Command.html" title="AP_Mission::Repeat\l_Servo_Command" alt="" coords="275,437,417,479"/>
+<area shape="rect" id="node36" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1Mission__Flags.html" title="AP_Mission::Mission\l_Flags" alt="" coords="3859,972,4004,1013"/>
+<area shape="rect" id="node43" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html" title="AP_AHRS_DCM" alt="" coords="6697,1202,6819,1229"/>
+<area shape="rect" id="node92" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__View.html" title="AP_AHRS_View" alt="" coords="6329,1202,6451,1229"/>
+<area shape="rect" id="node122" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Frsky__Telem.html" title="AP_Frsky_Telem" alt="" coords="5455,1202,5578,1229"/>
+<area shape="rect" id="node38" href="/home/ubuntu/ardupilot/docs/tags/libraries$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="7573,283,7687,310"/>
+<area shape="rect" id="node42" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html" title="AP_AHRS_NavEKF" alt="" coords="5940,1393,6083,1419"/>
+<area shape="rect" id="node129" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAirspeed__Calibration.html" title="Airspeed_Calibration" alt="" coords="7693,445,7836,471"/>
+<area shape="rect" id="node39" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="7771,157,7887,184"/>
+<area shape="rect" id="node57" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF2__core_1_1rng__bcn__elements.html" title="NavEKF2_core::rng_bcn\l_elements" alt="" coords="11341,1053,11506,1095"/>
+<area shape="rect" id="node58" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF2__core_1_1of__elements.html" title="NavEKF2_core::of_elements" alt="" coords="9823,979,10013,1006"/>
+<area shape="rect" id="node62" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF2__core_1_1state__elements.html" title="NavEKF2_core::state\l_elements" alt="" coords="10225,972,10373,1013"/>
+<area shape="rect" id="node65" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF2__core_1_1output__elements.html" title="NavEKF2_core::output\l_elements" alt="" coords="10478,972,10633,1013"/>
+<area shape="rect" id="node76" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF3__core_1_1output__elements.html" title="NavEKF3_core::output\l_elements" alt="" coords="11197,972,11351,1013"/>
+<area shape="rect" id="node78" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF3__core_1_1state__elements.html" title="NavEKF3_core::state\l_elements" alt="" coords="10759,972,10907,1013"/>
+<area shape="rect" id="node80" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF3__core_1_1rng__bcn__elements.html" title="NavEKF3_core::rng_bcn\l_elements" alt="" coords="11697,341,11862,383"/>
+<area shape="rect" id="node83" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF3__core_1_1of__elements.html" title="NavEKF3_core::of_elements" alt="" coords="10931,979,11121,1006"/>
+<area shape="rect" id="node88" href="/home/ubuntu/ardupilot/docs/tags/libraries$structSITL_1_1sitl__fdm.html" title="SITL::sitl_fdm" alt="" coords="4678,283,4782,310"/>
+<area shape="rect" id="node97" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDigitalLPF.html" title="DigitalLPF\&lt; Vector3\l\&lt; float \&gt; \&gt;" alt="" coords="12436,276,12576,317"/>
+<area shape="rect" id="node100" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDigitalBiquadFilter.html" title="DigitalBiquadFilter\l\&lt; Vector3\&lt; float \&gt; \&gt;" alt="" coords="6141,276,6281,317"/>
+<area shape="rect" id="node103" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAccelCalibrator_1_1param__t.html" title="AccelCalibrator::param_t" alt="" coords="12168,283,12335,310"/>
+<area shape="rect" id="node105" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAccelCalibrator_1_1AccelSample.html" title="AccelCalibrator::AccelSample" alt="" coords="11869,349,12065,375"/>
+<area shape="rect" id="node145" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Beacon_1_1BeaconState.html" title="AP_Beacon::BeaconState" alt="" coords="3589,349,3764,375"/>
+<area shape="rect" id="node148" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompassCalibrator_1_1param__t.html" title="CompassCalibrator::\lparam_t" alt="" coords="6644,276,6787,317"/>
+<area shape="rect" id="node151" href="/home/ubuntu/ardupilot/docs/tags/libraries$structCompass_1_1mag__state.html" title="Compass::mag_state" alt="" coords="4341,283,4487,310"/>
+<area shape="rect" id="node40" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__AHRS_1_1ahrs__flags.html" title="AP_AHRS::ahrs_flags" alt="" coords="6440,786,6593,813"/>
+<area shape="rect" id="node44" href="/home/ubuntu/ardupilot/docs/tags/libraries$structVector2.html" title="Vector2\&lt; float \&gt;" alt="" coords="7643,786,7759,813"/>
+<area shape="rect" id="node89" href="/home/ubuntu/ardupilot/docs/tags/libraries$structOpticalFlow_1_1OpticalFlow__state.html" title="OpticalFlow::OpticalFlow\l_state" alt="" coords="6665,1320,6833,1361"/>
+<area shape="rect" id="node48" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="8,283,161,310"/>
+<area shape="rect" id="node140" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__GPS__Backend.html" title="AP_GPS_Backend" alt="" coords="4107,1917,4241,1944"/>
+<area shape="rect" id="node49" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="5,157,164,184"/>
+<area shape="rect" id="node50" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="23,81,146,108"/>
+<area shape="rect" id="node51" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="31,5,139,32"/>
+<area shape="rect" id="node52" href="/home/ubuntu/ardupilot/docs/tags/libraries$structRangeFinder_1_1RangeFinder__State.html" title="RangeFinder::RangeFinder\l_State" alt="" coords="5406,437,5585,479"/>
+<area shape="rect" id="node55" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l gps_elements \&gt;" alt="" coords="8746,1195,8877,1236"/>
+<area shape="rect" id="node56" href="/home/ubuntu/ardupilot/docs/tags/libraries$structobs__ring__buffer__t_1_1element__t.html" title="obs_ring_buffer_t::\lelement_t" alt="" coords="8577,972,8707,1013"/>
+<area shape="rect" id="node61" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l baro_elements \&gt;" alt="" coords="8591,1195,8722,1236"/>
+<area shape="rect" id="node63" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF2_core::of_elements \&gt;" alt="" coords="7783,1195,7989,1236"/>
+<area shape="rect" id="node66" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF2_core::rng_bcn\l_elements \&gt;" alt="" coords="8013,1187,8183,1243"/>
+<area shape="rect" id="node67" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF2_core::range\l_elements \&gt;" alt="" coords="8258,1187,8413,1243"/>
+<area shape="rect" id="node68" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF2_core::tas_elements \&gt;" alt="" coords="7097,1195,7310,1236"/>
+<area shape="rect" id="node73" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l mag_elements \&gt;" alt="" coords="8437,1195,8567,1236"/>
+<area shape="rect" id="node77" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF3_core::of_elements \&gt;" alt="" coords="9277,1195,9484,1236"/>
+<area shape="rect" id="node79" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF3_core::range\l_elements \&gt;" alt="" coords="9509,1187,9663,1243"/>
+<area shape="rect" id="node82" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF3_core::rng_bcn\l_elements \&gt;" alt="" coords="9688,1187,9857,1243"/>
+<area shape="rect" id="node86" href="/home/ubuntu/ardupilot/docs/tags/libraries$classobs__ring__buffer__t.html" title="obs_ring_buffer_t\&lt;\l NavEKF3_core::tas_elements \&gt;" alt="" coords="9882,1195,10095,1236"/>
+<area shape="rect" id="node59" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF2__core_1_1tas__elements.html" title="NavEKF2_core::tas_elements" alt="" coords="7510,1202,7707,1229"/>
+<area shape="rect" id="node60" href="/home/ubuntu/ardupilot/docs/tags/libraries$classQuaternion.html" title="Quaternion" alt="" coords="10610,786,10695,813"/>
+<area shape="rect" id="node64" href="/home/ubuntu/ardupilot/docs/tags/libraries$unionnav__filter__status.html" title="nav_filter_status" alt="" coords="9135,1202,9253,1229"/>
+<area shape="rect" id="node69" href="/home/ubuntu/ardupilot/docs/tags/libraries$classimu__ring__buffer__t.html" title="imu_ring_buffer_t\&lt;\l imu_elements \&gt;" alt="" coords="10119,1195,10250,1236"/>
+<area shape="rect" id="node70" href="/home/ubuntu/ardupilot/docs/tags/libraries$structimu__ring__buffer__t_1_1element__t.html" title="imu_ring_buffer_t::\lelement_t" alt="" coords="9667,972,9798,1013"/>
+<area shape="rect" id="node72" href="/home/ubuntu/ardupilot/docs/tags/libraries$classimu__ring__buffer__t.html" title="imu_ring_buffer_t\&lt;\l NavEKF2_core::output\l_elements \&gt;" alt="" coords="8952,1187,9111,1243"/>
+<area shape="rect" id="node85" href="/home/ubuntu/ardupilot/docs/tags/libraries$classimu__ring__buffer__t.html" title="imu_ring_buffer_t\&lt;\l NavEKF3_core::output\l_elements \&gt;" alt="" coords="10693,1187,10852,1243"/>
+<area shape="rect" id="node71" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF2__core_1_1range__elements.html" title="NavEKF2_core::range\l_elements" alt="" coords="7335,1195,7485,1236"/>
+<area shape="rect" id="node81" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF3__core_1_1tas__elements.html" title="NavEKF3_core::tas_elements" alt="" coords="11714,1202,11911,1229"/>
+<area shape="rect" id="node84" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNavEKF3__core_1_1range__elements.html" title="NavEKF3_core::range\l_elements" alt="" coords="11936,1195,12087,1236"/>
+<area shape="rect" id="node91" href="/home/ubuntu/ardupilot/docs/tags/libraries$structOpticalFlow_1_1AP__OpticalFlow__Flags.html" title="OpticalFlow::AP_OpticalFlow\l_Flags" alt="" coords="5671,1385,5864,1427"/>
+<area shape="rect" id="node94" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AccelCal__Client.html" title="AP_AccelCal_Client" alt="" coords="6219,1611,6361,1638"/>
+<area shape="rect" id="node118" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AccelCal.html" title="AP_AccelCal" alt="" coords="6211,1731,6311,1758"/>
+<area shape="rect" id="node95" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__InertialSensor_1_1PeakHoldState.html" title="AP_InertialSensor::\lPeakHoldState" alt="" coords="12200,1724,12335,1765"/>
+<area shape="rect" id="node96" href="/home/ubuntu/ardupilot/docs/tags/libraries$classLowPassFilter.html" title="LowPassFilter\&lt; Vector3f \&gt;" alt="" coords="12417,1451,12595,1477"/>
+<area shape="rect" id="node99" href="/home/ubuntu/ardupilot/docs/tags/libraries$classLowPassFilter2p.html" title="LowPassFilter2p\&lt; Vector3f \&gt;" alt="" coords="6130,1552,6322,1579"/>
+<area shape="rect" id="node101" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAccelCalibrator.html" title="AccelCalibrator" alt="" coords="12120,786,12231,813"/>
+<area shape="rect" id="node102" href="/home/ubuntu/ardupilot/docs/tags/libraries$unionAccelCalibrator_1_1param__u.html" title="AccelCalibrator::param_u" alt="" coords="12165,445,12335,471"/>
+<area shape="rect" id="node104" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVectorN.html" title="VectorN\&lt; float, ACCEL\l_CAL_MAX_NUM_PARAMS \&gt;" alt="" coords="11938,276,12143,317"/>
+<area shape="rect" id="node109" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Backend.html" title="DataFlash_Backend" alt="" coords="4300,1611,4440,1638"/>
+<area shape="rect" id="node107" href="/home/ubuntu/ardupilot/docs/tags/libraries$structDataFlash__Class_1_1log__write__fmt.html" title="DataFlash_Class::log\l_write_fmt" alt="" coords="4464,1604,4612,1645"/>
+<area shape="rect" id="node108" href="/home/ubuntu/ardupilot/docs/tags/libraries$structLogStructure.html" title="LogStructure" alt="" coords="4690,1611,4786,1638"/>
+<area shape="rect" id="node111" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDFMessageWriter.html" title="DFMessageWriter" alt="" coords="3018,1731,3146,1758"/>
+<area shape="rect" id="node110" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDFMessageWriter__DFLogStart.html" title="DFMessageWriter_DFLogStart" alt="" coords="4166,1501,4369,1528"/>
+<area shape="rect" id="node113" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDFMessageWriter__WriteSysInfo.html" title="DFMessageWriter_WriteSysInfo" alt="" coords="3373,1828,3583,1855"/>
+<area shape="rect" id="node114" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Param_1_1ParamToken.html" title="AP_Param::ParamToken" alt="" coords="4676,1202,4843,1229"/>
+<area shape="rect" id="node117" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Param_1_1param__override.html" title="AP_Param::param_override" alt="" coords="4000,1393,4183,1419"/>
+<area shape="rect" id="node120" href="/home/ubuntu/ardupilot/docs/tags/libraries$classMAVLink__routing.html" title="MAVLink_routing" alt="" coords="5649,1202,5771,1229"/>
+<area shape="rect" id="node121" href="/home/ubuntu/ardupilot/docs/tags/libraries$structMAVLink__routing_1_1route.html" title="MAVLink_routing::route" alt="" coords="5679,979,5837,1006"/>
+<area shape="rect" id="node125" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__BattMonitor__Backend.html" title="AP_BattMonitor_Backend" alt="" coords="6843,786,7015,813"/>
+<area shape="rect" id="node124" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__BattMonitor_1_1BattMonitor__State.html" title="AP_BattMonitor::BattMonitor\l_State" alt="" coords="6862,276,7051,317"/>
+<area shape="rect" id="node126" href="/home/ubuntu/ardupilot/docs/tags/libraries$classObjectArray.html" title="ObjectArray\&lt; mavlink\l_statustext_t \&gt;" alt="" coords="5507,972,5655,1013"/>
+<area shape="rect" id="node131" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__GPS_1_1detect__state.html" title="AP_GPS::detect_state" alt="" coords="3767,1731,3922,1758"/>
+<area shape="rect" id="node132" href="/home/ubuntu/ardupilot/docs/tags/libraries$structSBP__detect__state.html" title="SBP_detect_state" alt="" coords="4085,1611,4213,1638"/>
+<area shape="rect" id="node133" href="/home/ubuntu/ardupilot/docs/tags/libraries$structUBLOX__detect__state.html" title="UBLOX_detect_state" alt="" coords="3119,1611,3266,1638"/>
+<area shape="rect" id="node134" href="/home/ubuntu/ardupilot/docs/tags/libraries$structSIRF__detect__state.html" title="SIRF_detect_state" alt="" coords="3291,1611,3423,1638"/>
+<area shape="rect" id="node135" href="/home/ubuntu/ardupilot/docs/tags/libraries$structMTK19__detect__state.html" title="MTK19_detect_state" alt="" coords="3447,1611,3589,1638"/>
+<area shape="rect" id="node136" href="/home/ubuntu/ardupilot/docs/tags/libraries$structERB__detect__state.html" title="ERB_detect_state" alt="" coords="3613,1611,3743,1638"/>
+<area shape="rect" id="node137" href="/home/ubuntu/ardupilot/docs/tags/libraries$structNMEA__detect__state.html" title="NMEA_detect_state" alt="" coords="3767,1611,3907,1638"/>
+<area shape="rect" id="node138" href="/home/ubuntu/ardupilot/docs/tags/libraries$structMTK__detect__state.html" title="MTK_detect_state" alt="" coords="3931,1611,4060,1638"/>
+<area shape="rect" id="node139" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__GPS_1_1GPS__timing.html" title="AP_GPS::GPS_timing" alt="" coords="3589,1731,3743,1758"/>
+<area shape="rect" id="node142" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__GPS_1_1rtcm__buffer.html" title="AP_GPS::rtcm_buffer" alt="" coords="4207,1731,4357,1758"/>
+<area shape="rect" id="node144" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Beacon__Backend.html" title="AP_Beacon_Backend" alt="" coords="3230,979,3379,1006"/>
+<area shape="rect" id="node147" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompassCalibrator.html" title="CompassCalibrator" alt="" coords="6477,445,6612,471"/>
+<area shape="rect" id="node149" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompassCalibrator_1_1CompassSample.html" title="CompassCalibrator::\lCompassSample" alt="" coords="6477,276,6620,317"/>
+<area shape="rect" id="node152" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVector3.html" title="Vector3\&lt; int16_t \&gt;" alt="" coords="4141,157,4271,184"/>
+<area shape="rect" id="node153" href="/home/ubuntu/ardupilot/docs/tags/libraries$structAP__Mission_1_1jump__tracking__struct.html" title="AP_Mission::jump_tracking\l_struct" alt="" coords="3653,972,3834,1013"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SRV_Channels::move_servo" name="SRV_Channels::move_servo">
+<area shape="rect" id="node2" href="$classAP__Mount__Servo.html#aa03d61822081680668287a8519d658fd" title="move_servo &#45; moves servo with the given id to the specified angle. all angles are in degrees * 10 ..." alt="" coords="205,5,369,47"/>
+<area shape="rect" id="node5" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity " alt="" coords="217,71,357,98"/>
+<area shape="rect" id="node3" href="$classAP__Mount__Servo.html#a8f4caa1ed68b0062d25e60c42b333995" title="AP_Mount_Servo::update" alt="" coords="425,13,596,39"/>
+<area shape="rect" id="node4" href="$classAP__Mount__Servo.html#acb4dd349df7e7697f302a617bd047a47" title="AP_Mount_Servo::AP\l_Mount_Servo" alt="" coords="652,5,803,47"/>
+<area shape="rect" id="node6" href="$classAC__Sprayer.html#a6655f109faaab8b29fa923f7112887c0" title="To&#45;Do: add function to decode pilot input from channel 6 tuning knob. " alt="" coords="417,71,604,98"/>
+</map>

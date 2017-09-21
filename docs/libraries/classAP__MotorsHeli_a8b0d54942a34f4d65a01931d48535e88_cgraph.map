@@ -1,0 +1,24 @@
+<map id="AP_MotorsHeli::ext_gyro_gain" name="AP_MotorsHeli::ext_gyro_gain">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#aabf1cf894dcf76abdb3683a5d68840de" title="AP_MotorsHeli::output" alt="" coords="189,363,344,389"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#a5ed8521057219c21ce54ff5271237cb4" title="AP_MotorsHeli::update\l_throttle_filter" alt="" coords="399,74,556,115"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli.html#ad24b8feac8506219725a1d051edb744e" title="AP_MotorsHeli::calculate\l_armed_scalars" alt="" coords="392,486,563,527"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title="AP_MotorsHeli::output\l_armed_zero_throttle" alt="" coords="400,421,555,462"/>
+<area shape="rect" id="node21" href="$classAP__MotorsHeli.html#a85918ee9be140eee1738ca2898fc6513" title="AP_MotorsHeli::output\l_armed_stabilizing" alt="" coords="400,355,555,397"/>
+<area shape="rect" id="node22" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title="AP_MotorsHeli::output\l_disarmed" alt="" coords="400,265,555,306"/>
+<area shape="rect" id="node4" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title="LowPassFilter::apply" alt="" coords="628,5,772,32"/>
+<area shape="rect" id="node5" href="$classLowPassFilter.html#af4fadecd2b4865888d6262f2fe67f8d1" title="LowPassFilter::get" alt="" coords="857,103,988,129"/>
+<area shape="rect" id="node6" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title="LowPassFilter::reset" alt="" coords="629,107,771,133"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli.html#ade550578da44ebca78eca8323870142c" title="AP_MotorsHeli::reset\l_flight_controls" alt="" coords="627,493,773,534"/>
+<area shape="rect" id="node12" href="$classAP__MotorsHeli.html#ab71c94d1850c9749dc45388b3b4578de" title="AP_MotorsHeli::move\l_actuators" alt="" coords="625,310,775,351"/>
+<area shape="rect" id="node13" href="$classAP__Motors.html#a82a340f9ada90ee7399c857b3464e11a" title="AP_Motors::get_throttle" alt="" coords="620,441,780,468"/>
+<area shape="rect" id="node20" href="$classAP__MotorsHeli.html#adbdf96ff94fe109c7fa24650e3759f19" title="AP_MotorsHeli::update\l_motor_control" alt="" coords="621,375,779,417"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli.html#ace1a63150b1449b08a4d6ac325c0882a" title="AP_MotorsHeli::init\l_outputs" alt="" coords="855,199,990,241"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli.html#a3b035659d70ab36f882f7c9871074b0c" title="AP_MotorsHeli::calculate\l_scalars" alt="" coords="837,314,1008,355"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="869,441,976,468"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1056,441,1169,468"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1229,365,1380,392"/>
+<area shape="rect" id="node17" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1221,416,1388,443"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1223,467,1386,493"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1217,517,1392,544"/>
+<area shape="rect" id="node23" href="$classAP__MotorsHeli.html#ada94ad62a4971929caec17eaf954551f" title="AP_MotorsHeli::servo_test" alt="" coords="611,208,789,235"/>
+</map>

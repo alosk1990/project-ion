@@ -1,0 +1,55 @@
+<map id="AP_AHRS::get_gyro_drift" name="AP_AHRS::get_gyro_drift">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a13ab26b0126885606c1d596072f8af04" title="AP_AHRS::get_gyro_latest" alt="" coords="227,685,409,711"/>
+<area shape="rect" id="node54" href="$classGCS__MAVLINK.html#a12aeb6f84b94ff3f234c9b97a7936fbd" title="GCS_MAVLINK::send_ahrs" alt="" coords="225,735,411,762"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__View.html#aec99fce6a0287cfe2542ed2b7459d4d1" title="AP_AHRS_View::get_gyro\l_latest" alt="" coords="459,677,637,719"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Heli.html#a38cb1684d4155d8f1f319d7385d3f2c6" title="AC_AttitudeControl\l_Heli::rate_controller_run" alt="" coords="691,644,858,685"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl__Multi.html#a5b0f032a592442fb04a83ac254442b4c" title="AC_AttitudeControl\l_Multi::rate_controller_run" alt="" coords="689,709,861,751"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl__Sub.html#a448de11eb6f1caa81c9195c8e958ca37" title="AC_AttitudeControl\l_Sub::rate_controller_run" alt="" coords="691,777,858,819"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__View.html#aa83be8ece5cb8f54f9f7eba7839588b6" title="AP_AHRS_View::get_gyro" alt="" coords="685,254,864,281"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Heli.html#aae3cc5dc6f4db3bdb7d17b9d7f54f371" title="AC_AttitudeControl\l_Heli::get_rate_yaw_pid" alt="" coords="1579,233,1741,275"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl__Multi.html#a6318b45690210c7514bb5aae5dfd0904" title="AC_AttitudeControl\l_Multi::is_throttle\l_mix_min" alt="" coords="932,702,1067,758"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl__Sub.html#a5d384f89e97c92b0c0d62277b2de982e" title="AC_AttitudeControl\l_Sub::is_throttle_mix_min" alt="" coords="913,781,1086,823"/>
+<area shape="rect" id="node11" href="$classAC__AttitudeControl.html#ad5f06ff5ba37d9af1afdb1ab18827a06" title="AC_AttitudeControl\l::relax_attitude_controllers" alt="" coords="912,71,1087,112"/>
+<area shape="rect" id="node15" href="$classAC__AttitudeControl.html#a7b9cf8568575052931b43054717b4f87" title="AC_AttitudeControl\l::attitude_controller\l_run_quat" alt="" coords="932,411,1067,467"/>
+<area shape="rect" id="node52" href="$classAC__AttitudeControl__Heli.html#a3741c5f0deabfef2c6889171b5c4a217" title="AC_AttitudeControl\l_Heli::passthrough_bf\l_roll_pitch_rate_yaw" alt="" coords="1158,187,1307,243"/>
+<area shape="rect" id="node53" href="$classAC__AttitudeControl__Heli.html#a3265956995cc26998ae6e816e37d974f" title="AC_AttitudeControl\l_Heli::integrate_bf\l_rate_error_to_angle\l_errors" alt="" coords="929,159,1069,229"/>
+<area shape="rect" id="node12" href="$classAC__AttitudeControl.html#a4d838134584cd11d89b7e65848624d58" title="AC_AttitudeControl\l::save_accel_yaw_max" alt="" coords="1153,71,1312,112"/>
+<area shape="rect" id="node13" href="$classAC__AttitudeControl.html#a76dacd70bc0485c1046bf0c948bc0156" title="AC_AttitudeControl\l::set_throttle_out_unstabilized" alt="" coords="1135,5,1331,47"/>
+<area shape="rect" id="node14" href="$classAC__AttitudeControl.html#a4b0e45d449268c319b63534dccebe134" title="AC_AttitudeControl\l::get_bf_feedforward" alt="" coords="1384,5,1525,47"/>
+<area shape="rect" id="node16" href="$classAC__AttitudeControl.html#a33492a0f71a317f64c14332075a6d3ec" title="AC_AttitudeControl\l::input_euler_angle\l_roll_pitch_euler_rate_yaw" alt="" coords="1145,411,1321,467"/>
+<area shape="rect" id="node18" href="$classAC__AttitudeControl.html#aadd2cdd6b18aceaea1134d99ef870b18" title="AC_AttitudeControl\l::input_euler_angle\l_roll_pitch_yaw" alt="" coords="1165,491,1300,547"/>
+<area shape="rect" id="node19" href="$classAC__AttitudeControl.html#a49cd1e5d7c1a3550080c9ccca6ce8da8" title="AC_AttitudeControl\l::input_euler_rate_roll\l_pitch_yaw" alt="" coords="1159,571,1306,627"/>
+<area shape="rect" id="node20" href="$classAC__AttitudeControl.html#afb04b29d33ac55ff34c03e2209c61b27" title="AC_AttitudeControl\l::input_quaternion" alt="" coords="1165,347,1300,388"/>
+<area shape="rect" id="node21" href="$classAC__AttitudeControl.html#a2ca277e7c4a5ac2980814673aae2d037" title="AC_AttitudeControl\l::input_rate_bf_roll\l_pitch_yaw" alt="" coords="1165,267,1300,323"/>
+<area shape="rect" id="node23" href="$classAC__AttitudeControl.html#a080c9527e2d43eac62e370fbe61eaa8d" title="AC_AttitudeControl\l::lean_angle_max" alt="" coords="1165,703,1300,744"/>
+<area shape="rect" id="node17" href="$classAC__AttitudeControl.html#a5d0d15f6a4e5321e8102528b1a67fa0a" title="AC_AttitudeControl\l::set_yaw_target_to\l_current_heading" alt="" coords="1386,411,1523,467"/>
+<area shape="rect" id="node22" href="$classAC__AttitudeControl__Heli.html#aa78e07c940c43aa150caf3c52cf76809" title="AC_AttitudeControl\l_Heli::input_rate_bf\l_roll_pitch_yaw" alt="" coords="1387,261,1522,317"/>
+<area shape="rect" id="node24" href="$classAC__PosControl.html#ab7a53930119bbcbb951f982fcb8d3ce1" title="AC_PosControl::accel\l_to_lean_angles" alt="" coords="1379,703,1531,744"/>
+<area shape="rect" id="node51" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title="AC_WPNav::wp_and_spline_init" alt="" coords="1789,850,2001,877"/>
+<area shape="rect" id="node25" href="$classAC__PosControl.html#ad89eec74ef77005f3f5c449da98ad12c" title="AC_PosControl::update\l_vel_controller_xyz" alt="" coords="1580,703,1740,744"/>
+<area shape="rect" id="node33" href="$classAC__PosControl.html#a497c1799c10d146b6f2e2b542889c083" title="update_xy_controller &#45; run the horizontal position controller &#45; should be called at 100hz or higher ..." alt="" coords="2558,627,2718,668"/>
+<area shape="rect" id="node26" href="$classAC__PosControl.html#ac150947d527995a72dff6ad0921a1891" title="freeze_ff_xy &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="1817,744,1974,785"/>
+<area shape="rect" id="node27" href="$classAC__WPNav.html#a9b3fd8fd5c74d31ebffa89cdf98f570a" title="loiter_soften_for_landing &#45; reduce response for landing " alt="" coords="2049,861,2223,903"/>
+<area shape="rect" id="node29" href="$classAC__PosControl.html#a26ec8e9313b7c01fa449ba4f2d194d28" title="AC_PosControl::set\l_desired_velocity" alt="" coords="2067,927,2205,968"/>
+<area shape="rect" id="node31" href="$classAC__PosControl.html#a0a3dc64da9e355dea10959cb41e6aa8b" title="shift position target target in x, y axis " alt="" coords="2063,744,2209,785"/>
+<area shape="rect" id="node39" href="$classAC__WPNav.html#acc138e7bc6435087ab308896358de6a3" title="update_spline &#45; update spline controller " alt="" coords="2795,525,2978,551"/>
+<area shape="rect" id="node41" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher " alt="" coords="2793,579,2980,606"/>
+<area shape="rect" id="node49" href="$classAC__WPNav.html#a7ebe48af2381e791cbcdea94c7af2e3e" title="AC_WPNav::shift_wp\l_origin_to_current_pos" alt="" coords="2561,979,2715,1020"/>
+<area shape="rect" id="node28" href="$classAC__WPNav.html#af37186ad98df47275d15c04761f81ab4" title="provide rangefinder altitude " alt="" coords="2271,869,2483,895"/>
+<area shape="rect" id="node30" href="$classAC__PosControl.html#ae2897de0075f8f8aaa94eb7e8cad100b" title="xyz velocity controller " alt="" coords="2307,952,2446,993"/>
+<area shape="rect" id="node32" href="$classAC__PosControl.html#adcd8a80dc29c0e77d0c3f225689319b9" title="check for ekf position reset and adjust loiter or brake target position " alt="" coords="2299,627,2455,668"/>
+<area shape="rect" id="node43" href="$classAC__PosControl.html#a6b3617b946ffd6935c11a63629f186ec" title="get_pos_target &#45; get target as position vector (from home in cm) " alt="" coords="2307,744,2446,785"/>
+<area shape="rect" id="node34" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller " alt="" coords="2822,634,2951,661"/>
+<area shape="rect" id="node36" href="$classAC__WPNav.html#af9d3f98ad44166d4c5d072bf3ba4a3db" title="update_brake &#45; run the brake controller &#45; should be called at 400hz " alt="" coords="2797,735,2977,762"/>
+<area shape="rect" id="node38" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="2799,685,2975,711"/>
+<area shape="rect" id="node35" href="$classAC__Circle.html#a176fe6b798510eb180d35f62d7f6487c" title="get_angle_total &#45; return total angle in radians that vehicle has circled " alt="" coords="3049,637,3196,679"/>
+<area shape="rect" id="node37" href="$classAC__WPNav.html#ae34a88192799de8f2b96c8cd295bb971" title="get_loiter_target &#45; returns loiter target position " alt="" coords="3045,824,3200,865"/>
+<area shape="rect" id="node40" href="$classAC__WPNav.html#a3169a6fb417742e33c3a5197bb7a6c6d" title="reached_spline_destination &#45; true when we have come within RADIUS cm of the waypoint ..." alt="" coords="3028,507,3217,548"/>
+<area shape="rect" id="node42" href="$classAC__WPNav.html#a4795d6f44811c6ca8b592c5cc098e0c0" title="set_fast_waypoint &#45; set to true to ignore the waypoint radius and consider the waypoint &#39;reached&#39; the..." alt="" coords="3048,572,3197,613"/>
+<area shape="rect" id="node44" href="$classAC__WPNav.html#a7f711c7661c335417cbcc28f9546688c" title="get_loiter_bearing_to_target &#45; get bearing to loiter target in centi&#45;degrees " alt="" coords="2561,744,2715,785"/>
+<area shape="rect" id="node46" href="$classAC__Circle.html#a20eefa0e2e7172498728dbf1f5eed4af" title="AC_Circle::init" alt="" coords="2585,810,2691,837"/>
+<area shape="rect" id="node47" href="$classAC__WPNav.html#a8caabd95cf51512456cd8d81f38dbff9" title="AC_WPNav::set_spline\l_destination" alt="" coords="2557,861,2719,903"/>
+<area shape="rect" id="node48" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title="AC_WPNav::set_wp_destination" alt="" coords="2531,693,2745,719"/>
+<area shape="rect" id="node45" href="$classAC__WPNav.html#a828016e98938c6bbb6236e0b92e20807" title="get_loiter_distance_to_target &#45; get horizontal distance to loiter target in cm " alt="" coords="2809,787,2964,828"/>
+<area shape="rect" id="node50" href="$classAC__WPNav.html#acc07b8521654cf468b6a86fad9104a4c" title="get origin using position vector (distance from home in cm) " alt="" coords="2795,986,2978,1013"/>
+</map>

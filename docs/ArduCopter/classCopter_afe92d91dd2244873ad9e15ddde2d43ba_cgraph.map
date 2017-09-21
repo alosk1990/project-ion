@@ -1,0 +1,28 @@
+<map id="Copter::tuning" name="Copter::tuning">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channels.html#a6c55102c24c5a570264bf14b1bfdeb35" title="RC_Channels::rc_channel" alt="" coords="167,5,342,32"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channel.html#af03023765299095f9933ac8db99cd571" title="RC_Channel::get_radio_in" alt="" coords="167,56,342,83"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="201,107,308,133"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channel.html#a28435fa792b2a6e187eb8c08d88b929c" title="RC_Channel::get_radio_min" alt="" coords="161,157,348,184"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channel.html#a8e742b258b4b600ec69fa4c5580df20a" title="RC_Channel::get_radio_max" alt="" coords="159,208,350,235"/>
+<area shape="rect" id="node7" href="$classCopter.html#aabc76637ba2da174d6fff06953a1b1d1" title="Copter::Log_Write_Parameter\l_Tuning" alt="" coords="157,259,352,301"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a1b8798db3abdf9b1206ddd48c4313f02" title="AC_AttitudeControl\l::get_angle_roll_p" alt="" coords="187,325,322,366"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title="AC_P::kP" alt="" coords="214,391,295,417"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#ad47f16b998c3a7191dbd81a3e97ddaf6" title="AC_AttitudeControl\l::get_angle_pitch_p" alt="" coords="187,442,322,483"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#ad300b51e0777495496adddd1770ee920" title="AC_AttitudeControl\l::get_rate_roll_pid" alt="" coords="187,507,322,549"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PID.html#ac29a8c72a8618d87886599204dcb5b79" title="AC_PID::kP" alt="" coords="207,573,302,600"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a9e10a37d28eeb3d6476ec087b3bac3df" title="AC_AttitudeControl\l::get_rate_pitch_pid" alt="" coords="187,625,323,666"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PID.html#af27f5e854a44864911720c12c3d1af0a" title="AC_PID::kI" alt="" coords="209,691,300,717"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PID.html#a2d7be199fbc437ee472fad5a4308c668" title="AC_PID::kD" alt="" coords="207,741,303,768"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#ab0c18224d65a40e039632291cdbd3fd6" title="AC_AttitudeControl\l::get_angle_yaw_p" alt="" coords="187,793,322,834"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a9e430ac947e0924fdc83280a4ed552bf" title="AC_AttitudeControl\l::get_rate_yaw_pid" alt="" coords="187,858,322,899"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PI__2D.html#a6fc8b6dbcc6008786a4ee6c37a5e9813" title="AC_PI_2D::kP" alt="" coords="200,924,309,951"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PI__2D.html#aec8e3196098dafb8bb8d62c34484e424" title="AC_PI_2D::kI" alt="" coords="203,975,307,1001"/>
+<area shape="rect" id="node22" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a0ff7209545f3c7169054b2ee79cd4216" title="AC_WPNav::set_speed_xy" alt="" coords="163,1025,346,1052"/>
+<area shape="rect" id="node23" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PID.html#a1838e8fa2d70222ae28972e8a894c711" title="AC_PID::ff" alt="" coords="211,1076,298,1103"/>
+<area shape="rect" id="node24" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompass.html#ac3584d30eca4e60567613c1b09785505" title="Compass::set_declination" alt="" coords="168,1127,341,1153"/>
+<area shape="rect" id="node25" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__Circle.html#a7a8197f509233c0c0cf7a7a4de3999df" title="AC_Circle::set_rate" alt="" coords="186,1177,323,1204"/>
+<area shape="rect" id="node26" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a0e711184b609f06fc54ef26b55e091df" title="AP_AHRS_NavEKF::get\l_NavEKF2" alt="" coords="171,1229,339,1270"/>
+<area shape="rect" id="node27" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PID.html#a1c7a6c6ad6f6f5a4394da332009a7e48" title="AC_PID::filt_hz" alt="" coords="197,1295,312,1321"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title="AP_HAL::micros64" alt="" coords="430,241,565,268"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aed2efc0f40e155bce78f0a9719279bd0" title="DataFlash_Class::WriteBlock" alt="" coords="400,292,595,319"/>
+</map>

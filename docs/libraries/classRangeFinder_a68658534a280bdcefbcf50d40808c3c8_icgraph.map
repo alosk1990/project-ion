@@ -1,0 +1,33 @@
+<map id="RangeFinder::distance_cm_orient" name="RangeFinder::distance_cm_orient">
+<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#a3c83a4edea41e9fa6bd070f668c01836" title="AP_Frsky_Telem::calc\l_attiandrng" alt="" coords="219,90,373,131"/>
+<area shape="rect" id="node6" href="$classRangeFinder.html#a451a7507d534024c72faa2d1b734cb3c" title="RangeFinder::distance_cm" alt="" coords="207,216,385,243"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a9b833af29753a8113e5db32c27da7427" title="AP_Frsky_Telem::send\l_SPort_Passthrough" alt="" coords="463,34,622,75"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title="AP_Frsky_Telem::tick" alt="" coords="720,33,872,60"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="965,33,1113,60"/>
+<area shape="rect" id="node7" href="$classDataFlash__Class.html#af0a21d8a256a8e1e6f9da5566cc5a168" title="DataFlash_Class::Log\l_Write_RFND" alt="" coords="1429,209,1581,250"/>
+<area shape="rect" id="node9" href="$RFIND__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="1016,271,1063,297"/>
+<area shape="rect" id="node10" href="$classNavEKF2__core.html#a0c78437556b4a6020c91db03541e7228" title="NavEKF2_core::readRangeFinder" alt="" coords="433,104,652,131"/>
+<area shape="rect" id="node21" href="$classNavEKF3__core.html#aaaa48f79caab8e511134d29d53f9b5d9" title="NavEKF3_core::readRangeFinder" alt="" coords="433,161,652,188"/>
+<area shape="rect" id="node28" href="$classAP__Proximity__RangeFinder.html#a00972bd55509a984f8a71c4cfdb78445" title="AP_Proximity_RangeFinder\l::update" alt="" coords="1191,377,1373,418"/>
+<area shape="rect" id="node29" href="$classRangeFinder.html#a9a31752438c769ed90299e3a31d01ca0" title="RangeFinder::update\l_pre_arm_check" alt="" coords="471,318,614,359"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="2149,179,2299,221"/>
+<area shape="rect" id="node11" href="$classNavEKF2__core.html#a862c5f00d982bd111047bd3a90d537fd" title="NavEKF2_core::selectHeight\lForFusion" alt="" coords="700,85,892,126"/>
+<area shape="rect" id="node12" href="$classNavEKF2__core.html#aff31047fa71772bca7ce574617ede0f6" title="NavEKF2_core::SelectVelPos\lFusion" alt="" coords="940,85,1139,126"/>
+<area shape="rect" id="node13" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="1187,92,1377,119"/>
+<area shape="rect" id="node14" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="1425,92,1584,119"/>
+<area shape="rect" id="node15" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="1668,107,1825,133"/>
+<area shape="rect" id="node18" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1632,5,1861,32"/>
+<area shape="rect" id="node16" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1929,150,2081,191"/>
+<area shape="rect" id="node17" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1909,99,2101,125"/>
+<area shape="rect" id="node19" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1911,27,2100,53"/>
+<area shape="rect" id="node20" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2201,27,2247,53"/>
+<area shape="rect" id="node22" href="$classNavEKF3__core.html#a01fae89d7fa75988df64635fc572039f" title="NavEKF3_core::selectHeight\lForFusion" alt="" coords="700,150,892,191"/>
+<area shape="rect" id="node23" href="$classNavEKF3__core.html#a8f4723dabc873f7112948a18b290fb01" title="NavEKF3_core::SelectVelPos\lFusion" alt="" coords="940,150,1139,191"/>
+<area shape="rect" id="node24" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title="NavEKF3_core::UpdateFilter" alt="" coords="1187,157,1377,184"/>
+<area shape="rect" id="node25" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="1425,157,1584,184"/>
+<area shape="rect" id="node26" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="1668,157,1825,184"/>
+<area shape="rect" id="node27" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="1632,56,1861,83"/>
+<area shape="rect" id="node30" href="$classRangeFinder.html#a37112967f0252ed7c3fdc42f840761c7" title="RangeFinder::update" alt="" coords="725,325,867,352"/>
+<area shape="rect" id="node31" href="$classRangeFinder.html#a95856f52f03d5234d587600faedcbfaf" title="RangeFinder::num_sensors" alt="" coords="948,325,1131,352"/>
+<area shape="rect" id="node32" href="$RFIND__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1255,325,1309,352"/>
+</map>

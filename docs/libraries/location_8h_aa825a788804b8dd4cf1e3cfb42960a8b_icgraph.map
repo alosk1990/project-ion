@@ -1,0 +1,45 @@
+<map id="get_distance" name="get_distance">
+<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#a387b32af73957b93ce8eb2f4e0d0129f" title="AP_Frsky_Telem::calc_home" alt="" coords="149,31,344,58"/>
+<area shape="rect" id="node6" href="$classAP__Rally.html#a0b93e6b6133860929bbd7b68be633fa3" title="AP_Rally::find_nearest\l_rally_point" alt="" coords="169,100,325,141"/>
+<area shape="rect" id="node8" href="$location_8h.html#ac4acf5d14c42d6255cd005460de4d1ad" title="get_distance_cm" alt="" coords="186,194,307,221"/>
+<area shape="rect" id="node11" href="$classAP__Mission.html#af895b228640bdf29178d44e00897d10e" title="AP_Mission::get_landing\l_sequence_start" alt="" coords="163,296,330,337"/>
+<area shape="rect" id="node16" href="$classSITL_1_1XPlane.html#ab30e1d12c7ebc3699a29f3442804a68b" title="SITL::XPlane::receive_data" alt="" coords="155,434,338,461"/>
+<area shape="rect" id="node19" href="$classSITL_1_1ADSB.html#a210b71834c8e13100fbfbd80468e7135" title="SITL::ADSB::send_report" alt="" coords="161,485,332,511"/>
+<area shape="rect" id="node29" href="$examples_2location_2location_8cpp.html#a2cdcbcb30d47a7c6a9fde641d87a0b0f" title="test_accuracy" alt="" coords="195,535,299,562"/>
+<area shape="rect" id="node31" href="$examples_2location_2location_8cpp.html#af4c4a815e04b2917f9e189120d8b2ad1" title="test_one_offset" alt="" coords="191,586,303,613"/>
+<area shape="rect" id="node33" href="$classAP__Landing.html#a68317a4d27e65aadc7013a9363da5ce3" title="AP_Landing::type_slope\l_adjust_landing_slope\l_for_rangefinder_bump" alt="" coords="641,651,804,707"/>
+<area shape="rect" id="node35" href="$classAP__Landing.html#a1dfa510a03baa86e6814acf6b3c75595" title="AP_Landing::type_slope\l_setup_landing_glide_slope" alt="" coords="156,688,337,729"/>
+<area shape="rect" id="node37" href="$classAP__Landing.html#a7e884642791e4b1f0b9c396b86055a6a" title="AP_Landing::type_slope\l_verify_land" alt="" coords="165,753,328,795"/>
+<area shape="rect" id="node39" href="$classAP__Camera.html#ae4a650d1b1ce924ef7745813af80b103" title="AP_Camera::update_location" alt="" coords="151,885,343,911"/>
+<area shape="rect" id="node41" href="$classAP__Avoidance.html#aacbf1b849eae539e15cd97580590dc99" title="AP_Avoidance::update\l_threat_level" alt="" coords="169,937,324,979"/>
+<area shape="rect" id="node44" href="$classAP__Landing__Deepstall.html#af3cde793ef57477c3468547de0a8a90f" title="AP_Landing_Deepstall\l::verify_land" alt="" coords="169,819,324,860"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a9b833af29753a8113e5db32c27da7427" title="AP_Frsky_Telem::send\l_SPort_Passthrough" alt="" coords="411,5,570,47"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title="AP_Frsky_Telem::tick" alt="" coords="647,13,799,39"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="902,13,1050,39"/>
+<area shape="rect" id="node7" href="$classAP__Rally.html#ae280e2921f301fa4cc3991bc85d91801" title="AP_Rally::calc_best\l_rally_or_home_location" alt="" coords="409,71,572,112"/>
+<area shape="rect" id="node9" href="$classAC__Fence.html#a1ddf2b4968acee81332875003c5ff64d" title="AC_Fence::check_destination\l_within_fence" alt="" coords="392,136,589,177"/>
+<area shape="rect" id="node10" href="$classAC__Fence.html#acdc600f19a3e4eb6de655c26f52e0968" title="enabled &#45; returns true if fence is enabled " alt="" coords="654,143,791,170"/>
+<area shape="rect" id="node12" href="$classAP__Landing.html#a4cb652398231c274e6061aa6b211366b" title="AP_Landing::restart\l_landing_sequence" alt="" coords="422,201,559,243"/>
+<area shape="rect" id="node14" href="$classAP__Mission.html#a05baa29469cdd5a9606903a7c6b3f3c1" title="AP_Mission::jump_to\l_landing_sequence" alt="" coords="417,267,564,308"/>
+<area shape="rect" id="node15" href="$classAP__Mission.html#ad7c38b95e293e4a8304ecf520842e5c7" title="AP_Mission::last_change\l_time_ms" alt="" coords="637,296,808,337"/>
+<area shape="rect" id="node13" href="$classAP__Landing.html#a23d5d937afe630bfa1d3eeea5d767e4b" title="AP_Landing::verify\l_abort_landing" alt="" coords="657,201,789,243"/>
+<area shape="rect" id="node17" href="$classSITL_1_1XPlane.html#abc5e72c8fd3445fcb19b6b1d42ec9970" title="SITL::XPlane::update" alt="" coords="417,383,564,410"/>
+<area shape="rect" id="node18" href="$classSITL_1_1XPlane.html#a5cbab32f016edeff5108ded953c17cbe" title="SITL::XPlane::create" alt="" coords="419,434,563,461"/>
+<area shape="rect" id="node20" href="$classSITL_1_1ADSB.html#a113108f8ba5bd7e384430ffb446b33b6" title="SITL::ADSB::update" alt="" coords="419,485,562,511"/>
+<area shape="rect" id="node21" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="647,477,798,519"/>
+<area shape="rect" id="node22" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="901,477,1051,519"/>
+<area shape="rect" id="node23" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="1144,477,1295,519"/>
+<area shape="rect" id="node24" href="$classHALSITL_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="HALSITL::Scheduler\l::delay_microseconds" alt="" coords="1343,477,1492,519"/>
+<area shape="rect" id="node25" href="$classHALSITL_1_1Scheduler.html#a2c3ea70328333081349821921242cb39" title="HALSITL::Scheduler\l::from" alt="" coords="1731,477,1873,519"/>
+<area shape="rect" id="node28" href="$classHALSITL_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="HALSITL::Scheduler\l::delay" alt="" coords="1540,507,1683,548"/>
+<area shape="rect" id="node26" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="1921,477,2072,519"/>
+<area shape="rect" id="node27" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title="HAL_SITL::run" alt="" coords="2120,485,2229,511"/>
+<area shape="rect" id="node30" href="$examples_2location_2location_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="695,557,750,583"/>
+<area shape="rect" id="node32" href="$examples_2location_2location_8cpp.html#ac7efc0072d2ac5bca8b847032980a1dd" title="test_offset" alt="" coords="449,586,533,613"/>
+<area shape="rect" id="node34" href="$classAP__Landing.html#aca701ba52726269447500bdf654b3b10" title="AP_Landing::adjust\l_landing_slope_for_rangefinder_bump" alt="" coords="856,659,1096,700"/>
+<area shape="rect" id="node36" href="$classAP__Landing.html#a5cdce89b787f18c99ced194d501c50ae" title="AP_Landing::setup_landing\l_glide_slope" alt="" coords="401,688,581,729"/>
+<area shape="rect" id="node38" href="$classAP__Landing.html#afdbc34de818b9cb366336c23660fd495" title="AP_Landing::verify_land" alt="" coords="409,791,572,818"/>
+<area shape="rect" id="node40" href="$classAP__Camera.html#a4a39e7eb5e1df8b95ef260b0638c6fc7" title="AP_Camera::set_trigger\l_distance" alt="" coords="409,875,572,916"/>
+<area shape="rect" id="node42" href="$classAP__Avoidance.html#abc8f1fe8366f6d24482fde3a87f49315" title="AP_Avoidance::check\l_for_threats" alt="" coords="415,940,566,981"/>
+<area shape="rect" id="node43" href="$classAP__Avoidance.html#a37059296c298d5f6d9a5fb11bab4d329" title="AP_Avoidance::update" alt="" coords="645,947,800,974"/>
+</map>

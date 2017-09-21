@@ -1,0 +1,34 @@
+<map id="AP_Mission::complete" name="AP_Mission::complete">
+<area shape="rect" id="node2" href="$classAP__Mission.html#ac79a188f81816b3ddfe045b6a0feb6d1" title="AP_Mission::set_current_cmd" alt="" coords="1008,207,1205,234"/>
+<area shape="rect" id="node13" href="$classAP__Mission.html#a3b4234e58e34ed5c83d8c6b9ce2718c9" title="AP_Mission::start" alt="" coords="207,690,333,717"/>
+<area shape="rect" id="node33" href="$classAP__Mission.html#ad27b4531fa652b277bd9300b60ca4493" title="AP_Mission::update" alt="" coords="575,1123,713,1150"/>
+<area shape="rect" id="node3" href="$classAP__AdvancedFailsafe.html#a017a878d56457eea9bd9a59c07b92190" title="AP_AdvancedFailsafe\l::check" alt="" coords="1288,244,1439,285"/>
+<area shape="rect" id="node5" href="$classAP__Landing.html#a4cb652398231c274e6061aa6b211366b" title="AP_Landing::restart\l_landing_sequence" alt="" coords="1295,179,1432,220"/>
+<area shape="rect" id="node7" href="$classAP__Mission.html#a05baa29469cdd5a9606903a7c6b3f3c1" title="AP_Mission::jump_to\l_landing_sequence" alt="" coords="1290,309,1437,351"/>
+<area shape="rect" id="node9" href="$classAP__Mission.html#abf0a05bca7e8ec89b416f7b04877c40c" title="get_current_do_cmd &#45; returns active &quot;do&quot; command " alt="" coords="1281,48,1446,89"/>
+<area shape="rect" id="node10" href="$classMissionTest.html#a16309b0065fe78128c95f5f8cc5f210e" title="MissionTest::run_set\l_current_cmd_test" alt="" coords="1291,427,1435,468"/>
+<area shape="rect" id="node11" href="$classMissionTest.html#aa5175c099befd271fcc279deb7e28b06" title="MissionTest::run_set\l_current_cmd_while_stopped_test" alt="" coords="1253,492,1473,533"/>
+<area shape="rect" id="node12" href="$classGCS__MAVLINK.html#ad4e76e7f27bc999e806416e24aa10f26" title="GCS_MAVLINK::handle\l_mission_set_current" alt="" coords="1282,113,1445,155"/>
+<area shape="rect" id="node4" href="$classAP__AdvancedFailsafe.html#a39be1f9cf2fd71b852e60314e24a5014" title="AP_AdvancedFailsafe\l::AP_AdvancedFailsafe" alt="" coords="1527,244,1686,285"/>
+<area shape="rect" id="node6" href="$classAP__Landing.html#a23d5d937afe630bfa1d3eeea5d767e4b" title="AP_Landing::verify\l_abort_landing" alt="" coords="1541,84,1673,125"/>
+<area shape="rect" id="node8" href="$classAP__Mission.html#ad7c38b95e293e4a8304ecf520842e5c7" title="AP_Mission::last_change\l_time_ms" alt="" coords="1521,339,1692,380"/>
+<area shape="rect" id="node14" href="$classAP__Mission.html#af7b8e9db68a2a858e2ecca8d57c2722e" title="AP_Mission::resume" alt="" coords="381,527,524,554"/>
+<area shape="rect" id="node15" href="$classAP__Mission.html#a90117c1ac074049b9f4247cebdf370a5" title="start_or_resume &#45; if MIS_AUTORESTART=0 this will call resume(), otherwise it will call start() ..." alt="" coords="572,651,716,692"/>
+<area shape="rect" id="node16" href="$classAP__Mission.html#a3d45d873b8f9e2ebf0d020ce26db957d" title="AP_Mission::num_commands" alt="" coords="764,717,960,743"/>
+<area shape="rect" id="node19" href="$classMissionTest.html#a2161685b1b75329ff76bc4243518212d" title="MissionTest::run_mission_test" alt="" coords="1263,1342,1463,1369"/>
+<area shape="rect" id="node22" href="$classMissionTest.html#af8b75f25f2b1c7fdd51ab19c4ee42ec8" title="MissionTest::run_resume_test" alt="" coords="1264,959,1463,986"/>
+<area shape="rect" id="node23" href="$classMissionTest.html#a4b79b27fab75a4a63dc41e09a16a5442" title="MissionTest::run_replace\l_cmd_test" alt="" coords="1279,1240,1447,1281"/>
+<area shape="rect" id="node17" href="$classAP__Mission.html#af895b228640bdf29178d44e00897d10e" title="AP_Mission::get_landing\l_sequence_start" alt="" coords="1023,309,1190,351"/>
+<area shape="rect" id="node18" href="$classMissionTest.html#ab12c92170021b44ceb82f6808b92d8c7" title="MissionTest::print\l_mission" alt="" coords="1043,840,1170,881"/>
+<area shape="rect" id="node24" href="$classMissionTest.html#a5dcc045a9ce939fcc7b0735550f92482" title="MissionTest::run_max\l_cmd_test" alt="" coords="1031,905,1182,947"/>
+<area shape="rect" id="node25" href="$classDataFlash__Backend.html#a570580fce5fc1f96a9cfd6bb75dd8705" title="DataFlash_Backend::\lLog_Write_Mission_Cmd" alt="" coords="1023,1175,1191,1216"/>
+<area shape="rect" id="node29" href="$classGCS__MAVLINK.html#a8c7b2bf35d8b3e370ba291586ea09b71" title="GCS_MAVLINK::handle\l_mission_request_list" alt="" coords="1025,579,1188,620"/>
+<area shape="rect" id="node30" href="$classGCS__MAVLINK.html#a3904d7894979bcbdc58083f39b1aa8da" title="GCS_MAVLINK::handle\l_mission_request" alt="" coords="1025,644,1188,685"/>
+<area shape="rect" id="node31" href="$classGCS__MAVLINK.html#add72083180081323352d4f701ae0d7d2" title="GCS_MAVLINK::handle\l_mission_write_partial_list" alt="" coords="1019,709,1194,751"/>
+<area shape="rect" id="node32" href="$classGCS__MAVLINK.html#a143a91427102a9aea995d10bad67f435" title="GCS_MAVLINK::handle\l_mission_item" alt="" coords="1025,775,1188,816"/>
+<area shape="rect" id="node20" href="$classMissionTest.html#ab2537e6e678a9468a69cd09f0296aeca" title="MissionTest::loop" alt="" coords="1544,1342,1669,1369"/>
+<area shape="rect" id="node21" href="$AP__Mission__test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1816,1342,1863,1369"/>
+<area shape="rect" id="node26" href="$classDataFlash__Backend.html#acc06500874549df2b2567f069176506e" title="DataFlash_Backend::\lremote_log_block_status_msg" alt="" coords="1740,1145,1939,1187"/>
+<area shape="rect" id="node27" href="$classDFMessageWriter__WriteEntireMission.html#a157afd1587cb4756d21bfd04bd64fdd1" title="DFMessageWriter_WriteEntire\lMission::process" alt="" coords="1263,1175,1463,1216"/>
+<area shape="rect" id="node28" href="$classDataFlash__Backend.html#a2cf7e12a43bb8ebf9aa3ea073e544f40" title="DataFlash_Backend::\lLog_Write_EntireMission" alt="" coords="1523,1175,1690,1216"/>
+</map>

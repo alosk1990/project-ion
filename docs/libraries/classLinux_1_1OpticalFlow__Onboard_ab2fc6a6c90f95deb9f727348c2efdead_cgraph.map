@@ -1,0 +1,51 @@
+<map id="Linux::OpticalFlow_Onboard::init" name="Linux::OpticalFlow_Onboard::init">
+<area shape="rect" id="node2" href="$classLinux_1_1VideoIn.html#ac4f2b5a70947eb83090db943007c86f4" title="Linux::VideoIn::open\l_device" alt="" coords="441,11,582,53"/>
+<area shape="rect" id="node11" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="937,843,1049,869"/>
+<area shape="rect" id="node20" href="$classLinux_1_1PWM__Sysfs__Base.html#a2e255d387f313730098c3e9db321481d" title="Linux::PWM_Sysfs_Base\l::init" alt="" coords="425,259,597,301"/>
+<area shape="rect" id="node24" href="$classLinux_1_1PWM__Sysfs__Base.html#a50e507faa5755bf00b21867764464f6f" title="Linux::PWM_Sysfs_Base\l::set_freq" alt="" coords="195,142,367,183"/>
+<area shape="rect" id="node27" href="$classLinux_1_1PWM__Sysfs__Base.html#a13de94e200597038465d7347d1b28f25" title="Linux::PWM_Sysfs_Base\l::enable" alt="" coords="425,77,597,118"/>
+<area shape="rect" id="node28" href="$classAP__HAL_1_1I2CDeviceManager.html#a28e5d1449e177f16962dd7ccc94df443" title="AP_HAL::I2CDeviceManager\l::get_device" alt="" coords="184,310,377,351"/>
+<area shape="rect" id="node29" href="$classLinux_1_1CameraSensor.html#a20202ffba35a9f0f75c9e20aa07a15c9" title="Linux::CameraSensor\l::set_format" alt="" coords="207,375,355,417"/>
+<area shape="rect" id="node30" href="$classLinux_1_1VideoIn.html#a1fd351a1f9805da4293a4bdf09fdfb44" title="Linux::VideoIn::get\l_pixel_formats" alt="" coords="215,441,346,482"/>
+<area shape="rect" id="node31" href="$classLinux_1_1VideoIn.html#a9773b4d12a65436d16957c0f5cd26b88" title="Linux::VideoIn::set\l_format" alt="" coords="446,325,577,366"/>
+<area shape="rect" id="node32" href="$classLinux_1_1VideoIn.html#a4cc5261185b78c48a848b138c6f2f418" title="Linux::VideoIn::set_crop" alt="" coords="199,507,362,533"/>
+<area shape="rect" id="node33" href="$classLinux_1_1VideoIn.html#a47d8a07a54901eaa00698d91e206c1b9" title="Linux::VideoIn::allocate\l_buffers" alt="" coords="201,558,360,599"/>
+<area shape="rect" id="node34" href="$classLinux_1_1VideoIn.html#a0dc538385c6a0b5387f92818873d2342" title="Linux::VideoIn::prepare\l_capture" alt="" coords="433,554,589,595"/>
+<area shape="rect" id="node36" href="$classLinux_1_1OpticalFlow__Onboard.html#a2cf8901eba7c113402917f527aec8b0b" title="Linux::OpticalFlow\l_Onboard::_read_thread" alt="" coords="200,727,361,769"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="1144,357,1297,398"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="1371,357,1524,398"/>
+<area shape="rect" id="node5" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="1579,364,1669,391"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="1717,263,1861,289"/>
+<area shape="rect" id="node7" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="1745,313,1834,340"/>
+<area shape="rect" id="node8" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="1759,364,1820,391"/>
+<area shape="rect" id="node9" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="1743,415,1835,441"/>
+<area shape="rect" id="node10" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="1745,465,1834,492"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="1125,813,1316,840"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="1147,865,1294,906"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="1366,711,1529,753"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="1366,777,1529,818"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="1366,843,1529,869"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="1369,894,1525,935"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="1369,959,1525,1001"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="1364,646,1531,687"/>
+<area shape="rect" id="node21" href="$classLinux_1_1Util.html#addd6070e02a90ee0a7063f0c3db4fecc" title="Linux::Util::from" alt="" coords="695,193,810,220"/>
+<area shape="rect" id="node23" href="$classLinux_1_1Util.html#af217ed63397b599a1b94ff6d0675ff9c" title="Linux::Util::write_file" alt="" coords="682,244,823,271"/>
+<area shape="rect" id="node22" href="$classLinux_1_1Util.html#ae03dc062803bf3bcda9cbd77e781c7d4" title="Linux::Util::init" alt="" coords="939,193,1046,220"/>
+<area shape="rect" id="node25" href="$classLinux_1_1PWM__Sysfs__Base.html#ae559797471c204de7ff10c2aced67b0e" title="Linux::PWM_Sysfs_Base\l::set_period" alt="" coords="425,142,597,183"/>
+<area shape="rect" id="node26" href="$AP__Math_8h.html#aeba7824fdcc216a25fb200958928ff12" title="hz_to_nsec" alt="" coords="467,208,556,235"/>
+<area shape="rect" id="node35" href="$classLinux_1_1VideoIn.html#a8e5da3811086d1a8d8f7d037bf4895d9" title="Linux::VideoIn::_queue\l_buffer" alt="" coords="915,493,1070,534"/>
+<area shape="rect" id="node37" href="$classLinux_1_1OpticalFlow__Onboard.html#aff46a025f23d664c1cdf67d3c7f3d49a" title="Linux::OpticalFlow\l_Onboard::_run_optflow" alt="" coords="431,778,591,819"/>
+<area shape="rect" id="node38" href="$classLinux_1_1VideoIn.html#a45318488c6c807451d55181bbbfc8177" title="Linux::VideoIn::get\l_frame" alt="" coords="687,661,818,702"/>
+<area shape="rect" id="node42" href="$classLinux_1_1VideoIn.html#a1af2d187414fe3857fb82cfb84c55f2c" title="Linux::VideoIn::yuyv\l_to_grey" alt="" coords="682,895,823,937"/>
+<area shape="rect" id="node43" href="$classLinux_1_1VideoIn.html#a4be547161766ecca064aa03fe9309803" title="Linux::VideoIn::shrink_8bpp" alt="" coords="661,961,844,988"/>
+<area shape="rect" id="node44" href="$classLinux_1_1VideoIn.html#a4ed2519ba5a32cc7a81e6910383f8e97" title="Linux::VideoIn::crop_8bpp" alt="" coords="666,1012,839,1039"/>
+<area shape="rect" id="node45" href="$classLinux_1_1OpticalFlow__Onboard.html#a6cfaefcf685e68fa506c37393071c04a" title="Linux::OpticalFlow\l_Onboard::_get_integrated_gyros" alt="" coords="645,778,860,819"/>
+<area shape="rect" id="node46" href="$classLinux_1_1Flow__PX4.html#abc334b0f6eb760997ed23f9f373d9d98" title="Linux::Flow_PX4::compute_flow" alt="" coords="647,609,858,636"/>
+<area shape="rect" id="node50" href="$classLinux_1_1VideoIn.html#af65f7040e36b19df9b455129312381c6" title="Linux::VideoIn::put\l_frame" alt="" coords="687,543,818,585"/>
+<area shape="rect" id="node39" href="$classLinux_1_1VideoIn.html#ae7f066941da7d01c77295275c8d70d21" title="Linux::VideoIn::_set\l_streaming" alt="" coords="923,777,1062,818"/>
+<area shape="rect" id="node40" href="$classLinux_1_1VideoIn.html#a0d827da74dc9e146818b3fdb0d5ee815" title="Linux::VideoIn::_dequeue\l_frame" alt="" coords="908,711,1077,753"/>
+<area shape="rect" id="node41" href="$classLinux_1_1VideoIn.html#aa8d48abac512c687d06d2065d185d8e6" title="Linux::VideoIn::_timeval\l_to_us" alt="" coords="1139,711,1302,753"/>
+<area shape="rect" id="node47" href="$Flow__PX4_8cpp.html#a32854b3814e2dea4700c1aefc382c184" title="Compute the average pixel gradient of all horizontal and vertical steps. " alt="" coords="944,660,1041,687"/>
+<area shape="rect" id="node48" href="$Flow__PX4_8cpp.html#adc25098c159423f77b4acd31d0721b37" title="Compute SAD of two pixel windows. " alt="" coords="943,559,1043,585"/>
+<area shape="rect" id="node49" href="$Flow__PX4_8cpp.html#a6ecede8f249a2f7f2e369f5b3333fe09" title="Compute SAD distances of subpixel shift of two pixel patterns. " alt="" coords="929,609,1056,636"/>
+</map>

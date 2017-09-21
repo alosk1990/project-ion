@@ -1,0 +1,13 @@
+<map id="AP_AHRS::update_trig" name="AP_AHRS::update_trig">
+<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#aa8a135d6852e94f279c0be3c8206bfdd" title="AP_AHRS_DCM::update" alt="" coords="237,102,408,129"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1035,178,1264,205"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="483,229,712,255"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__NavEKF.html#a5924a6c3f6301730272f01350eac6233" title="AP_AHRS_NavEKF::update_SITL" alt="" coords="211,279,435,306"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a4bbf9d7f853103c8c497b90ae726b1ac" title="AP_AHRS_DCM::get_gyro\l_drift" alt="" coords="507,7,688,48"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#a7ce0035d07be995b5f45ac6c711570ce" title="AP_AHRS_NavEKF::update_DCM" alt="" coords="760,102,987,129"/>
+<area shape="rect" id="node9" href="$ModuleTest_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="574,127,621,154"/>
+<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#a355d8890ddfaadaa9d8f694f780afbe6" title="AP_AHRS_NavEKF::get\l_gyro_drift" alt="" coords="789,5,957,47"/>
+<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1312,127,1501,154"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1549,43,1596,70"/>
+<area shape="rect" id="node7" href="$classAP__Module.html#a9b4f06b2556a122f11b92b7b29d462c4" title="AP_Module::call_hook\l_AHRS_update" alt="" coords="1073,61,1225,103"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="AP_InertialSensor_LSM9DS0::_gyro_init" name="AP_InertialSensor_LSM9DS0::_gyro_init">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__LSM9DS0.html#ad73f9082af348d0efa5dc44ff21718b6" title="AP_InertialSensor_LSM9DS0\l::_gyro_disable_i2c" alt="" coords="248,379,443,420"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__LSM9DS0.html#ade811c5be7fd258cac5ef5a7ed65f7fc" title="AP_InertialSensor_LSM9DS0\l::_register_write_g" alt="" coords="491,443,685,484"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="272,499,419,540"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor__LSM9DS0.html#a075494af8d8d41e2e130fb11e224a3cb" title="AP_InertialSensor_LSM9DS0\l::_set_gyro_scale" alt="" coords="248,564,443,605"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS0.html#a9471a5e1bd8764e4b66b071017e6885c" title="AP_InertialSensor_LSM9DS0\l::_register_read_g" alt="" coords="491,377,685,419"/>
+<area shape="rect" id="node12" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="532,290,644,317"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title="AP_HAL::Device::read\l_registers" alt="" coords="1187,436,1341,477"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="1389,506,1564,533"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title="AP_HAL::Device::write\l_register" alt="" coords="749,472,908,513"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title="AP_HAL::Device::set\l_checked_register" alt="" coords="981,501,1129,543"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Device.html#a4bad879386bd93b7f2340bff1437d041" title="AP_HAL::Device::setup\l_checked_registers" alt="" coords="974,619,1137,660"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Device.html#a81202d89062b62f93bf8d13fa30a86d0" title="AP_HAL::Device::check\l_next_register" alt="" coords="973,436,1138,477"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a682fd556614308cb02773e94ec8e4b26" title="AP_HAL::Device::get\l_bus_id" alt="" coords="1190,501,1338,543"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="733,195,924,222"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="755,283,902,324"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="974,319,1137,360"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="974,5,1137,47"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="974,71,1137,98"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="977,123,1133,164"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="977,188,1133,229"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="972,253,1139,295"/>
+</map>

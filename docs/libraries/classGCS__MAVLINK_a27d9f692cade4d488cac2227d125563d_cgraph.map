@@ -1,0 +1,15 @@
+<map id="GCS_MAVLINK::handle_device_op_write" name="GCS_MAVLINK::handle_device_op_write">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a28e5d1449e177f16962dd7ccc94df443" title="AP_HAL::I2CDeviceManager\l::get_device" alt="" coords="217,5,410,47"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceManager.html#a84c4a9ff2ae0cdaa9a0bc8a3f0939893" title="AP_HAL::SPIDeviceManager\l::get_device" alt="" coords="216,71,411,112"/>
+<area shape="rect" id="node4" href="$eedump_8c.html#af09cfed2397fc1aeb1391db9b46ed605" title="fail" alt="" coords="294,137,333,163"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title="AP_HAL::Device::get\l_semaphore" alt="" coords="239,188,387,229"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="223,254,403,281"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title="AP_HAL::Device::write\l_register" alt="" coords="234,305,393,347"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="224,371,403,398"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title="AP_HAL::Device::set\l_checked_register" alt="" coords="467,240,615,281"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="875,275,1049,302"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Device.html#a4bad879386bd93b7f2340bff1437d041" title="AP_HAL::Device::setup\l_checked_registers" alt="" coords="460,305,623,347"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Device.html#a81202d89062b62f93bf8d13fa30a86d0" title="AP_HAL::Device::check\l_next_register" alt="" coords="459,371,624,412"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a682fd556614308cb02773e94ec8e4b26" title="AP_HAL::Device::get\l_bus_id" alt="" coords="675,257,823,299"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title="AP_HAL::Device::read\l_registers" alt="" coords="672,355,827,396"/>
+</map>

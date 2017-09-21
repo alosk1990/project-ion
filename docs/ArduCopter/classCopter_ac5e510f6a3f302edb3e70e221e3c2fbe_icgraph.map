@@ -1,0 +1,13 @@
+<map id="Copter::failsafe_disable" name="Copter::failsafe_disable">
+<area shape="rect" id="node2" href="$classCopter.html#a72a557f0cc50a672db8223f628363b21" title="Copter::init_arm_motors" alt="" coords="458,16,621,42"/>
+<area shape="rect" id="node6" href="$classCopter.html#abd3ea1d00d3c109e18a5ab0ae08aea4f" title="Copter::mavlink_compassmot" alt="" coords="212,66,408,93"/>
+<area shape="rect" id="node7" href="$classCopter.html#aabd363510a3f2ebcdb825a20cc084fca" title="Copter::run_cli" alt="" coords="257,117,363,144"/>
+<area shape="rect" id="node3" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="892,66,1047,93"/>
+<area shape="rect" id="node5" href="$classCopter.html#aeda76eb57229df64b95b257218007640" title="Copter::arm_motors\l_check" alt="" coords="688,30,827,71"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="1095,59,1257,100"/>
+<area shape="rect" id="node8" href="$classCopter.html#abf6c08991ca4fb41f9b2a048cd5a995f" title="Copter::gcs_check_input" alt="" coords="456,146,623,173"/>
+<area shape="rect" id="node9" href="$classCopter.html#aaee6dc81b2fda46c606e1f0e49f25c61" title="Copter::read_AHRS" alt="" coords="688,197,827,224"/>
+<area shape="rect" id="node12" href="$classCopter.html#a62cd1c4ff8935e1f4a609bbb4a18f88c" title="Copter::mavlink_delay_cb" alt="" coords="671,146,844,173"/>
+<area shape="rect" id="node10" href="$classCopter.html#a9935998c549ed56b80917705ee4522fb" title="Copter::fast_loop" alt="" coords="908,197,1031,224"/>
+<area shape="rect" id="node11" href="$classCopter.html#ac879265c540a24609ead56c389ba4b02" title="Copter::loop" alt="" coords="1129,197,1223,224"/>
+</map>

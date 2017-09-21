@@ -1,0 +1,50 @@
+<map id="Copter::update_land_detector" name="Copter::update_land_detector">
+<area shape="rect" id="node2" href="$classCopter.html#a9efad806f964b8edd5280a9097c29dc5" title="Copter::set_land_complete" alt="" coords="192,465,371,491"/>
+<area shape="rect" id="node37" href="$classCopter.html#acd805622728a2ce7ab4c1292d2371322" title="Copter::set_land_complete\l_maybe" alt="" coords="641,5,819,47"/>
+<area shape="rect" id="node43" href="$classCopter.html#a9b29c3fdb35b9230f0b81f273ac99624" title="Copter::get_non_takeoff\l_throttle" alt="" coords="200,516,363,557"/>
+<area shape="rect" id="node44" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#aec397217c0599542d477aa86f2558015" title="AC_AttitudeControl\l::is_throttle_mix_min" alt="" coords="210,581,353,623"/>
+<area shape="rect" id="node45" href="/home/ubuntu/ardupilot/docs/tags/libraries$classLowPassFilter.html#af4fadecd2b4865888d6262f2fe67f8d1" title="LowPassFilter\&lt; Vector3f\l \&gt;::get" alt="" coords="198,647,365,688"/>
+<area shape="rect" id="node46" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3\&lt; float \&gt;::length" alt="" coords="202,713,361,739"/>
+<area shape="rect" id="node47" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a7b543367e2256b2bf9fcea632cb3cf22" title="AP_InertialNav_NavEKF\l::get_velocity_z" alt="" coords="198,764,365,805"/>
+<area shape="rect" id="node48" href="$classCopter.html#a4062f7a3f18299c266274bb3370efd20" title="Copter::rangefinder\l_alt_ok" alt="" coords="215,829,348,871"/>
+<area shape="rect" id="node49" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Scheduler.html#a224062bf7453c0a376bee1942a85b069" title="AP_Scheduler::get_loop\l_rate_hz" alt="" coords="200,895,363,936"/>
+<area shape="rect" id="node3" href="$classCopter.html#a396cdbadc3706446ffae5f306dbf7944" title="Copter::Log_Write_Event" alt="" coords="896,122,1065,149"/>
+<area shape="rect" id="node23" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Stats.html#a3d296657293455e0be2810517afa42b0" title="AP_Stats::set_flying" alt="" coords="420,406,563,433"/>
+<area shape="rect" id="node24" href="$classCopter.html#a1e9ef44a22a60cb2c26b90ae63ccb1eb" title="Copter::mode_allows\l_arming" alt="" coords="419,836,564,877"/>
+<area shape="rect" id="node25" href="$classCopter.html#a2fb03ab3500c5813c5e8ec6937e305c3" title="Copter::mode_has_manual\l_throttle" alt="" coords="641,924,819,965"/>
+<area shape="rect" id="node26" href="$classCopter.html#aaa61c2c2abed23de2c1c4aee4bc7c1f1" title="Copter::init_disarm\l_motors" alt="" coords="425,457,557,499"/>
+<area shape="rect" id="node4" href="$classCopter.html#a4743992eae3f4241deb4f3e3a4c9b30d" title="Copter::should_log" alt="" coords="1149,122,1280,149"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title="AP_HAL::micros64" alt="" coords="1147,173,1282,199"/>
+<area shape="rect" id="node22" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa8ca9bfeeb14e9b57bcb702e479225be" title="DataFlash_Class::WriteCritical\lBlock" alt="" coords="1113,224,1316,265"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a5e32434ddf454a074dd9638d87e1d934" title="DataFlash_Class::log\l_while_disarmed" alt="" coords="1364,471,1512,512"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa1dfc59b10a4b5ef3bc22ed5d5648665" title="DataFlash_Class::logging\l_started" alt="" coords="1579,115,1751,156"/>
+<area shape="rect" id="node7" href="$classCopter.html#a3a33c5c43740be29248b057f699f82a5" title="Copter::start_logging" alt="" coords="1367,253,1509,279"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a95bf3cac993c1ee326acc6447e99d875" title="DataFlash_Class::set\l_mission" alt="" coords="1590,363,1739,404"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#abed561cc5dcbed8a208fbb13be2d436e" title="DataFlash_Class::setVehicle\l_Startup_Log_Writer" alt="" coords="1569,180,1761,221"/>
+<area shape="rect" id="node10" href="$classCopter.html#affc81dccd23c7d313a38854fe19c62b7" title="Copter::Log_Write_Vehicle\l_Startup_Messages" alt="" coords="1575,245,1754,287"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a2150c74ef2a6d77ec9ddbbf859cacd64" title="DataFlash_Class::StartNewLog" alt="" coords="1561,311,1768,338"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#ae85a3c49d2883b975376baaab5ab958f" title="DataFlash_Class::EnableWrites" alt="" coords="1560,567,1769,594"/>
+<area shape="rect" id="node11" href="$classCopter.html#a228aa1ecafb49183929a8da8045cd938" title="Copter::get_frame_string" alt="" coords="1819,129,1986,155"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a3d24105948a2709fa0585b1c53bb7dfe" title="DataFlash_Class::Log\l_Write_Message" alt="" coords="1827,180,1979,221"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a8c36713b82ad014c02071b7de0bcfae0" title="DataFlash_Class::Log\l_Write_Mode" alt="" coords="1827,245,1979,287"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa4421dde08afcd932ccbe12aef85055d" title="DataFlash_Class::Log\l_Write_Rally" alt="" coords="1827,311,1979,352"/>
+<area shape="rect" id="node15" href="$classCopter.html#ae637d9d35114ba86e1d3c7a726870edf" title="Copter::Log_Write_Home\l_And_Origin" alt="" coords="1817,376,1988,417"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a8e90dbad885e5d8d4efe9a34d635886a" title="AP_AHRS_NavEKF::get\l_origin" alt="" coords="2036,311,2204,352"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a7c9ea84e9cbfd62bac7f1fac7cafa562" title="DataFlash_Class::Log\l_Write_Origin" alt="" coords="2044,376,2196,417"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="2045,442,2195,469"/>
+<area shape="rect" id="node27" href="$classCopter.html#a73aac58305314cfc42f77e969fdbdaee" title="Copter::gcs_send_text" alt="" coords="653,290,807,317"/>
+<area shape="rect" id="node31" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a4c1d09f4fe08c39172f7e6baab40cad2" title="AP_AHRS_NavEKF::use\l_compass" alt="" coords="645,756,815,797"/>
+<area shape="rect" id="node32" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompass.html#a4ba6019609a7cb2b5321ed892531f78d" title="Compass::get_learn_type" alt="" coords="645,822,815,849"/>
+<area shape="rect" id="node33" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#ab0cfc55a997a653b1b659ff99fe1cb03" title="AP_AHRS_NavEKF::getMagOffsets" alt="" coords="612,873,848,899"/>
+<area shape="rect" id="node34" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompass.html#afeac6bcfad2650762cccda72dbce3e69" title="Compass::set_and_save\l_offsets" alt="" coords="647,173,813,215"/>
+<area shape="rect" id="node35" href="$classCopter.html#a563677bc81bf61847843a29711806139" title="Copter::autotune_save\l_tuning_gains" alt="" coords="653,523,807,564"/>
+<area shape="rect" id="node38" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Mission.html#a1d61da109874e0fefc6ee9a751547aee" title="AP_Mission::reset" alt="" coords="665,239,795,266"/>
+<area shape="rect" id="node39" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#af898b7f68e05b5d2a6eaf53d2c178983" title="DataFlash_Class::instance" alt="" coords="640,341,820,367"/>
+<area shape="rect" id="node40" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a6a6995b847a4e8893d2f961ca362e787" title="DataFlash_Class::set\l_vehicle_armed" alt="" coords="655,392,805,433"/>
+<area shape="rect" id="node41" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#a9ed74959373c36c855d235ede6efa3e0" title="AP_AHRS::set_correct\l_centrifugal" alt="" coords="651,457,809,499"/>
+<area shape="rect" id="node42" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a1f79cc2bff40a44454c576cbc2c2528a" title="AP_HAL::Util::set_soft\l_armed" alt="" coords="652,588,808,629"/>
+<area shape="rect" id="node28" href="$classCopter.html#a503a0d6127a35aba92d850dca874991e" title="Copter::gcs" alt="" coords="935,341,1026,367"/>
+<area shape="rect" id="node29" href="/home/ubuntu/ardupilot/docs/tags/libraries$classGCS.html#a313e604179053ea42415b1c9289f13cd" title="GCS::send_statustext" alt="" coords="905,239,1057,266"/>
+<area shape="rect" id="node30" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Notify.html#a0f38b9b4be211e200675dd048c81f500" title="AP_Notify::send_text" alt="" coords="907,290,1054,317"/>
+<area shape="rect" id="node36" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="949,530,1013,557"/>
+</map>

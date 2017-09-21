@@ -1,0 +1,28 @@
+<map id="AP_Proximity_Backend::handle_msg" name="AP_Proximity_Backend::handle_msg">
+<area shape="rect" id="node2" href="$classAP__Proximity__Backend.html#aded809bfb82690c08792c668089c405b" title="AP_Proximity_Backend\l::get_horizontal_distance" alt="" coords="213,5,380,47"/>
+<area shape="rect" id="node3" href="$classAP__Proximity__Backend.html#a69b08f5fe399b40d9d1b0f6ee3696a1b" title="AP_Proximity_Backend\l::convert_angle_to_sector" alt="" coords="428,64,600,105"/>
+<area shape="rect" id="node14" href="$classAP__Proximity__Backend.html#a0285564537ba74f044b6a6f7b2179a46" title="AP_Proximity_Backend\l::get_boundary_points" alt="" coords="217,123,377,164"/>
+<area shape="rect" id="node15" href="$classAP__Proximity__Backend.html#a50226df3e0c6e5f609f82ce73bc1197a" title="AP_Proximity_Backend\l::get_closest_object" alt="" coords="217,188,377,229"/>
+<area shape="rect" id="node16" href="$classAP__Proximity__Backend.html#a12a1f987c69e46e5810c21642f74dacb" title="AP_Proximity_Backend\l::get_object_count" alt="" coords="217,253,377,295"/>
+<area shape="rect" id="node17" href="$classAP__Proximity__Backend.html#a198aa06ede4f08e235df52af1bd817ae" title="AP_Proximity_Backend\l::get_object_angle_and\l_distance" alt="" coords="217,318,377,374"/>
+<area shape="rect" id="node18" href="$classAP__Proximity__Backend.html#a53728e90c52cde0726d53ef1feb5a8ce" title="AP_Proximity_Backend\l::get_distances" alt="" coords="217,397,377,439"/>
+<area shape="rect" id="node20" href="$classAP__Proximity__Backend.html#aeaa3bfadaa564370cbff7e89e08547cf" title="AP_Proximity_Backend\l::set_status" alt="" coords="217,463,377,504"/>
+<area shape="rect" id="node21" href="$classAP__Proximity__Backend.html#a9cf007a88f349d1bf9c3332448c4a122" title="AP_Proximity_Backend\l::init_boundary" alt="" coords="217,528,377,569"/>
+<area shape="rect" id="node23" href="$classAP__Proximity__Backend.html#ae473136f4c50218d71a9c18886892edc" title="AP_Proximity_Backend\l::update_boundary_for\l_sector" alt="" coords="217,593,377,649"/>
+<area shape="rect" id="node25" href="$classAP__Proximity__Backend.html#a3a78fdc164765b1fe3835cc8d4898ce2" title="AP_Proximity_Backend\l::get_ignore_area_count" alt="" coords="216,672,377,713"/>
+<area shape="rect" id="node26" href="$classAP__Proximity__Backend.html#a18a3d7c739b0c97028d0adfa6aac7429" title="AP_Proximity_Backend\l::get_ignore_area" alt="" coords="217,737,377,779"/>
+<area shape="rect" id="node27" href="$classAP__Proximity__Backend.html#a69fd8be9955e8077b9ad921e1bb4f3ab" title="AP_Proximity_Backend\l::get_next_ignore_start\l_or_end" alt="" coords="648,474,808,530"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title="wrap_180" alt="" coords="689,145,767,171"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title="wrap_360" alt="" coords="887,343,965,370"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a02a2cf5a700e31fcf6b444311939d6f8" title="wrap_180\&lt; int \&gt;" alt="" coords="868,119,984,146"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a3a086dd71d651cf1d4a28ec87decb8b0" title="wrap_180\&lt; short \&gt;" alt="" coords="861,170,991,197"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#abfa396c065d0b24a9fd841beb6404a7b" title="wrap_180\&lt; float \&gt;" alt="" coords="863,221,989,247"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#addf2d396e8779d86f1296f2fecf105e4" title="wrap_180\&lt; double \&gt;" alt="" coords="856,69,996,95"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#ad909fc5c89c69617f13018963a685bd5" title="wrap_360\&lt; int \&gt;" alt="" coords="1056,267,1172,294"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a3c6b3854a342ae989b7c2296b4c6c6ec" title="wrap_360\&lt; short \&gt;" alt="" coords="1049,318,1179,345"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#ad75d42039e8eda0c32431b8882b46fc4" title="wrap_360\&lt; float \&gt;" alt="" coords="1051,369,1177,395"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#aaf5c8a69731644be38edeaedbd1b1c8d" title="wrap_360\&lt; double \&gt;" alt="" coords="1044,419,1184,446"/>
+<area shape="rect" id="node19" href="$classAP__Proximity__Backend.html#a95642cf035b9219ee43efdd32d568e8f" title="AP_Proximity_Backend\l::distance_max" alt="" coords="434,397,594,439"/>
+<area shape="rect" id="node22" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="482,535,546,562"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="491,607,537,634"/>
+</map>

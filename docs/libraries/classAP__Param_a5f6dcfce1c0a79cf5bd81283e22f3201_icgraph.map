@@ -1,0 +1,122 @@
+<map id="AP_Param::setup_object_defaults" name="AP_Param::setup_object_defaults">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#abf2a95c22244e0d0e2b0fd39c6ebb8fa" title="AC_AttitudeControl\l::AC_AttitudeControl" alt="" coords="264,5,407,47"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#acc7cedce3c68b898c8761eeaea0ce457" title="AC_AttitudeControl\l_Heli::AC_AttitudeControl_Heli" alt="" coords="234,71,437,112"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Multi.html#a3bcf185108037e07cbb024c3f18c7287" title="AC_AttitudeControl\l_Multi::AC_AttitudeControl_\lMulti" alt="" coords="243,135,428,191"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Sub.html#ae8cd300482135e681eaa4111c8fda7c7" title="AC_AttitudeControl\l_Sub::AC_AttitudeControl_Sub" alt="" coords="234,215,437,256"/>
+<area shape="rect" id="node6" href="$classAC__Avoid.html#a9a93cb96d5a00da034537d32560a732a" title="Constructor. " alt="" coords="261,281,409,307"/>
+<area shape="rect" id="node7" href="$classAC__Circle.html#a3ccead92d1c658415442ed4b5792b15f" title="Constructor. " alt="" coords="260,331,411,358"/>
+<area shape="rect" id="node8" href="$classAC__Fence.html#a48da099661259104b4020f7ce68b5c8f" title="Constructor. " alt="" coords="258,382,413,409"/>
+<area shape="rect" id="node9" href="$classAC__InputManager.html#aa0b7651502516212bfc3147f0f709641" title="AC_InputManager::AC\l_InputManager" alt="" coords="258,433,413,475"/>
+<area shape="rect" id="node10" href="$classAC__InputManager__Heli.html#a17b76b52c6f7baba0d93878ea1d6dbc0" title="AC_InputManager_Heli\l::AC_InputManager_Heli" alt="" coords="253,499,418,540"/>
+<area shape="rect" id="node11" href="$classAC__P.html#a86b4d2f7dc92d0f986f0334cca2a3a5d" title="AC_P::AC_P" alt="" coords="285,565,385,591"/>
+<area shape="rect" id="node12" href="$classAC__PI__2D.html#a40eafe56cc5a4246045cb97e1ec751ce" title="AC_PI_2D::AC_PI_2D" alt="" coords="257,615,413,642"/>
+<area shape="rect" id="node13" href="$classAC__PID.html#ad324f276474749d6130985500f5c7c1b" title="AC_PID::AC_PID" alt="" coords="271,666,399,693"/>
+<area shape="rect" id="node14" href="$classAC__PosControl.html#a47f0f47e11af2a44cd3ba7e956eb3b55" title="Constructor. " alt="" coords="229,717,441,743"/>
+<area shape="rect" id="node15" href="$classAC__PrecLand.html#a4ab27a260801e7641f05bb4e813ebfd7" title="AC_PrecLand::AC_PrecLand" alt="" coords="239,767,431,794"/>
+<area shape="rect" id="node16" href="$classAC__Sprayer.html#a490831ebab0593e6fe97b834caa41976" title="Constructor. " alt="" coords="249,818,421,845"/>
+<area shape="rect" id="node17" href="$classAC__WPNav.html#acaa26f2ac17e44be2ddac9d0d04bb542" title="Constructor. " alt="" coords="248,869,423,895"/>
+<area shape="rect" id="node18" href="$classAP__ADSB.html#aa83cec00055a67e56be65cce91f67d77" title="AP_ADSB::AP_ADSB" alt="" coords="258,919,413,946"/>
+<area shape="rect" id="node19" href="$classAP__AdvancedFailsafe.html#a39be1f9cf2fd71b852e60314e24a5014" title="AP_AdvancedFailsafe\l::AP_AdvancedFailsafe" alt="" coords="256,971,415,1012"/>
+<area shape="rect" id="node20" href="$classAP__AHRS.html#ab45fc4a074f3cfe5866c934f8d05c861" title="AP_AHRS::AP_AHRS" alt="" coords="257,1037,413,1063"/>
+<area shape="rect" id="node21" href="$classAP__Airspeed.html#ab3f44b666b8fd9389ea97a868139d1a7" title="AP_Airspeed::AP_Airspeed" alt="" coords="244,1087,427,1114"/>
+<area shape="rect" id="node22" href="$classAP__Arming.html#ae505d00a9a784f17273f890a4e7b970f" title="AP_Arming::AP_Arming" alt="" coords="254,1138,417,1165"/>
+<area shape="rect" id="node23" href="$classAP__Avoidance.html#a53b1c2151585f4994f9552abf889bd80" title="AP_Avoidance::AP_Avoidance" alt="" coords="234,1189,437,1215"/>
+<area shape="rect" id="node24" href="$classAP__Baro.html#a2365014f8266bebaf041590ff2df01cb" title="AP_Baro::AP_Baro" alt="" coords="268,1239,403,1266"/>
+<area shape="rect" id="node25" href="$classAP__BattMonitor.html#aaed251d031fd70a8a10eeb41fc0bc901" title="Constructor. " alt="" coords="265,1291,405,1332"/>
+<area shape="rect" id="node26" href="$classAP__Beacon.html#a13fea7776ad90d69dd20b55137c8911a" title="AP_Beacon::AP_Beacon" alt="" coords="251,1357,419,1383"/>
+<area shape="rect" id="node27" href="$classAP__BoardConfig.html#a49a7027797d4a5fd9be56b55c85b8e90" title="AP_BoardConfig::AP\l_BoardConfig" alt="" coords="263,1408,408,1449"/>
+<area shape="rect" id="node28" href="$classAP__Button.html#ab83197dc073a6c5c2fd063b3e2021344" title="AP_Button::AP_Button" alt="" coords="257,1474,413,1501"/>
+<area shape="rect" id="node29" href="$classAP__Camera.html#aa6b15b7f84f291994d90173332891510" title="AP_Camera::AP_Camera" alt="" coords="249,1525,421,1551"/>
+<area shape="rect" id="node30" href="$classAP__GPS.html#aa64e78056c0899273bae42ac4874b7e0" title="AP_GPS::AP_GPS" alt="" coords="267,1575,403,1602"/>
+<area shape="rect" id="node31" href="$classAP__Gripper.html#a082316dcf7736eaba6903e98f048741f" title="AP_Gripper::AP_Gripper" alt="" coords="253,1626,417,1653"/>
+<area shape="rect" id="node32" href="$classAP__ICEngine.html#a99fd9520341de1b4a4145e16a3f0aa28" title="AP_ICEngine::AP_ICEngine" alt="" coords="241,1677,429,1703"/>
+<area shape="rect" id="node33" href="$classAP__InertialSensor.html#affc63e7edc9be1b0e128b8da3b8a24a5" title="AP_InertialSensor::\lAP_InertialSensor" alt="" coords="268,1728,403,1769"/>
+<area shape="rect" id="node78" href="$classAP__L1__Control.html#a388f3d9e1ed09a5bd2444d4032d66239" title="AP_L1_Control::AP_L1\l_Control" alt="" coords="257,1793,414,1835"/>
+<area shape="rect" id="node79" href="$classAP__Landing.html#ab5199cf57212c3f1a496d2d9bccee882" title="AP_Landing::AP_Landing" alt="" coords="250,1859,421,1886"/>
+<area shape="rect" id="node80" href="$classAP__Landing__Deepstall.html#acc0d99890185042c3cf9cc480fbefc58" title="AP_Landing_Deepstall\l::AP_Landing_Deepstall" alt="" coords="254,1911,417,1952"/>
+<area shape="rect" id="node81" href="$classAP__LandingGear.html#ae8fa6dc4efcdf9316ce0409cd6783eb4" title="Constructor. " alt="" coords="262,1976,409,2017"/>
+<area shape="rect" id="node82" href="$classAP__LeakDetector.html#a3b147289d5f2225dbcdfae515a3d7ce4" title="AP_LeakDetector::AP\l_LeakDetector" alt="" coords="260,2041,411,2083"/>
+<area shape="rect" id="node83" href="$classAP__Mission.html#af358a877f089eac8034f4e26644ba4f3" title="constructor " alt="" coords="250,2107,421,2134"/>
+<area shape="rect" id="node84" href="$classAP__Motors6DOF.html#a148f4469595d33f62ae0e6a1fb8dc34a" title="AP_Motors6DOF::AP_Motors6DOF" alt="" coords="220,2158,451,2185"/>
+<area shape="rect" id="node85" href="$classAP__MotorsHeli.html#a800343822b4cef4639f4f0a563cb1875" title="Constructor. " alt="" coords="232,2209,439,2235"/>
+<area shape="rect" id="node86" href="$classAP__MotorsHeli__Dual.html#a55d0c8d6ba98819e849fbd31be3353db" title="AP_MotorsHeli_Dual\l::AP_MotorsHeli_Dual" alt="" coords="259,2260,411,2301"/>
+<area shape="rect" id="node87" href="$classAP__MotorsHeli__Single.html#aa617a5f4634505d942568279034b2be2" title="AP_MotorsHeli_Single\l::AP_MotorsHeli_Single" alt="" coords="255,2325,416,2367"/>
+<area shape="rect" id="node88" href="$classAP__MotorsMulticopter.html#ad6ae4415caff2b7ca6487da458267872" title="AP_MotorsMulticopter\l::AP_MotorsMulticopter" alt="" coords="256,2391,415,2432"/>
+<area shape="rect" id="node89" href="$classAP__Mount.html#a9753c783c9c72ca8091eff786e9844c7" title="AP_Mount::AP_Mount" alt="" coords="259,2457,411,2483"/>
+<area shape="rect" id="node90" href="$classAP__Notify.html#a3216d493231b5eb2f882691dcf9a5cfb" title="AP_Notify::AP_Notify" alt="" coords="260,2507,411,2534"/>
+<area shape="rect" id="node91" href="$classAP__Parachute.html#a5b830bae249f478a41bdcf6e17f45c9a" title="Constructor. " alt="" coords="236,2558,435,2585"/>
+<area shape="rect" id="node92" href="$classAP__PitchController.html#a9b969c4793940109278b7bfe27e4792e" title="AP_PitchController\l::AP_PitchController" alt="" coords="265,2609,406,2651"/>
+<area shape="rect" id="node93" href="$classAP__Proximity.html#a0892bf87ebaed2c4096b65e47c4a5529" title="AP_Proximity::AP_Proximity" alt="" coords="240,2675,431,2702"/>
+<area shape="rect" id="node94" href="$classAP__Rally.html#add46a641ab976409ed4e4be01c201dc7" title="AP_Rally::AP_Rally" alt="" coords="265,2726,405,2753"/>
+<area shape="rect" id="node95" href="$classAP__Relay.html#a21399f6c8151e7782dcbff4cd15e9f30" title="AP_Relay::AP_Relay" alt="" coords="261,2777,409,2803"/>
+<area shape="rect" id="node96" href="$classAP__RollController.html#a4b5111a704680acf295d9d3895726beb" title="AP_RollController::\lAP_RollController" alt="" coords="268,2828,403,2869"/>
+<area shape="rect" id="node97" href="$classAP__RPM.html#a0a4991036efdf00ef2c08c1468c60d9c" title="AP_RPM::AP_RPM" alt="" coords="265,2894,405,2921"/>
+<area shape="rect" id="node98" href="$classAP__RSSI.html#aa7a220c1b9f098841c7436f66b12a5bd" title="AP_RSSI::AP_RSSI" alt="" coords="263,2945,407,2971"/>
+<area shape="rect" id="node99" href="$classAP__Scheduler.html#aefcf9fce63f665cc4bc4a0c5661553f1" title="AP_Scheduler::AP_Scheduler" alt="" coords="237,2995,433,3022"/>
+<area shape="rect" id="node100" href="$classAP__SerialManager.html#ad0bf0d13dfce705f542ad26c8327befb" title="AP_SerialManager::AP\l_SerialManager" alt="" coords="257,3047,413,3088"/>
+<area shape="rect" id="node101" href="$classAP__SteerController.html#aa2f6902cd942c7c7ba68b8075502922b" title="AP_SteerController\l::AP_SteerController" alt="" coords="264,3112,407,3153"/>
+<area shape="rect" id="node102" href="$classAP__TECS.html#a01d6d2b6f4c4151838115b13020d8990" title="AP_TECS::AP_TECS" alt="" coords="259,3178,411,3205"/>
+<area shape="rect" id="node103" href="$classAP__Tuning.html#afcebc9c33333267992bed0231f78cb7b" title="AP_Tuning::AP_Tuning" alt="" coords="256,3229,415,3255"/>
+<area shape="rect" id="node104" href="$classAP__YawController.html#a4b48ca1fb3a5fd54f4f28bfe55336620" title="AP_YawController::AP\l_YawController" alt="" coords="258,3280,413,3321"/>
+<area shape="rect" id="node105" href="$classCompass.html#a68bd2a073cc0d461b2b46529aae04765" title="Compass::Compass" alt="" coords="264,3346,407,3373"/>
+<area shape="rect" id="node106" href="$classDataFlash__Class.html#a51809475ed175eadb5ec9ed30fd64b35" title="DataFlash_Class::DataFlash\l_Class" alt="" coords="240,3397,431,3439"/>
+<area shape="rect" id="node107" href="$classGCS__MAVLINK.html#a88dabe4da3b32dca5e34beb438f8be65" title="GCS_MAVLINK::GCS_MAVLINK" alt="" coords="225,3463,445,3490"/>
+<area shape="rect" id="node108" href="$classJSButton.html#a7b1f9dddb667678fcb2e059c25bede21" title="JSButton::JSButton" alt="" coords="266,3514,405,3541"/>
+<area shape="rect" id="node109" href="$classNavEKF2.html#a943c5a56d133b4fd236f0f7cf34566f2" title="NavEKF2::NavEKF2" alt="" coords="263,3565,407,3591"/>
+<area shape="rect" id="node110" href="$classNavEKF3.html#a025fb867d79d9fe22ed03c0e4f8ca163" title="NavEKF3::NavEKF3" alt="" coords="263,3615,407,3642"/>
+<area shape="rect" id="node111" href="$classOpticalFlow.html#a1e6934f4d06fb4dd84a1af0eff456c91" title="OpticalFlow::OpticalFlow" alt="" coords="251,3666,419,3693"/>
+<area shape="rect" id="node112" href="$classPID.html#a87b6ac9190610ef5b1abb5dcacd47e6e" title="PID::PID" alt="" coords="297,3717,373,3743"/>
+<area shape="rect" id="node113" href="$classRangeFinder.html#a9ca92c86d078fbdca60f8f885dd87541" title="RangeFinder::RangeFinder" alt="" coords="246,3767,425,3794"/>
+<area shape="rect" id="node114" href="$classRC__Channel.html#ae2993c7e3bdcd90087a5c49903917385" title="RC_Channel::RC_Channel" alt="" coords="245,3818,425,3845"/>
+<area shape="rect" id="node115" href="$classRC__Channels.html#aff9fc1d967c83cddb30fdd860eadd5ba" title="RC_Channels::RC_Channels" alt="" coords="238,3869,433,3895"/>
+<area shape="rect" id="node116" href="$classRCMapper.html#a0545c83beeee8bda7b84146e35b19baa" title="RCMapper::RCMapper" alt="" coords="257,3919,413,3946"/>
+<area shape="rect" id="node117" href="$classSITL_1_1SITL.html#a6ddf9192efdddfa02199c2d22b7ab445" title="SITL::SITL::SITL" alt="" coords="274,3970,397,3997"/>
+<area shape="rect" id="node118" href="$classSoaringController.html#ab2143660d37ad9d50a0fcae3236e897d" title="SoaringController::\lSoaringController" alt="" coords="270,4021,401,4063"/>
+<area shape="rect" id="node119" href="$classSoloGimbalEKF.html#a27e3fc1f63bdf94b7a156c5bfd2d7084" title="SoloGimbalEKF::SoloGimbalEKF" alt="" coords="227,4087,443,4114"/>
+<area shape="rect" id="node120" href="$classSRV__Channel.html#a3dd3aac9864a7bc6f24b56eb93c56b16" title="SRV_Channel::SRV_Channel" alt="" coords="237,4138,433,4165"/>
+<area shape="rect" id="node121" href="$classSRV__Channels.html#a531479f362d1f9bb45d95262924af40f" title="SRV_Channels::SRV_Channels" alt="" coords="230,4189,441,4215"/>
+<area shape="rect" id="node34" href="$classAP__InertialSensor.html#a2b206efafbcc14f62bf6cf121eaca780" title="AP_InertialSensor::\lget_instance" alt="" coords="499,1728,633,1769"/>
+<area shape="rect" id="node35" href="$classAP__Compass__AK8963.html#ade5c3fa84cb0026597de2641ea373274" title="AP_Compass_AK8963::\lprobe_mpu9250" alt="" coords="681,1728,845,1769"/>
+<area shape="rect" id="node36" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="893,1735,1085,1762"/>
+<area shape="rect" id="node37" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="1173,1710,1276,1737"/>
+<area shape="rect" id="node39" href="$classCompass.html#aff3220e1a557a75480e4c2dbbde72973" title="Compass::get_offsets_max" alt="" coords="1133,1761,1316,1787"/>
+<area shape="rect" id="node38" href="$AHRS__Test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1429,1710,1484,1737"/>
+<area shape="rect" id="node40" href="$classAP__Arming.html#a24332b3f5e2e233914bce12e69ae9564" title="AP_Arming::compass\l_checks" alt="" coords="2536,1796,2685,1837"/>
+<area shape="rect" id="node43" href="$classCompass.html#a702eb9d33ff1f5ada05b67f9b2219f9a" title="Compass::_start_calibration" alt="" coords="1364,1761,1549,1787"/>
+<area shape="rect" id="node41" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="2776,1796,2919,1837"/>
+<area shape="rect" id="node42" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="3037,1803,3156,1830"/>
+<area shape="rect" id="node44" href="$classCompass.html#afdd4d0c78f52388a68dfc07deeec11a6" title="Compass::_start_calibration_mask" alt="" coords="1597,1807,1821,1834"/>
+<area shape="rect" id="node47" href="$classCompass.html#a785cd621a6ecd49077881299ff1edba7" title="Compass::start_calibration_all" alt="" coords="1610,1757,1809,1783"/>
+<area shape="rect" id="node45" href="$classCompass.html#a5b92dfeb8382c411fc5cdfe2c35569b0" title="Compass::handle_mag\l_cal_command" alt="" coords="1869,1796,2025,1837"/>
+<area shape="rect" id="node46" href="$classCompass.html#a71d8ad1cb96263dfe4c0f712f14fac97" title="Compass::compass_cal\l_requires_reboot" alt="" coords="2285,1796,2448,1837"/>
+<area shape="rect" id="node48" href="$classCompass.html#a22ce936207eeda5d3fa55237271cef3e" title="Compass::get_field" alt="" coords="1880,1745,2015,1771"/>
+<area shape="rect" id="node49" href="$classCompass.html#a518ff958770a39bc265f93d22e071212" title="Compass::calculate\l_heading" alt="" coords="2077,1737,2216,1779"/>
+<area shape="rect" id="node50" href="$classCompass.html#a59f46d32a935d4faecc4a28d262c4388" title="Compass::consistent" alt="" coords="2073,1686,2220,1713"/>
+<area shape="rect" id="node51" href="$classNavEKF2__core.html#abf6ac301297f486d9690d97c7a19dad8" title="NavEKF2_core::readMagData" alt="" coords="2268,1535,2465,1562"/>
+<area shape="rect" id="node68" href="$classNavEKF3__core.html#a39fe9f76e9c368cba51e9af9b2367513" title="NavEKF3_core::readMagData" alt="" coords="2268,1686,2465,1713"/>
+<area shape="rect" id="node52" href="$classNavEKF2__core.html#a4a06ae47c3edebdecd2b179a0567f00b" title="NavEKF2_core::Initialise\lFilterBootstrap" alt="" coords="2764,1561,2931,1603"/>
+<area shape="rect" id="node63" href="$classNavEKF2__core.html#af6d172634e15ba1643bf4c53c390f5e2" title="NavEKF2_core::calcQuatAnd\lFieldStates" alt="" coords="2513,1499,2708,1540"/>
+<area shape="rect" id="node65" href="$classNavEKF2__core.html#aa0f6cd840e93e0233f056c88ce45ef85" title="NavEKF2_core::SelectMagFusion" alt="" coords="2987,1486,3207,1513"/>
+<area shape="rect" id="node53" href="$classNavEKF2.html#a9c447b8d84abf2dfc845ddbbbad46a2b" title="NavEKF2::InitialiseFilter" alt="" coords="3493,1569,3657,1595"/>
+<area shape="rect" id="node54" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="3705,1467,3935,1494"/>
+<area shape="rect" id="node57" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="3731,1569,3909,1595"/>
+<area shape="rect" id="node58" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="3731,1620,3909,1661"/>
+<area shape="rect" id="node59" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="3741,1518,3899,1545"/>
+<area shape="rect" id="node55" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="3984,1467,4173,1494"/>
+<area shape="rect" id="node56" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="4274,1467,4321,1494"/>
+<area shape="rect" id="node60" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="4003,1649,4155,1691"/>
+<area shape="rect" id="node62" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="3983,1518,4175,1545"/>
+<area shape="rect" id="node61" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="4223,1649,4372,1691"/>
+<area shape="rect" id="node64" href="$classNavEKF2__core.html#a3989e564224adfa26b0e32a5a03aca10" title="NavEKF2_core::controlMag\lYawReset" alt="" coords="2756,1496,2939,1537"/>
+<area shape="rect" id="node66" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="3255,1486,3445,1513"/>
+<area shape="rect" id="node67" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="3496,1486,3655,1513"/>
+<area shape="rect" id="node69" href="$classNavEKF3__core.html#aae18ada44b1b7be0d45af03391ef961a" title="NavEKF3_core::Initialise\lFilterBootstrap" alt="" coords="3267,1620,3433,1661"/>
+<area shape="rect" id="node73" href="$classNavEKF3__core.html#a93a3f4411a8dc4df4819e13856d037d5" title="NavEKF3_core::calcQuatAnd\lFieldStates" alt="" coords="2513,1679,2708,1720"/>
+<area shape="rect" id="node75" href="$classNavEKF3__core.html#a800d407d377e6532d563c68cc3c731d8" title="NavEKF3_core::SelectMagFusion" alt="" coords="2987,1711,3207,1738"/>
+<area shape="rect" id="node70" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="3493,1627,3657,1654"/>
+<area shape="rect" id="node71" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="3705,1686,3935,1713"/>
+<area shape="rect" id="node72" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="3741,1737,3899,1763"/>
+<area shape="rect" id="node74" href="$classNavEKF3__core.html#ae050fc8e6c45d5134f8cba8dabc719e8" title="NavEKF3_core::controlMag\lYawReset" alt="" coords="2756,1679,2939,1720"/>
+<area shape="rect" id="node76" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title="NavEKF3_core::UpdateFilter" alt="" coords="3255,1711,3445,1738"/>
+<area shape="rect" id="node77" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="3496,1711,3655,1738"/>
+</map>

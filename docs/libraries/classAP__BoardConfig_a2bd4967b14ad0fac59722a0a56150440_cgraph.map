@@ -1,0 +1,27 @@
+<map id="AP_BoardConfig::px4_setup_canbus" name="AP_BoardConfig::px4_setup_canbus">
+<area shape="rect" id="node2" href="$classAP__Param.html#aa77bffb8e31b126d527b6b65cb430e2c" title="AP_Param::load_object\l_from_eeprom" alt="" coords="201,341,360,383"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="422,552,575,593"/>
+<area shape="rect" id="node25" href="$classAP__HAL_1_1Scheduler.html#a8e89c490e4b18a8553c6e63130237f3b" title="AP_HAL::Scheduler::\lcreate_uavcan_thread" alt="" coords="205,535,356,576"/>
+<area shape="rect" id="node26" href="$px4__drivers_8cpp.html#a67e33e859118467671c7d17a210d834b" title="waitpid" alt="" coords="249,601,312,627"/>
+<area shape="rect" id="node3" href="$classAP__Param.html#ae37c408fb6a06737f2010ef54f7df704" title="AP_Param::find_key\l_by_pointer" alt="" coords="427,224,570,265"/>
+<area shape="rect" id="node4" href="$classAP__Param.html#a69baa95e011c7a8c4a29625c558c5501" title="get group_info pointer based on flags " alt="" coords="867,290,1045,317"/>
+<area shape="rect" id="node7" href="$classAP__Param.html#aa8b43d95bca6adbf5497e8102cf73857" title="AP_Param::adjust_group\l_offset" alt="" coords="873,173,1039,215"/>
+<area shape="rect" id="node16" href="$classStorageAccess.html#a82088aa568b13d18acc9e41a01fd1f19" title="StorageAccess::size" alt="" coords="427,501,570,527"/>
+<area shape="rect" id="node17" href="$classStorageAccess.html#ab2a8575d541549a15645edc360fdaa91" title="StorageAccess::read\l_block" alt="" coords="427,5,571,47"/>
+<area shape="rect" id="node19" href="$classAP__Param.html#aa2a6f6980713f1055fbee50f67082296" title="AP_Param::is_sentinal" alt="" coords="421,450,576,477"/>
+<area shape="rect" id="node20" href="$classAP__Param.html#a292ed97cd29eb839a301d85690d125bd" title="AP_Param::get_key" alt="" coords="659,509,797,535"/>
+<area shape="rect" id="node21" href="$classAP__Param.html#a12ecf37b37b5bb3f4c2d43b8ac382a9a" title="AP_Param::find_by_header" alt="" coords="408,349,589,375"/>
+<area shape="rect" id="node24" href="$classAP__Param.html#a2e66d023b56a62888747cbfaaef729d9" title="AP_Param::type_size" alt="" coords="424,71,573,98"/>
+<area shape="rect" id="node5" href="$classAP__Param.html#aa15dd4117be49f3d129f4c3c1799644b" title="AP_Param::find_key\l_by_pointer_group" alt="" coords="657,173,799,215"/>
+<area shape="rect" id="node6" href="$classAP__Param.html#a1dcc7820ea51e29cfb762387a9212818" title="AP_Param::get_base" alt="" coords="1093,290,1240,317"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="651,560,805,601"/>
+<area shape="rect" id="node10" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="911,567,1001,594"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="1095,567,1239,594"/>
+<area shape="rect" id="node12" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="1122,618,1211,645"/>
+<area shape="rect" id="node13" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="1136,669,1197,695"/>
+<area shape="rect" id="node14" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="1121,466,1213,493"/>
+<area shape="rect" id="node15" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="1122,517,1211,543"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="649,5,807,47"/>
+<area shape="rect" id="node22" href="$classAP__Param.html#a681a15cfdd0c27cac69b2a26628e2a8c" title="AP_Param::find_by_header\l_group" alt="" coords="637,392,819,433"/>
+<area shape="rect" id="node23" href="$classAP__Param.html#a90f6be43b427d44475380211164f8292" title="AP_Param::group_id" alt="" coords="885,399,1027,426"/>
+</map>

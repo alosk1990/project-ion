@@ -1,0 +1,24 @@
+<map id="Copter::log_picture" name="Copter::log_picture">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Camera.html#af102c974500c871c4f2b0e67ca2331cd" title="AP_Camera::using_feedback_pin" alt="" coords="185,5,401,32"/>
+<area shape="rect" id="node3" href="$classCopter.html#ab0138d53f26eec273f186bb8c0d98084" title="Copter::gcs_send_message" alt="" coords="201,56,386,83"/>
+<area shape="rect" id="node5" href="$classCopter.html#a4743992eae3f4241deb4f3e3a4c9b30d" title="Copter::should_log" alt="" coords="228,107,359,133"/>
+<area shape="rect" id="node22" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aedee68bf7de37e2ce874dce5651ae5a4" title="DataFlash_Class::Log\l_Write_Camera" alt="" coords="217,158,369,199"/>
+<area shape="rect" id="node23" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa5363ab47bb001e920d8539f67517698" title="DataFlash_Class::Log\l_Write_Trigger" alt="" coords="217,223,369,265"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="449,19,663,45"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a5e32434ddf454a074dd9638d87e1d934" title="DataFlash_Class::log\l_while_disarmed" alt="" coords="482,70,630,111"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa1dfc59b10a4b5ef3bc22ed5d5648665" title="DataFlash_Class::logging\l_started" alt="" coords="729,89,901,130"/>
+<area shape="rect" id="node8" href="$classCopter.html#a3a33c5c43740be29248b057f699f82a5" title="Copter::start_logging" alt="" coords="485,227,627,253"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a95bf3cac993c1ee326acc6447e99d875" title="DataFlash_Class::set\l_mission" alt="" coords="741,154,890,195"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#abed561cc5dcbed8a208fbb13be2d436e" title="DataFlash_Class::setVehicle\l_Startup_Log_Writer" alt="" coords="719,219,911,261"/>
+<area shape="rect" id="node11" href="$classCopter.html#affc81dccd23c7d313a38854fe19c62b7" title="Copter::Log_Write_Vehicle\l_Startup_Messages" alt="" coords="726,285,905,326"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a2150c74ef2a6d77ec9ddbbf859cacd64" title="DataFlash_Class::StartNewLog" alt="" coords="712,351,919,377"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#ae85a3c49d2883b975376baaab5ab958f" title="DataFlash_Class::EnableWrites" alt="" coords="711,401,920,428"/>
+<area shape="rect" id="node12" href="$classCopter.html#a228aa1ecafb49183929a8da8045cd938" title="Copter::get_frame_string" alt="" coords="970,168,1137,195"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a3d24105948a2709fa0585b1c53bb7dfe" title="DataFlash_Class::Log\l_Write_Message" alt="" coords="977,219,1129,261"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a8c36713b82ad014c02071b7de0bcfae0" title="DataFlash_Class::Log\l_Write_Mode" alt="" coords="977,285,1129,326"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa4421dde08afcd932ccbe12aef85055d" title="DataFlash_Class::Log\l_Write_Rally" alt="" coords="977,350,1129,391"/>
+<area shape="rect" id="node16" href="$classCopter.html#ae637d9d35114ba86e1d3c7a726870edf" title="Copter::Log_Write_Home\l_And_Origin" alt="" coords="968,415,1139,457"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a8e90dbad885e5d8d4efe9a34d635886a" title="AP_AHRS_NavEKF::get\l_origin" alt="" coords="1187,350,1355,391"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a7c9ea84e9cbfd62bac7f1fac7cafa562" title="DataFlash_Class::Log\l_Write_Origin" alt="" coords="1195,415,1347,457"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="1195,481,1346,508"/>
+</map>

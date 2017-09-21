@@ -1,0 +1,41 @@
+<map id="Vector3::normalized" name="Vector3::normalized">
+<area shape="rect" id="node2" href="$classCompass.html#a59f46d32a935d4faecc4a28d262c4388" title="Compass::consistent" alt="" coords="192,247,339,274"/>
+<area shape="rect" id="node34" href="$classMatrix3.html#a69d23fe802118124235bd5542b279259" title="Matrix3::from_axis\l_angle" alt="" coords="200,443,331,484"/>
+<area shape="rect" id="node3" href="$classCompass.html#a71d8ad1cb96263dfe4c0f712f14fac97" title="Compass::compass_cal\l_requires_reboot" alt="" coords="404,240,567,281"/>
+<area shape="rect" id="node4" href="$classAP__Arming.html#a24332b3f5e2e233914bce12e69ae9564" title="AP_Arming::compass\l_checks" alt="" coords="655,181,804,223"/>
+<area shape="rect" id="node7" href="$classNavEKF2__core.html#abf6ac301297f486d9690d97c7a19dad8" title="NavEKF2_core::readMagData" alt="" coords="387,97,584,123"/>
+<area shape="rect" id="node24" href="$classNavEKF3__core.html#a39fe9f76e9c368cba51e9af9b2367513" title="NavEKF3_core::readMagData" alt="" coords="387,309,584,335"/>
+<area shape="rect" id="node5" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="895,173,1037,215"/>
+<area shape="rect" id="node6" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="1156,181,1275,207"/>
+<area shape="rect" id="node8" href="$classNavEKF2__core.html#af6d172634e15ba1643bf4c53c390f5e2" title="NavEKF2_core::calcQuatAnd\lFieldStates" alt="" coords="632,5,827,47"/>
+<area shape="rect" id="node10" href="$classNavEKF2__core.html#aa0f6cd840e93e0233f056c88ce45ef85" title="NavEKF2_core::SelectMagFusion" alt="" coords="1105,53,1325,79"/>
+<area shape="rect" id="node20" href="$classNavEKF2__core.html#a4a06ae47c3edebdecd2b179a0567f00b" title="NavEKF2_core::Initialise\lFilterBootstrap" alt="" coords="1132,115,1299,156"/>
+<area shape="rect" id="node9" href="$classNavEKF2__core.html#a3989e564224adfa26b0e32a5a03aca10" title="NavEKF2_core::controlMag\lYawReset" alt="" coords="875,5,1057,47"/>
+<area shape="rect" id="node11" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="1373,53,1564,79"/>
+<area shape="rect" id="node12" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="1615,53,1773,79"/>
+<area shape="rect" id="node13" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="1860,47,2017,74"/>
+<area shape="rect" id="node17" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1824,98,2053,125"/>
+<area shape="rect" id="node14" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="2121,175,2273,216"/>
+<area shape="rect" id="node16" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="2101,47,2293,74"/>
+<area shape="rect" id="node15" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="2341,175,2491,216"/>
+<area shape="rect" id="node18" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="2103,278,2292,305"/>
+<area shape="rect" id="node19" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2393,278,2439,305"/>
+<area shape="rect" id="node21" href="$classNavEKF2.html#a9c447b8d84abf2dfc845ddbbbad46a2b" title="NavEKF2::InitialiseFilter" alt="" coords="1612,122,1776,149"/>
+<area shape="rect" id="node22" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="1849,149,2028,175"/>
+<area shape="rect" id="node23" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="1849,200,2028,241"/>
+<area shape="rect" id="node25" href="$classNavEKF3__core.html#a93a3f4411a8dc4df4819e13856d037d5" title="NavEKF3_core::calcQuatAnd\lFieldStates" alt="" coords="632,303,827,344"/>
+<area shape="rect" id="node27" href="$classNavEKF3__core.html#a800d407d377e6532d563c68cc3c731d8" title="NavEKF3_core::SelectMagFusion" alt="" coords="1105,314,1325,341"/>
+<area shape="rect" id="node32" href="$classNavEKF3__core.html#aae18ada44b1b7be0d45af03391ef961a" title="NavEKF3_core::Initialise\lFilterBootstrap" alt="" coords="883,239,1049,280"/>
+<area shape="rect" id="node26" href="$classNavEKF3__core.html#ae050fc8e6c45d5134f8cba8dabc719e8" title="NavEKF3_core::controlMag\lYawReset" alt="" coords="875,304,1057,345"/>
+<area shape="rect" id="node28" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title="NavEKF3_core::UpdateFilter" alt="" coords="1373,314,1564,341"/>
+<area shape="rect" id="node29" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="1615,314,1773,341"/>
+<area shape="rect" id="node30" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="1860,266,2017,293"/>
+<area shape="rect" id="node31" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="1824,317,2053,343"/>
+<area shape="rect" id="node33" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="1612,246,1776,273"/>
+<area shape="rect" id="node35" href="$classSITL_1_1Calibration.html#a529449c7dee022d7986666ed4bd1b11d" title="SITL::Calibration::\l_calibration_poses" alt="" coords="420,472,551,513"/>
+<area shape="rect" id="node38" href="$classMatrix3.html#a2c69227a793818d8a8f47e99ffa99885" title="Matrix3\&lt; float \&gt;::is_nan" alt="" coords="405,538,565,565"/>
+<area shape="rect" id="node39" href="$rotations_8cpp.html#acaec71463457149487901c616be1c74d" title="test_rotation_accuracy" alt="" coords="408,421,563,447"/>
+<area shape="rect" id="node36" href="$classSITL_1_1Calibration.html#a0c3f60adfbc5d68ae425883af18b62f4" title="SITL::Calibration::\lupdate" alt="" coords="665,537,793,579"/>
+<area shape="rect" id="node37" href="$classSITL_1_1Calibration.html#a06ad77d21ed540bdbad30e7d3147c1d2" title="SITL::Calibration::\lcreate" alt="" coords="665,472,793,513"/>
+<area shape="rect" id="node40" href="$rotations_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="702,421,757,447"/>
+</map>

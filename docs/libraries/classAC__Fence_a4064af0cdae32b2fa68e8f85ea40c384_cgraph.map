@@ -1,0 +1,29 @@
+<map id="AC_Fence::load_polygon_from_eeprom" name="AC_Fence::load_polygon_from_eeprom">
+<area shape="rect" id="node2" href="$classAC__PolyFence__loader.html#ab8cf5771a071bceda17f42d53ce244b2" title="AC_PolyFence_loader\l::create_point_array" alt="" coords="231,129,383,171"/>
+<area shape="rect" id="node3" href="$classAC__PolyFence__loader.html#a67055066bbd2e25a6a22a4978a837a5d" title="AC_PolyFence_loader\l::max_points" alt="" coords="445,71,597,112"/>
+<area shape="rect" id="node7" href="$classAP__InertialNav.html#ad5e3413a7b1422a48869b660911b3634" title="AP_InertialNav::get\l_location" alt="" coords="239,195,375,236"/>
+<area shape="rect" id="node8" href="$classAP__InertialNav.html#a0400fb5866678c5657542a4c2769839b" title="AP_InertialNav::get\l_origin" alt="" coords="239,260,375,301"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title="constrain_int16" alt="" coords="466,326,577,353"/>
+<area shape="rect" id="node15" href="$classAC__PolyFence__loader.html#a28f972058b2fca40ed02a043e399d297" title="AC_PolyFence_loader\l::load_point_from_eeprom" alt="" coords="221,12,393,53"/>
+<area shape="rect" id="node19" href="$location_8cpp.html#a527b26472ed6f2e0c141e109a0722a0a" title="location_diff" alt="" coords="261,377,353,403"/>
+<area shape="rect" id="node22" href="$classAC__PolyFence__loader.html#a75bbdb5a39181afbe1e657355c5bd6c9" title="AC_PolyFence_loader\l::boundary_valid" alt="" coords="231,428,383,469"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Util.html#a2a2e64f649d25593951054d44c0ed53b" title="AP_HAL::Util::available\l_memory" alt="" coords="441,136,601,177"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="722,74,769,101"/>
+<area shape="rect" id="node5" href="$classStorageAccess.html#a82088aa568b13d18acc9e41a01fd1f19" title="StorageAccess::size" alt="" coords="674,125,817,151"/>
+<area shape="rect" id="node10" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="912,351,1025,378"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1108,275,1259,302"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1100,326,1267,353"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1102,377,1265,403"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1096,427,1271,454"/>
+<area shape="rect" id="node16" href="$classStorageAccess.html#af10e9fa6cda0cb973243e4852c9d16c6" title="StorageAccess::read\l_uint32" alt="" coords="449,5,593,47"/>
+<area shape="rect" id="node17" href="$classStorageAccess.html#ab2a8575d541549a15645edc360fdaa91" title="StorageAccess::read\l_block" alt="" coords="673,5,817,47"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="889,5,1048,47"/>
+<area shape="rect" id="node20" href="$location_8cpp.html#ad2368c582f3e0c135e2a74772f4db61a" title="longitude_scale" alt="" coords="465,377,577,403"/>
+<area shape="rect" id="node21" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="692,377,799,403"/>
+<area shape="rect" id="node23" href="$polygon_8cpp.html#a296ad0a1a7b2ee7ce09a49163781d7d7" title="Polygon_complete" alt="" coords="457,482,586,509"/>
+<area shape="rect" id="node28" href="$polygon_8cpp.html#a69c7755ab39f2ede645c4542b3aed07c" title="Polygon_outside" alt="" coords="462,431,581,458"/>
+<area shape="rect" id="node24" href="$polygon_8cpp.html#a326b22042d7cce5627736e6718db1746" title="Polygon_outside\&lt; int32_t \&gt;" alt="" coords="655,479,836,506"/>
+<area shape="rect" id="node25" href="$polygon_8cpp.html#af27eb0c479c954ded601aca8480fd496" title="Polygon_complete\&lt; int32_t \&gt;" alt="" coords="649,530,841,557"/>
+<area shape="rect" id="node26" href="$polygon_8cpp.html#abbf13089b7566afd646ac6005e5df2f8" title="Polygon_outside\&lt; float \&gt;" alt="" coords="662,581,829,607"/>
+<area shape="rect" id="node27" href="$polygon_8cpp.html#a4d47eaff22b1f855bb2e3612d295b0f0" title="Polygon_complete\&lt; float \&gt;" alt="" coords="656,429,835,455"/>
+</map>

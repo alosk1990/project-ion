@@ -1,0 +1,9 @@
+<map id="Copter::auto_land_start" name="Copter::auto_land_start">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a3bd3abac616805d338d31255d76e978e" title="AC_WPNav::init_loiter\l_target" alt="" coords="229,5,384,47"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#aeaaab19261649e644c0c83b471a0325c" title="AC_PosControl::is_active_z" alt="" coords="213,71,400,98"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a4ba57bbeb61365135b713ed19b5aba35" title="AC_PosControl::set\l_alt_target" alt="" coords="237,123,376,164"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ae38f7e9a5a386e838368e5e2b59ff3d9" title="AP_InertialNav_NavEKF\l::get_altitude" alt="" coords="223,188,390,229"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a08c02eed130aa89ef8bab6f8b83f97bc" title="AC_PosControl::set\l_desired_velocity_z" alt="" coords="237,253,376,295"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a7b543367e2256b2bf9fcea632cb3cf22" title="AP_InertialNav_NavEKF\l::get_velocity_z" alt="" coords="223,319,390,360"/>
+<area shape="rect" id="node8" href="$classCopter.html#ac13e772c6d71e6d96b659da5c8669e43" title="Copter::set_auto_yaw_mode" alt="" coords="212,385,401,411"/>
+</map>

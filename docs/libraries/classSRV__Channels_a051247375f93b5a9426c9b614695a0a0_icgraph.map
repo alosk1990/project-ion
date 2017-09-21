@@ -1,0 +1,8 @@
+<map id="SRV_Channels::set_output_limit" name="SRV_Channels::set_output_limit">
+<area shape="rect" id="node2" href="$classAC__Sprayer.html#a59d3a75e4b14db5a1b57d4d66470ad93" title="AC_Sprayer::stop_spraying" alt="" coords="235,31,417,57"/>
+<area shape="rect" id="node6" href="$classAP__MotorsHeli__Dual.html#a45912c55dd1eb49676cea2096daab6a7" title="AP_MotorsHeli_Dual\l::update_motor_control" alt="" coords="249,82,403,123"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli__Single.html#ac19ec15e0d8e3a3142762f6e1e1c0812" title="AP_MotorsHeli_Single\l::update_motor_control" alt="" coords="249,147,403,189"/>
+<area shape="rect" id="node3" href="$classAC__Sprayer.html#a7a1ce1f48972331e59db1cb1edc8a40a" title="run &#45; allow or disallow spraying to occur " alt="" coords="465,5,584,32"/>
+<area shape="rect" id="node4" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity " alt="" coords="632,31,772,57"/>
+<area shape="rect" id="node5" href="$classAC__Sprayer.html#a6655f109faaab8b29fa923f7112887c0" title="To&#45;Do: add function to decode pilot input from channel 6 tuning knob. " alt="" coords="820,31,1007,57"/>
+</map>

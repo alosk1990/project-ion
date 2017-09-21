@@ -1,0 +1,17 @@
+<map id="NavEKF3_core::readMagData" name="NavEKF3_core::readMagData">
+<area shape="rect" id="node2" href="$classNavEKF3__core.html#a93a3f4411a8dc4df4819e13856d037d5" title="NavEKF3_core::calcQuatAnd\lFieldStates" alt="" coords="251,5,445,47"/>
+<area shape="rect" id="node4" href="$classNavEKF3__core.html#a800d407d377e6532d563c68cc3c731d8" title="NavEKF3_core::SelectMagFusion" alt="" coords="724,61,944,87"/>
+<area shape="rect" id="node13" href="$classNavEKF3__core.html#aae18ada44b1b7be0d45af03391ef961a" title="NavEKF3_core::Initialise\lFilterBootstrap" alt="" coords="265,123,431,164"/>
+<area shape="rect" id="node3" href="$classNavEKF3__core.html#ae050fc8e6c45d5134f8cba8dabc719e8" title="NavEKF3_core::controlMag\lYawReset" alt="" coords="493,5,676,47"/>
+<area shape="rect" id="node5" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title="NavEKF3_core::UpdateFilter" alt="" coords="992,61,1183,87"/>
+<area shape="rect" id="node6" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="1233,61,1392,87"/>
+<area shape="rect" id="node7" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="1479,50,1636,77"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="1443,101,1672,127"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1739,39,1891,80"/>
+<area shape="rect" id="node9" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1957,39,2107,80"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1720,105,1909,131"/>
+<area shape="rect" id="node12" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2009,105,2055,131"/>
+<area shape="rect" id="node14" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="1231,130,1395,157"/>
+<area shape="rect" id="node15" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="1468,151,1647,178"/>
+<area shape="rect" id="node16" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="1468,203,1647,244"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="NavEKF2_core::selectHeightForFusion" name="NavEKF2_core::selectHeightForFusion">
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#a0c78437556b4a6020c91db03541e7228" title="NavEKF2_core::readRangeFinder" alt="" coords="245,360,464,387"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="592,221,643,248"/>
+<area shape="rect" id="node14" href="$classRangeFinder.html#a54ba24985707c8404615835665da4efd" title="RangeFinder::get_pos\l_offset" alt="" coords="279,485,430,526"/>
+<area shape="rect" id="node16" href="$classVector3.html#a0a3015b68acc33e5ca34bbe122d7fc66" title="Vector3::is_zero" alt="" coords="296,616,413,643"/>
+<area shape="rect" id="node17" href="$classMatrix3.html#a3705734aec6b67d729011cd792d7398a" title="Matrix3::mul_transpose" alt="" coords="275,667,434,693"/>
+<area shape="rect" id="node18" href="$classNavEKF2__core.html#a271df7b049222e8a2a5901a7955c0c16" title="NavEKF2_core::readBaroData" alt="" coords="255,163,454,189"/>
+<area shape="rect" id="node21" href="$classNavEKF2__core.html#a056ddc5c0ee3c2ad964ada345e554cb7" title="NavEKF2_core::getTakeoff\lExpected" alt="" coords="527,155,708,197"/>
+<area shape="rect" id="node22" href="$classRangeFinder.html#a62c4d7cafb56caa1f3244a658d03708d" title="RangeFinder::max_distance\l_cm_orient" alt="" coords="262,550,447,591"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="592,771,643,797"/>
+<area shape="rect" id="node25" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="828,771,867,797"/>
+<area shape="rect" id="node26" href="$classNavEKF2__core.html#ade81547592a639c2ae38dfbf14c4e8af" title="NavEKF2_core::calcFiltBaro\lOffset" alt="" coords="261,937,449,978"/>
+<area shape="rect" id="node27" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="564,885,671,912"/>
+<area shape="rect" id="node33" href="$classNavEKF2__core.html#a7b3a71407b1dc8c0c03451765fd02d50" title="NavEKF2_core::calcFiltGps\lHgtOffset" alt="" coords="262,819,447,861"/>
+<area shape="rect" id="node34" href="$classNavEKF2__core.html#a5c3a3ea2266b0c391e802c679927167a" title="NavEKF2_core::getTouchdown\lExpected" alt="" coords="253,1002,457,1043"/>
+<area shape="rect" id="node4" href="$classRangeFinder.html#a8d80f2033a9c81339a5241bf5fd312b9" title="RangeFinder::ground\l_clearance_cm_orient" alt="" coords="543,323,692,365"/>
+<area shape="rect" id="node8" href="$classRangeFinder.html#a5452cf4387ba889dd206b12375d2e059" title="RangeFinder::status" alt="" coords="1424,303,1564,329"/>
+<area shape="rect" id="node11" href="$classRangeFinder.html#a8726073396e842beb10cd0b851fa5521" title="RangeFinder::get_orientation" alt="" coords="523,440,712,467"/>
+<area shape="rect" id="node12" href="$classRangeFinder.html#a451a7507d534024c72faa2d1b734cb3c" title="RangeFinder::distance_cm" alt="" coords="528,389,707,416"/>
+<area shape="rect" id="node5" href="$classRangeFinder.html#a532b9699a5ac5270db1584fa7fab8a4c" title="RangeFinder::find_instance" alt="" coords="1195,481,1376,508"/>
+<area shape="rect" id="node6" href="$classRangeFinder.html#ad95f15a0eea1106c41337089636175b3" title="RangeFinder::ground\l_clearance_cm" alt="" coords="776,323,919,365"/>
+<area shape="rect" id="node7" href="$classRangeFinder.html#aa40fdb58e3887d08e6ad2b2da3c5076e" title="RangeFinder::status\l_orient" alt="" coords="989,390,1129,431"/>
+<area shape="rect" id="node9" href="$classRangeFinder.html#a53a15c9f1ba0bfa9cbcf8d381025eb0f" title="RangeFinder::has_data" alt="" coords="1207,303,1364,329"/>
+<area shape="rect" id="node10" href="$classRangeFinder.html#a6b1c79a6c9b8c755beb4d660c8a24b02" title="RangeFinder::has_data\l_orient" alt="" coords="981,325,1138,366"/>
+<area shape="rect" id="node13" href="$classRangeFinder.html#a68658534a280bdcefbcf50d40808c3c8" title="RangeFinder::distance\l_cm_orient" alt="" coords="771,491,924,533"/>
+<area shape="rect" id="node15" href="$classRangeFinder.html#a4d27e771b049550e6c01847292eb1497" title="RangeFinder::get_pos\l_offset_orient" alt="" coords="542,491,693,533"/>
+<area shape="rect" id="node19" href="$classAP__Baro.html#aae5b3ae28aca807eb20b722a04685061" title="AP_Baro::get_last_update" alt="" coords="530,29,705,56"/>
+<area shape="rect" id="node20" href="$classAP__Baro.html#a984b4dbc11e276e832467253590da933" title="AP_Baro::get_altitude" alt="" coords="543,104,692,131"/>
+<area shape="rect" id="node23" href="$classRangeFinder.html#a52afaa97928556f60fe968ee9a6ce429" title="RangeFinder::max_distance_cm" alt="" coords="512,557,723,584"/>
+<area shape="rect" id="node28" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="791,885,904,912"/>
+<area shape="rect" id="node29" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="984,809,1135,836"/>
+<area shape="rect" id="node30" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="976,860,1143,887"/>
+<area shape="rect" id="node31" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="978,911,1141,937"/>
+<area shape="rect" id="node32" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="972,961,1147,988"/>
+</map>

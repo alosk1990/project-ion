@@ -1,0 +1,15 @@
+<map id="GCS_MAVLINK::send_battery2" name="GCS_MAVLINK::send_battery2">
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#a72b1cb4d4ca246859bd8bf5a11df9c1d" title="AP_BattMonitor::num\l_instances" alt="" coords="287,169,434,211"/>
+<area shape="rect" id="node12" href="$classAP__BattMonitor.html#a94dc19b1a82878c886697ff062377fe7" title="has_current &#45; returns true if battery monitor instance provides current info " alt="" coords="289,235,432,276"/>
+<area shape="rect" id="node13" href="$classAP__BattMonitor.html#af73075a42b0aa50dca77e16625fb1122" title="current_amps &#45; returns the instantaneous current draw in amperes " alt="" coords="260,301,461,327"/>
+<area shape="rect" id="node14" href="$classAP__BattMonitor.html#ab5789eb7d45ec25b685adfaaf9167284" title="voltage &#45; returns battery voltage in millivolts " alt="" coords="279,351,443,378"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#ac1a8593b0b20f9316f22084947bae7fe" title="AP_BattMonitor::init" alt="" coords="513,150,652,177"/>
+<area shape="rect" id="node11" href="$classAP__BattMonitor.html#a2275643d2998063448035e89cba6f549" title="Read the battery voltage and current for all batteries. Should be called at 10hz. ..." alt="" coords="509,205,656,231"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDeviceManager.html#a28e5d1449e177f16962dd7ccc94df443" title="AP_HAL::I2CDeviceManager\l::get_device" alt="" coords="704,143,897,184"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor__Backend.html#a333708b23c3532575284833ca4e4f058" title="AP_BattMonitor_Backend\l::init" alt="" coords="715,77,887,119"/>
+<area shape="rect" id="node6" href="$classAP__BattMonitor__Backend.html#a0aab3a98b369ed9e0e3bd2dae5a4e6ac" title="AP_BattMonitor_Backend\l::read" alt="" coords="945,201,1117,243"/>
+<area shape="rect" id="node7" href="$classAP__BattMonitor__Backend.html#a47fe3bc306e5ff449a93b3095fb915bb" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100) " alt="" coords="945,71,1117,112"/>
+<area shape="rect" id="node8" href="$classAP__BattMonitor__Backend.html#a08acb2e1eac3eb918ebe48240c50dcbf" title="set capacity for this instance " alt="" coords="945,136,1117,177"/>
+<area shape="rect" id="node9" href="$classAP__BattMonitor__Backend.html#aef3e61f18c39989c4a82baca467e38e9" title="get capacity for this instance " alt="" coords="945,5,1117,47"/>
+<area shape="rect" id="node10" href="$classAP__BattMonitor.html#a3d76e9c773148f56a8c73715c535365b" title="pack_capacity_mah &#45; returns the capacity of the battery pack in mAh when the pack is full ..." alt="" coords="1165,5,1316,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="HALSITL::SITL_State::_ground_sonar" name="HALSITL::SITL_State::_ground_sonar">
+<area shape="rect" id="node2" href="$classVector3.html#a0a3015b68acc33e5ca34bbe122d7fc66" title="Vector3::is_zero" alt="" coords="221,5,338,32"/>
+<area shape="rect" id="node3" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="Matrix3::from_euler" alt="" coords="212,56,347,83"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="247,107,311,133"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#ab2e67ae38e16eec6317566805df50ec4" title="HALSITL::SITL_State\l::_rand_float" alt="" coords="204,158,355,199"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="226,224,333,251"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="403,224,516,251"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="576,148,727,175"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="568,199,735,225"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="570,249,733,276"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="564,300,739,327"/>
+</map>

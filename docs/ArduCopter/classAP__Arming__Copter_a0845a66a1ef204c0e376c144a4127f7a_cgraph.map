@@ -1,0 +1,25 @@
+<map id="AP_Arming_Copter::arm_checks" name="AP_Arming_Copter::arm_checks">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a0ea2d66e9ff39ad18211e180caa3f74e" title="AP_InertialSensor::\laccel_cal_requires_reboot" alt="" coords="218,5,391,47"/>
+<area shape="rect" id="node3" href="$classAP__Arming__Copter.html#a4f4518732abf63d1ba6834f33ac61424" title="AP_Arming_Copter::gcs\l_send_text" alt="" coords="478,123,641,164"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a430f2a39baf404728deb8c2cfd87ba98" title="AP_InertialSensor::\lget_accel_health_all" alt="" coords="235,423,375,464"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a00092a217e7cd8f617103e3f03acb56b" title="AP_InertialSensor::\lget_gyro_health_all" alt="" coords="237,488,372,529"/>
+<area shape="rect" id="node6" href="$classAP__Arming__Copter.html#af3181d31121c05557708c2b94ce87eac" title="AP_Arming_Copter::pre\l_arm_ekf_attitude_check" alt="" coords="221,605,389,647"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ad6004ffb427fd086592cc1c56f5de17a" title="AP_InertialNav_NavEKF\l::get_filter_status" alt="" coords="476,591,643,632"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#a073c1681e70b1505eb1c6ffb81d93f0a" title="AP_AHRS::healthy" alt="" coords="492,189,627,215"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompass.html#a79776eee973736f7e2b218d698225dc1" title="Compass::is_calibrating" alt="" coords="223,671,386,698"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classCompass.html#a71d8ad1cb96263dfe4c0f712f14fac97" title="Compass::compass_cal\l_requires_reboot" alt="" coords="223,723,386,764"/>
+<area shape="rect" id="node11" href="$classAP__Arming__Copter.html#a0f90a6d09c71ab38aaf0ca5c122e2568" title="AP_Arming_Copter::pre\l_arm_gps_checks" alt="" coords="225,305,385,347"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#ae1d5ebd46ec3ddb644862c747e2968bf" title="GCS_MAVLINK::send_statustext_all" alt="" coords="440,523,679,550"/>
+<area shape="rect" id="node18" href="$classAP__Arming__Copter.html#ae0dc885a35dc584b1990ff851ec83f4d" title="AP_Arming_Copter::motor\l_checks" alt="" coords="217,123,392,164"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Baro.html#a24147ebcaf2ecf10bfdebd60e4ecc26c" title="AP_Baro::all_healthy" alt="" coords="233,789,377,815"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ae38f7e9a5a386e838368e5e2b59ff3d9" title="AP_InertialNav_NavEKF\l::get_altitude" alt="" coords="221,840,388,881"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#a68ea4fdaf53cf5d7068927f5f20393ab" title="AP_AHRS::cos_roll" alt="" coords="235,906,374,933"/>
+<area shape="rect" id="node22" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aae50efebd31d79c279e6155298433493" title="AP_AHRS::cos_pitch" alt="" coords="230,957,379,983"/>
+<area shape="rect" id="node23" href="$classAP__Arming__Copter.html#a066e4fc3bef2a0aef3f896bbcd888aad" title="AP_Arming_Copter::pre\l_arm_terrain_check" alt="" coords="225,188,385,229"/>
+<area shape="rect" id="node24" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="232,1008,377,1049"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#ac6ec5d9d0afa58bb4d661b7dfe635f60" title="AP_AHRS::prearm_failure\l_reason" alt="" coords="472,341,647,383"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a8a8a068e7c75638f80416b1a8e963442" title="AP_AHRS_NavEKF::get\l_variances" alt="" coords="475,407,643,448"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3\&lt; float \&gt;::length" alt="" coords="480,473,639,499"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="484,239,635,266"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__Arming.html#a3e31fe40e0d7d0e6befd2f82dd6b5a6d" title="AP_Arming::gps_checks" alt="" coords="476,290,643,317"/>
+</map>

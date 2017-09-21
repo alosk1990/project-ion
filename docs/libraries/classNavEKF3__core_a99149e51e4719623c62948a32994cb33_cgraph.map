@@ -1,0 +1,22 @@
+<map id="NavEKF3_core::FuseRngBcn" name="NavEKF3_core::FuseRngBcn">
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="826,232,865,259"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="593,131,644,157"/>
+<area shape="rect" id="node4" href="$classNavEKF3__core.html#a0c4edce5e940eea084fbc42ed1a800c0" title="NavEKF3_core::CalcRangeBeacon\lPosDownOffset" alt="" coords="251,182,479,223"/>
+<area shape="rect" id="node6" href="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3::length" alt="" coords="309,80,420,107"/>
+<area shape="rect" id="node8" href="$classNavEKF3__core.html#a4f27a74890ed2b37858a754a05c8fc5b" title="NavEKF3_core::CovarianceInit" alt="" coords="263,409,466,436"/>
+<area shape="rect" id="node14" href="$classNavEKF3__core.html#a2556bcc515c1a4f63c5dbd57ae97f648" title="NavEKF3_core::ForceSymmetry" alt="" coords="259,460,471,487"/>
+<area shape="rect" id="node15" href="$classNavEKF3__core.html#ad090381daa81e51181ea6254e01af75b" title="NavEKF3_core::ConstrainVariances" alt="" coords="248,283,481,309"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="595,181,642,208"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="593,80,644,107"/>
+<area shape="rect" id="node9" href="$classNavEKF3__core.html#a4d4e983c7e0ad41fe0fce7a1f708f865" title="NavEKF3_core::initialise\lQuatCovariances" alt="" coords="535,551,702,593"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="587,435,651,461"/>
+<area shape="rect" id="node13" href="$classNavEKF3__core.html#af0e3ed922250ec92e867354c521b3c93" title="NavEKF3_core::InitialGyro\lBiasUncertainty" alt="" coords="529,486,708,527"/>
+<area shape="rect" id="node10" href="$classNavEKF3__core.html#a60c1c2314069524260554d324819058a" title="NavEKF3_core::zeroRows" alt="" coords="756,533,935,560"/>
+<area shape="rect" id="node11" href="$classNavEKF3__core.html#a668056e5b2efae63163fc41aa7b7b1fd" title="NavEKF3_core::zeroCols" alt="" coords="760,584,931,611"/>
+<area shape="rect" id="node16" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="565,333,672,360"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="789,333,902,360"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="995,257,1145,284"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="987,308,1153,335"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="989,359,1151,385"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="983,409,1157,436"/>
+</map>

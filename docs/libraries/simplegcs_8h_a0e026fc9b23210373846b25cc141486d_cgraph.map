@@ -1,0 +1,18 @@
+<map id="simplegcs_update" name="simplegcs_update">
+<area shape="rect" id="node2" href="$GCS__MAVLink_8cpp.html#a2817de906dc695cf406a4a43be1bc724" title="comm_get_available" alt="" coords="180,56,321,83"/>
+<area shape="rect" id="node5" href="$GCS__MAVLink_8cpp.html#a34488d8c3ec2e467fd083707754001d3" title="comm_receive_ch" alt="" coords="187,107,315,133"/>
+<area shape="rect" id="node7" href="$simplegcs_8cpp.html#a4dd9b4d1d62cecf5839f6cadc7768baa" title="handle_message" alt="" coords="191,197,311,224"/>
+<area shape="rect" id="node3" href="$GCS__MAVLink_8h.html#a17ee8d1ce05b7d160ccc6a78b92b774f" title="valid_channel" alt="" coords="410,56,511,83"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Stream.html#ae6aa935b5bbd553a2654bfec4e14961e" title="AP_HAL::Stream::available" alt="" coords="369,5,552,32"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Stream.html#ae42ff362cc2a7e527c22f92a3740c2ac" title="AP_HAL::Stream::read" alt="" coords="383,107,539,133"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="384,158,537,199"/>
+<area shape="rect" id="node16" href="$GCS__Console_8cpp.html#a3a5227d5bb6602cf76f5bb4f2689724e" title="gcs_console_handle\l_data16" alt="" coords="391,223,531,265"/>
+<area shape="rect" id="node17" href="$GCS__Console_8cpp.html#a435926f6c3cc44d4b92bc7c021d6b94d" title="gcs_console_handle\l_data32" alt="" coords="391,289,531,330"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="600,158,753,199"/>
+<area shape="rect" id="node10" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="801,165,892,192"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="940,64,1084,91"/>
+<area shape="rect" id="node12" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="967,115,1057,141"/>
+<area shape="rect" id="node13" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="981,165,1043,192"/>
+<area shape="rect" id="node14" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="966,216,1058,243"/>
+<area shape="rect" id="node15" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="967,267,1057,293"/>
+</map>

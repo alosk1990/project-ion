@@ -1,0 +1,19 @@
+<map id="AP_MotorsHeli_Dual::AP_MotorsHeli_Dual" name="AP_MotorsHeli_Dual::AP_MotorsHeli_Dual">
+<area shape="rect" id="node2" href="$classAP__Param.html#a5f6dcfce1c0a79cf5bd81283e22f3201" title="AP_Param::setup_object\l_defaults" alt="" coords="208,53,375,94"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli__Dual.html#aa02b6d52fbd392d8e50c6feb79fef768" title="AP_MotorsHeli_Dual\l::set_update_rate" alt="" coords="219,118,363,159"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli__Dual.html#ac1ba74732be86ef690df5a00947ff368" title="AP_MotorsHeli_Dual\l::enable" alt="" coords="219,183,363,225"/>
+<area shape="rect" id="node13" href="$classAP__MotorsHeli__Dual.html#a6b6f4f48778877ea33646fcca3630d30" title="AP_MotorsHeli_Dual\l::output_test" alt="" coords="219,249,363,290"/>
+<area shape="rect" id="node17" href="$classAP__MotorsHeli__Dual.html#a627af26329f33db4a070b9c1525eea79" title="AP_MotorsHeli_Dual\l::set_desired_rotor_speed" alt="" coords="205,329,377,370"/>
+<area shape="rect" id="node3" href="$classAP__Param.html#acd4b14f793c37f162e298761d2155ca6" title="AP_Param::set_value" alt="" coords="437,5,586,32"/>
+<area shape="rect" id="node4" href="$classAP__Param.html#a7535a9b529dae326dcebb6be33dbbe9a" title="AP_Param::get_default\l_value" alt="" coords="433,57,590,98"/>
+<area shape="rect" id="node6" href="$classAP__Motors.html#a3d84a895c644d34e7fe78d7301ccf534" title="AP_Motors::rc_set_freq" alt="" coords="431,125,591,152"/>
+<area shape="rect" id="node7" href="$classAP__Motors.html#ac3abe2484a90e4717f50b63613e05ba6" title="AP_Motors::rc_map_mask" alt="" coords="660,48,837,75"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title="AP_HAL::RCOutput::set_freq" alt="" coords="651,99,846,125"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCOutput.html#a2750a3caebe138a66da523e78502d51c" title="AP_HAL::RCOutput::set\l_output_mode" alt="" coords="665,150,832,191"/>
+<area shape="rect" id="node11" href="$classAP__Motors.html#a91e69152a30b5e1020f3e49271b9d054" title="AP_Motors::rc_enable_ch" alt="" coords="425,191,597,217"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCOutput.html#a25196bb820266d4afcae14d0acdb7e1c" title="AP_HAL::RCOutput::enable_ch" alt="" coords="645,216,852,243"/>
+<area shape="rect" id="node14" href="$classAP__Motors.html#abb781661db2b685644795dfe8f5a655f" title="AP_Motors::armed" alt="" coords="446,241,577,268"/>
+<area shape="rect" id="node15" href="$classAP__Motors.html#aaa7607c19a1ce444330aee972dd925ef" title="AP_Motors::rc_write" alt="" coords="441,292,582,319"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="661,292,837,319"/>
+<area shape="rect" id="node18" href="$classAP__MotorsHeli__RSC.html#ad42108be3ceab3461850ec4ad4b5519d" title="AP_MotorsHeli_RSC::\lset_desired_speed" alt="" coords="434,343,589,385"/>
+</map>

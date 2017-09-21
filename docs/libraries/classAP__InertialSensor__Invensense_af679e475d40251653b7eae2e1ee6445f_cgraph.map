@@ -1,0 +1,12 @@
+<map id="AP_InertialSensor_Invensense::_fifo_reset" name="AP_InertialSensor_Invensense::_fifo_reset">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#ab8df2848215253ccd70298be7bb52339" title="AP_HAL::Device::set\l_speed" alt="" coords="281,40,429,82"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Invensense.html#ab650abe4789bb0eef9a4c34812e5603e" title="AP_InertialSensor_Invensense\l::_register_write" alt="" coords="255,106,456,147"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="282,171,429,212"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title="AP_HAL::Device::write\l_register" alt="" coords="504,106,663,147"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title="AP_HAL::Device::set\l_checked_register" alt="" coords="719,40,867,82"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="1127,76,1301,102"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a4bad879386bd93b7f2340bff1437d041" title="AP_HAL::Device::setup\l_checked_registers" alt="" coords="712,106,875,147"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Device.html#a81202d89062b62f93bf8d13fa30a86d0" title="AP_HAL::Device::check\l_next_register" alt="" coords="711,171,876,212"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#a682fd556614308cb02773e94ec8e4b26" title="AP_HAL::Device::get\l_bus_id" alt="" coords="927,58,1075,99"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title="AP_HAL::Device::read\l_registers" alt="" coords="924,155,1079,196"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Copter::get_pilot_desired_lean_angles" name="Copter::get_pilot_desired_lean_angles">
+<area shape="rect" id="node2" href="$classCopter.html#ac38d223360fcc0870ec99cb2045e727a" title="Copter::althold_run" alt="" coords="428,5,560,32"/>
+<area shape="rect" id="node8" href="$classCopter.html#ac1404e87713be54f123c777d375e762c" title="Copter::drift_run" alt="" coords="436,56,552,83"/>
+<area shape="rect" id="node9" href="$classCopter.html#ab4b9d0a886f5e899a46da4dfccb4f4dc" title="Copter::land_nogps_run" alt="" coords="220,107,380,133"/>
+<area shape="rect" id="node11" href="$classCopter.html#a1d74ca65de6e88376d929bb23d842935" title="Copter::poshold_run" alt="" coords="231,157,369,184"/>
+<area shape="rect" id="node12" href="$classCopter.html#abe33e195a88c9ad32f79a331327cb146" title="Copter::stabilize_run" alt="" coords="229,208,371,235"/>
+<area shape="rect" id="node3" href="$classCopter.html#a1e967ef71b5acdd8b0c83a0471bdb581" title="Copter::update_flight_mode" alt="" coords="608,107,791,133"/>
+<area shape="rect" id="node4" href="$classCopter.html#a9935998c549ed56b80917705ee4522fb" title="Copter::fast_loop" alt="" coords="855,77,977,104"/>
+<area shape="rect" id="node6" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="839,132,993,159"/>
+<area shape="rect" id="node5" href="$classCopter.html#ac879265c540a24609ead56c389ba4b02" title="Copter::loop" alt="" coords="1076,75,1169,101"/>
+<area shape="rect" id="node7" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="1041,126,1204,167"/>
+<area shape="rect" id="node10" href="$classCopter.html#a51c901bd72d5f073aa502be5177ab2fd" title="Copter::land_run" alt="" coords="435,107,553,133"/>
+</map>

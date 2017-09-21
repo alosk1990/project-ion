@@ -1,0 +1,22 @@
+<map id="Copter::update_ground_effect_detector" name="Copter::update_ground_effect_detector">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a94cd4136aa525fbe284ee075adfd5719" title="AP_AHRS_NavEKF::setTakeoff\lExpected" alt="" coords="219,5,431,47"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a27e21a499abb5dfd822ac87e6f89c0c1" title="AP_AHRS_NavEKF::setTouchdown\lExpected" alt="" coords="208,71,443,112"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="millis" alt="" coords="299,137,351,163"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a3d9cd8d29a9ce76bb5b6d757aac7626f" title="AC_PosControl::get\l_desired_velocity" alt="" coords="256,188,395,229"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#ad6864eaa25734c3908f5a77da3499a60" title="AC_PosControl::is_active_xy" alt="" coords="228,254,423,281"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a96906c90e74171ac3fec93c512926207" title="AC_PosControl::get\l_vel_target" alt="" coords="256,305,395,347"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3\&lt; float \&gt;::length" alt="" coords="246,371,405,398"/>
+<area shape="rect" id="node9" href="$classCopter.html#a06cf9a8d680a08e194896f711b1940cf" title="Copter::position_ok" alt="" coords="258,422,393,449"/>
+<area shape="rect" id="node13" href="$classCopter.html#a48f22a85435e9ab7998e79f5acae9c10" title="Copter::optflow_position_ok" alt="" coords="491,473,675,499"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a165213f497e183250e96c0daa4815c34" title="AP_InertialNav_NavEKF\l::get_velocity" alt="" coords="242,524,409,565"/>
+<area shape="rect" id="node16" href="$classCopter.html#a2fb03ab3500c5813c5e8ec6937e305c3" title="Copter::mode_has_manual\l_throttle" alt="" coords="236,589,415,631"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channel.html#aeda74820f7954d870c2ee17235ad9577" title="RC_Channel::get_control_in" alt="" coords="232,655,419,682"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ae38f7e9a5a386e838368e5e2b59ff3d9" title="AP_InertialNav_NavEKF\l::get_altitude" alt="" coords="242,707,409,748"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#aec35222c9dee5999aaf029484ea356c9" title="AC_AttitudeControl\l::get_att_target_euler_cd" alt="" coords="242,772,409,813"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#aeaaab19261649e644c0c83b471a0325c" title="AC_PosControl::is_active_z" alt="" coords="232,838,419,865"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a7b543367e2256b2bf9fcea632cb3cf22" title="AP_InertialNav_NavEKF\l::get_velocity_z" alt="" coords="242,889,409,931"/>
+<area shape="rect" id="node10" href="$classCopter.html#a09f2741a18ba8ca80ee125411602d366" title="Copter::ekf_position_ok" alt="" coords="503,422,663,449"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a7933552ae34a7fd8fdfc1e51a4e2fad6" title="AP_AHRS_NavEKF::have\l_inertial_nav" alt="" coords="723,465,901,507"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ad6004ffb427fd086592cc1c56f5de17a" title="AP_InertialNav_NavEKF\l::get_filter_status" alt="" coords="729,400,895,441"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="740,531,884,558"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AP_BattMonitor::init" name="AP_BattMonitor::init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDeviceManager.html#a28e5d1449e177f16962dd7ccc94df443" title="AP_HAL::I2CDeviceManager\l::get_device" alt="" coords="192,39,385,80"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__Backend.html#a333708b23c3532575284833ca4e4f058" title="AP_BattMonitor_Backend\l::init" alt="" coords="203,104,375,145"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__Backend.html#a0aab3a98b369ed9e0e3bd2dae5a4e6ac" title="AP_BattMonitor_Backend\l::read" alt="" coords="433,5,605,47"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor__Backend.html#a47fe3bc306e5ff449a93b3095fb915bb" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100) " alt="" coords="433,71,605,112"/>
+<area shape="rect" id="node6" href="$classAP__BattMonitor__Backend.html#a08acb2e1eac3eb918ebe48240c50dcbf" title="set capacity for this instance " alt="" coords="433,136,605,177"/>
+<area shape="rect" id="node7" href="$classAP__BattMonitor__Backend.html#aef3e61f18c39989c4a82baca467e38e9" title="get capacity for this instance " alt="" coords="433,201,605,243"/>
+<area shape="rect" id="node8" href="$classAP__BattMonitor.html#a3d76e9c773148f56a8c73715c535365b" title="pack_capacity_mah &#45; returns the capacity of the battery pack in mAh when the pack is full ..." alt="" coords="653,201,804,243"/>
+</map>

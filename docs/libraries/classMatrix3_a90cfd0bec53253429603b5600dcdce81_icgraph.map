@@ -1,0 +1,27 @@
+<map id="Matrix3::zero" name="Matrix3::zero">
+<area shape="rect" id="node2" href="$classMatrix3.html#a69d23fe802118124235bd5542b279259" title="Matrix3::from_axis\l_angle" alt="" coords="176,125,307,167"/>
+<area shape="rect" id="node9" href="$classNavEKF2__core.html#a1558cddf403660156210ac9d7dcf29db" title="NavEKF2_core::Initialise\lVariables" alt="" coords="158,213,325,255"/>
+<area shape="rect" id="node21" href="$classNavEKF3__core.html#af46b5f9dd9ee1659316230ea81a9a778" title="NavEKF3_core::Initialise\lVariables" alt="" coords="158,279,325,320"/>
+<area shape="rect" id="node26" href="$classMatrix3.html#aa8a6a2bce923d8931c017508cb00e24d" title="Matrix3\&lt; float \&gt;::transpose" alt="" coords="152,345,331,371"/>
+<area shape="rect" id="node3" href="$classSITL_1_1Calibration.html#a529449c7dee022d7986666ed4bd1b11d" title="SITL::Calibration::\l_calibration_poses" alt="" coords="397,45,527,87"/>
+<area shape="rect" id="node6" href="$classMatrix3.html#a2c69227a793818d8a8f47e99ffa99885" title="Matrix3\&lt; float \&gt;::is_nan" alt="" coords="382,111,542,138"/>
+<area shape="rect" id="node7" href="$rotations_8cpp.html#acaec71463457149487901c616be1c74d" title="test_rotation_accuracy" alt="" coords="385,162,539,189"/>
+<area shape="rect" id="node4" href="$classSITL_1_1Calibration.html#a0c3f60adfbc5d68ae425883af18b62f4" title="SITL::Calibration::\lupdate" alt="" coords="611,5,739,47"/>
+<area shape="rect" id="node5" href="$classSITL_1_1Calibration.html#a06ad77d21ed540bdbad30e7d3147c1d2" title="SITL::Calibration::\lcreate" alt="" coords="611,71,739,112"/>
+<area shape="rect" id="node8" href="$rotations_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="648,162,703,189"/>
+<area shape="rect" id="node10" href="$classNavEKF2__core.html#a4a06ae47c3edebdecd2b179a0567f00b" title="NavEKF2_core::Initialise\lFilterBootstrap" alt="" coords="379,213,545,255"/>
+<area shape="rect" id="node11" href="$classNavEKF2.html#a9c447b8d84abf2dfc845ddbbbad46a2b" title="NavEKF2::InitialiseFilter" alt="" coords="593,221,757,247"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="805,122,1035,149"/>
+<area shape="rect" id="node15" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="831,223,1009,250"/>
+<area shape="rect" id="node16" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="831,275,1009,316"/>
+<area shape="rect" id="node17" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="841,173,999,199"/>
+<area shape="rect" id="node13" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1084,122,1273,149"/>
+<area shape="rect" id="node14" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1374,122,1421,149"/>
+<area shape="rect" id="node18" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1103,304,1255,345"/>
+<area shape="rect" id="node20" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1083,173,1275,199"/>
+<area shape="rect" id="node19" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1323,304,1472,345"/>
+<area shape="rect" id="node22" href="$classNavEKF3__core.html#aae18ada44b1b7be0d45af03391ef961a" title="NavEKF3_core::Initialise\lFilterBootstrap" alt="" coords="379,279,545,320"/>
+<area shape="rect" id="node23" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="593,286,757,313"/>
+<area shape="rect" id="node24" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="805,341,1035,367"/>
+<area shape="rect" id="node25" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="841,391,999,418"/>
+</map>

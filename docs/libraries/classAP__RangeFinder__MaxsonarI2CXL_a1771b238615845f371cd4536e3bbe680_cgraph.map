@@ -1,0 +1,12 @@
+<map id="AP_RangeFinder_MaxsonarI2CXL::_init" name="AP_RangeFinder_MaxsonarI2CXL::_init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDevice.html#aecaa17329f98d50d437e53507b1e5c77" title="AP_HAL::I2CDevice::\lget_semaphore" alt="" coords="272,5,423,47"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="501,85,681,111"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a51188886a94d87fc3ebb795c0b40f0e4" title="AP_RangeFinder_MaxsonarI2\lCXL::start_reading" alt="" coords="737,283,933,324"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="502,147,681,174"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="274,341,421,383"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a43b8ffc54c0ed66221d0bb61c3e181e9" title="AP_RangeFinder_MaxsonarI2\lCXL::get_reading" alt="" coords="493,224,689,265"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1I2CDevice.html#a5d6a208d57d47068884af3a4fb90f1a2" title="AP_HAL::I2CDevice::\lregister_periodic_callback" alt="" coords="261,407,433,448"/>
+<area shape="rect" id="node11" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a4a8cb17fc852d03b93867a66dc8e702e" title="AP_RangeFinder_MaxsonarI2\lCXL::_timer" alt="" coords="249,173,445,215"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDevice.html#a2e581ddc9b02eb73ad2fdf488fe8dc86" title="AP_HAL::I2CDevice::\ltransfer" alt="" coords="981,228,1132,269"/>
+<area shape="rect" id="node9" href="$sparse-endian_8h.html#a4460d76503583c1209bc0e78a5ccaefb" title="be16toh" alt="" coords="801,231,869,258"/>
+</map>

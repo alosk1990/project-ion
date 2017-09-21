@@ -1,0 +1,24 @@
+<map id="get_bearing_cd" name="get_bearing_cd">
+<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#a387b32af73957b93ce8eb2f4e0d0129f" title="AP_Frsky_Telem::calc_home" alt="" coords="164,15,359,42"/>
+<area shape="rect" id="node6" href="$classAP__Mission.html#a338b12fad6aa74b9c8a34d65850f6b40" title="AP_Mission::get_next\l_ground_course_cd" alt="" coords="186,489,337,531"/>
+<area shape="rect" id="node10" href="$examples_2location_2location_8cpp.html#af4c4a815e04b2917f9e189120d8b2ad1" title="test_one_offset" alt="" coords="205,141,317,167"/>
+<area shape="rect" id="node13" href="$classAP__Landing.html#a1dfa510a03baa86e6814acf6b3c75595" title="AP_Landing::type_slope\l_setup_landing_glide_slope" alt="" coords="171,73,352,115"/>
+<area shape="rect" id="node17" href="$classAP__Landing.html#a5841a724c504b0b94ab753ca28103291" title="AP_Landing::type_slope\l_verify_abort_landing" alt="" coords="635,260,797,301"/>
+<area shape="rect" id="node18" href="$classAP__Landing.html#a7e884642791e4b1f0b9c396b86055a6a" title="AP_Landing::type_slope\l_verify_land" alt="" coords="180,293,343,335"/>
+<area shape="rect" id="node20" href="$classAP__L1__Control.html#acc0860ec530ec9c9bec50a5701bb709e" title="AP_L1_Control::update\l_loiter" alt="" coords="183,359,340,400"/>
+<area shape="rect" id="node22" href="$classAP__L1__Control.html#a9052f01ea019fb51432d3104cce0b6e8" title="AP_L1_Control::update\l_waypoint" alt="" coords="183,424,340,465"/>
+<area shape="rect" id="node23" href="$classAP__Landing__Deepstall.html#a627170f99ee101e003ee5c173d6edb54" title="AP_Landing_Deepstall\l::verify_abort_landing" alt="" coords="639,195,793,236"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a9b833af29753a8113e5db32c27da7427" title="AP_Frsky_Telem::send\l_SPort_Passthrough" alt="" coords="417,5,576,47"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a0561090507069cfa867a71763e9cf52f" title="AP_Frsky_Telem::tick" alt="" coords="640,13,792,39"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="891,13,1039,39"/>
+<area shape="rect" id="node7" href="$classAP__Mission.html#a5ee7f0f74f01ab8c5fa78711ae8bfb5c" title="AP_Mission::get_prev\l_nav_cmd_with_wp_index" alt="" coords="409,472,584,513"/>
+<area shape="rect" id="node8" href="$classAP__Landing.html#a4cb652398231c274e6061aa6b211366b" title="AP_Landing::restart\l_landing_sequence" alt="" coords="647,397,785,439"/>
+<area shape="rect" id="node9" href="$classAP__Landing.html#a23d5d937afe630bfa1d3eeea5d767e4b" title="AP_Landing::verify\l_abort_landing" alt="" coords="899,260,1031,301"/>
+<area shape="rect" id="node11" href="$examples_2location_2location_8cpp.html#ac7efc0072d2ac5bca8b847032980a1dd" title="test_offset" alt="" coords="455,141,539,167"/>
+<area shape="rect" id="node12" href="$examples_2location_2location_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="689,143,743,170"/>
+<area shape="rect" id="node14" href="$classAP__Landing.html#a5cdce89b787f18c99ced194d501c50ae" title="AP_Landing::setup_landing\l_glide_slope" alt="" coords="407,72,587,113"/>
+<area shape="rect" id="node15" href="$classAP__Landing.html#a68317a4d27e65aadc7013a9363da5ce3" title="AP_Landing::type_slope\l_adjust_landing_slope\l_for_rangefinder_bump" alt="" coords="635,63,797,119"/>
+<area shape="rect" id="node16" href="$classAP__Landing.html#aca701ba52726269447500bdf654b3b10" title="AP_Landing::adjust\l_landing_slope_for_rangefinder_bump" alt="" coords="845,71,1085,112"/>
+<area shape="rect" id="node19" href="$classAP__Landing.html#afdbc34de818b9cb366336c23660fd495" title="AP_Landing::verify_land" alt="" coords="415,301,578,327"/>
+<area shape="rect" id="node21" href="$classAP__L1__Control.html#ae79ea97f3deaed8c09b32abe9f465c94" title="AP_L1_Control::crosstrack\l_error_integrator" alt="" coords="407,391,586,432"/>
+</map>

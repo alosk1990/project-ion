@@ -1,0 +1,33 @@
+<map id="AP_SerialManager::protocol_match" name="AP_SerialManager::protocol_match">
+<area shape="rect" id="node2" href="$classAP__SerialManager.html#a98789d2356587b32dd3507578ca1d89d" title="AP_SerialManager::find\l_baudrate" alt="" coords="237,253,396,294"/>
+<area shape="rect" id="node11" href="$classAP__SerialManager.html#af80d1e798f50bcd4ffcff2f3313e3950" title="AP_SerialManager::find\l_serial" alt="" coords="237,495,396,537"/>
+<area shape="rect" id="node31" href="$classAP__SerialManager.html#ac3c38f184c41fa2c2cff8bb4842c3ebe" title="AP_SerialManager::get\l_mavlink_channel" alt="" coords="239,93,395,134"/>
+<area shape="rect" id="node32" href="$classAP__SerialManager.html#acad9b72c3b313f4e551be9f4861ffbf2" title="AP_SerialManager::set\l_console_baud" alt="" coords="239,561,395,602"/>
+<area shape="rect" id="node3" href="$classAP__Beacon__Pozyx.html#af04a9586164ad91c2fb27adc8fdbcf3e" title="AP_Beacon_Pozyx::AP\l_Beacon_Pozyx" alt="" coords="493,122,654,163"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__LightWareSF40C.html#a5c2fc4063a2ca5aed46cf8906e26d5c8" title="AP_Proximity_LightWareSF40\lC::AP_Proximity_LightWareSF40C" alt="" coords="460,187,687,229"/>
+<area shape="rect" id="node5" href="$classAP__Proximity__TeraRangerTower.html#a71cb30c6fe9b3850d6a9f172c5e3550d" title="AP_Proximity_TeraRangerTower\l::AP_Proximity_TeraRangerTower" alt="" coords="463,253,684,294"/>
+<area shape="rect" id="node6" href="$classAP__RangeFinder__LeddarOne.html#afe62befa48e9caebd2d3e9b227c8519b" title="AP_RangeFinder_LeddarOne\l::AP_RangeFinder_LeddarOne" alt="" coords="474,318,673,359"/>
+<area shape="rect" id="node7" href="$classAP__RangeFinder__LightWareSerial.html#a1e1c2db82dc21ab575aeaa8e1bc878da" title="AP_RangeFinder_LightWare\lSerial::AP_RangeFinder\l_LightWareSerial" alt="" coords="480,383,667,439"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__MaxsonarSerialLV.html#a624ffd0eeaf5d4ee9f9e481720c258ef" title="AP_RangeFinder_MaxsonarSerial\lLV::AP_RangeFinder_MaxsonarSerialLV" alt="" coords="444,462,703,503"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__uLanding.html#a8860a7bd3f570b5ad2510e24440a8029" title="AP_RangeFinder_uLanding\l::AP_RangeFinder_uLanding" alt="" coords="479,57,667,98"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#a0680c93d81d7de3273931c5bccc890f5" title="GCS_MAVLINK::setup_uart" alt="" coords="480,5,667,32"/>
+<area shape="rect" id="node12" href="$classAP__RangeFinder__LightWareSerial.html#a03476ac43d0c50f4c10efaa466a26fd4" title="AP_RangeFinder_LightWare\lSerial::detect" alt="" coords="480,746,667,787"/>
+<area shape="rect" id="node18" href="$classAP__RangeFinder__MaxsonarSerialLV.html#a28dc4c4c04e5b1506ae1388aac59281c" title="AP_RangeFinder_MaxsonarSerial\lLV::detect" alt="" coords="464,942,683,983"/>
+<area shape="rect" id="node19" href="$classAP__Proximity__TeraRangerTower.html#a6a457c5f8c14f8857ce623e311436278" title="AP_Proximity_TeraRangerTower\l::detect" alt="" coords="467,1007,680,1049"/>
+<area shape="rect" id="node22" href="$classAP__RangeFinder__uLanding.html#af95a07ed09c32e9d00a54f03965fce62" title="AP_RangeFinder_uLanding\l::detect" alt="" coords="483,811,663,853"/>
+<area shape="rect" id="node23" href="$classAP__Proximity__LightWareSF40C.html#acb50f290c521c4ff5fa658aa271c6aad" title="AP_Proximity_LightWareSF40\lC::detect" alt="" coords="474,1073,673,1114"/>
+<area shape="rect" id="node24" href="$classAP__RangeFinder__LeddarOne.html#a7a52e858b9bfcbe973f046abc3164a6c" title="AP_RangeFinder_LeddarOne\l::detect" alt="" coords="478,877,669,918"/>
+<area shape="rect" id="node25" href="$classAP__Mount__SToRM32__serial.html#ae3ab73569a776b9f7ecf7da46f499692" title="AP_Mount_SToRM32_serial\l::init" alt="" coords="480,527,667,569"/>
+<area shape="rect" id="node26" href="$classAP__Mount__Alexmos.html#a5fa7cd0a3d3c60bd6a2705075ee22359" title="AP_Mount_Alexmos::init" alt="" coords="490,593,657,620"/>
+<area shape="rect" id="node28" href="$classAP__Frsky__Telem.html#a85793f92cf5c6c01c6335db43a65579a" title="AP_Frsky_Telem::init" alt="" coords="499,644,647,671"/>
+<area shape="rect" id="node29" href="$classAP__GPS.html#a91c760c11e577d49815bc1a0443cf7f6" title="Startup initialisation. " alt="" coords="523,695,623,721"/>
+<area shape="rect" id="node13" href="$classRangeFinder.html#a7f7f9dce880eb37d53df67cba39bdda9" title="RangeFinder::detect\l_instance" alt="" coords="764,845,904,886"/>
+<area shape="rect" id="node14" href="$classRangeFinder.html#a1c2d6a488e35a856814b5d48ca3d5d9e" title="RangeFinder::init" alt="" coords="968,852,1089,879"/>
+<area shape="rect" id="node15" href="$RFIND__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1435,827,1489,853"/>
+<area shape="rect" id="node16" href="$classRangeFinder.html#a95856f52f03d5234d587600faedcbfaf" title="RangeFinder::num_sensors" alt="" coords="1140,877,1323,904"/>
+<area shape="rect" id="node17" href="$classAP__Proximity__RangeFinder.html#a00972bd55509a984f8a71c4cfdb78445" title="AP_Proximity_RangeFinder\l::update" alt="" coords="1371,878,1553,919"/>
+<area shape="rect" id="node20" href="$classAP__Proximity.html#aa06a750c61f34848a0cabaafbad387d5" title="AP_Proximity::detect\l_instance" alt="" coords="761,1039,907,1081"/>
+<area shape="rect" id="node21" href="$classAP__Proximity.html#a4fb240810284854fe169203d2dad280e" title="AP_Proximity::init" alt="" coords="965,1047,1092,1073"/>
+<area shape="rect" id="node27" href="$classAP__Mount__Alexmos.html#a7fe48614086de3bbb4e933b2a3ddb2fa" title="AP_Mount_Alexmos::AP\l_Mount_Alexmos" alt="" coords="751,586,917,627"/>
+<area shape="rect" id="node30" href="$AHRS__Test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="807,695,861,721"/>
+</map>

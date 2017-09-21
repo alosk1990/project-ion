@@ -1,0 +1,10 @@
+<map id="AP_Motors::set_throttle_filter_cutoff" name="AP_Motors::set_throttle_filter_cutoff">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl__Sub.html#a01e89bcda33d4d292631f126b21d64fc" title="AC_AttitudeControl\l_Sub::set_throttle_out" alt="" coords="236,7,387,48"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl__Multi.html#a3e83f3b32e305ad977cdaadf92cc80e1" title="AC_AttitudeControl\l_Multi::set_throttle_out" alt="" coords="234,73,389,115"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl__Heli.html#af86df98fd0b8a7cc1a58bdcbf44bb480" title="AC_AttitudeControl\l_Heli::set_throttle_out" alt="" coords="236,141,387,183"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl.html#a76dacd70bc0485c1046bf0c948bc0156" title="AC_AttitudeControl\l::set_throttle_out_unstabilized" alt="" coords="213,209,409,251"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Sub.html#a2863a951cef77c5087777a0a64144e77" title="AC_AttitudeControl\l_Sub::get_rate_yaw_pid" alt="" coords="459,5,622,47"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Multi.html#a6d8815f4fdfb0214cb5a5cc4a25fb026" title="AC_AttitudeControl\l_Multi::get_rate_yaw_pid" alt="" coords="457,71,624,112"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl__Heli.html#a5374f1980c33be886994a615797af75d" title="AC_AttitudeControl\l_Heli::set_hover_roll\l_trim_scalar" alt="" coords="470,135,611,191"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl.html#a4b0e45d449268c319b63534dccebe134" title="AC_AttitudeControl\l::get_bf_feedforward" alt="" coords="470,215,611,256"/>
+</map>

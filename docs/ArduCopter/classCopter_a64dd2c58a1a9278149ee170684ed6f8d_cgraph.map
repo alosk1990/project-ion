@@ -1,0 +1,22 @@
+<map id="Copter::rpm_update" name="Copter::rpm_update">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__RPM.html#a33d5bc64c6fae9a9ddb682eea723a821" title="AP_RPM::update" alt="" coords="205,5,329,32"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__RPM.html#a7aca14e0ba4b76dad7e48ba044e5a2bc" title="AP_RPM::enabled" alt="" coords="201,56,332,83"/>
+<area shape="rect" id="node4" href="$classCopter.html#a4743992eae3f4241deb4f3e3a4c9b30d" title="Copter::should_log" alt="" coords="201,107,332,133"/>
+<area shape="rect" id="node21" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa5d9034787597e35040f6b9624bf9b6c" title="DataFlash_Class::Log\l_Write_RPM" alt="" coords="191,158,343,199"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a5e32434ddf454a074dd9638d87e1d934" title="DataFlash_Class::log\l_while_disarmed" alt="" coords="391,41,539,82"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa1dfc59b10a4b5ef3bc22ed5d5648665" title="DataFlash_Class::logging\l_started" alt="" coords="605,59,777,101"/>
+<area shape="rect" id="node7" href="$classCopter.html#a3a33c5c43740be29248b057f699f82a5" title="Copter::start_logging" alt="" coords="393,197,536,224"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a95bf3cac993c1ee326acc6447e99d875" title="DataFlash_Class::set\l_mission" alt="" coords="617,125,766,166"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#abed561cc5dcbed8a208fbb13be2d436e" title="DataFlash_Class::setVehicle\l_Startup_Log_Writer" alt="" coords="595,190,787,231"/>
+<area shape="rect" id="node10" href="$classCopter.html#affc81dccd23c7d313a38854fe19c62b7" title="Copter::Log_Write_Vehicle\l_Startup_Messages" alt="" coords="602,255,781,297"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a2150c74ef2a6d77ec9ddbbf859cacd64" title="DataFlash_Class::StartNewLog" alt="" coords="588,321,795,348"/>
+<area shape="rect" id="node20" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#ae85a3c49d2883b975376baaab5ab958f" title="DataFlash_Class::EnableWrites" alt="" coords="587,372,796,399"/>
+<area shape="rect" id="node11" href="$classCopter.html#a228aa1ecafb49183929a8da8045cd938" title="Copter::get_frame_string" alt="" coords="846,139,1013,165"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a3d24105948a2709fa0585b1c53bb7dfe" title="DataFlash_Class::Log\l_Write_Message" alt="" coords="853,190,1005,231"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a8c36713b82ad014c02071b7de0bcfae0" title="DataFlash_Class::Log\l_Write_Mode" alt="" coords="853,255,1005,297"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aa4421dde08afcd932ccbe12aef85055d" title="DataFlash_Class::Log\l_Write_Rally" alt="" coords="853,321,1005,362"/>
+<area shape="rect" id="node15" href="$classCopter.html#ae637d9d35114ba86e1d3c7a726870edf" title="Copter::Log_Write_Home\l_And_Origin" alt="" coords="844,386,1015,427"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a8e90dbad885e5d8d4efe9a34d635886a" title="AP_AHRS_NavEKF::get\l_origin" alt="" coords="1063,321,1231,362"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a7c9ea84e9cbfd62bac7f1fac7cafa562" title="DataFlash_Class::Log\l_Write_Origin" alt="" coords="1071,386,1223,427"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="1071,452,1222,479"/>
+</map>

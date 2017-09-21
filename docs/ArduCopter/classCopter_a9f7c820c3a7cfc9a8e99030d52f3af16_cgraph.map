@@ -1,0 +1,8 @@
+<map id="Copter::auto_takeoff_attitude_run" name="Copter::auto_takeoff_attitude_run">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ae38f7e9a5a386e838368e5e2b59ff3d9" title="AP_InertialNav_NavEKF\l::get_altitude" alt="" coords="204,5,371,47"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a234a2e9174f63a3c43d1fdd5ebb65ffa" title="AC_PosControl::set\l_limit_accel_xy" alt="" coords="218,71,357,112"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#ad4e50cf167d6a170df3a28c208fcff8d" title="AC_WPNav::get_roll" alt="" coords="215,137,359,163"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a1b550d6757dfc517259d9d6c6a130f7a" title="AC_WPNav::get_pitch" alt="" coords="210,187,365,214"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a33492a0f71a317f64c14332075a6d3ec" title="AC_AttitudeControl\l::input_euler_angle\l_roll_pitch_euler_rate_yaw" alt="" coords="199,238,375,294"/>
+<area shape="rect" id="node7" href="$classCopter.html#ac69fa24956514cd16213b9e12c1a8fdb" title="Copter::get_smoothing_gain" alt="" coords="195,318,380,345"/>
+</map>

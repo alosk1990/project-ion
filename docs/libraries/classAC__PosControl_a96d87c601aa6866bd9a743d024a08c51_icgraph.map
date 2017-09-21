@@ -1,0 +1,9 @@
+<map id="AC_PosControl::get_pos_xy_kP" name="AC_PosControl::get_pos_xy_kP">
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a603ec5c1a7654ccd9a227565cdbee275" title="advance_wp_target_along_track &#45; move target location along track from origin to destination ..." alt="" coords="192,48,367,89"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#a3dbf7bda89b127cdc81bca29e2af25de" title="AC_WPNav::calc_loiter\l_desired_velocity" alt="" coords="199,113,360,155"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher " alt="" coords="417,13,603,39"/>
+<area shape="rect" id="node5" href="$classAC__WPNav.html#aa30798bc0322d99a69c8a74fe6330945" title="set_desired_alt &#45; set desired altitude (in cm above home) " alt="" coords="415,63,605,90"/>
+<area shape="rect" id="node4" href="$classAC__WPNav.html#a4795d6f44811c6ca8b592c5cc098e0c0" title="set_fast_waypoint &#45; set to true to ignore the waypoint radius and consider the waypoint &#39;reached&#39; the..." alt="" coords="656,5,805,47"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="422,121,598,147"/>
+<area shape="rect" id="node8" href="$classAC__WPNav.html#ae34a88192799de8f2b96c8cd295bb971" title="get_loiter_target &#45; returns loiter target position " alt="" coords="653,113,808,155"/>
+</map>

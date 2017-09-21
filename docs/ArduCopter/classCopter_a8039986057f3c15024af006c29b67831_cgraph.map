@@ -1,0 +1,13 @@
+<map id="Copter::update_throttle_thr_mix" name="Copter::update_throttle_thr_mix">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a50af20180f5d75244da4be49e36fc408" title="AC_AttitudeControl\l::set_throttle_mix_min" alt="" coords="226,5,377,47"/>
+<area shape="rect" id="node3" href="$classCopter.html#a2fb03ab3500c5813c5e8ec6937e305c3" title="Copter::mode_has_manual\l_throttle" alt="" coords="212,71,391,112"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classRC__Channel.html#aeda74820f7954d870c2ee17235ad9577" title="RC_Channel::get_control_in" alt="" coords="208,137,395,163"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a3c8f01eb5925996d40bf2322c6cba9aa" title="AC_AttitudeControl\l::set_throttle_mix_man" alt="" coords="224,188,379,229"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#aec35222c9dee5999aaf029484ea356c9" title="AC_AttitudeControl\l::get_att_target_euler_cd" alt="" coords="218,253,385,295"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="276,319,327,346"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#a155f5193f8a1317525cfe37156790c9e" title="AC_AttitudeControl\l::get_att_error_angle_deg" alt="" coords="217,371,386,412"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a29f2bfb30bc3055de826a917ff6da4c0" title="AP_AHRS_NavEKF::get\l_accel_ef_blended" alt="" coords="217,436,385,477"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3\&lt; float \&gt;::length" alt="" coords="222,502,381,529"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a3d9cd8d29a9ce76bb5b6d757aac7626f" title="AC_PosControl::get\l_desired_velocity" alt="" coords="232,553,371,595"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__AttitudeControl.html#ad39f690fe2df96a65bff6db11eb29701" title="AC_AttitudeControl\l::set_throttle_mix_max" alt="" coords="224,619,379,660"/>
+</map>

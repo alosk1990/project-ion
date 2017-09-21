@@ -1,0 +1,6 @@
+<map id="AC_PosControl::set_jerk_xy_to_default" name="AC_PosControl::set_jerk_xy_to_default">
+<area shape="rect" id="node2" href="$classAC__WPNav.html#a7dc4785fbce8364d7eb3d8e2d0c1b987" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher " alt="" coords="205,17,391,43"/>
+<area shape="rect" id="node4" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title="AC_WPNav::wp_and_spline_init" alt="" coords="192,71,404,98"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a4795d6f44811c6ca8b592c5cc098e0c0" title="set_fast_waypoint &#45; set to true to ignore the waypoint radius and consider the waypoint &#39;reached&#39; the..." alt="" coords="455,5,604,47"/>
+<area shape="rect" id="node5" href="$classAC__WPNav.html#ae34a88192799de8f2b96c8cd295bb971" title="get_loiter_target &#45; returns loiter target position " alt="" coords="452,71,607,112"/>
+</map>

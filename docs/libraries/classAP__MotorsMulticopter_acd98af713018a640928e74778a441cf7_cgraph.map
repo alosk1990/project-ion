@@ -1,0 +1,15 @@
+<map id="AP_MotorsMulticopter::set_throttle_passthrough_for_esc_calibration" name="AP_MotorsMulticopter::set_throttle_passthrough_for_esc_calibration">
+<area shape="rect" id="node2" href="$classAP__Motors.html#abb781661db2b685644795dfe8f5a655f" title="AP_Motors::armed" alt="" coords="249,5,380,32"/>
+<area shape="rect" id="node3" href="$classAP__MotorsMulticopter.html#a0969b7047507b04155284cfa9ad870f9" title="AP_MotorsMulticopter\l::get_pwm_output_min" alt="" coords="237,57,392,98"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="261,123,368,149"/>
+<area shape="rect" id="node10" href="$classAP__MotorsMulticopter.html#af7dc0ae460df943a30f44008de57cba9" title="AP_MotorsMulticopter\l::get_pwm_output_max" alt="" coords="235,174,394,215"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCOutput.html#a9683d68d15b6e722c44e098bbb12e60a" title="AP_HAL::RCOutput::cork" alt="" coords="228,240,401,267"/>
+<area shape="rect" id="node12" href="$classAP__Motors.html#aaa7607c19a1ce444330aee972dd925ef" title="AP_Motors::rc_write" alt="" coords="244,291,385,317"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1RCOutput.html#a3b81b9e1e60a7dfcfacb2430e7705b8e" title="AP_HAL::RCOutput::push" alt="" coords="227,341,403,368"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="482,123,595,149"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="687,47,837,73"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="679,97,845,124"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="681,148,843,175"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="675,199,849,225"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="451,291,627,317"/>
+</map>

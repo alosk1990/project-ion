@@ -1,0 +1,31 @@
+<map id="AP_HAL::SPIDevice::transfer" name="AP_HAL::SPIDevice::transfer">
+<area shape="rect" id="node2" href="$classLinux_1_1RPIOUARTDriver.html#a09b3461bbc404cff4ad3e73a98200bd8" title="Linux::RPIOUARTDriver\l::_bus_timer" alt="" coords="219,37,386,79"/>
+<area shape="rect" id="node8" href="$classLinux_1_1RCInput__Raspilot.html#ad63473e0a55eeab5d41367c7d4f11e73" title="Linux::RCInput_Raspilot\l::_poll_data" alt="" coords="220,103,385,144"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__LSM9DS0.html#a9e083338c81500c744790115250d5207" title="AP_InertialSensor_LSM9DS0\l::_read_data_transaction_a" alt="" coords="205,168,400,209"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor__LSM9DS0.html#a8d90205092ed9e6b959fe3da5f4f6477" title="AP_InertialSensor_LSM9DS0\l::_read_data_transaction_g" alt="" coords="205,233,400,275"/>
+<area shape="rect" id="node15" href="$classLinux_1_1RCOutput__Raspilot.html#a6b8d007844c635c3107cce48005000cf" title="Linux::RCOutput_Raspilot\l::_update" alt="" coords="215,299,390,340"/>
+<area shape="rect" id="node17" href="$classAP__OpticalFlow__Pixart.html#ac7d3c5e4f729077e5b6b8a69f2df8f57" title="AP_OpticalFlow_Pixart\l::motion_burst" alt="" coords="224,547,381,588"/>
+<area shape="rect" id="node24" href="$classAP__OpticalFlow__Pixart.html#a7fc9c8f6150b243680a060d927eca830" title="AP_OpticalFlow_Pixart\l::reg_read" alt="" coords="224,364,381,405"/>
+<area shape="rect" id="node28" href="$classAP__OpticalFlow__Pixart.html#a6210d97ce2d7b005a532881e93212179" title="AP_OpticalFlow_Pixart\l::reg_write" alt="" coords="224,429,381,471"/>
+<area shape="rect" id="node29" href="$classAP__OpticalFlow__Pixart.html#af28feda5944144cd19cb5523486e237e" title="AP_OpticalFlow_Pixart\l::srom_download" alt="" coords="467,533,624,575"/>
+<area shape="rect" id="node30" href="$classAP__HAL_1_1SPIDevice.html#ae3610ad6b872baa01063a636efbcdca5" title="AP_HAL::SPIDevice::\l~SPIDevice" alt="" coords="227,612,379,653"/>
+<area shape="rect" id="node3" href="$classLinux_1_1RPIOUARTDriver.html#ab1aeed6da0769e1add420c3946f68769" title="Linux::RPIOUARTDriver\l::begin" alt="" coords="462,37,629,79"/>
+<area shape="rect" id="node4" href="$classLinux_1_1RPIOUARTDriver.html#a601d17d9cac82167ead641edeed20c58" title="Linux::RPIOUARTDriver\l::from" alt="" coords="705,37,871,79"/>
+<area shape="rect" id="node5" href="$classLinux_1_1Scheduler.html#a3ebfa13ef10767a5df98effbaecf4dc6" title="Linux::Scheduler::\l_run_uarts" alt="" coords="975,37,1102,79"/>
+<area shape="rect" id="node6" href="$classLinux_1_1Scheduler.html#a78a6776a646f8e58f5f39cf2ce366608" title="Linux::Scheduler::\l_timer_task" alt="" coords="1207,5,1334,47"/>
+<area shape="rect" id="node7" href="$classLinux_1_1Scheduler.html#a12c87a7eeda735d03129826c4acb039b" title="Linux::Scheduler::\l_uart_task" alt="" coords="1207,71,1334,112"/>
+<area shape="rect" id="node9" href="$classLinux_1_1RCInput__Raspilot.html#ae43e63138d48ac20a2b03b9b479ba46c" title="Linux::RCInput_Raspilot\l::init" alt="" coords="463,103,628,144"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__LSM9DS0.html#a517db16a43fdfa7fa31615d07b225474" title="AP_InertialSensor_LSM9DS0\l::_poll_data" alt="" coords="448,168,643,209"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__LSM9DS0.html#a1fa1189f7920f61d52d526f779be3d8f" title="AP_InertialSensor_LSM9DS0\l::start" alt="" coords="691,168,885,209"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor__LSM9DS0.html#adb7e6b545d6d86adc761ef83bcee62e4" title="AP_InertialSensor_LSM9DS0\l::~AP_InertialSensor_LSM9DS0" alt="" coords="933,168,1144,209"/>
+<area shape="rect" id="node16" href="$classLinux_1_1RCOutput__Raspilot.html#a30f0912e0e54086715339061f2777b48" title="Linux::RCOutput_Raspilot\l::init" alt="" coords="458,233,633,275"/>
+<area shape="rect" id="node18" href="$classAP__OpticalFlow__Pixart.html#aa5a9a9181bb1cc9339052a67274c379f" title="AP_OpticalFlow_Pixart\l::timer" alt="" coords="467,599,624,640"/>
+<area shape="rect" id="node19" href="$classAP__OpticalFlow__Pixart.html#aea9f11acda2429444b7726d70f1ec947" title="AP_OpticalFlow_Pixart\l::setup_sensor" alt="" coords="709,445,867,487"/>
+<area shape="rect" id="node20" href="$classAP__OpticalFlow__Pixart.html#afec8fda2ea0fbe200eb0a3f3b8630838" title="AP_OpticalFlow_Pixart\l::detect" alt="" coords="960,445,1117,487"/>
+<area shape="rect" id="node21" href="$classAP__OpticalFlow__Pixart.html#abfa444a6b73d762c4e920943035411b0" title="AP_OpticalFlow_Pixart\l::init" alt="" coords="1192,416,1349,457"/>
+<area shape="rect" id="node22" href="$classOpticalFlow.html#a38bb66f6104e140e3ca46aa1129c43ae" title="OpticalFlow::init" alt="" coords="1213,482,1329,509"/>
+<area shape="rect" id="node23" href="$AP__OpticalFlow__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1397,482,1452,509"/>
+<area shape="rect" id="node25" href="$classAP__OpticalFlow__Pixart.html#a4683e56c3dec69536e334801c33a8e6a" title="AP_OpticalFlow_Pixart\l::load_configuration" alt="" coords="467,416,624,457"/>
+<area shape="rect" id="node26" href="$classAP__OpticalFlow__Pixart.html#aa2fed79c8083e1df4e0a608cf8ef3bec" title="AP_OpticalFlow_Pixart\l::reg_read16u" alt="" coords="467,299,624,340"/>
+<area shape="rect" id="node27" href="$classAP__OpticalFlow__Pixart.html#a0227a9c7984714a1115bc5ae647753d3" title="AP_OpticalFlow_Pixart\l::reg_read16s" alt="" coords="709,299,867,340"/>
+</map>

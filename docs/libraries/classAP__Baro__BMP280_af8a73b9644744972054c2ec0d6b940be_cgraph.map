@@ -1,0 +1,30 @@
+<map id="AP_Baro_BMP280::probe" name="AP_Baro_BMP280::probe">
+<area shape="rect" id="node2" href="$classAP__Baro__BMP280.html#afd5b4762a3fac3c4b5f58c2de7db3332" title="AP_Baro_BMP280::AP\l_Baro_BMP280" alt="" coords="227,319,384,360"/>
+<area shape="rect" id="node3" href="$classAP__Baro__BMP280.html#acf79b0916a52ded5a545f42f24ca391d" title="AP_Baro_BMP280::_init" alt="" coords="224,385,387,411"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title="AP_HAL::Device::get\l_semaphore" alt="" coords="452,5,600,47"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="904,130,1084,157"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Device.html#ab8df2848215253ccd70298be7bb52339" title="AP_HAL::Device::set\l_speed" alt="" coords="452,472,600,513"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Device.html#a66215f964cfb5c7421effdb88a749550" title="AP_HAL::Device::read\l_registers" alt="" coords="917,377,1071,419"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="905,195,1083,222"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Device.html#a0e51c1247cf5f1ed2d689263d9c48eae" title="AP_HAL::Device::bus_type" alt="" coords="435,538,617,565"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Device.html#a450d2427d58c09d75c8268f8b808c37b" title="AP_HAL::Device::write\l_register" alt="" coords="447,407,605,448"/>
+<area shape="rect" id="node16" href="$classAP__Baro.html#a2679b96d8c843053af9c658ff3efad73" title="AP_Baro::register_sensor" alt="" coords="441,589,611,615"/>
+<area shape="rect" id="node26" href="$classAP__HAL_1_1Device.html#ab516a6ba589841ce07a5cc4ef599ac62" title="AP_HAL::Device::register\l_periodic_callback" alt="" coords="439,640,613,681"/>
+<area shape="rect" id="node27" href="$classAP__Baro__BMP280.html#a5108c58b0ae05b0e91cd47044f3c5333" title="AP_Baro_BMP280::_timer" alt="" coords="439,225,613,251"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="1137,443,1312,470"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Device.html#a44b62acec2c1c5d8bf8b9c07f5fe7192" title="AP_HAL::Device::set\l_checked_register" alt="" coords="684,472,832,513"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Device.html#a4bad879386bd93b7f2340bff1437d041" title="AP_HAL::Device::setup\l_checked_registers" alt="" coords="677,537,839,579"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Device.html#a81202d89062b62f93bf8d13fa30a86d0" title="AP_HAL::Device::check\l_next_register" alt="" coords="675,407,841,448"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Device.html#a682fd556614308cb02773e94ec8e4b26" title="AP_HAL::Device::get\l_bus_id" alt="" coords="920,443,1068,484"/>
+<area shape="rect" id="node17" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="702,662,814,689"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="899,721,1089,747"/>
+<area shape="rect" id="node25" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="921,655,1067,696"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="1143,619,1306,660"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="1143,684,1306,725"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="1143,750,1306,777"/>
+<area shape="rect" id="node22" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="1147,801,1303,843"/>
+<area shape="rect" id="node23" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="1147,867,1303,908"/>
+<area shape="rect" id="node24" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="1141,553,1308,595"/>
+<area shape="rect" id="node28" href="$classAP__Baro__BMP280.html#a56cdd94cac7969046faa606e8138f9cd" title="AP_Baro_BMP280::_update\l_temperature" alt="" coords="665,123,851,164"/>
+<area shape="rect" id="node29" href="$classAP__Baro__BMP280.html#af3f52e8bb34f2a2dbc7a1b6ee4f328e0" title="AP_Baro_BMP280::_update\l_pressure" alt="" coords="665,188,851,229"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="DataFlash_MAVLink::Init" name="DataFlash_MAVLink::Init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a88fe04780cd5c596b3c319ca4df810bc" title="AP_HAL::Util::new_semaphore" alt="" coords="221,259,425,286"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="267,310,379,337"/>
+<area shape="rect" id="node12" href="$classDataFlash__Backend.html#aff10c329f79c1bdaedbc6fdf4028c2a5" title="DataFlash_Backend::Init" alt="" coords="240,401,407,427"/>
+<area shape="rect" id="node17" href="$classDataFlash__MAVLink.html#a0d141859ebceee09785312e1418734bd" title="DataFlash_MAVLink::\lfree_all_blocks" alt="" coords="248,452,399,493"/>
+<area shape="rect" id="node18" href="$classDataFlash__MAVLink.html#a16a4ec2ff971ae3ec61b3635a6cc2d96" title="DataFlash_MAVLink::\lstats_init" alt="" coords="248,520,399,561"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="473,195,664,222"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="495,283,642,324"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="732,5,895,47"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="732,71,895,112"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="732,137,895,163"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="735,188,891,229"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="735,253,891,295"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="730,319,897,360"/>
+<area shape="rect" id="node13" href="$classDataFlash__Backend.html#a0d81b33bb8560bac27b7395e58045a76" title="DataFlash_Backend::\lset_mission" alt="" coords="495,348,643,389"/>
+<area shape="rect" id="node15" href="$classDataFlash__Backend.html#a225465cb83db429757bbbf224796ed8f" title="DataFlash_Backend::\lbufferspace_available" alt="" coords="495,413,643,455"/>
+<area shape="rect" id="node16" href="$classDataFlash__Backend.html#a5ff05c4c6461f5bfe61798adb4205a38" title="DataFlash_Backend::\lstart_new_log" alt="" coords="495,479,643,520"/>
+<area shape="rect" id="node14" href="$classDFMessageWriter__DFLogStart.html#a8584b1fa0775b7ff593a1760f5461074" title="DFMessageWriter_DFLogStart\l::set_mission" alt="" coords="712,384,915,425"/>
+<area shape="rect" id="node19" href="$classDataFlash__MAVLink.html#a36de9539b4bfa2da0130d16bd97d6941" title="DataFlash_MAVLink::\lstats_reset" alt="" coords="493,544,644,585"/>
+</map>

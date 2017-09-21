@@ -1,0 +1,89 @@
+<map id="AP_Mount_SToRM32::update" name="AP_Mount_SToRM32::update">
+<area shape="rect" id="node2" href="$classAP__Mount__SToRM32.html#a2ec4b2a08f50c26bc0e81c0108ce4c68" title="AP_Mount_SToRM32::find\l_gimbal" alt="" coords="263,695,442,737"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="AP_HAL::millis" alt="" coords="1010,545,1121,572"/>
+<area shape="rect" id="node58" href="$classAP__Mount__Backend.html#a5b180d2237a8e70d512762f651291f49" title="AP_Mount_Backend::get_mode" alt="" coords="249,761,456,788"/>
+<area shape="rect" id="node60" href="$classAP__Mount__Backend.html#ab4be0d28626c019ba59dc179f728c9c9" title="AP_Mount_Backend::update\l_targets_from_rc" alt="" coords="259,941,447,982"/>
+<area shape="rect" id="node74" href="$classAP__Mount__Backend.html#a4277879b4b95abe393ab963a527dc82d" title="AP_Mount_Backend::calc\l_angle_to_location" alt="" coords="266,1225,439,1266"/>
+<area shape="rect" id="node88" href="$classAP__Mount__SToRM32.html#afbc8c4a8c0d95c2d6e4afdadd93c9777" title="AP_Mount_SToRM32::send\l_do_mount_control" alt="" coords="260,429,445,470"/>
+<area shape="rect" id="node51" href="$classGCS__MAVLINK.html#af6800df234ecb0befbc006466c6ec4c6" title="GCS_MAVLINK::find_by\l_mavtype" alt="" coords="511,695,677,737"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a59336c5fceaf28a76d1df1581a87a25d" title="AP_HAL::millis64" alt="" coords="1219,545,1344,572"/>
+<area shape="rect" id="node5" href="$classLinux_1_1Scheduler.html#a53ecaae0fdc72f85bd57c4b0cff93653" title="Linux::Scheduler::from" alt="" coords="1392,400,1545,427"/>
+<area shape="rect" id="node36" href="$classLinux_1_1Scheduler.html#a682b4c34f330f66db5ab4aa5d96e13f9" title="Linux::Scheduler::stopped\l_clock_usec" alt="" coords="2489,270,2663,311"/>
+<area shape="rect" id="node6" href="$classLinux_1_1Scheduler.html#a3d77c332e051c28c83fb07757e7100bd" title="Linux::Scheduler::init" alt="" coords="1607,792,1751,819"/>
+<area shape="rect" id="node16" href="$classLinux_1_1Scheduler.html#a02a34a123dfebaf360f7010745e1e646" title="Linux::Scheduler::register\l_timer_process" alt="" coords="1815,742,1985,783"/>
+<area shape="rect" id="node27" href="$classLinux_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="Linux::Scheduler::delay" alt="" coords="1599,5,1758,32"/>
+<area shape="rect" id="node29" href="$classLinux_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="Linux::Scheduler::delay\l_microseconds" alt="" coords="2497,57,2655,98"/>
+<area shape="rect" id="node30" href="$classLinux_1_1Scheduler.html#a5cb50b637d5fd3e5f9220bc23db0fb3f" title="Linux::Scheduler::register\l_delay_callback" alt="" coords="1593,107,1764,149"/>
+<area shape="rect" id="node31" href="$classLinux_1_1Scheduler.html#aa2be97cb8686d72cc322fb38f69a940c" title="Linux::Scheduler::register\l_io_process" alt="" coords="1815,625,1985,666"/>
+<area shape="rect" id="node32" href="$classLinux_1_1Scheduler.html#abba967d02c28cb0b16a7cebbff9bc6d6" title="Linux::Scheduler::suspend\l_timer_procs" alt="" coords="1812,275,1988,317"/>
+<area shape="rect" id="node42" href="$classLinux_1_1Scheduler.html#aee4e701b92cb4721c4de1bfcdcded70c" title="Linux::Scheduler::resume\l_timer_procs" alt="" coords="1815,145,1985,186"/>
+<area shape="rect" id="node44" href="$classLinux_1_1Scheduler.html#af23753e7c6bfa97553db215a64235455" title="Linux::Scheduler::in\l_timerprocess" alt="" coords="1610,393,1747,434"/>
+<area shape="rect" id="node45" href="$classLinux_1_1Scheduler.html#ac193459e3575c7a0588fdc72250c2044" title="Linux::Scheduler::register\l_timer_failsafe" alt="" coords="1593,523,1764,565"/>
+<area shape="rect" id="node46" href="$classLinux_1_1Scheduler.html#ad6070a7ee637adf5101b1e6b6efbf8f6" title="Linux::Scheduler::system\l_initialized" alt="" coords="1593,458,1764,499"/>
+<area shape="rect" id="node48" href="$classLinux_1_1Scheduler.html#ae72cfa66c849ffd882ef518c35c71e69" title="Linux::Scheduler::reboot" alt="" coords="1597,589,1760,616"/>
+<area shape="rect" id="node49" href="$classLinux_1_1Scheduler.html#a392aebafcdfe9a812e4db4b7a9dcce9c" title="Linux::Scheduler::stop\l_clock" alt="" coords="1603,225,1755,266"/>
+<area shape="rect" id="node7" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="1844,487,1956,513"/>
+<area shape="rect" id="node25" href="$classLinux_1_1Scheduler.html#a163eb7b285c95b1b1d036fc61d723910" title="Linux::Scheduler::\l_debug_stack" alt="" coords="1837,821,1963,862"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="2036,487,2227,513"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="2285,246,2431,287"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="2277,625,2439,666"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="2277,311,2439,353"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="2277,377,2439,404"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="2280,429,2436,470"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="2280,494,2436,535"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="2275,559,2441,601"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="2055,742,2208,783"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="2281,742,2435,783"/>
+<area shape="rect" id="node19" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="2531,701,2621,728"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="2734,575,2878,601"/>
+<area shape="rect" id="node21" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="2761,625,2851,652"/>
+<area shape="rect" id="node22" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="2775,676,2837,703"/>
+<area shape="rect" id="node23" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="2760,727,2852,753"/>
+<area shape="rect" id="node24" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="2761,777,2851,804"/>
+<area shape="rect" id="node26" href="$classLinux_1_1Thread.html#a6884970a0811ae21953c57fb98aa6e96" title="Linux::Thread::get\l_stack_usage" alt="" coords="3360,661,3487,702"/>
+<area shape="rect" id="node28" href="$classLinux_1_1Scheduler.html#a647872aff158b510c56862f51f951538" title="Linux::Scheduler::microsleep" alt="" coords="2711,64,2901,91"/>
+<area shape="rect" id="node33" href="$classLinux_1_1Semaphore.html#afc4c8706abb7e68aa4001ea372dc614e" title="Linux::Semaphore::take" alt="" coords="2051,217,2211,244"/>
+<area shape="rect" id="node34" href="$classLinux_1_1Semaphore.html#a561b4f40f3a76335f1a686c2aed526f9" title="Linux::Semaphore::take\l_nonblocking" alt="" coords="2278,129,2438,170"/>
+<area shape="rect" id="node35" href="$namespaceAP__HAL.html#a7aa0ce7625c9680e30ff4a99940907a5" title="AP_HAL::micros64" alt="" coords="2291,195,2425,221"/>
+<area shape="rect" id="node37" href="$classLinux_1_1Scheduler.html#ab373a83d818679432520ea881044b2a7" title="Linux::Scheduler::teardown" alt="" coords="2716,441,2896,468"/>
+<area shape="rect" id="node38" href="$classLinux_1_1PeriodicThread.html#a136aaf6e713f63b246fc4a2905e6e9a1" title="Linux::PeriodicThread\l::stop" alt="" coords="2949,434,3097,475"/>
+<area shape="rect" id="node41" href="$classLinux_1_1Thread.html#a32b7d184279634922e2f3b23b584fbcd" title="Linux::Thread::join" alt="" coords="2959,500,3088,527"/>
+<area shape="rect" id="node39" href="$classLinux_1_1Thread.html#a240d7b48a9a8eb43638f67295a1819e5" title="Linux::Thread::is_started" alt="" coords="3145,523,3312,549"/>
+<area shape="rect" id="node40" href="$classLinux_1_1Thread.html#a8d3282b714faaf68eae534e9276419f0" title="Linux::Thread::set\l_stack_size" alt="" coords="3360,515,3487,557"/>
+<area shape="rect" id="node43" href="$classLinux_1_1Semaphore.html#a216f91636f64b57b59d43ef64af91624" title="Linux::Semaphore::give" alt="" coords="2052,159,2211,185"/>
+<area shape="rect" id="node47" href="$classLinux_1_1Scheduler.html#ac52c8da3f1f4fd79c50bd64379daf399" title="Linux::Scheduler::\l_wait_all_threads" alt="" coords="1837,421,1963,462"/>
+<area shape="rect" id="node50" href="$classLinux_1_1Scheduler.html#a70b024d7d0886bf47b46cc3ee310d638" title="Linux::Scheduler::\l_run_io" alt="" coords="1837,210,1963,251"/>
+<area shape="rect" id="node52" href="$classMAVLink__routing.html#a8af5bcd0789c598b02b39c0b07f25a97" title="MAVLink_routing::find\l_by_mavtype" alt="" coords="747,662,897,703"/>
+<area shape="rect" id="node53" href="$classGCS__MAVLINK.html#a04ba96c329a2b4e55e63d50a46851df6" title="GCS_MAVLINK::update\l_signing_timestamp" alt="" coords="740,727,904,769"/>
+<area shape="rect" id="node54" href="$classGCS__MAVLINK.html#a4f0bacad6b801524e0a56fdfca58619d" title="GCS_MAVLINK::packet\l_overhead_chan" alt="" coords="740,597,904,638"/>
+<area shape="rect" id="node55" href="$classGCS__MAVLINK.html#af4f30f562764cd70840b1891f8a05a99" title="GCS_MAVLINK::telemetry\l_delayed" alt="" coords="733,793,911,834"/>
+<area shape="rect" id="node56" href="$classGCS__MAVLINK.html#a6b28d39ba0b6d7be473c03b21be358ff" title="GCS_MAVLINK::telem\l_delay" alt="" coords="987,793,1144,834"/>
+<area shape="rect" id="node57" href="$classAP__HAL_1_1GPIO.html#ab0ea67003249493b7efc0528410b9be6" title="AP_HAL::GPIO::usb_connected" alt="" coords="960,741,1171,768"/>
+<area shape="rect" id="node59" href="$classAP__Mount.html#a26ea3e1c86204271b6b90f1fb4f3ee92" title="AP_Mount::get_mode" alt="" coords="520,761,668,788"/>
+<area shape="rect" id="node61" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="541,923,647,949"/>
+<area shape="rect" id="node67" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="790,1003,854,1029"/>
+<area shape="rect" id="node68" href="$classAP__Mount__Backend.html#a7cbf9f6695f80998e1cc39b9a3a5a0ae" title="AP_Mount_Backend::angle\l_input_rad" alt="" coords="504,1025,684,1066"/>
+<area shape="rect" id="node62" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="765,923,879,949"/>
+<area shape="rect" id="node63" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="990,859,1141,885"/>
+<area shape="rect" id="node64" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="982,909,1149,936"/>
+<area shape="rect" id="node65" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="984,960,1147,987"/>
+<area shape="rect" id="node66" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="978,1011,1153,1037"/>
+<area shape="rect" id="node69" href="$classAP__Mount__Backend.html#aca1f2d5e9e859d8458772006a5e9a178" title="AP_Mount_Backend::angle\l_input" alt="" coords="732,1090,912,1131"/>
+<area shape="rect" id="node70" href="$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="979,1061,1152,1088"/>
+<area shape="rect" id="node71" href="$classRC__Channel.html#af03023765299095f9933ac8db99cd571" title="RC_Channel::get_radio_in" alt="" coords="978,1112,1153,1139"/>
+<area shape="rect" id="node72" href="$classRC__Channel.html#a28435fa792b2a6e187eb8c08d88b929c" title="RC_Channel::get_radio_min" alt="" coords="972,1163,1159,1189"/>
+<area shape="rect" id="node73" href="$classRC__Channel.html#a8e742b258b4b600ec69fa4c5580df20a" title="RC_Channel::get_radio_max" alt="" coords="970,1213,1161,1240"/>
+<area shape="rect" id="node75" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="569,1359,619,1385"/>
+<area shape="rect" id="node77" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="544,1207,644,1233"/>
+<area shape="rect" id="node78" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="559,1257,629,1284"/>
+<area shape="rect" id="node76" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="803,1409,841,1436"/>
+<area shape="rect" id="node79" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="783,1359,861,1385"/>
+<area shape="rect" id="node84" href="$AP__Math_8cpp.html#a044023fcfa899d449f5a219ca7596ca4" title="wrap_PI\&lt; int \&gt;" alt="" coords="768,1257,876,1284"/>
+<area shape="rect" id="node85" href="$AP__Math_8cpp.html#ad0041912c2965b653fa9cf6854e47bc8" title="wrap_PI\&lt; short \&gt;" alt="" coords="761,1308,883,1335"/>
+<area shape="rect" id="node86" href="$AP__Math_8cpp.html#a789e7d40c173a1fab6560d1b61609952" title="wrap_PI\&lt; float \&gt;" alt="" coords="763,1156,881,1183"/>
+<area shape="rect" id="node87" href="$AP__Math_8cpp.html#a66b3a8191d62a34f4d673d5c62d8d1cf" title="wrap_PI\&lt; double \&gt;" alt="" coords="756,1207,888,1233"/>
+<area shape="rect" id="node80" href="$AP__Math_8cpp.html#a50a4ded454375642e1944882b01a1ae5" title="wrap_2PI\&lt; int \&gt;" alt="" coords="1008,1279,1123,1305"/>
+<area shape="rect" id="node81" href="$AP__Math_8cpp.html#aaf8ce7d4f9e3837bdbd5aac6545b4000" title="wrap_2PI\&lt; short \&gt;" alt="" coords="1000,1329,1131,1356"/>
+<area shape="rect" id="node82" href="$AP__Math_8cpp.html#a7182302503c136742396e3057b680dc7" title="wrap_2PI\&lt; float \&gt;" alt="" coords="1002,1380,1129,1407"/>
+<area shape="rect" id="node83" href="$AP__Math_8cpp.html#a0b4be48e39c65e97084146b9f1d22c00" title="wrap_2PI\&lt; double \&gt;" alt="" coords="996,1431,1135,1457"/>
+</map>

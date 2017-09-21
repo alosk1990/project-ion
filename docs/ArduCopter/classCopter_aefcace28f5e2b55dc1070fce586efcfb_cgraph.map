@@ -1,0 +1,17 @@
+<map id="Copter::calc_home_distance_and_bearing" name="Copter::calc_home_distance_and_bearing">
+<area shape="rect" id="node2" href="$classCopter.html#a06cf9a8d680a08e194896f711b1940cf" title="Copter::position_ok" alt="" coords="263,82,398,109"/>
+<area shape="rect" id="node8" href="$classCopter.html#a386447c928be1efba668cc4e676cba77" title="Copter::pv_location\l_to_vector" alt="" coords="263,188,398,229"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="714,254,865,281"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ab0ed9ccbf6fad1a2cdae8a30a582c5ee" title="AP_InertialNav_NavEKF\l::get_position" alt="" coords="247,305,414,347"/>
+<area shape="rect" id="node13" href="$classCopter.html#ad1af3b20c390e433a9644e3ef8b37de9" title="Copter::pv_get_horizontal\l_distance_cm" alt="" coords="245,371,416,412"/>
+<area shape="rect" id="node15" href="$classCopter.html#a3255a1a5c6abe1483485e4532b87118a" title="Copter::pv_get_bearing_cd" alt="" coords="241,437,420,463"/>
+<area shape="rect" id="node16" href="$classCopter.html#a21e56313ed22aff0b6148cfc44e83e64" title="Copter::update_super\l_simple_bearing" alt="" coords="257,488,404,529"/>
+<area shape="rect" id="node3" href="$classCopter.html#a09f2741a18ba8ca80ee125411602d366" title="Copter::ekf_position_ok" alt="" coords="480,31,640,58"/>
+<area shape="rect" id="node6" href="$classCopter.html#a48f22a85435e9ab7998e79f5acae9c10" title="Copter::optflow_position_ok" alt="" coords="468,82,652,109"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a7933552ae34a7fd8fdfc1e51a4e2fad6" title="AP_AHRS_NavEKF::have\l_inertial_nav" alt="" coords="700,71,879,112"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ad6004ffb427fd086592cc1c56f5de17a" title="AP_InertialNav_NavEKF\l::get_filter_status" alt="" coords="706,5,873,47"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="717,137,861,163"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ae87c895946085addaf80588e2dea73fa" title="AP_InertialNav_NavEKF\l::get_origin" alt="" coords="706,188,873,229"/>
+<area shape="rect" id="node10" href="$classCopter.html#aa8f8088a19c4bcf27db83123be9e4521" title="Copter::pv_alt_above\l_origin" alt="" coords="487,188,633,229"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="535,378,585,405"/>
+</map>

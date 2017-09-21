@@ -1,0 +1,32 @@
+<map id="RangeFinder::status" name="RangeFinder::status">
+<area shape="rect" id="node2" href="$classRangeFinder.html#a53a15c9f1ba0bfa9cbcf8d381025eb0f" title="RangeFinder::has_data" alt="" coords="193,197,351,224"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a0c78437556b4a6020c91db03541e7228" title="NavEKF2_core::readRangeFinder" alt="" coords="1065,84,1284,111"/>
+<area shape="rect" id="node17" href="$classNavEKF3__core.html#aaaa48f79caab8e511134d29d53f9b5d9" title="NavEKF3_core::readRangeFinder" alt="" coords="1065,192,1284,219"/>
+<area shape="rect" id="node26" href="$RFIND__test_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="672,387,719,413"/>
+<area shape="rect" id="node27" href="$classRangeFinder.html#aa40fdb58e3887d08e6ad2b2da3c5076e" title="RangeFinder::status\l_orient" alt="" coords="407,43,547,85"/>
+<area shape="rect" id="node28" href="$classRangeFinder.html#a9a31752438c769ed90299e3a31d01ca0" title="RangeFinder::update\l_pre_arm_check" alt="" coords="201,325,343,366"/>
+<area shape="rect" id="node3" href="$classRangeFinder.html#ad95f15a0eea1106c41337089636175b3" title="RangeFinder::ground\l_clearance_cm" alt="" coords="624,109,767,150"/>
+<area shape="rect" id="node24" href="$classRangeFinder.html#a6b1c79a6c9b8c755beb4d660c8a24b02" title="RangeFinder::has_data\l_orient" alt="" coords="399,109,556,150"/>
+<area shape="rect" id="node25" href="$classAP__Proximity__RangeFinder.html#a00972bd55509a984f8a71c4cfdb78445" title="AP_Proximity_RangeFinder\l::update" alt="" coords="835,210,1017,251"/>
+<area shape="rect" id="node4" href="$classRangeFinder.html#a8d80f2033a9c81339a5241bf5fd312b9" title="RangeFinder::ground\l_clearance_cm_orient" alt="" coords="851,109,1001,150"/>
+<area shape="rect" id="node6" href="$classNavEKF2__core.html#a862c5f00d982bd111047bd3a90d537fd" title="NavEKF2_core::selectHeight\lForFusion" alt="" coords="1332,77,1524,118"/>
+<area shape="rect" id="node7" href="$classNavEKF2__core.html#aff31047fa71772bca7ce574617ede0f6" title="NavEKF2_core::SelectVelPos\lFusion" alt="" coords="1572,77,1771,118"/>
+<area shape="rect" id="node8" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="1819,84,2009,111"/>
+<area shape="rect" id="node9" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="2057,84,2216,111"/>
+<area shape="rect" id="node10" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="2300,163,2457,189"/>
+<area shape="rect" id="node14" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="2264,61,2493,88"/>
+<area shape="rect" id="node11" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="2561,206,2713,247"/>
+<area shape="rect" id="node13" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="2541,155,2733,181"/>
+<area shape="rect" id="node12" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="2781,206,2931,247"/>
+<area shape="rect" id="node15" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="2543,83,2732,109"/>
+<area shape="rect" id="node16" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2833,83,2879,109"/>
+<area shape="rect" id="node18" href="$classNavEKF3__core.html#a01fae89d7fa75988df64635fc572039f" title="NavEKF3_core::selectHeight\lForFusion" alt="" coords="1332,185,1524,226"/>
+<area shape="rect" id="node19" href="$classNavEKF3__core.html#a8f4723dabc873f7112948a18b290fb01" title="NavEKF3_core::SelectVelPos\lFusion" alt="" coords="1572,185,1771,226"/>
+<area shape="rect" id="node20" href="$classNavEKF3__core.html#a2a7fae9e0bf2ce6fc2f9b3918dc168d3" title="NavEKF3_core::UpdateFilter" alt="" coords="1819,192,2009,219"/>
+<area shape="rect" id="node21" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="2057,192,2216,219"/>
+<area shape="rect" id="node22" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="2300,213,2457,240"/>
+<area shape="rect" id="node23" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="2264,112,2493,139"/>
+<area shape="rect" id="node29" href="$classRangeFinder.html#a37112967f0252ed7c3fdc42f840761c7" title="RangeFinder::update" alt="" coords="406,332,549,359"/>
+<area shape="rect" id="node30" href="$classRangeFinder.html#a95856f52f03d5234d587600faedcbfaf" title="RangeFinder::num_sensors" alt="" coords="604,331,787,357"/>
+<area shape="rect" id="node31" href="$RFIND__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="899,331,953,357"/>
+</map>

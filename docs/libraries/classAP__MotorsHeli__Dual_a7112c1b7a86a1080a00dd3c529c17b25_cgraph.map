@@ -1,0 +1,17 @@
+<map id="AP_MotorsHeli_Dual::calculate_scalars" name="AP_MotorsHeli_Dual::calculate_scalars">
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title="constrain_int16" alt="" coords="229,81,340,108"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli__Dual.html#acf2bbcc8a7d612c86ef2a56510a01e35" title="AP_MotorsHeli_Dual\l::calculate_roll_pitch\l_collective_factors" alt="" coords="213,132,357,188"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli__RSC.html#ace1311fec7bf1c155d5a50db0f6d2c53" title="AP_MotorsHeli_RSC::\lset_control_mode" alt="" coords="207,211,362,253"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli__Dual.html#a6ceac770c46717669afffc50590d93ee" title="AP_MotorsHeli_Dual\l::calculate_armed_scalars" alt="" coords="197,295,372,337"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="441,81,554,108"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="635,5,785,32"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="627,56,793,83"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="629,107,791,133"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="623,157,797,184"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="465,139,529,165"/>
+<area shape="rect" id="node12" href="$classAP__MotorsHeli__RSC.html#aebdd1e8a17dde4d2bab170c8ebd8532c" title="AP_MotorsHeli_RSC::\lset_ramp_time" alt="" coords="420,190,575,231"/>
+<area shape="rect" id="node13" href="$classAP__MotorsHeli__RSC.html#aa5d4bbc71b96eeeff793eb3b2ccf60b9" title="AP_MotorsHeli_RSC::\lset_runup_time" alt="" coords="420,255,575,297"/>
+<area shape="rect" id="node14" href="$classAP__MotorsHeli__RSC.html#aea809ae1bbb81ef4fc000fb25fe83886" title="AP_MotorsHeli_RSC::\lset_power_output_range" alt="" coords="628,285,792,326"/>
+<area shape="rect" id="node15" href="$classAP__MotorsHeli__RSC.html#a7505e3e3e250559ba06a2742186743c2" title="AP_MotorsHeli_RSC::\lset_critical_speed" alt="" coords="420,373,575,414"/>
+<area shape="rect" id="node16" href="$classAP__MotorsHeli__RSC.html#a756586a634a184a31e13645b8fcc6c43" title="AP_MotorsHeli_RSC::\lset_idle_output" alt="" coords="420,438,575,479"/>
+</map>

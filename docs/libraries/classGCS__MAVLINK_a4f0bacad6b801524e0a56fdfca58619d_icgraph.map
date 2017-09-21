@@ -1,0 +1,28 @@
+<map id="GCS_MAVLINK::packet_overhead_chan" name="GCS_MAVLINK::packet_overhead_chan">
+<area shape="rect" id="node2" href="$classMAVLink__routing.html#a474038c8ab695c57e23fb6fec4664947" title="MAVLink_routing::check\l_and_forward" alt="" coords="439,83,603,124"/>
+<area shape="rect" id="node14" href="$classGCS__MAVLINK.html#af6800df234ecb0befbc006466c6ec4c6" title="GCS_MAVLINK::find_by\l_mavtype" alt="" coords="217,180,384,221"/>
+<area shape="rect" id="node18" href="$classMAVLink__routing.html#ae80b2a0d4f442fe80a7d0097da164b7e" title="MAVLink_routing::handle\l_heartbeat" alt="" coords="217,115,384,156"/>
+<area shape="rect" id="node19" href="$classGCS__MAVLINK.html#a55c9fb5ae16624c1ea17d3a0bd300604" title="GCS_MAVLINK::packet\l_overhead" alt="" coords="219,245,383,287"/>
+<area shape="rect" id="node21" href="$classMAVLink__routing.html#ace8e55f8db025f01d4309de699de5460" title="MAVLink_routing::send\l_to_components" alt="" coords="222,311,379,352"/>
+<area shape="rect" id="node3" href="$routing_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="745,65,791,91"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#aabf8eb6ddc5987a67d80ba3100531b25" title="GCS_MAVLINK::packetReceived" alt="" coords="659,115,877,142"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK.html#a34892e32f5d039c3b977b3798d959645" title="GCS_MAVLINK::set_snoop" alt="" coords="925,71,1111,98"/>
+<area shape="rect" id="node13" href="$classGCS__MAVLINK.html#a289db0d1e6881d61f182e44c5ef6b09e" title="GCS_MAVLINK::update" alt="" coords="936,122,1100,149"/>
+<area shape="rect" id="node6" href="$classAP__AccelCal.html#a5a2c8a471866eff24b340cc9680f9868" title="AP_AccelCal::update" alt="" coords="1443,42,1590,69"/>
+<area shape="rect" id="node10" href="$classAP__AccelCal.html#a82a377b367cf5ce28a8631005cfabb7f" title="AP_AccelCal::collect\l_sample" alt="" coords="1189,64,1335,105"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__UserInteract__MAVLink.html#a48aca70929432691988f04da6a6797e9" title="AP_InertialSensor_UserInteract\l_MAVLink::blocking_read" alt="" coords="1159,129,1365,171"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#a9ca5d711a97f4c33fe6a7c31b1329761" title="AP_InertialSensor::\lacal_update" alt="" coords="1694,5,1829,47"/>
+<area shape="rect" id="node9" href="$classAP__AccelCal.html#a04edd404ef14de6e6106e02f3746afeb" title="AP_AccelCal::AP_AccelCal" alt="" coords="1668,71,1855,98"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor.html#ab7992b2d70b268a86ad4354531ae464d" title="AP_InertialSensor::\lget_acal" alt="" coords="1903,5,2037,47"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__UserInteract__MAVLink.html#ae235eeabe02f29f04a8876cbb1a10161" title="AP_InertialSensor_UserInteract\l_MAVLink::AP_InertialSensor\l_UserInteract_MAVLink" alt="" coords="1413,122,1620,178"/>
+<area shape="rect" id="node15" href="$classAP__Mount__SToRM32.html#a2ec4b2a08f50c26bc0e81c0108ce4c68" title="AP_Mount_SToRM32::find\l_gimbal" alt="" coords="432,180,611,221"/>
+<area shape="rect" id="node16" href="$classAP__Mount__SToRM32.html#a3dadf2d9c2d3ba5151169641b8c25dfd" title="AP_Mount_SToRM32::init" alt="" coords="931,198,1105,225"/>
+<area shape="rect" id="node17" href="$classAP__Mount__SToRM32.html#ace0a2b82782d8c587ed2ae17fc123e99" title="AP_Mount_SToRM32::update" alt="" coords="670,217,866,243"/>
+<area shape="rect" id="node20" href="$classGCS__MAVLINK.html#a508b2da2af9a77f175c60cac467cec70" title="Send the next pending parameter, called from deferred message handling code. " alt="" coords="438,245,605,287"/>
+<area shape="rect" id="node22" href="$classGCS__MAVLINK.html#a928edfeb8ca8d1656eca3e0c176d49a7" title="GCS_MAVLINK::send_to\l_components" alt="" coords="436,311,607,352"/>
+<area shape="rect" id="node23" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="687,267,849,294"/>
+<area shape="rect" id="node25" href="$classAP__Camera.html#a3f1660c56231d66cbaa47ef6e4514f37" title="AP_Camera::control" alt="" coords="948,318,1088,345"/>
+<area shape="rect" id="node27" href="$classAP__Camera.html#a2ceac45cdd6c13d66052c8168fff689c" title="AP_Camera::configure" alt="" coords="1185,413,1339,439"/>
+<area shape="rect" id="node24" href="$classAP__Camera.html#aa6b15b7f84f291994d90173332891510" title="AP_Camera::AP_Camera" alt="" coords="1431,337,1603,363"/>
+<area shape="rect" id="node26" href="$classAP__Camera.html#a27664cf70d78d5af17d66a3d715048db" title="decode deprecated MavLink message that controls camera. " alt="" coords="1176,362,1348,389"/>
+</map>

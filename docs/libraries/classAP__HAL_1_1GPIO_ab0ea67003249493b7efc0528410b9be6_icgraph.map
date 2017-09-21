@@ -1,0 +1,24 @@
+<map id="AP_HAL::GPIO::usb_connected" name="AP_HAL::GPIO::usb_connected">
+<area shape="rect" id="node2" href="$classPX4_1_1PX4UARTDriver.html#a15f4a4558c5ffa4cc27cd0371470afa4" title="PX4::PX4UARTDriver\l::_timer_tick" alt="" coords="300,18,452,59"/>
+<area shape="rect" id="node5" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a72593c9ad60f292fe8c5b9cd5176e93b" title="VRBRAIN::VRBRAINUARTDriver\l::_timer_tick" alt="" coords="264,99,488,141"/>
+<area shape="rect" id="node8" href="$classGCS__MAVLINK.html#af4f36c08fe81ee49ab53b1626d8da8ec" title="GCS_MAVLINK::handle\l_log_send" alt="" coords="567,170,729,211"/>
+<area shape="rect" id="node13" href="$classGCS__MAVLINK.html#a6cdd32aa5f870bf03ffdd6aa79d5fa93" title="GCS_MAVLINK::have_flow\l_control" alt="" coords="284,225,468,266"/>
+<area shape="rect" id="node14" href="$classGCS__MAVLINK.html#af4f30f562764cd70840b1891f8a05a99" title="GCS_MAVLINK::telemetry\l_delayed" alt="" coords="287,290,465,331"/>
+<area shape="rect" id="node19" href="$classRGBLed.html#af10a43a5611b3646d0414456e9addcae" title="RGBLed::update_colours" alt="" coords="292,356,460,383"/>
+<area shape="rect" id="node3" href="$classPX4_1_1PX4UARTDriver.html#af53a7e0042be6c1fee55e45f7e63fe62" title="PX4::PX4UARTDriver\l::set_device_path" alt="" coords="572,7,724,49"/>
+<area shape="rect" id="node4" href="$classHAL__PX4.html#aa6fa9699a474be4e451d7135bf407259" title="HAL_PX4::run" alt="" coords="844,5,951,32"/>
+<area shape="rect" id="node6" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#aaa5e69f0f9a8ddacc82a37acc5dad411" title="VRBRAIN::VRBRAINUARTDriver\l::set_device_path" alt="" coords="536,83,760,125"/>
+<area shape="rect" id="node7" href="$classHAL__VRBRAIN.html#a6bd6af4ec63788b20d4fa7794d0bb896" title="HAL_VRBRAIN::run" alt="" coords="826,56,969,83"/>
+<area shape="rect" id="node9" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="816,107,979,149"/>
+<area shape="rect" id="node11" href="$classGCS__MAVLINK.html#a55c9fb5ae16624c1ea17d3a0bd300604" title="GCS_MAVLINK::packet\l_overhead" alt="" coords="815,173,979,214"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#add8326241719712dc068a07845bf476c" title="GCS_MAVLINK::handle\l_log_message" alt="" coords="1051,107,1214,149"/>
+<area shape="rect" id="node12" href="$classGCS__MAVLINK.html#a508b2da2af9a77f175c60cac467cec70" title="Send the next pending parameter, called from deferred message handling code. " alt="" coords="1049,178,1216,219"/>
+<area shape="rect" id="node15" href="$classGCS__MAVLINK.html#af6800df234ecb0befbc006466c6ec4c6" title="GCS_MAVLINK::find_by\l_mavtype" alt="" coords="565,290,731,331"/>
+<area shape="rect" id="node16" href="$classAP__Mount__SToRM32.html#a2ec4b2a08f50c26bc0e81c0108ce4c68" title="AP_Mount_SToRM32::find\l_gimbal" alt="" coords="808,290,987,331"/>
+<area shape="rect" id="node17" href="$classAP__Mount__SToRM32.html#a3dadf2d9c2d3ba5151169641b8c25dfd" title="AP_Mount_SToRM32::init" alt="" coords="1279,276,1453,303"/>
+<area shape="rect" id="node18" href="$classAP__Mount__SToRM32.html#ace0a2b82782d8c587ed2ae17fc123e99" title="AP_Mount_SToRM32::update" alt="" coords="1035,301,1231,328"/>
+<area shape="rect" id="node20" href="$classRGBLed.html#ab945365164159e3bce17c7fe88e83afc" title="RGBLed::update" alt="" coords="589,356,707,383"/>
+<area shape="rect" id="node21" href="$classRGBLed.html#a54c06112f4d67b0232b44231e13693f9" title="RGBLed::healthy" alt="" coords="836,356,959,383"/>
+<area shape="rect" id="node23" href="$ToshibaLED__test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="874,407,921,433"/>
+<area shape="rect" id="node22" href="$ToshibaLED__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1105,356,1160,383"/>
+</map>

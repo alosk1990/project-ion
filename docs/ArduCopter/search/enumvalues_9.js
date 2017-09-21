@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['mode_5freason_5favoidance',['MODE_REASON_AVOIDANCE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa5240b7d8c1900e6be63d5a1794669424',1,'defines.h']]],
+  ['mode_5freason_5favoidance_5frecovery',['MODE_REASON_AVOIDANCE_RECOVERY',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fab8c5b7cfa298e0be8360c9fecb2b8df0',1,'defines.h']]],
+  ['mode_5freason_5fbattery_5ffailsafe',['MODE_REASON_BATTERY_FAILSAFE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa6b47018f895af2b7c403e083e4201a7e',1,'defines.h']]],
+  ['mode_5freason_5fbrake_5ftimeout',['MODE_REASON_BRAKE_TIMEOUT',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa8fe5de7fb5190f3236f91e85c3c407e6',1,'defines.h']]],
+  ['mode_5freason_5fekf_5ffailsafe',['MODE_REASON_EKF_FAILSAFE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa45210aa7a37eb327abc9441e67efad29',1,'defines.h']]],
+  ['mode_5freason_5ffence_5fbreach',['MODE_REASON_FENCE_BREACH',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa68d7b0514ea7f8db35cfa8a954b26063',1,'defines.h']]],
+  ['mode_5freason_5fflip_5fcomplete',['MODE_REASON_FLIP_COMPLETE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa7e43fb0a8dec5023589ea3134a746746',1,'defines.h']]],
+  ['mode_5freason_5fgcs_5fcommand',['MODE_REASON_GCS_COMMAND',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5faae037e33f40fd6e86df499104843084a',1,'defines.h']]],
+  ['mode_5freason_5fgcs_5ffailsafe',['MODE_REASON_GCS_FAILSAFE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa3dcadf17aa2bc6185613ebccc5db5b23',1,'defines.h']]],
+  ['mode_5freason_5fgps_5fglitch',['MODE_REASON_GPS_GLITCH',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa3ce7125cca4072007e7199e472161efa',1,'defines.h']]],
+  ['mode_5freason_5fmission_5fend',['MODE_REASON_MISSION_END',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fafe8ea98d881e6f3e2ba362a60921b33d',1,'defines.h']]],
+  ['mode_5freason_5fradio_5ffailsafe',['MODE_REASON_RADIO_FAILSAFE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa485a5d91864763f38bdb003541902b7a',1,'defines.h']]],
+  ['mode_5freason_5fterrain_5ffailsafe',['MODE_REASON_TERRAIN_FAILSAFE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa0a5a36951cb6927d136c56d16d437f4a',1,'defines.h']]],
+  ['mode_5freason_5fthrottle_5fland_5fescape',['MODE_REASON_THROTTLE_LAND_ESCAPE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa24a6253dee5d0db7086c34b6701a7de4',1,'defines.h']]],
+  ['mode_5freason_5fthrow_5fcomplete',['MODE_REASON_THROW_COMPLETE',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa58e6b558d3315fdfa07ac2e8752e6baf',1,'defines.h']]],
+  ['mode_5freason_5ftx_5fcommand',['MODE_REASON_TX_COMMAND',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fad727a80babb8a409b21429fac0578379',1,'defines.h']]],
+  ['mode_5freason_5funknown',['MODE_REASON_UNKNOWN',['../defines_8h.html#a7d7ec27ea0becbb327e54448c9f6dc5fa5ac1eca882a2438385efa665ae1a8016',1,'defines.h']]]
+];

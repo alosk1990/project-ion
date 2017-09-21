@@ -1,0 +1,13 @@
+<map id="AP_Motors6DOF::output_to_motors" name="AP_Motors6DOF::output_to_motors">
+<area shape="rect" id="node2" href="$classAP__Motors6DOF.html#abd660111325587dee491cae8a0d46be1" title="AP_Motors6DOF::calc\l_thrust_to_pwm" alt="" coords="231,74,385,115"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCOutput.html#a9683d68d15b6e722c44e098bbb12e60a" title="AP_HAL::RCOutput::cork" alt="" coords="221,140,395,167"/>
+<area shape="rect" id="node10" href="$classAP__Motors.html#aaa7607c19a1ce444330aee972dd925ef" title="AP_Motors::rc_write" alt="" coords="237,191,379,217"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCOutput.html#a3b81b9e1e60a7dfcfacb2430e7705b8e" title="AP_HAL::RCOutput::push" alt="" coords="220,241,396,268"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title="constrain_int16" alt="" coords="477,81,587,108"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="668,81,781,108"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="841,5,992,32"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="833,56,1000,83"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="835,107,998,133"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="829,157,1004,184"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="444,191,620,217"/>
+</map>

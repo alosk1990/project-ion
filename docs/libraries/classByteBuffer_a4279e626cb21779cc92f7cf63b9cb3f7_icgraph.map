@@ -1,0 +1,35 @@
+<map id="ByteBuffer::set_size" name="ByteBuffer::set_size">
+<area shape="rect" id="node2" href="$classLinux_1_1UARTDriver.html#a44810a7631b129c1ca027136467b206c" title="Linux::UARTDriver::\l_allocate_buffers" alt="" coords="251,8,392,49"/>
+<area shape="rect" id="node4" href="$classLinux_1_1UARTDriver.html#a03789406dd3795284c7a645121314e99" title="Linux::UARTDriver::\l_deallocate_buffers" alt="" coords="251,75,392,116"/>
+<area shape="rect" id="node10" href="$classHALSITL_1_1UARTDriver.html#a378857176ba475df8fe41c5f77dedc83" title="HALSITL::UARTDriver\l::_uart_start_connection" alt="" coords="240,353,403,395"/>
+<area shape="rect" id="node25" href="$classLinux_1_1SPIUARTDriver.html#affaef6f0d460471ed00127f2a482340f" title="Linux::SPIUARTDriver\l::begin" alt="" coords="244,419,399,460"/>
+<area shape="rect" id="node26" href="$classPX4_1_1PX4UARTDriver.html#a504e88a18d9449552c5ddfe94e14964f" title="PX4::PX4UARTDriver\l::begin" alt="" coords="532,188,684,229"/>
+<area shape="rect" id="node27" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a8ca012e11aed6248b50d5e382c3e1084" title="VRBRAIN::VRBRAINUARTDriver\l::begin" alt="" coords="496,356,720,397"/>
+<area shape="rect" id="node28" href="$classLinux_1_1RPIOUARTDriver.html#ab1aeed6da0769e1add420c3946f68769" title="Linux::RPIOUARTDriver\l::begin" alt="" coords="525,123,691,164"/>
+<area shape="rect" id="node30" href="$classPX4_1_1PX4UARTDriver.html#abdc913b4417cde8c0402763d576fe70f" title="PX4::PX4UARTDriver::end" alt="" coords="231,485,412,511"/>
+<area shape="rect" id="node31" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a2afdb4361f0b242ba9c384870e8143b8" title="VRBRAIN::VRBRAINUARTDriver::end" alt="" coords="195,535,448,562"/>
+<area shape="rect" id="node32" href="$classByteBuffer.html#abffbbc49b95018491a103ea32d44b54a" title="ByteBuffer::get_size" alt="" coords="251,251,392,278"/>
+<area shape="rect" id="node3" href="$classLinux_1_1UARTDriver.html#a3c0680a281a3832fe9bae399ef9b8854" title="Linux::UARTDriver::\lbegin" alt="" coords="537,5,679,47"/>
+<area shape="rect" id="node5" href="$classLinux_1_1UARTDriver.html#ae231160b2d30abfbd04804430c7fb23b" title="Linux::UARTDriver::end" alt="" coords="527,71,689,98"/>
+<area shape="rect" id="node6" href="$classLinux_1_1UARTDriver.html#aed6da29eabfa644dd9996146ac367ee9" title="Linux::UARTDriver::from" alt="" coords="768,71,935,98"/>
+<area shape="rect" id="node7" href="$classLinux_1_1Scheduler.html#a3ebfa13ef10767a5df98effbaecf4dc6" title="Linux::Scheduler::\l_run_uarts" alt="" coords="997,93,1124,135"/>
+<area shape="rect" id="node8" href="$classLinux_1_1Scheduler.html#a78a6776a646f8e58f5f39cf2ce366608" title="Linux::Scheduler::\l_timer_task" alt="" coords="1195,60,1321,101"/>
+<area shape="rect" id="node9" href="$classLinux_1_1Scheduler.html#a12c87a7eeda735d03129826c4acb039b" title="Linux::Scheduler::\l_uart_task" alt="" coords="1195,125,1321,167"/>
+<area shape="rect" id="node11" href="$classHALSITL_1_1UARTDriver.html#a3c0680a281a3832fe9bae399ef9b8854" title="HALSITL::UARTDriver\l::begin" alt="" coords="530,487,686,528"/>
+<area shape="rect" id="node12" href="$classHALSITL_1_1UARTDriver.html#acd081404b05f50cd909846b84f164583" title="HALSITL::UARTDriver\l::_check_reconnect" alt="" coords="530,421,686,463"/>
+<area shape="rect" id="node13" href="$classHALSITL_1_1UARTDriver.html#a0518ce1498288dc92caf6bec9ed99b1b" title="HALSITL::UARTDriver\l::_timer_tick" alt="" coords="773,421,929,463"/>
+<area shape="rect" id="node14" href="$classHALSITL_1_1UARTDriver.html#a785cfe11e1239af7847cd594bd408a9e" title="HALSITL::UARTDriver\l::get_flow_control" alt="" coords="983,453,1139,495"/>
+<area shape="rect" id="node15" href="$classHALSITL_1_1Scheduler.html#afc9da910e3db3f6c6795b34feb214327" title="HALSITL::Scheduler\l::_run_io_procs" alt="" coords="989,388,1132,429"/>
+<area shape="rect" id="node16" href="$classHALSITL_1_1Scheduler.html#a4004b69b3948fb53b77d59d3989dfd1d" title="HALSITL::Scheduler\l::timer_event" alt="" coords="1187,355,1329,396"/>
+<area shape="rect" id="node24" href="$classHALSITL_1_1Scheduler.html#a392aebafcdfe9a812e4db4b7a9dcce9c" title="HALSITL::Scheduler\l::stop_clock" alt="" coords="1187,420,1329,461"/>
+<area shape="rect" id="node17" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="1377,355,1528,396"/>
+<area shape="rect" id="node18" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="1576,355,1727,396"/>
+<area shape="rect" id="node19" href="$classHALSITL_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="HALSITL::Scheduler\l::delay_microseconds" alt="" coords="1775,355,1924,396"/>
+<area shape="rect" id="node20" href="$classHALSITL_1_1Scheduler.html#a2c3ea70328333081349821921242cb39" title="HALSITL::Scheduler\l::from" alt="" coords="2163,355,2305,396"/>
+<area shape="rect" id="node23" href="$classHALSITL_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="HALSITL::Scheduler\l::delay" alt="" coords="1972,384,2115,425"/>
+<area shape="rect" id="node21" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="2353,355,2504,396"/>
+<area shape="rect" id="node22" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title="HAL_SITL::run" alt="" coords="2552,362,2661,389"/>
+<area shape="rect" id="node29" href="$classLinux_1_1RPIOUARTDriver.html#a601d17d9cac82167ead641edeed20c58" title="Linux::RPIOUARTDriver\l::from" alt="" coords="768,123,935,164"/>
+<area shape="rect" id="node33" href="$classQURT_1_1UDPDriver.html#a865fa59621cdd773456d7fe61ee13420" title="QURT::UDPDriver::begin" alt="" coords="523,305,693,331"/>
+<area shape="rect" id="node34" href="$classQURT_1_1UARTDriver.html#a3c0680a281a3832fe9bae399ef9b8854" title="QURT::UARTDriver::begin" alt="" coords="519,254,697,281"/>
+</map>

@@ -1,0 +1,55 @@
+<map id="valid_channel" name="valid_channel">
+<area shape="rect" id="node2" href="$GCS__MAVLink_8h.html#a2817de906dc695cf406a4a43be1bc724" title="comm_get_available" alt="" coords="185,43,326,69"/>
+<area shape="rect" id="node3" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="460,131,575,157"/>
+<area shape="rect" id="node7" href="$GCS__MAVLink_8h.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="187,341,323,368"/>
+<area shape="rect" id="node43" href="$GCS__MAVLink_8h.html#a34488d8c3ec2e467fd083707754001d3" title="comm_receive_ch" alt="" coords="191,119,319,145"/>
+<area shape="rect" id="node44" href="$GCS__MAVLink_8h.html#a0d47977e011c7c40f906819990b1584d" title="comm_send_buffer" alt="" coords="189,264,322,291"/>
+<area shape="rect" id="node45" href="$classGCS__MAVLINK.html#a6cdd32aa5f870bf03ffdd6aa79d5fa93" title="GCS_MAVLINK::have_flow\l_control" alt="" coords="163,727,347,769"/>
+<area shape="rect" id="node50" href="$classGCS__MAVLINK.html#afaf4b53bc2f64b4fb6bd1fe729b2cef3" title="GCS_MAVLINK::init" alt="" coords="184,852,327,879"/>
+<area shape="rect" id="node53" href="$classGCS__MAVLINK.html#a7e936df0a7c89b61cb717118cb4c21a2" title="GCS_MAVLINK::lock_channel" alt="" coords="155,932,356,959"/>
+<area shape="rect" id="node4" href="$simplegcs_8h.html#a0e026fc9b23210373846b25cc141486d" title="simplegcs_update" alt="" coords="454,29,581,56"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#a289db0d1e6881d61f182e44c5ef6b09e" title="GCS_MAVLINK::update" alt="" coords="1199,80,1363,107"/>
+<area shape="rect" id="node5" href="$Console_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="753,181,799,208"/>
+<area shape="rect" id="node8" href="$classMAVLink__routing.html#a474038c8ab695c57e23fb6fec4664947" title="MAVLink_routing::check\l_and_forward" alt="" coords="694,255,858,297"/>
+<area shape="rect" id="node19" href="$GCS__Console_8h.html#acf3b9449586c84f434aef52a4a8059cd" title="gcs_console_send" alt="" coords="452,181,583,208"/>
+<area shape="rect" id="node20" href="$classMAVLink__routing.html#ae80b2a0d4f442fe80a7d0097da164b7e" title="MAVLink_routing::handle\l_heartbeat" alt="" coords="434,334,601,375"/>
+<area shape="rect" id="node21" href="$classGCS__MAVLINK.html#a508b2da2af9a77f175c60cac467cec70" title="Send the next pending parameter, called from deferred message handling code. " alt="" coords="947,727,1114,769"/>
+<area shape="rect" id="node22" href="$classGCS__MAVLINK.html#a007e2acbb02611a68d30d68ed140b0fe" title="GCS_MAVLINK::send_collision_all" alt="" coords="404,400,631,427"/>
+<area shape="rect" id="node25" href="$classDataFlash__MAVLink.html#a082cb8fdd78aab68f25008884da7ac09" title="DataFlash_MAVLink::\lsend_log_block" alt="" coords="442,451,593,493"/>
+<area shape="rect" id="node32" href="$classMAVLink__routing.html#ace8e55f8db025f01d4309de699de5460" title="MAVLink_routing::send\l_to_components" alt="" coords="439,517,596,558"/>
+<area shape="rect" id="node39" href="$simplegcs_8h.html#ae6d65bb6477c3fe759944f62cf26a0af" title="try_send_message" alt="" coords="451,232,583,259"/>
+<area shape="rect" id="node40" href="$simplegcs_8h.html#ab0b28a573b02c581205a6ca0d9dbcb37" title="try_send_statustext" alt="" coords="449,583,586,609"/>
+<area shape="rect" id="node9" href="$routing_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1007,263,1054,289"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#aabf8eb6ddc5987a67d80ba3100531b25" title="GCS_MAVLINK::packetReceived" alt="" coords="921,172,1140,199"/>
+<area shape="rect" id="node11" href="$classGCS__MAVLINK.html#a34892e32f5d039c3b977b3798d959645" title="GCS_MAVLINK::set_snoop" alt="" coords="1188,172,1373,199"/>
+<area shape="rect" id="node12" href="$classAP__AccelCal.html#a5a2c8a471866eff24b340cc9680f9868" title="AP_AccelCal::update" alt="" coords="1706,205,1853,232"/>
+<area shape="rect" id="node16" href="$classAP__AccelCal.html#a82a377b367cf5ce28a8631005cfabb7f" title="AP_AccelCal::collect\l_sample" alt="" coords="1451,223,1598,265"/>
+<area shape="rect" id="node17" href="$classAP__InertialSensor__UserInteract__MAVLink.html#a48aca70929432691988f04da6a6797e9" title="AP_InertialSensor_UserInteract\l_MAVLink::blocking_read" alt="" coords="1421,106,1628,147"/>
+<area shape="rect" id="node13" href="$classAP__AccelCal.html#a04edd404ef14de6e6106e02f3746afeb" title="AP_AccelCal::AP_AccelCal" alt="" coords="1931,176,2117,203"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor.html#a9ca5d711a97f4c33fe6a7c31b1329761" title="AP_InertialSensor::\lacal_update" alt="" coords="1957,227,2091,269"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor.html#ab7992b2d70b268a86ad4354531ae464d" title="AP_InertialSensor::\lget_acal" alt="" coords="2165,227,2300,269"/>
+<area shape="rect" id="node18" href="$classAP__InertialSensor__UserInteract__MAVLink.html#ae235eeabe02f29f04a8876cbb1a10161" title="AP_InertialSensor_UserInteract\l_MAVLink::AP_InertialSensor\l_UserInteract_MAVLink" alt="" coords="1676,99,1883,155"/>
+<area shape="rect" id="node23" href="$classAP__Avoidance.html#adc8a3f773458736daeec7b63edd068ba" title="AP_Avoidance::handle\l_threat_gcs_notify" alt="" coords="699,321,853,362"/>
+<area shape="rect" id="node24" href="$classAP__Avoidance.html#a37059296c298d5f6d9a5fb11bab4d329" title="AP_Avoidance::update" alt="" coords="953,328,1108,355"/>
+<area shape="rect" id="node26" href="$classDataFlash__MAVLink.html#a7b0b101cd276db9def5a1cb41765242c" title="DataFlash_MAVLink::\lsend_log_blocks_from_queue" alt="" coords="679,451,873,493"/>
+<area shape="rect" id="node30" href="$classDataFlash__MAVLink.html#a5dcbd00a42efb961ca59b9f1a29fc346" title="DataFlash_MAVLink::\ldo_resends" alt="" coords="701,386,851,427"/>
+<area shape="rect" id="node27" href="$classDataFlash__MAVLink.html#a250d61a602a4792e744532d41ea38d34" title="DataFlash_MAVLink::\lpush_log_blocks" alt="" coords="955,451,1106,493"/>
+<area shape="rect" id="node28" href="$classDataFlash__MAVLink.html#a62e4eb460ca5b7f9ea2869763518803c" title="DataFlash_MAVLink::\lperiodic_fullrate" alt="" coords="1205,451,1356,493"/>
+<area shape="rect" id="node29" href="$classDataFlash__MAVLink.html#a7ce5650e9a386a430ca3ba71c7f733f2" title="DataFlash_MAVLink::\lListAvailableLogs" alt="" coords="1205,386,1356,427"/>
+<area shape="rect" id="node31" href="$classDataFlash__MAVLink.html#a076ace149800310d2c411690a1f8524e" title="DataFlash_MAVLink::\lperiodic_10Hz" alt="" coords="955,386,1106,427"/>
+<area shape="rect" id="node33" href="$classGCS__MAVLINK.html#a928edfeb8ca8d1656eca3e0c176d49a7" title="GCS_MAVLINK::send_to\l_components" alt="" coords="691,517,861,558"/>
+<area shape="rect" id="node34" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="950,568,1111,595"/>
+<area shape="rect" id="node35" href="$classAP__Camera.html#a3f1660c56231d66cbaa47ef6e4514f37" title="AP_Camera::control" alt="" coords="1211,517,1351,544"/>
+<area shape="rect" id="node38" href="$classAP__Camera.html#a2ceac45cdd6c13d66052c8168fff689c" title="AP_Camera::configure" alt="" coords="1447,619,1602,645"/>
+<area shape="rect" id="node37" href="$classAP__Camera.html#aa6b15b7f84f291994d90173332891510" title="AP_Camera::AP_Camera" alt="" coords="1693,543,1865,569"/>
+<area shape="rect" id="node36" href="$classAP__Camera.html#a27664cf70d78d5af17d66a3d715048db" title="decode deprecated MavLink message that controls camera. " alt="" coords="1439,517,1611,544"/>
+<area shape="rect" id="node41" href="$Console_8cpp.html#a6bbdf9d637b5b4717f5c7fdd0d5b5759" title="flush_console_to_statustext" alt="" coords="683,633,869,660"/>
+<area shape="rect" id="node42" href="$Console_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="749,583,803,609"/>
+<area shape="rect" id="node46" href="$classGCS__MAVLINK.html#af4f36c08fe81ee49ab53b1626d8da8ec" title="GCS_MAVLINK::handle\l_log_send" alt="" coords="436,786,599,827"/>
+<area shape="rect" id="node47" href="$classGCS__MAVLINK.html#a55c9fb5ae16624c1ea17d3a0bd300604" title="GCS_MAVLINK::packet\l_overhead" alt="" coords="694,786,858,827"/>
+<area shape="rect" id="node48" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="695,851,857,893"/>
+<area shape="rect" id="node49" href="$classGCS__MAVLINK.html#add8326241719712dc068a07845bf476c" title="GCS_MAVLINK::handle\l_log_message" alt="" coords="949,851,1112,893"/>
+<area shape="rect" id="node51" href="$routing_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="490,852,545,879"/>
+<area shape="rect" id="node52" href="$classGCS__MAVLINK.html#a0680c93d81d7de3273931c5bccc890f5" title="GCS_MAVLINK::setup_uart" alt="" coords="424,903,611,929"/>
+<area shape="rect" id="node54" href="$classGCS__MAVLINK.html#adecc982b9dd27229f29b0756733ed137" title="GCS_MAVLINK::handle\l_serial_control" alt="" coords="436,954,599,995"/>
+</map>

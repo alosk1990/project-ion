@@ -1,0 +1,31 @@
+<map id="AP_Param::type_size" name="AP_Param::type_size">
+<area shape="rect" id="node2" href="$classAP__Param.html#ad9baa460eb519cb3b7fe59ecaa01e446" title="AP_Param::check_group_info" alt="" coords="203,5,397,32"/>
+<area shape="rect" id="node3" href="$classAP__Param.html#acae70ac477c05f1ce09ec8169ce9f9fe" title="AP_Param::check_var_info" alt="" coords="445,19,627,45"/>
+<area shape="rect" id="node4" href="$classAP__Param.html#a654a77016ef0dadc5426cbeda0c70662" title="AP_Param::convert_old\l_parameter" alt="" coords="686,333,846,374"/>
+<area shape="rect" id="node6" href="$classAP__Param.html#a1e50b80d5b22ad64b8fac8251a4a62af" title="AP_Param::convert_parent\l_class" alt="" coords="677,137,855,178"/>
+<area shape="rect" id="node7" href="$classAP__Param.html#a857c14c819b6d550957d0f9c56c379d0" title="AP_Param::find_old\l_parameter" alt="" coords="467,225,605,266"/>
+<area shape="rect" id="node10" href="$classAP__Param.html#acc7389e0ddc7f46347692a18c43a8d80" title="AP_Param::load" alt="" coords="477,380,595,407"/>
+<area shape="rect" id="node11" href="$classAP__Param.html#a4452cde66683a44f33a76e93711ee66d" title="AP_Param::load_all" alt="" coords="231,333,369,360"/>
+<area shape="rect" id="node12" href="$classAP__Param.html#aa77bffb8e31b126d527b6b65cb430e2c" title="AP_Param::load_object\l_from_eeprom" alt="" coords="221,107,379,149"/>
+<area shape="rect" id="node21" href="$classAP__Param.html#ae498713a1575d30e9a10507d76c15e86" title="AP_Param::save" alt="" coords="475,524,597,551"/>
+<area shape="rect" id="node26" href="$classAP__Param.html#aa416fb587f072ed8d8039168d122ecb4" title="AP_Param::scan" alt="" coords="239,435,361,461"/>
+<area shape="rect" id="node5" href="$classAP__Param.html#ab0fc2976026f41763aa102cd2e67fbb0" title="AP_Param::convert_old\l_parameters" alt="" coords="908,333,1068,374"/>
+<area shape="rect" id="node8" href="$classSRV__Channels.html#a2589e039cfb09e85776bf2bb3a126d4c" title="SRV_Channels::upgrade\l_motors_servo" alt="" coords="683,267,849,309"/>
+<area shape="rect" id="node9" href="$classSRV__Channels.html#a465e1e727a9e9897cc8a4667b95b2834" title="SRV_Channels::upgrade\l_parameters" alt="" coords="683,202,849,243"/>
+<area shape="rect" id="node13" href="$classAP__BoardConfig.html#a2bd4967b14ad0fac59722a0a56150440" title="AP_BoardConfig::px4\l_setup_canbus" alt="" coords="462,95,610,137"/>
+<area shape="rect" id="node14" href="$classAP__BoardConfig.html#acc8c8524ca7415a823bb446a8a09d1f1" title="AP_BoardConfig::px4\l_setup" alt="" coords="692,71,840,113"/>
+<area shape="rect" id="node15" href="$classAP__BoardConfig.html#a53de1d2c0a124ff0d6e3455126237bb5" title="AP_BoardConfig::init" alt="" coords="916,79,1060,105"/>
+<area shape="rect" id="node16" href="$classAP__BoardConfig.html#a49a7027797d4a5fd9be56b55c85b8e90" title="AP_BoardConfig::AP\l_BoardConfig" alt="" coords="1119,13,1264,54"/>
+<area shape="rect" id="node17" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title="SchedTest::setup" alt="" coords="1129,79,1254,105"/>
+<area shape="rect" id="node20" href="$AHRS__Test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1164,129,1219,156"/>
+<area shape="rect" id="node18" href="$classSchedTest.html#ab41681c4e9b1eda12cc3f85ed89e82cf" title="SchedTest::five_second_call" alt="" coords="1312,53,1503,80"/>
+<area shape="rect" id="node19" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1380,104,1435,131"/>
+<area shape="rect" id="node22" href="$classGCS__MAVLINK.html#ae8138868be824c9478307c705a0e6763" title="GCS_MAVLINK::handle\l_param_set" alt="" coords="907,491,1069,533"/>
+<area shape="rect" id="node23" href="$classAP__ParamT.html#a25edf0e710f7be745fcf64636ba69be8" title="AP_ParamT::set_and_save" alt="" coords="675,641,857,668"/>
+<area shape="rect" id="node24" href="$classAP__ParamV.html#ad0e5c746e1c9ae91c58e17e84f5ea390" title="AP_ParamV::set_and_save" alt="" coords="675,692,857,719"/>
+<area shape="rect" id="node25" href="$classAP__ParamT.html#a950a2a2acb4a1073314733cd0856f31f" title="AP_ParamT::set_and\l_save_ifchanged" alt="" coords="693,575,839,617"/>
+<area shape="rect" id="node27" href="$classAP__Param.html#a4b0a9c95aab15865b5515d068634d220" title="AP_Param::configured\l_in_storage" alt="" coords="459,431,613,473"/>
+<area shape="rect" id="node28" href="$classAP__Param.html#a60934eed4cae32483c185fed4cd6f2fa" title="AP_Param::configured" alt="" coords="689,399,843,425"/>
+<area shape="rect" id="node30" href="$classAP__Param.html#a8e39a797c459da1df94a40bb92e8ea2b" title="AP_Param::set_float" alt="" coords="695,473,837,500"/>
+<area shape="rect" id="node29" href="$classAP__ParamT.html#a2f5275aa6f7bfe76f576f9aa13282089" title="AP_ParamT::set_default" alt="" coords="905,399,1071,425"/>
+</map>

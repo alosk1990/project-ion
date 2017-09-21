@@ -1,0 +1,9 @@
+<map id="Copter::precision_loiter_xy" name="Copter::precision_loiter_xy">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a453cf776e495ef52f7a071281ba9b30c" title="AC_WPNav::clear_pilot\l_desired_acceleration" alt="" coords="235,5,396,47"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PrecLand.html#ac4fa26dbf6bbb5232c8e47e8af8f7b6a" title="AC_PrecLand::get_target\l_position_cm" alt="" coords="231,71,400,112"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ab0ed9ccbf6fad1a2cdae8a30a582c5ee" title="AP_InertialNav_NavEKF\l::get_position" alt="" coords="232,136,399,177"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PrecLand.html#a11940e5bdc44ec869235f59a6c449843" title="AC_PrecLand::get_target\l_velocity_relative_cms" alt="" coords="231,201,400,243"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a165213f497e183250e96c0daa4815c34" title="AP_InertialNav_NavEKF\l::get_velocity" alt="" coords="232,267,399,308"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a1acdd0aec3b36ec2fad0b05cbca0c252" title="AC_PosControl::set\l_xy_target" alt="" coords="246,332,385,373"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a367a63d0a2503d12f84069f08b982f5f" title="AC_PosControl::override\l_vehicle_velocity_xy" alt="" coords="232,397,399,439"/>
+</map>

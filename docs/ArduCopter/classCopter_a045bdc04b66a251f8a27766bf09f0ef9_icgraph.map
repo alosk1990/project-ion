@@ -1,0 +1,15 @@
+<map id="Copter::failsafe_terrain_set_status" name="Copter::failsafe_terrain_set_status">
+<area shape="rect" id="node2" href="$classCopter.html#a6a25c352d38282741df85a945b09fdd7" title="Copter::auto_loiter_run" alt="" coords="439,5,593,32"/>
+<area shape="rect" id="node9" href="$classCopter.html#a6d489f33910fab3c7d6fa912355b01b7" title="Copter::auto_takeoff_run" alt="" coords="641,56,808,83"/>
+<area shape="rect" id="node10" href="$classCopter.html#a3bd0d122deb7d86f1ba66d6b3fb3b795" title="Copter::auto_wp_run" alt="" coords="445,107,587,133"/>
+<area shape="rect" id="node11" href="$classCopter.html#a3b8be71548d0ccf338c06dedba9d8966" title="Copter::rtl_climb_return_run" alt="" coords="208,157,391,184"/>
+<area shape="rect" id="node14" href="$classCopter.html#afb97c54b46b2173cedb88d15b36eefb7" title="Copter::rtl_loiterathome_run" alt="" coords="208,208,391,235"/>
+<area shape="rect" id="node3" href="$classCopter.html#a0f9fe5cd7d49e5fbce6da32216c2419b" title="Copter::auto_run" alt="" coords="856,107,975,133"/>
+<area shape="rect" id="node4" href="$classCopter.html#a1e967ef71b5acdd8b0c83a0471bdb581" title="Copter::update_flight_mode" alt="" coords="1023,157,1205,184"/>
+<area shape="rect" id="node5" href="$classCopter.html#a9935998c549ed56b80917705ee4522fb" title="Copter::fast_loop" alt="" coords="1269,128,1392,155"/>
+<area shape="rect" id="node7" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="1253,183,1408,209"/>
+<area shape="rect" id="node6" href="$classCopter.html#ac879265c540a24609ead56c389ba4b02" title="Copter::loop" alt="" coords="1491,125,1584,152"/>
+<area shape="rect" id="node8" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="1456,177,1619,218"/>
+<area shape="rect" id="node12" href="$classCopter.html#af128f1c77f0c21ae3320df8e98130e05" title="Copter::rtl_run" alt="" coords="463,183,569,209"/>
+<area shape="rect" id="node13" href="$classCopter.html#a36c1f3abd71427b93ecbbf073ca6d753" title="Copter::auto_rtl_run" alt="" coords="656,157,793,184"/>
+</map>

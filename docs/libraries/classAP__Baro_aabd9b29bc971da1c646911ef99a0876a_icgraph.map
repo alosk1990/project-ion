@@ -1,0 +1,18 @@
+<map id="AP_Baro::setHIL" name="AP_Baro::setHIL">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#ad26bb1d7830251e69d15f0fbb02068cf" title="HALSITL::SITL_State\l::_update_barometer" alt="" coords="176,71,327,112"/>
+<area shape="rect" id="node11" href="$classAP__Baro.html#a5c7e1cdc077d534b0a675f8b2fad4495" title="AP_Baro::get_external\l_temperature" alt="" coords="175,165,328,207"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a06b639a288676fcc2775cf34e17e4dd7" title="HALSITL::SITL_State\l::_sitl_setup" alt="" coords="394,5,545,47"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="394,71,545,112"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="629,65,779,107"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="HALSITL::Scheduler\l::delay_microseconds" alt="" coords="845,65,995,107"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1Scheduler.html#a2c3ea70328333081349821921242cb39" title="HALSITL::Scheduler\l::from" alt="" coords="1233,65,1376,107"/>
+<area shape="rect" id="node10" href="$classHALSITL_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="HALSITL::Scheduler\l::delay" alt="" coords="1043,95,1185,136"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="1424,65,1575,107"/>
+<area shape="rect" id="node9" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title="HAL_SITL::run" alt="" coords="1623,73,1732,99"/>
+<area shape="rect" id="node12" href="$classAP__Baro.html#abd4110392c9cc5e59b143dd4cb2b5800" title="AP_Baro::calibrate" alt="" coords="404,173,535,199"/>
+<area shape="rect" id="node15" href="$classAP__Baro.html#a67fd690b15ef9f0f23b3304831ca913a" title="AP_Baro::update_calibration" alt="" coords="376,233,563,259"/>
+<area shape="rect" id="node13" href="$classAP__Baro.html#ac0856d2a124c6f898f4879d55cd5ad1c" title="AP_Baro::get_temperature" alt="" coords="616,182,792,209"/>
+<area shape="rect" id="node14" href="$BARO__generic_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="677,131,731,158"/>
+<area shape="rect" id="node16" href="$classNavEKF2__core.html#a4e2c940323292227ddd40fc220728c2c" title="NavEKF2_core::resetHeight\lDatum" alt="" coords="611,233,797,275"/>
+<area shape="rect" id="node17" href="$classNavEKF3__core.html#a66c05c96c44d504b64d28c6dffbc739a" title="NavEKF3_core::resetHeight\lDatum" alt="" coords="611,299,797,340"/>
+</map>

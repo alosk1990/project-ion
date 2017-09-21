@@ -1,0 +1,24 @@
+<map id="NavEKF2_core::alignMagStateDeclination" name="NavEKF2_core::alignMagStateDeclination">
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#af6d172634e15ba1643bf4c53c390f5e2" title="NavEKF2_core::calcQuatAnd\lFieldStates" alt="" coords="268,53,463,94"/>
+<area shape="rect" id="node14" href="$classNavEKF2__core.html#ae325dba2deac733f1de41c5e7ee4f707" title="NavEKF2_core::readGpsData" alt="" coords="523,151,719,177"/>
+<area shape="rect" id="node20" href="$classNavEKF2__core.html#a920ee7822a1502f67dd48833071ab6dc" title="NavEKF2_core::readRngBcnData" alt="" coords="256,268,475,295"/>
+<area shape="rect" id="node22" href="$classNavEKF2__core.html#a3685f73d76dd71a9db53c1fbc178dd5b" title="NavEKF2_core::setWindMag\lStateLearningMode" alt="" coords="269,202,461,243"/>
+<area shape="rect" id="node3" href="$classNavEKF2__core.html#a3989e564224adfa26b0e32a5a03aca10" title="NavEKF2_core::controlMag\lYawReset" alt="" coords="529,53,712,94"/>
+<area shape="rect" id="node4" href="$classNavEKF2__core.html#aa0f6cd840e93e0233f056c88ce45ef85" title="NavEKF2_core::SelectMagFusion" alt="" coords="767,27,987,53"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="1035,163,1225,189"/>
+<area shape="rect" id="node6" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="1276,163,1435,189"/>
+<area shape="rect" id="node7" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="1521,123,1679,149"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1485,173,1715,200"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1783,115,1935,157"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1763,64,1955,91"/>
+<area shape="rect" id="node9" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="2003,115,2152,157"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1764,181,1953,208"/>
+<area shape="rect" id="node13" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2054,181,2101,208"/>
+<area shape="rect" id="node15" href="$classNavEKF2__core.html#a4a06ae47c3edebdecd2b179a0567f00b" title="NavEKF2_core::Initialise\lFilterBootstrap" alt="" coords="793,78,960,119"/>
+<area shape="rect" id="node19" href="$classNavEKF2__core.html#aff31047fa71772bca7ce574617ede0f6" title="NavEKF2_core::SelectVelPos\lFusion" alt="" coords="777,143,976,185"/>
+<area shape="rect" id="node16" href="$classNavEKF2.html#a9c447b8d84abf2dfc845ddbbbad46a2b" title="NavEKF2::InitialiseFilter" alt="" coords="1273,85,1437,112"/>
+<area shape="rect" id="node17" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="1511,5,1689,32"/>
+<area shape="rect" id="node18" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="1511,57,1689,98"/>
+<area shape="rect" id="node21" href="$classNavEKF2__core.html#ab6291637de5b93082bf301d0ca8f50a7" title="NavEKF2_core::SelectRngBcn\lFusion" alt="" coords="775,261,978,302"/>
+<area shape="rect" id="node23" href="$classNavEKF2__core.html#a9c41b138c335540f4cc51c4b3fff9b9f" title="NavEKF2_core::controlFilter\lModes" alt="" coords="527,202,714,243"/>
+</map>

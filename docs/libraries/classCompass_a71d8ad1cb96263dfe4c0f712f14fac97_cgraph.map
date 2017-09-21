@@ -1,0 +1,201 @@
+<map id="Compass::compass_cal_requires_reboot" name="Compass::compass_cal_requires_reboot">
+<area shape="rect" id="node2" href="$classCompass.html#a79776eee973736f7e2b218d698225dc1" title="Compass::is_calibrating" alt="" coords="1912,1423,2075,1449"/>
+<area shape="rect" id="node3" href="$classCompass.html#a5b92dfeb8382c411fc5cdfe2c35569b0" title="Compass::handle_mag\l_cal_command" alt="" coords="411,1542,567,1583"/>
+<area shape="rect" id="node174" href="$classCompass.html#aa81dfaba861a7072aac805e6cbae25d4" title="Compass::send_mag_cal\l_progress" alt="" coords="1101,1214,1271,1255"/>
+<area shape="rect" id="node176" href="$classCompass.html#a17d18b7b6d4fd415595d63d4741d4e83" title="Compass::send_mag_cal\l_report" alt="" coords="1101,1054,1271,1095"/>
+<area shape="rect" id="node178" href="$classCompass.html#a59f46d32a935d4faecc4a28d262c4388" title="Compass::consistent" alt="" coords="216,3600,363,3627"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="636,1483,792,1525"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="2857,2187,3010,2229"/>
+<area shape="rect" id="node13" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="2205,1061,2269,1088"/>
+<area shape="rect" id="node75" href="$classCompass.html#a785cd621a6ecd49077881299ff1edba7" title="Compass::start_calibration_all" alt="" coords="615,3095,813,3121"/>
+<area shape="rect" id="node167" href="$classCompass.html#a063eabf244187b5d60bb4674f09bce8e" title="Compass::_accept_calibration_mask" alt="" coords="1325,1635,1563,1661"/>
+<area shape="rect" id="node170" href="$classCompass.html#a1267fc640f7c52d889feb34d8ee1d240" title="Compass::_cancel_calibration_mask" alt="" coords="1611,3699,1847,3725"/>
+<area shape="rect" id="node172" href="$classCompass.html#afdd4d0c78f52388a68dfc07deeec11a6" title="Compass::_start_calibration_mask" alt="" coords="1332,3547,1556,3573"/>
+<area shape="rect" id="node173" href="$classCompass.html#a791e39cdbf2f1aad7ac1c65240160abf" title="Compass::cancel_calibration_all" alt="" coords="1339,3699,1549,3725"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="3089,2187,3242,2229"/>
+<area shape="rect" id="node7" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="3312,2195,3403,2221"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="3451,2093,3595,2120"/>
+<area shape="rect" id="node9" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="3478,2144,3567,2171"/>
+<area shape="rect" id="node10" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="3492,2195,3553,2221"/>
+<area shape="rect" id="node11" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="3477,2245,3569,2272"/>
+<area shape="rect" id="node12" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="3478,2296,3567,2323"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#a3370ada2588e54722319d65e00d8545c" title="safe_asin" alt="" coords="2439,512,2517,539"/>
+<area shape="rect" id="node19" href="$AP__Math_8h.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="2440,715,2516,741"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="2435,1061,2521,1088"/>
+<area shape="rect" id="node25" href="$AP__Math_8h.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="2435,1163,2521,1189"/>
+<area shape="rect" id="node26" href="$AP__Math_8h.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="2442,1112,2514,1139"/>
+<area shape="rect" id="node27" href="$AP__Math_8h.html#adfb798dabbcb4c7a82b3a08978bd8738" title="inverse" alt="" coords="2446,3627,2510,3653"/>
+<area shape="rect" id="node37" href="$AP__Math_8h.html#aa390ab9ca0ab04bd33b7234cfefa0cba" title="wrap_180" alt="" coords="2671,816,2750,843"/>
+<area shape="rect" id="node47" href="$AP__Math_8h.html#a4e136782e86e2adaaf7f0f759067dfe1" title="wrap_180_cd" alt="" coords="2429,1011,2527,1037"/>
+<area shape="rect" id="node53" href="$AP__Math_8h.html#a0399a64a07d5928b98db1b5dadc45816" title="wrap_360" alt="" coords="2894,664,2973,691"/>
+<area shape="rect" id="node54" href="$AP__Math_8h.html#a7be6cecc012fbd1984f4c6c19ffd6997" title="wrap_360_cd" alt="" coords="2429,1297,2527,1324"/>
+<area shape="rect" id="node59" href="$AP__Math_8h.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="2443,233,2513,260"/>
+<area shape="rect" id="node69" href="$AP__Math_8h.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="2672,56,2749,83"/>
+<area shape="rect" id="node70" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="2421,1551,2535,1577"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#acde8e5813f30717986b84509948bf530" title="safe_asin\&lt; int \&gt;" alt="" coords="2653,563,2769,589"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#a6baeda4985886aba9f6d5d5008ac2b10" title="safe_asin\&lt; short \&gt;" alt="" coords="2645,411,2776,437"/>
+<area shape="rect" id="node17" href="$AP__Math_8cpp.html#a48612e903b0ef12fa5653056a6d5b3f7" title="safe_asin\&lt; float \&gt;" alt="" coords="2647,461,2774,488"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#a9f2aae5b5adb09329c1a64b433d148dd" title="safe_asin\&lt; double \&gt;" alt="" coords="2641,512,2781,539"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#aa5cb9421d48def32eb7574adb1b152b0" title="safe_sqrt\&lt; int \&gt;" alt="" coords="2653,765,2768,792"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#a6952300e3d03222491051d674312b67d" title="safe_sqrt\&lt; short \&gt;" alt="" coords="2646,613,2775,640"/>
+<area shape="rect" id="node22" href="$AP__Math_8cpp.html#a40ae6cfccff676d9d2ff57e2e9ca549c" title="safe_sqrt\&lt; float \&gt;" alt="" coords="2648,664,2773,691"/>
+<area shape="rect" id="node23" href="$AP__Math_8cpp.html#acf6795fb73b8b915b53126f71cd2712a" title="safe_sqrt\&lt; double \&gt;" alt="" coords="2641,715,2780,741"/>
+<area shape="rect" id="node28" href="$matrix__alg_8cpp.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="2668,3292,2753,3319"/>
+<area shape="rect" id="node29" href="$matrix__alg_8cpp.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="2668,2661,2753,2688"/>
+<area shape="rect" id="node30" href="$matrix__alg_8cpp.html#aec3cfc51b8c044f4faa4ab1d3a146435" title="mat_inverse" alt="" coords="2664,3548,2757,3575"/>
+<area shape="rect" id="node31" href="$matrix__alg_8cpp.html#a71120309d433abdf23de6c2d78440b1c" title="mat_LU_decompose" alt="" coords="2862,3435,3005,3461"/>
+<area shape="rect" id="node34" href="$matrix__alg_8cpp.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="3129,3485,3201,3512"/>
+<area shape="rect" id="node35" href="$matrix__alg_8cpp.html#ae99d89fadc41e4ff699c74822490a71e" title="mat_forward_sub" alt="" coords="2872,3587,2995,3613"/>
+<area shape="rect" id="node36" href="$matrix__alg_8cpp.html#a5f5a54d345886bbaf464910d3a1cf139" title="mat_back_sub" alt="" coords="2880,3536,2987,3563"/>
+<area shape="rect" id="node32" href="$matrix__alg_8cpp.html#a7a49fc8b7a650e05045994ffba7c1dbc" title="mat_pivot" alt="" coords="3126,3435,3205,3461"/>
+<area shape="rect" id="node33" href="$matrix__alg_8cpp.html#a4ae7bd9da0bae1b05a7c352df26008ff" title="swap" alt="" coords="3331,3435,3384,3461"/>
+<area shape="rect" id="node38" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title="wrap_360" alt="" coords="2894,917,2973,944"/>
+<area shape="rect" id="node43" href="$AP__Math_8cpp.html#a02a2cf5a700e31fcf6b444311939d6f8" title="wrap_180\&lt; int \&gt;" alt="" coords="2875,715,2991,741"/>
+<area shape="rect" id="node44" href="$AP__Math_8cpp.html#a3a086dd71d651cf1d4a28ec87decb8b0" title="wrap_180\&lt; short \&gt;" alt="" coords="2868,765,2999,792"/>
+<area shape="rect" id="node45" href="$AP__Math_8cpp.html#abfa396c065d0b24a9fd841beb6404a7b" title="wrap_180\&lt; float \&gt;" alt="" coords="2870,816,2997,843"/>
+<area shape="rect" id="node46" href="$AP__Math_8cpp.html#addf2d396e8779d86f1296f2fecf105e4" title="wrap_180\&lt; double \&gt;" alt="" coords="2863,867,3003,893"/>
+<area shape="rect" id="node39" href="$AP__Math_8cpp.html#ad909fc5c89c69617f13018963a685bd5" title="wrap_360\&lt; int \&gt;" alt="" coords="3107,809,3223,836"/>
+<area shape="rect" id="node40" href="$AP__Math_8cpp.html#a3c6b3854a342ae989b7c2296b4c6c6ec" title="wrap_360\&lt; short \&gt;" alt="" coords="3100,911,3231,937"/>
+<area shape="rect" id="node41" href="$AP__Math_8cpp.html#ad75d42039e8eda0c32431b8882b46fc4" title="wrap_360\&lt; float \&gt;" alt="" coords="3102,671,3229,697"/>
+<area shape="rect" id="node42" href="$AP__Math_8cpp.html#aaf5c8a69731644be38edeaedbd1b1c8d" title="wrap_360\&lt; double \&gt;" alt="" coords="3095,733,3235,760"/>
+<area shape="rect" id="node48" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title="wrap_180" alt="" coords="2671,867,2750,893"/>
+<area shape="rect" id="node49" href="$AP__Math_8cpp.html#a367ccd21afe9102ba4b07edf5bdb5c0a" title="wrap_180_cd\&lt; float \&gt;" alt="" coords="2637,1019,2785,1045"/>
+<area shape="rect" id="node50" href="$AP__Math_8cpp.html#aee482bfa15bfcda25d325d9eaa3e0005" title="wrap_180_cd\&lt; int \&gt;" alt="" coords="2642,1069,2779,1096"/>
+<area shape="rect" id="node51" href="$AP__Math_8cpp.html#a2bcbe621ba8d5858dd35a9b31d0be6f5" title="wrap_180_cd\&lt; short \&gt;" alt="" coords="2635,1120,2787,1147"/>
+<area shape="rect" id="node52" href="$AP__Math_8cpp.html#a30a0b71c603ccc75a2c7fb51cad4847b" title="wrap_180_cd\&lt; double \&gt;" alt="" coords="2630,968,2791,995"/>
+<area shape="rect" id="node55" href="$AP__Math_8cpp.html#a65f9580f731ae50efa9d260e18a28814" title="wrap_360_cd\&lt; float \&gt;" alt="" coords="2637,1424,2785,1451"/>
+<area shape="rect" id="node56" href="$AP__Math_8cpp.html#a6f88cc481dbc9533d2fc7da9a3745af2" title="wrap_360_cd\&lt; int \&gt;" alt="" coords="2642,1272,2779,1299"/>
+<area shape="rect" id="node57" href="$AP__Math_8cpp.html#a39562b15d93402e664734dc55477aa75" title="wrap_360_cd\&lt; short \&gt;" alt="" coords="2635,1323,2787,1349"/>
+<area shape="rect" id="node58" href="$AP__Math_8cpp.html#a246e635093530f9a461cd59493e057ea" title="wrap_360_cd\&lt; double \&gt;" alt="" coords="2630,1373,2791,1400"/>
+<area shape="rect" id="node60" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="2672,107,2749,133"/>
+<area shape="rect" id="node65" href="$AP__Math_8cpp.html#a044023fcfa899d449f5a219ca7596ca4" title="wrap_PI\&lt; int \&gt;" alt="" coords="2657,309,2765,336"/>
+<area shape="rect" id="node66" href="$AP__Math_8cpp.html#ad0041912c2965b653fa9cf6854e47bc8" title="wrap_PI\&lt; short \&gt;" alt="" coords="2649,157,2772,184"/>
+<area shape="rect" id="node67" href="$AP__Math_8cpp.html#a789e7d40c173a1fab6560d1b61609952" title="wrap_PI\&lt; float \&gt;" alt="" coords="2651,208,2770,235"/>
+<area shape="rect" id="node68" href="$AP__Math_8cpp.html#a66b3a8191d62a34f4d673d5c62d8d1cf" title="wrap_PI\&lt; double \&gt;" alt="" coords="2645,259,2777,285"/>
+<area shape="rect" id="node61" href="$AP__Math_8cpp.html#a50a4ded454375642e1944882b01a1ae5" title="wrap_2PI\&lt; int \&gt;" alt="" coords="2876,56,2991,83"/>
+<area shape="rect" id="node62" href="$AP__Math_8cpp.html#aaf8ce7d4f9e3837bdbd5aac6545b4000" title="wrap_2PI\&lt; short \&gt;" alt="" coords="2868,107,2999,133"/>
+<area shape="rect" id="node63" href="$AP__Math_8cpp.html#a7182302503c136742396e3057b680dc7" title="wrap_2PI\&lt; float \&gt;" alt="" coords="2870,157,2997,184"/>
+<area shape="rect" id="node64" href="$AP__Math_8cpp.html#a0b4be48e39c65e97084146b9f1d22c00" title="wrap_2PI\&lt; double \&gt;" alt="" coords="2864,5,3003,32"/>
+<area shape="rect" id="node71" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="2635,1627,2786,1653"/>
+<area shape="rect" id="node72" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="2627,1677,2794,1704"/>
+<area shape="rect" id="node73" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="2629,1525,2792,1552"/>
+<area shape="rect" id="node74" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="2623,1576,2798,1603"/>
+<area shape="rect" id="node76" href="$classCompass.html#a702eb9d33ff1f5ada05b67f9b2219f9a" title="Compass::_start_calibration" alt="" coords="861,3095,1047,3121"/>
+<area shape="rect" id="node77" href="$classCompass.html#a3be4f1bd3056c7c0d97226f58e9f32f0" title="Compass::healthy" alt="" coords="1380,3293,1508,3320"/>
+<area shape="rect" id="node78" href="$classCompass.html#a0120c84cc915d5a34aafedc1ce3f5186" title="Compass::get_primary" alt="" coords="1651,3597,1806,3624"/>
+<area shape="rect" id="node88" href="$classCompass.html#ac47b570ae40bfba56a659c5ac766a464" title="return true if the compass should be used for yaw calculations " alt="" coords="1106,3395,1266,3421"/>
+<area shape="rect" id="node89" href="$classCompassCalibrator.html#abbfdc421fa407ebf71d98300752c47fe" title="CompassCalibrator::\lset_tolerance" alt="" coords="1115,3087,1257,3129"/>
+<area shape="rect" id="node93" href="$classCompassCalibrator.html#ae7bfb14c06f99c2ec3a08fa1199f7555" title="CompassCalibrator::\lstart" alt="" coords="2166,3626,2309,3667"/>
+<area shape="rect" id="node109" href="$classCompass.html#aff3220e1a557a75480e4c2dbbde72973" title="Compass::get_offsets_max" alt="" coords="1095,2985,1277,3012"/>
+<area shape="rect" id="node87" href="$classCompass.html#a5230a4f55710e532da8f9edd0f2fb77b" title="Compass::get_healthy_mask" alt="" coords="1633,3547,1825,3573"/>
+<area shape="rect" id="node79" href="$classCompass.html#a30a8fa22b1e7ee8eec8143732d40716d" title="Compass::setHIL" alt="" coords="1931,3597,2056,3624"/>
+<area shape="rect" id="node83" href="$classCompass.html#a0bc30e897c2c0c412120e1b1337bd1cb" title="Compass::_setup_earth\l_field" alt="" coords="2157,3407,2318,3449"/>
+<area shape="rect" id="node85" href="$classCompass.html#a9600516e0dbde9186d3b14b3457af013" title="Compass::last_update_usec" alt="" coords="1899,3800,2087,3827"/>
+<area shape="rect" id="node86" href="$classCompass.html#a4d696bdfb4d2ab9f0646d413cb6a0ee4" title="Compass::getHIL" alt="" coords="1931,3749,2056,3776"/>
+<area shape="rect" id="node80" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="Matrix3::from_euler" alt="" coords="2411,3408,2545,3435"/>
+<area shape="rect" id="node81" href="$AP__Math_8cpp.html#accbd9f8bbc0adacd51efa66fad490c24" title="is_equal" alt="" coords="2202,3757,2273,3784"/>
+<area shape="rect" id="node82" href="$classCompass.html#a5051de1d15ee203600422235ab93c88c" title="Compass::get_declination" alt="" coords="2391,3459,2565,3485"/>
+<area shape="rect" id="node84" href="$classMatrix3.html#a3705734aec6b67d729011cd792d7398a" title="Matrix3::mul_transpose" alt="" coords="2158,3575,2317,3601"/>
+<area shape="rect" id="node90" href="$classCompassCalibrator.html#ad826cd209a06ce20e569ec0a8cd1940a" title="CompassCalibrator::\lget_calibration" alt="" coords="1922,1670,2065,1711"/>
+<area shape="rect" id="node91" href="$classCompassCalibrator.html#a459e32216672229a3592e2e0fc4a1f1d" title="CompassCalibrator::\lget_completion_percent" alt="" coords="1364,3087,1524,3129"/>
+<area shape="rect" id="node92" href="$classCompassCalibrator.html#a8e697a946794232eaf9fbf75a5f1482b" title="CompassCalibrator::\lget_completion_mask" alt="" coords="1369,3153,1519,3194"/>
+<area shape="rect" id="node94" href="$classCompassCalibrator.html#a439e8c7f72e9f6e2fe66b93d755bc9f7" title="CompassCalibrator::\lrunning" alt="" coords="2407,3561,2549,3602"/>
+<area shape="rect" id="node95" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="AP_HAL::millis" alt="" coords="2655,3497,2766,3524"/>
+<area shape="rect" id="node99" href="$classCompassCalibrator.html#aeee363c33562bb3a47693073c6a568e5" title="CompassCalibrator::\lset_status" alt="" coords="2407,3678,2549,3719"/>
+<area shape="rect" id="node96" href="$namespaceAP__HAL.html#a59336c5fceaf28a76d1df1581a87a25d" title="AP_HAL::millis64" alt="" coords="2871,3384,2996,3411"/>
+<area shape="rect" id="node97" href="$classLinux_1_1Scheduler.html#a53ecaae0fdc72f85bd57c4b0cff93653" title="Linux::Scheduler::from" alt="" coords="3089,3384,3242,3411"/>
+<area shape="rect" id="node98" href="$classLinux_1_1Scheduler.html#a682b4c34f330f66db5ab4aa5d96e13f9" title="Linux::Scheduler::stopped\l_clock_usec" alt="" coords="3079,3318,3252,3359"/>
+<area shape="rect" id="node100" href="$classCompassCalibrator.html#afe46e9f795a06855adf4ae32b01da5b1" title="CompassCalibrator::\lreset_state" alt="" coords="2639,3630,2782,3671"/>
+<area shape="rect" id="node102" href="$classCompassCalibrator.html#a4c0461903e1830066d9f005bac85a389" title="CompassCalibrator::\linitialize_fit" alt="" coords="2862,3689,3005,3730"/>
+<area shape="rect" id="node104" href="$classCompassCalibrator.html#abd6b22cb6f201e16c77ddbf49a90ccd5" title="CompassCalibrator::\lthin_samples" alt="" coords="2639,3849,2782,3890"/>
+<area shape="rect" id="node101" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="2883,3637,2983,3664"/>
+<area shape="rect" id="node103" href="$classCompassCalibrator.html#a7d57ef4510c26724890f4f820bf2d160" title="CompassCalibrator::\lcalc_mean_squared_residuals" alt="" coords="3067,3747,3264,3789"/>
+<area shape="rect" id="node105" href="$AP__Math_8cpp.html#a587a30a56f2ab102c7b42f89e4770530" title="get_random16" alt="" coords="2881,3831,2985,3857"/>
+<area shape="rect" id="node106" href="$classCompassCalibrator.html#a9a22a17905205cc721ba8b36a203057c" title="CompassCalibrator::\laccept_sample" alt="" coords="2862,3882,3005,3923"/>
+<area shape="rect" id="node108" href="$classCompassCalibrator.html#a8e61db1dbc134aa02d256460ae370770" title="CompassCalibrator::\lupdate_completion_mask" alt="" coords="2848,3947,3019,3989"/>
+<area shape="rect" id="node107" href="$classCompassCalibrator_1_1CompassSample.html#aa15059b264357a9920251a7c0c7c251a" title="CompassCalibrator::\lCompassSample::get" alt="" coords="3091,4061,3239,4102"/>
+<area shape="rect" id="node110" href="$classCompass.html#af1b5ea3ff42b02e04526d4be361a1ca1" title="Compass::register_compass" alt="" coords="1349,2985,1539,3012"/>
+<area shape="rect" id="node114" href="$classCompass.html#ab943e9f79e8df83f2f125d1b025e7d0d" title="Compass::_add_backend" alt="" coords="1643,3248,1814,3275"/>
+<area shape="rect" id="node115" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="1348,2392,1540,2419"/>
+<area shape="rect" id="node161" href="$classCompass.html#a659da6997da12f2a27ffd5eb45fedf8a" title="Compass::_accept_calibration" alt="" coords="1629,1584,1828,1611"/>
+<area shape="rect" id="node169" href="$classCompass.html#ad754f61119dbfa8704305021f58d2a01" title="Compass::_cancel_calibration" alt="" coords="1895,3851,2092,3877"/>
+<area shape="rect" id="node171" href="$classCompass.html#ab0afcd20922d7badce8e8b8cc04610b5" title="Compass::_get_cal_mask" alt="" coords="1357,1213,1531,1240"/>
+<area shape="rect" id="node111" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="2181,3223,2293,3249"/>
+<area shape="rect" id="node112" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="2383,3252,2573,3279"/>
+<area shape="rect" id="node113" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="2405,3186,2551,3227"/>
+<area shape="rect" id="node116" href="$classAP__Compass__HIL.html#ae4ae94f11b8c05de50076d85fbcef0f1" title="AP_Compass_HIL::detect" alt="" coords="1641,3197,1816,3224"/>
+<area shape="rect" id="node119" href="$classAP__BoardConfig.html#a8a3185c191ab40fd95ceeadd8a5b0cf9" title="AP_BoardConfig::get\l_board_type" alt="" coords="2165,1839,2310,1881"/>
+<area shape="rect" id="node120" href="$classAP__Compass__HMC5843.html#a69e502918bfdd2d63fef8fa1b4805e60" title="AP_Compass_HMC5843\l::probe" alt="" coords="1644,2385,1813,2426"/>
+<area shape="rect" id="node121" href="$classAP__HAL_1_1I2CDeviceManager.html#a28e5d1449e177f16962dd7ccc94df443" title="AP_HAL::I2CDeviceManager\l::get_device" alt="" coords="2141,2010,2334,2051"/>
+<area shape="rect" id="node122" href="$classAP__Compass__LIS3MDL.html#a98ed6c45903aec9a90a42028270f923f" title="AP_Compass_LIS3MDL\l::probe" alt="" coords="1646,2885,1811,2926"/>
+<area shape="rect" id="node125" href="$classAP__Compass__AK09916.html#a45fd8871f89d4a69f8e7a9305f77071a" title="AP_Compass_AK09916\l::probe" alt="" coords="1647,3015,1810,3057"/>
+<area shape="rect" id="node128" href="$classAP__Compass__IST8310.html#a47a975eb1b32ebacde69f65e1fc6d653" title="AP_Compass_IST8310\l::probe" alt="" coords="1649,2319,1808,2361"/>
+<area shape="rect" id="node132" href="$classAP__HAL_1_1SPIDeviceManager.html#a84c4a9ff2ae0cdaa9a0bc8a3f0939893" title="AP_HAL::SPIDeviceManager\l::get_device" alt="" coords="2140,2102,2335,2143"/>
+<area shape="rect" id="node133" href="$classAP__Compass__LSM303D.html#a4e6c6fa0cdf465855806d8fc47a5c1d0" title="AP_Compass_LSM303D\l::probe" alt="" coords="1645,3329,1813,3370"/>
+<area shape="rect" id="node136" href="$classAP__Compass__AK8963.html#ade5c3fa84cb0026597de2641ea373274" title="AP_Compass_AK8963::\lprobe_mpu9250" alt="" coords="1647,2450,1811,2491"/>
+<area shape="rect" id="node139" href="$classAP__Compass__AK8963.html#ac3dc357b863fa6411087c07cb6d8da31" title="AP_Compass_AK8963::\lprobe" alt="" coords="1911,2449,2075,2490"/>
+<area shape="rect" id="node141" href="$classAP__Compass__PX4.html#a31f9519f4a0c078771749e2bce1dd988" title="AP_Compass_PX4::detect" alt="" coords="1639,2717,1818,2744"/>
+<area shape="rect" id="node144" href="$classAP__Compass__QURT.html#ac7df26a73c6f701c9fbef66b9c2e9d16" title="AP_Compass_QURT::detect" alt="" coords="1633,2203,1825,2229"/>
+<area shape="rect" id="node147" href="$classAP__Compass__QFLIGHT.html#a255d0e4d4a02a662fcb48390195fe72f" title="AP_Compass_QFLIGHT\l::detect" alt="" coords="1645,2254,1812,2295"/>
+<area shape="rect" id="node150" href="$classAP__Compass__HMC5843.html#ab32c3b47a2bac9fe81315f70a8d0d58f" title="AP_Compass_HMC5843\l::probe_mpu6000" alt="" coords="1644,1787,1813,1829"/>
+<area shape="rect" id="node151" href="$classLinux_1_1I2CDeviceManager.html#a504d5f354f69ed8eb80aa2a59208d7d9" title="Linux::I2CDeviceManager\l::from" alt="" coords="1642,1955,1815,1997"/>
+<area shape="rect" id="node152" href="$classLinux_1_1I2CDeviceManager.html#a3c138e2bdeb6f8be42b58b0fff6f8bff" title="Linux::I2CDeviceManager\l::get_device" alt="" coords="1642,2618,1815,2659"/>
+<area shape="rect" id="node156" href="$classAP__Compass__LSM9DS1.html#aba1918bbedfc1bff08320824d25bb0c0" title="AP_Compass_LSM9DS1\l::probe" alt="" coords="2393,2595,2563,2637"/>
+<area shape="rect" id="node159" href="$classAP__Compass__BMM150.html#acb87d3a695ab2b7a439939107f18fe72" title="AP_Compass_BMM150::\lprobe" alt="" coords="1643,2021,1814,2062"/>
+<area shape="rect" id="node160" href="$classAP__BoardConfig.html#ab31f29ca226b6dd19aa51b2dbb009f0c" title="AP_BoardConfig::get\l_can_enable" alt="" coords="1656,2086,1801,2127"/>
+<area shape="rect" id="node117" href="$classAP__Compass__HIL.html#a8f91dff3fcb563128bb78488edf074e5" title="AP_Compass_HIL::AP\l_Compass_HIL" alt="" coords="1915,3299,2072,3341"/>
+<area shape="rect" id="node118" href="$classAP__Compass__HIL.html#af040b7e9ed9c04a61be51d2a0831d192" title="AP_Compass_HIL::init" alt="" coords="1915,3197,2071,3224"/>
+<area shape="rect" id="node123" href="$classAP__Compass__LIS3MDL.html#a1a431c74cbb1283efecc8fecb29efe7a" title="AP_Compass_LIS3MDL\l::AP_Compass_LIS3MDL" alt="" coords="1907,2885,2080,2926"/>
+<area shape="rect" id="node124" href="$classAP__Compass__LIS3MDL.html#ae0f968aaaca6d635f4e815f7e3e81487" title="AP_Compass_LIS3MDL\l::init" alt="" coords="1911,2950,2076,2991"/>
+<area shape="rect" id="node126" href="$classAP__Compass__AK09916.html#a50fb4143839007ace87d61d417a6fd3f" title="AP_Compass_AK09916\l::AP_Compass_AK09916" alt="" coords="1908,3015,2079,3057"/>
+<area shape="rect" id="node127" href="$classAP__Compass__AK09916.html#a7240a628a11bd78a3f96e1f91ea82eef" title="AP_Compass_AK09916\l::init" alt="" coords="1912,3081,2075,3122"/>
+<area shape="rect" id="node129" href="$classAP__Compass__IST8310.html#a4770554ee24d40c3baf40bdd545daa04" title="AP_Compass_IST8310\l::AP_Compass_IST8310" alt="" coords="1910,2122,2077,2163"/>
+<area shape="rect" id="node130" href="$classAP__Compass__IST8310.html#a58e4620d77a0d55d8b73fdd01a5f6cca" title="AP_Compass_IST8310\l::init" alt="" coords="1914,2318,2073,2359"/>
+<area shape="rect" id="node131" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="2164,2413,2311,2454"/>
+<area shape="rect" id="node134" href="$classAP__Compass__LSM303D.html#a64d4c54f039661c5ef9e72ac2acf834c" title="AP_Compass_LSM303D\l::AP_Compass_LSM303D" alt="" coords="1905,3365,2081,3406"/>
+<area shape="rect" id="node135" href="$classAP__Compass__LSM303D.html#a8a56627c6487fbc701c4865f48e3edf4" title="AP_Compass_LSM303D\l::init" alt="" coords="1909,3430,2077,3471"/>
+<area shape="rect" id="node137" href="$classAP__InertialSensor.html#a2b206efafbcc14f62bf6cf121eaca780" title="AP_InertialSensor::\lget_instance" alt="" coords="1926,2383,2061,2425"/>
+<area shape="rect" id="node138" href="$classAP__InertialSensor.html#a8967734e82a4f472c6d8ddd8db656804" title="AP_InertialSensor::\ldetect_backends" alt="" coords="1926,2187,2061,2229"/>
+<area shape="rect" id="node140" href="$classAP__Compass__AK8963.html#a6dbf15bf44fe1f350604bd4e308cca87" title="AP_Compass_AK8963::\lAP_Compass_AK8963" alt="" coords="2155,2347,2319,2389"/>
+<area shape="rect" id="node142" href="$classAP__Compass__PX4.html#a6e1966fc3672675172d79407973d91f6" title="AP_Compass_PX4::AP\l_Compass_PX4" alt="" coords="1913,2819,2074,2861"/>
+<area shape="rect" id="node143" href="$classAP__Compass__PX4.html#a107c003aea3eff458ade1c3f263d0600" title="AP_Compass_PX4::init" alt="" coords="1913,2717,2073,2744"/>
+<area shape="rect" id="node145" href="$classAP__Compass__QURT.html#ac7e8c8c8b048b4ca33213de12e2b9929" title="AP_Compass_QURT::AP\l_Compass_QURT" alt="" coords="1906,1939,2081,1981"/>
+<area shape="rect" id="node146" href="$classAP__Compass__QURT.html#a2bf3331e58d5388520c9d36398d949a0" title="AP_Compass_QURT::init" alt="" coords="1907,2005,2080,2032"/>
+<area shape="rect" id="node148" href="$classAP__Compass__QFLIGHT.html#a05eb3368890ad6c4985dd1720c9c3fad" title="AP_Compass_QFLIGHT\l::AP_Compass_QFLIGHT" alt="" coords="1906,2057,2081,2098"/>
+<area shape="rect" id="node149" href="$classAP__Compass__QFLIGHT.html#ad347b380bf9dd608e15b1d90ca33dd6a" title="AP_Compass_QFLIGHT\l::init" alt="" coords="1910,2253,2077,2294"/>
+<area shape="rect" id="node153" href="$replace_8h.html#ae7302925fc2f556fe0bbb2f97e488d45" title="opendir" alt="" coords="1961,2565,2025,2592"/>
+<area shape="rect" id="node154" href="$replace_8cpp.html#a28a648dd20504ebc0c03623a28d82c93" title="asprintf" alt="" coords="1961,2616,2026,2643"/>
+<area shape="rect" id="node155" href="$namespaceLinux.html#af1b75365b35657dd36d7c6340a803beb" title="Linux::startswith" alt="" coords="1934,2667,2053,2693"/>
+<area shape="rect" id="node157" href="$classAP__Compass__LSM9DS1.html#a99560b6082415f51d0d6593bff93b2b6" title="AP_Compass_LSM9DS1\l::AP_Compass_LSM9DS1" alt="" coords="2621,2595,2800,2637"/>
+<area shape="rect" id="node158" href="$classAP__Compass__LSM9DS1.html#a01945f7b84f830cc1f750eea31073978" title="AP_Compass_LSM9DS1\l::init" alt="" coords="2625,2530,2796,2571"/>
+<area shape="rect" id="node162" href="$classCompassCalibrator.html#acf64861857a5a15fd4bd30627b04c663" title="CompassCalibrator::\lget_status" alt="" coords="1922,1155,2065,1197"/>
+<area shape="rect" id="node163" href="$classCompass.html#afeac6bcfad2650762cccda72dbce3e69" title="Compass::set_and_save\l_offsets" alt="" coords="1910,1474,2077,1515"/>
+<area shape="rect" id="node165" href="$classCompass.html#ae581710aa79ddf7abce3b3893bb08ea5" title="Compass::set_and_save\l_diagonals" alt="" coords="1910,1539,2077,1581"/>
+<area shape="rect" id="node166" href="$classCompass.html#a6728a7129a64d973461b9d5eb95dc81a" title="Compass::set_and_save\l_offdiagonals" alt="" coords="1910,1605,2077,1646"/>
+<area shape="rect" id="node164" href="$classCompass.html#abfc394b43272d5a6e97001232e201b7f" title="Compass::save_offsets" alt="" coords="2157,1481,2318,1508"/>
+<area shape="rect" id="node168" href="$classCompassCalibrator.html#a62803fe964e9f0fa7e3944dfb430c006" title="CompassCalibrator::\lclear" alt="" coords="2166,3691,2309,3733"/>
+<area shape="rect" id="node175" href="$classCompassCalibrator.html#afd5dfc6b43db25c3f7247132e17ae812" title="CompassCalibrator::\lget_attempt" alt="" coords="1373,1265,1515,1306"/>
+<area shape="rect" id="node177" href="$classCompassCalibrator.html#a79c6714fee48b9bf1d94969d24bce026" title="CompassCalibrator::\lget_fitness" alt="" coords="1373,995,1515,1037"/>
+<area shape="rect" id="node179" href="$classCompass.html#a22ce936207eeda5d3fa55237271cef3e" title="Compass::get_field" alt="" coords="421,3725,556,3752"/>
+<area shape="rect" id="node195" href="$classVector3.html#a0a3015b68acc33e5ca34bbe122d7fc66" title="Vector3::is_zero" alt="" coords="430,3776,547,3803"/>
+<area shape="rect" id="node196" href="$classVector3.html#a4623c9d95850aec72ba56cb9ceea2cdf" title="Vector3::normalized" alt="" coords="419,3827,558,3853"/>
+<area shape="rect" id="node197" href="$structVector2.html#a7027a23fe57300a1142fdb9e28d6e3da" title="Vector2::is_zero" alt="" coords="430,3499,547,3525"/>
+<area shape="rect" id="node198" href="$structVector2.html#a94313613241845651f3aba43ed9d5434" title="Vector2::normalized" alt="" coords="419,3600,558,3627"/>
+<area shape="rect" id="node199" href="$classCompass.html#a7bc9b45433e47cbd2632578388882135" title="Compass::get_count" alt="" coords="417,3651,560,3677"/>
+<area shape="rect" id="node200" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="901,1331,1007,1357"/>
+<area shape="rect" id="node180" href="$classCompass.html#ab8b1d18b185660a957d2faf417e9b1dd" title="Compass::compass_cal\l_update" alt="" coords="1105,3750,1267,3791"/>
+<area shape="rect" id="node181" href="$classCompassCalibrator.html#ae23f7e66b83d2a09ff012d853a54ad6f" title="CompassCalibrator::\lupdate" alt="" coords="1922,3914,2065,3955"/>
+<area shape="rect" id="node193" href="$classCompass.html#ab34228c0d17042ff15c933fabcdb3a1b" title="Compass::_auto_reboot" alt="" coords="1363,3871,1525,3897"/>
+<area shape="rect" id="node194" href="$classAP__HAL_1_1Scheduler.html#a9fc1cebafebb6588842f4f0e18c7a996" title="AP_HAL::Scheduler::\lreboot" alt="" coords="1371,3805,1517,3846"/>
+<area shape="rect" id="node182" href="$classCompassCalibrator.html#a29b03ad33a3503ea823f8a23cc6647b3" title="CompassCalibrator::\lfitting" alt="" coords="2166,3809,2309,3850"/>
+<area shape="rect" id="node183" href="$classCompassCalibrator.html#abcb64d98f2f9c896358327f488f33e7a" title="CompassCalibrator::\lcalc_initial_offset" alt="" coords="2639,3991,2782,4033"/>
+<area shape="rect" id="node184" href="$classCompassCalibrator.html#a8d4e699b811efbb835be447336d5b6b8" title="CompassCalibrator::\lrun_sphere_fit" alt="" coords="2166,3926,2309,3967"/>
+<area shape="rect" id="node188" href="$classCompassCalibrator.html#a4f8b586a0d5beb9c9695f066a30e190e" title="CompassCalibrator::\lfit_acceptable" alt="" coords="2166,4337,2309,4378"/>
+<area shape="rect" id="node190" href="$classCompassCalibrator.html#a953981bdee4a0a574acca1fc1bd83f52" title="CompassCalibrator::\lrun_ellipsoid_fit" alt="" coords="2166,4181,2309,4222"/>
+<area shape="rect" id="node185" href="$classCompassCalibrator.html#a76bcef1b65546af7a7eb0e3bfd09f15b" title="CompassCalibrator::\lcalc_sphere_jacob" alt="" coords="2407,3795,2549,3837"/>
+<area shape="rect" id="node186" href="$classCompassCalibrator.html#ae927f4d79bb487395fb5c0558b9229b6" title="CompassCalibrator::\lcalc_residual" alt="" coords="2407,4042,2549,4083"/>
+<area shape="rect" id="node187" href="$classCompassCalibrator_1_1param__t.html#a7da29c9f5673d2208555b051aa3f1218" title="CompassCalibrator::\lparam_t::get_sphere\l_params" alt="" coords="2407,3860,2549,3916"/>
+<area shape="rect" id="node189" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="2459,4456,2497,4483"/>
+<area shape="rect" id="node191" href="$classCompassCalibrator.html#ae446dd0e874e21b4a80a682a6597db44" title="CompassCalibrator::\lcalc_ellipsoid_jacob" alt="" coords="2407,4261,2549,4302"/>
+<area shape="rect" id="node192" href="$classCompassCalibrator_1_1param__t.html#a03e45e3fdc8a516041b4a07f67f3ea1b" title="CompassCalibrator::\lparam_t::get_ellipsoid\l_params" alt="" coords="2403,4325,2553,4381"/>
+</map>

@@ -1,0 +1,201 @@
+<map id="AC_WPNav::get_loiter_bearing_to_target" name="AC_WPNav::get_loiter_bearing_to_target">
+<area shape="rect" id="node2" href="$classAC__WPNav.html#acdde881fbaae3bc13155a34ee88a6e48" title="get_bearing_cd &#45; return bearing in centi&#45;degrees between two positions " alt="" coords="208,404,399,431"/>
+<area shape="rect" id="node3" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title="AP_InertialNav::get\l_position" alt="" coords="1295,128,1431,169"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#a6b3617b946ffd6935c11a63629f186ec" title="get_pos_target &#45; get target as position vector (from home in cm) " alt="" coords="234,2242,373,2284"/>
+<area shape="rect" id="node5" href="$classAC__PosControl.html#ad70a79da0c5dcde97ccf848b03e7356a" title="set_pos_target in cm from home " alt="" coords="451,2210,589,2252"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#a1acdd0aec3b36ec2fad0b05cbca0c252" title="set_xy_target in cm from home " alt="" coords="1293,2682,1432,2724"/>
+<area shape="rect" id="node7" href="$classAC__PosControl.html#a0a3dc64da9e355dea10959cb41e6aa8b" title="shift position target target in x, y axis " alt="" coords="447,2276,593,2317"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a2a12cce483e9b870da70d30406d82c60" title="is_zero" alt="" coords="2321,1726,2385,1752"/>
+<area shape="rect" id="node78" href="$classAC__PosControl.html#ac150947d527995a72dff6ad0921a1891" title="freeze_ff_xy &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="641,1620,799,1661"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a3370ada2588e54722319d65e00d8545c" title="safe_asin" alt="" coords="2539,2160,2617,2187"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="2540,1108,2616,1135"/>
+<area shape="rect" id="node19" href="$AP__Math_8h.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="2535,1842,2621,1868"/>
+<area shape="rect" id="node20" href="$AP__Math_8h.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="2535,1791,2621,1818"/>
+<area shape="rect" id="node29" href="$AP__Math_8h.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="2542,1994,2614,2020"/>
+<area shape="rect" id="node30" href="$AP__Math_8h.html#adfb798dabbcb4c7a82b3a08978bd8738" title="inverse" alt="" coords="2546,1943,2610,1970"/>
+<area shape="rect" id="node40" href="$AP__Math_8h.html#aa390ab9ca0ab04bd33b7234cfefa0cba" title="wrap_180" alt="" coords="2772,1552,2851,1579"/>
+<area shape="rect" id="node50" href="$AP__Math_8h.html#a4e136782e86e2adaaf7f0f759067dfe1" title="wrap_180_cd" alt="" coords="2529,1690,2627,1716"/>
+<area shape="rect" id="node56" href="$AP__Math_8h.html#a0399a64a07d5928b98db1b5dadc45816" title="wrap_360" alt="" coords="3011,1806,3089,1832"/>
+<area shape="rect" id="node57" href="$AP__Math_8h.html#a7be6cecc012fbd1984f4c6c19ffd6997" title="wrap_360_cd" alt="" coords="2529,1375,2627,1402"/>
+<area shape="rect" id="node62" href="$AP__Math_8h.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="2543,691,2613,718"/>
+<area shape="rect" id="node72" href="$AP__Math_8h.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="2773,1198,2850,1224"/>
+<area shape="rect" id="node73" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="2521,868,2635,895"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#acde8e5813f30717986b84509948bf530" title="safe_asin\&lt; int \&gt;" alt="" coords="2753,2211,2869,2238"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a6baeda4985886aba9f6d5d5008ac2b10" title="safe_asin\&lt; short \&gt;" alt="" coords="2746,2262,2877,2288"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#a48612e903b0ef12fa5653056a6d5b3f7" title="safe_asin\&lt; float \&gt;" alt="" coords="2748,2110,2875,2136"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a9f2aae5b5adb09329c1a64b433d148dd" title="safe_asin\&lt; double \&gt;" alt="" coords="2741,2160,2881,2187"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#aa5cb9421d48def32eb7574adb1b152b0" title="safe_sqrt\&lt; int \&gt;" alt="" coords="2754,1046,2869,1072"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#a6952300e3d03222491051d674312b67d" title="safe_sqrt\&lt; short \&gt;" alt="" coords="2747,1096,2876,1123"/>
+<area shape="rect" id="node17" href="$AP__Math_8cpp.html#a40ae6cfccff676d9d2ff57e2e9ca549c" title="safe_sqrt\&lt; float \&gt;" alt="" coords="2749,1147,2874,1174"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#acf6795fb73b8b915b53126f71cd2712a" title="safe_sqrt\&lt; double \&gt;" alt="" coords="2742,995,2881,1022"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="2973,2178,3127,2220"/>
+<area shape="rect" id="node22" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="3197,2178,3350,2220"/>
+<area shape="rect" id="node23" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="3401,2186,3492,2212"/>
+<area shape="rect" id="node24" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="3540,2084,3684,2111"/>
+<area shape="rect" id="node25" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="3567,2135,3657,2162"/>
+<area shape="rect" id="node26" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="3581,2186,3643,2212"/>
+<area shape="rect" id="node27" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="3566,2236,3658,2263"/>
+<area shape="rect" id="node28" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="3567,2287,3657,2314"/>
+<area shape="rect" id="node31" href="$matrix__alg_8cpp.html#a3aede2abf8bd30869b72dadaeb9e2c17" title="inverse3x3" alt="" coords="2769,2008,2854,2035"/>
+<area shape="rect" id="node32" href="$matrix__alg_8cpp.html#a5b0d60d12edb0ce4c1ed6599acccc6db" title="inverse4x4" alt="" coords="2769,2059,2854,2086"/>
+<area shape="rect" id="node33" href="$matrix__alg_8cpp.html#aec3cfc51b8c044f4faa4ab1d3a146435" title="mat_inverse" alt="" coords="2765,1907,2858,1934"/>
+<area shape="rect" id="node34" href="$matrix__alg_8cpp.html#a71120309d433abdf23de6c2d78440b1c" title="mat_LU_decompose" alt="" coords="2979,1907,3121,1934"/>
+<area shape="rect" id="node37" href="$matrix__alg_8cpp.html#a9e2d939e8250f6c633d3b87661b04d45" title="mat_mul" alt="" coords="3237,1983,3309,2010"/>
+<area shape="rect" id="node38" href="$matrix__alg_8cpp.html#ae99d89fadc41e4ff699c74822490a71e" title="mat_forward_sub" alt="" coords="2989,1958,3111,1984"/>
+<area shape="rect" id="node39" href="$matrix__alg_8cpp.html#a5f5a54d345886bbaf464910d3a1cf139" title="mat_back_sub" alt="" coords="2997,1856,3103,1883"/>
+<area shape="rect" id="node35" href="$matrix__alg_8cpp.html#a7a49fc8b7a650e05045994ffba7c1dbc" title="mat_pivot" alt="" coords="3234,1907,3313,1934"/>
+<area shape="rect" id="node36" href="$matrix__alg_8cpp.html#a4ae7bd9da0bae1b05a7c352df26008ff" title="swap" alt="" coords="3420,1907,3473,1934"/>
+<area shape="rect" id="node41" href="$AP__Math_8cpp.html#aac44349f9b159f31fc43fe924d52f7fc" title="wrap_360" alt="" coords="3011,1552,3089,1579"/>
+<area shape="rect" id="node46" href="$AP__Math_8cpp.html#a02a2cf5a700e31fcf6b444311939d6f8" title="wrap_180\&lt; int \&gt;" alt="" coords="2992,1654,3108,1680"/>
+<area shape="rect" id="node47" href="$AP__Math_8cpp.html#a3a086dd71d651cf1d4a28ec87decb8b0" title="wrap_180\&lt; short \&gt;" alt="" coords="2985,1704,3115,1731"/>
+<area shape="rect" id="node48" href="$AP__Math_8cpp.html#abfa396c065d0b24a9fd841beb6404a7b" title="wrap_180\&lt; float \&gt;" alt="" coords="2987,1755,3113,1782"/>
+<area shape="rect" id="node49" href="$AP__Math_8cpp.html#addf2d396e8779d86f1296f2fecf105e4" title="wrap_180\&lt; double \&gt;" alt="" coords="2980,1603,3120,1630"/>
+<area shape="rect" id="node42" href="$AP__Math_8cpp.html#ad909fc5c89c69617f13018963a685bd5" title="wrap_360\&lt; int \&gt;" alt="" coords="3215,1622,3331,1648"/>
+<area shape="rect" id="node43" href="$AP__Math_8cpp.html#a3c6b3854a342ae989b7c2296b4c6c6ec" title="wrap_360\&lt; short \&gt;" alt="" coords="3208,1698,3339,1724"/>
+<area shape="rect" id="node44" href="$AP__Math_8cpp.html#ad75d42039e8eda0c32431b8882b46fc4" title="wrap_360\&lt; float \&gt;" alt="" coords="3210,1799,3337,1826"/>
+<area shape="rect" id="node45" href="$AP__Math_8cpp.html#aaf5c8a69731644be38edeaedbd1b1c8d" title="wrap_360\&lt; double \&gt;" alt="" coords="3203,1559,3343,1586"/>
+<area shape="rect" id="node51" href="$AP__Math_8cpp.html#a603d717bc95dd546b9e2c4da57b88a39" title="wrap_180" alt="" coords="2772,1755,2851,1782"/>
+<area shape="rect" id="node52" href="$AP__Math_8cpp.html#a367ccd21afe9102ba4b07edf5bdb5c0a" title="wrap_180_cd\&lt; float \&gt;" alt="" coords="2737,1806,2885,1832"/>
+<area shape="rect" id="node53" href="$AP__Math_8cpp.html#aee482bfa15bfcda25d325d9eaa3e0005" title="wrap_180_cd\&lt; int \&gt;" alt="" coords="2743,1603,2880,1630"/>
+<area shape="rect" id="node54" href="$AP__Math_8cpp.html#a2bcbe621ba8d5858dd35a9b31d0be6f5" title="wrap_180_cd\&lt; short \&gt;" alt="" coords="2735,1654,2887,1680"/>
+<area shape="rect" id="node55" href="$AP__Math_8cpp.html#a30a0b71c603ccc75a2c7fb51cad4847b" title="wrap_180_cd\&lt; double \&gt;" alt="" coords="2731,1704,2892,1731"/>
+<area shape="rect" id="node58" href="$AP__Math_8cpp.html#a65f9580f731ae50efa9d260e18a28814" title="wrap_360_cd\&lt; float \&gt;" alt="" coords="2737,1400,2885,1427"/>
+<area shape="rect" id="node59" href="$AP__Math_8cpp.html#a6f88cc481dbc9533d2fc7da9a3745af2" title="wrap_360_cd\&lt; int \&gt;" alt="" coords="2743,1248,2880,1275"/>
+<area shape="rect" id="node60" href="$AP__Math_8cpp.html#a39562b15d93402e664734dc55477aa75" title="wrap_360_cd\&lt; short \&gt;" alt="" coords="2735,1299,2887,1326"/>
+<area shape="rect" id="node61" href="$AP__Math_8cpp.html#a246e635093530f9a461cd59493e057ea" title="wrap_360_cd\&lt; double \&gt;" alt="" coords="2731,1350,2892,1376"/>
+<area shape="rect" id="node63" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="2773,539,2850,566"/>
+<area shape="rect" id="node68" href="$AP__Math_8cpp.html#a044023fcfa899d449f5a219ca7596ca4" title="wrap_PI\&lt; int \&gt;" alt="" coords="2757,640,2865,667"/>
+<area shape="rect" id="node69" href="$AP__Math_8cpp.html#ad0041912c2965b653fa9cf6854e47bc8" title="wrap_PI\&lt; short \&gt;" alt="" coords="2750,691,2873,718"/>
+<area shape="rect" id="node70" href="$AP__Math_8cpp.html#a789e7d40c173a1fab6560d1b61609952" title="wrap_PI\&lt; float \&gt;" alt="" coords="2752,742,2871,768"/>
+<area shape="rect" id="node71" href="$AP__Math_8cpp.html#a66b3a8191d62a34f4d673d5c62d8d1cf" title="wrap_PI\&lt; double \&gt;" alt="" coords="2745,590,2877,616"/>
+<area shape="rect" id="node64" href="$AP__Math_8cpp.html#a50a4ded454375642e1944882b01a1ae5" title="wrap_2PI\&lt; int \&gt;" alt="" coords="2993,862,3107,888"/>
+<area shape="rect" id="node65" href="$AP__Math_8cpp.html#aaf8ce7d4f9e3837bdbd5aac6545b4000" title="wrap_2PI\&lt; short \&gt;" alt="" coords="2985,1166,3115,1192"/>
+<area shape="rect" id="node66" href="$AP__Math_8cpp.html#a7182302503c136742396e3057b680dc7" title="wrap_2PI\&lt; float \&gt;" alt="" coords="2987,571,3113,598"/>
+<area shape="rect" id="node67" href="$AP__Math_8cpp.html#a0b4be48e39c65e97084146b9f1d22c00" title="wrap_2PI\&lt; double \&gt;" alt="" coords="2981,684,3119,711"/>
+<area shape="rect" id="node74" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="2736,944,2887,971"/>
+<area shape="rect" id="node75" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="2728,792,2895,819"/>
+<area shape="rect" id="node76" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="2730,843,2893,870"/>
+<area shape="rect" id="node77" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="2724,894,2899,920"/>
+<area shape="rect" id="node79" href="$classAC__PosControl.html#ad6864eaa25734c3908f5a77da3499a60" title="AC_PosControl::is_active_xy" alt="" coords="1265,2580,1460,2607"/>
+<area shape="rect" id="node111" href="$classAC__PosControl.html#a497c1799c10d146b6f2e2b542889c083" title="update_xy_controller &#45; run the horizontal position controller &#45; should be called at 100hz or higher ..." alt="" coords="847,1460,1007,1501"/>
+<area shape="rect" id="node162" href="$classAC__PosControl.html#a1f4f9aac832250d36fe36a6be1ccbb84" title="set_target_to_stopping_point_xy &#45; sets horizontal target to reasonable stopping position in cm from h..." alt="" coords="857,1254,996,1310"/>
+<area shape="rect" id="node163" href="$classAC__PosControl.html#a4054e2d2dc53b9b0c2fd26898781af89" title="AC_PosControl::get\l_stopping_point_xy" alt="" coords="1067,1196,1205,1237"/>
+<area shape="rect" id="node164" href="$classAC__PosControl.html#a67ab9069d0e7a0e3890c48c7c396b109" title="get_distance_to_target &#45; get horizontal distance to position target in cm (used for reporting) ..." alt="" coords="857,1554,996,1596"/>
+<area shape="rect" id="node165" href="$classAC__PosControl.html#ae2897de0075f8f8aaa94eb7e8cad100b" title="xyz velocity controller " alt="" coords="1067,2166,1205,2208"/>
+<area shape="rect" id="node180" href="$classAC__PosControl.html#ad89eec74ef77005f3f5c449da98ad12c" title="AC_PosControl::update\l_vel_controller_xyz" alt="" coords="847,1620,1007,1661"/>
+<area shape="rect" id="node80" href="$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="AP_HAL::millis" alt="" coords="1550,2631,1661,2658"/>
+<area shape="rect" id="node81" href="$namespaceAP__HAL.html#a59336c5fceaf28a76d1df1581a87a25d" title="AP_HAL::millis64" alt="" coords="2060,2850,2185,2876"/>
+<area shape="rect" id="node82" href="$classLinux_1_1Scheduler.html#a53ecaae0fdc72f85bd57c4b0cff93653" title="Linux::Scheduler::from" alt="" coords="2277,2760,2430,2787"/>
+<area shape="rect" id="node107" href="$classLinux_1_1Scheduler.html#a682b4c34f330f66db5ab4aa5d96e13f9" title="Linux::Scheduler::stopped\l_clock_usec" alt="" coords="2267,3142,2440,3184"/>
+<area shape="rect" id="node83" href="$classLinux_1_1Scheduler.html#a3d77c332e051c28c83fb07757e7100bd" title="Linux::Scheduler::init" alt="" coords="2506,2422,2650,2448"/>
+<area shape="rect" id="node87" href="$classLinux_1_1Scheduler.html#a02a34a123dfebaf360f7010745e1e646" title="Linux::Scheduler::register\l_timer_process" alt="" coords="2726,2429,2897,2470"/>
+<area shape="rect" id="node90" href="$classLinux_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="Linux::Scheduler::delay" alt="" coords="2499,3099,2657,3126"/>
+<area shape="rect" id="node92" href="$classLinux_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="Linux::Scheduler::delay\l_microseconds" alt="" coords="2499,3033,2657,3074"/>
+<area shape="rect" id="node93" href="$classLinux_1_1Scheduler.html#a5cb50b637d5fd3e5f9220bc23db0fb3f" title="Linux::Scheduler::register\l_delay_callback" alt="" coords="2493,2902,2663,2944"/>
+<area shape="rect" id="node94" href="$classLinux_1_1Scheduler.html#aa2be97cb8686d72cc322fb38f69a940c" title="Linux::Scheduler::register\l_io_process" alt="" coords="2493,2305,2663,2346"/>
+<area shape="rect" id="node95" href="$classLinux_1_1Scheduler.html#abba967d02c28cb0b16a7cebbff9bc6d6" title="Linux::Scheduler::suspend\l_timer_procs" alt="" coords="2490,2524,2666,2565"/>
+<area shape="rect" id="node98" href="$classLinux_1_1Scheduler.html#aee4e701b92cb4721c4de1bfcdcded70c" title="Linux::Scheduler::resume\l_timer_procs" alt="" coords="2493,2654,2663,2696"/>
+<area shape="rect" id="node100" href="$classLinux_1_1Scheduler.html#af23753e7c6bfa97553db215a64235455" title="Linux::Scheduler::in\l_timerprocess" alt="" coords="2509,2968,2647,3009"/>
+<area shape="rect" id="node101" href="$classLinux_1_1Scheduler.html#ac193459e3575c7a0588fdc72250c2044" title="Linux::Scheduler::register\l_timer_failsafe" alt="" coords="2493,2785,2663,2826"/>
+<area shape="rect" id="node102" href="$classLinux_1_1Scheduler.html#ad6070a7ee637adf5101b1e6b6efbf8f6" title="Linux::Scheduler::system\l_initialized" alt="" coords="2493,2720,2663,2761"/>
+<area shape="rect" id="node104" href="$classLinux_1_1Scheduler.html#ae72cfa66c849ffd882ef518c35c71e69" title="Linux::Scheduler::reboot" alt="" coords="2497,2851,2659,2878"/>
+<area shape="rect" id="node105" href="$classLinux_1_1Scheduler.html#a392aebafcdfe9a812e4db4b7a9dcce9c" title="Linux::Scheduler::stop\l_clock" alt="" coords="2502,2589,2654,2630"/>
+<area shape="rect" id="node84" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="2755,2704,2867,2731"/>
+<area shape="rect" id="node88" href="$classLinux_1_1Scheduler.html#a163eb7b285c95b1b1d036fc61d723910" title="Linux::Scheduler::\l_debug_stack" alt="" coords="2748,2364,2875,2405"/>
+<area shape="rect" id="node85" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="2955,2726,3145,2752"/>
+<area shape="rect" id="node86" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="3200,2649,3347,2690"/>
+<area shape="rect" id="node89" href="$classLinux_1_1Thread.html#a6884970a0811ae21953c57fb98aa6e96" title="Linux::Thread::get\l_stack_usage" alt="" coords="2987,2364,3113,2405"/>
+<area shape="rect" id="node91" href="$classLinux_1_1Scheduler.html#a647872aff158b510c56862f51f951538" title="Linux::Scheduler::microsleep" alt="" coords="2716,3099,2907,3126"/>
+<area shape="rect" id="node96" href="$classLinux_1_1Semaphore.html#afc4c8706abb7e68aa4001ea372dc614e" title="Linux::Semaphore::take" alt="" coords="2970,2574,3130,2600"/>
+<area shape="rect" id="node97" href="$classLinux_1_1Semaphore.html#a561b4f40f3a76335f1a686c2aed526f9" title="Linux::Semaphore::take\l_nonblocking" alt="" coords="3193,2566,3353,2608"/>
+<area shape="rect" id="node99" href="$classLinux_1_1Semaphore.html#a216f91636f64b57b59d43ef64af91624" title="Linux::Semaphore::give" alt="" coords="2971,2624,3129,2651"/>
+<area shape="rect" id="node103" href="$classLinux_1_1Scheduler.html#ac52c8da3f1f4fd79c50bd64379daf399" title="Linux::Scheduler::\l_wait_all_threads" alt="" coords="2748,2756,2875,2797"/>
+<area shape="rect" id="node106" href="$classLinux_1_1Scheduler.html#a70b024d7d0886bf47b46cc3ee310d638" title="Linux::Scheduler::\l_run_io" alt="" coords="2748,2588,2875,2629"/>
+<area shape="rect" id="node108" href="$classLinux_1_1Scheduler.html#ab373a83d818679432520ea881044b2a7" title="Linux::Scheduler::teardown" alt="" coords="2488,3200,2668,3227"/>
+<area shape="rect" id="node109" href="$classLinux_1_1PeriodicThread.html#a136aaf6e713f63b246fc4a2905e6e9a1" title="Linux::PeriodicThread\l::stop" alt="" coords="2737,3226,2885,3268"/>
+<area shape="rect" id="node110" href="$classLinux_1_1Thread.html#a32b7d184279634922e2f3b23b584fbcd" title="Linux::Thread::join" alt="" coords="2747,3175,2876,3202"/>
+<area shape="rect" id="node112" href="$classAC__PosControl.html#adcd8a80dc29c0e77d0c3f225689319b9" title="check for ekf position reset and adjust loiter or brake target position " alt="" coords="1058,1917,1214,1958"/>
+<area shape="rect" id="node115" href="$classAC__PosControl.html#ac4f923c39399266568b9ae9419a0596f" title="AC_PosControl::calc\l_leash_length_xy" alt="" coords="1063,1261,1209,1302"/>
+<area shape="rect" id="node118" href="$classAC__PosControl.html#ae717003af936b0d465b82d150d611963" title="desired_vel_to_pos &#45; move position target using desired velocities " alt="" coords="1055,1496,1217,1537"/>
+<area shape="rect" id="node119" href="$classAC__PosControl.html#a3a8f35e4cc0c50f6d0bb663966e47830" title="AC_PosControl::pos\l_to_rate_xy" alt="" coords="1065,876,1207,917"/>
+<area shape="rect" id="node123" href="$classAC__PosControl.html#a5b3282ea40c7d2ef6d44e51670094ccf" title="AC_PosControl::rate\l_to_accel_xy" alt="" coords="1534,1538,1677,1580"/>
+<area shape="rect" id="node131" href="$classAC__PosControl.html#ab7a53930119bbcbb951f982fcb8d3ce1" title="AC_PosControl::accel\l_to_lean_angles" alt="" coords="1060,1430,1212,1472"/>
+<area shape="rect" id="node113" href="$classAP__AHRS__View.html#aece6c9bacb017a76fdc659fa0c38b0f3" title="AP_AHRS_View::getLastPos\lNorthEastReset" alt="" coords="1508,2166,1703,2208"/>
+<area shape="rect" id="node114" href="$classAP__AHRS.html#aa185cf9c48e53ea7d3738160aee7eed7" title="AP_AHRS::getLastPosNorth\lEastReset" alt="" coords="1769,2169,1960,2210"/>
+<area shape="rect" id="node116" href="$classAC__PosControl.html#a92e0998be57c8a917a7a7514c542e314" title="calc_leash_length &#45; calculates the horizontal leash length given a maximum speed, acceleration and po..." alt="" coords="1792,1137,1937,1178"/>
+<area shape="rect" id="node117" href="$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title="AC_P::kP" alt="" coords="2082,1035,2163,1062"/>
+<area shape="rect" id="node120" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="2553,123,2603,150"/>
+<area shape="rect" id="node122" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="2540,1058,2616,1084"/>
+<area shape="rect" id="node121" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="2792,488,2831,515"/>
+<area shape="rect" id="node124" href="$classAP__InertialNav.html#a5bfad40c8a4e0ca98aa09c80e17c4ff5" title="AP_InertialNav::get\l_velocity" alt="" coords="1797,1834,1933,1876"/>
+<area shape="rect" id="node125" href="$classAC__PI__2D.html#a2aeddba42e425e6e02264165220b11d8" title="AC_PI_2D::set_input" alt="" coords="1791,1536,1938,1563"/>
+<area shape="rect" id="node126" href="$classAC__PI__2D.html#aa8564949b84f613cad26c7b9f557bb3e" title="AC_PI_2D::get_p" alt="" coords="1802,1587,1927,1614"/>
+<area shape="rect" id="node127" href="$classAC__PI__2D.html#af464bd8936fccc9a0b11ab183e9ca384" title="AC_PI_2D::get_i" alt="" coords="1804,883,1925,910"/>
+<area shape="rect" id="node129" href="$classAC__PI__2D.html#ae8bc307e280fa7d11b67742491223fb1" title="AC_PI_2D::get_i_shrink" alt="" coords="1783,1718,1946,1744"/>
+<area shape="rect" id="node128" href="$structVector2.html#ad8ebafde96f43521d3647e2552387529" title="Vector2::length" alt="" coords="2067,199,2178,226"/>
+<area shape="rect" id="node130" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="2099,1696,2146,1723"/>
+<area shape="rect" id="node132" href="$classAC__AttitudeControl.html#a080c9527e2d43eac62e370fbe61eaa8d" title="AC_AttitudeControl\l::lean_angle_max" alt="" coords="1295,737,1430,778"/>
+<area shape="rect" id="node137" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="2069,778,2176,804"/>
+<area shape="rect" id="node158" href="$classAC__AttitudeControl.html#a220fe227ccb42eb825a2384abd9c0199" title="AC_AttitudeControl\l::get_althold_lean_angle_max" alt="" coords="1265,1496,1460,1537"/>
+<area shape="rect" id="node159" href="$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title="LowPassFilter::reset" alt="" coords="1793,1951,1936,1978"/>
+<area shape="rect" id="node160" href="$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title="LowPassFilter::set\l_cutoff_frequency" alt="" coords="1297,1561,1428,1602"/>
+<area shape="rect" id="node161" href="$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title="LowPassFilter::apply" alt="" coords="1793,2002,1937,2028"/>
+<area shape="rect" id="node133" href="$classAC__AttitudeControl.html#a1788967db1aa0dfe68fad24da23947f9" title="AC_AttitudeControl\l::sqrt_controller" alt="" coords="2055,1086,2190,1128"/>
+<area shape="rect" id="node134" href="$classAC__AttitudeControl.html#afa869e8bd4c6ac9daf0ed1fd2183fdcd" title="AC_AttitudeControl\l::stopping_point" alt="" coords="2055,250,2190,292"/>
+<area shape="rect" id="node135" href="$classAC__AttitudeControl.html#a03245625396636623c11ea16684ee520" title="AC_AttitudeControl\l::input_shaping_angle" alt="" coords="1791,766,1939,808"/>
+<area shape="rect" id="node138" href="$classAC__AttitudeControl.html#a487ae25932f8af4c950cc1458ed7207f" title="AC_AttitudeControl\l::input_shaping_ang_vel" alt="" coords="1524,708,1687,749"/>
+<area shape="rect" id="node139" href="$classAC__AttitudeControl.html#ad0e622b7b55c98192065766de8fab3af" title="AC_AttitudeControl\l::euler_accel_limit" alt="" coords="1797,1769,1932,1810"/>
+<area shape="rect" id="node140" href="$classAC__AttitudeControl.html#a36d027a3fc3c3c002d7490367688d1ea" title="AC_AttitudeControl\l::thrust_heading_rotation\l_angles" alt="" coords="1782,351,1947,407"/>
+<area shape="rect" id="node147" href="$classAC__AttitudeControl.html#a7b9cf8568575052931b43054717b4f87" title="AC_AttitudeControl\l::attitude_controller\l_run_quat" alt="" coords="1538,628,1673,684"/>
+<area shape="rect" id="node136" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="2543,640,2613,667"/>
+<area shape="rect" id="node141" href="$classQuaternion.html#afb7132c9c69a984a40be950a17effeaa" title="Quaternion::rotation\l_matrix" alt="" coords="2055,484,2191,525"/>
+<area shape="rect" id="node142" href="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3::length" alt="" coords="2298,148,2409,175"/>
+<area shape="rect" id="node143" href="$classQuaternion.html#a6c21fe33378aa16a33cba869ba4af5dc" title="Quaternion::from_axis\l_angle" alt="" coords="2047,316,2198,357"/>
+<area shape="rect" id="node144" href="$classQuaternion.html#a0df66e20ea437eb346f8852690ede6a9" title="Quaternion::inverse" alt="" coords="2055,382,2190,408"/>
+<area shape="rect" id="node146" href="$classQuaternion.html#aa4262462e1c1217fd3bd97b6421dd318" title="Quaternion::to_axis\l_angle" alt="" coords="2055,549,2190,590"/>
+<area shape="rect" id="node145" href="$classQuaternion.html#abcc01358aada56ea5f0db4da18aaf77d" title="Quaternion::Quaternion" alt="" coords="2275,382,2431,408"/>
+<area shape="rect" id="node148" href="$classQuaternion.html#a5ee01ee833114be6181887d0dcfb33b1" title="Quaternion::from_rotation\l_matrix" alt="" coords="1780,584,1949,625"/>
+<area shape="rect" id="node149" href="$classAP__AHRS__View.html#ab5593b92f3931a696a3fa8e5f38013b0" title="AP_AHRS_View::get_rotation\l_body_to_ned" alt="" coords="1766,649,1963,690"/>
+<area shape="rect" id="node150" href="$classAC__AttitudeControl.html#a6b2d7587c8e5f67432bfc0d306ad9fdc" title="AC_AttitudeControl\l::update_ang_vel_target\l_from_att_error" alt="" coords="1784,1406,1945,1462"/>
+<area shape="rect" id="node154" href="$classAP__AHRS__View.html#aa83be8ece5cb8f54f9f7eba7839588b6" title="AP_AHRS_View::get_gyro" alt="" coords="1775,1486,1954,1512"/>
+<area shape="rect" id="node156" href="$classQuaternion.html#a48e6bafb249c895ed25f29dc9170e11e" title="Quaternion::normalize" alt="" coords="2048,615,2197,642"/>
+<area shape="rect" id="node151" href="$classAC__AttitudeControl.html#a5a8d0a611d7791820332b37079bdc306" title="AC_AttitudeControl\l::get_accel_roll_max_radss" alt="" coords="2032,1282,2213,1324"/>
+<area shape="rect" id="node152" href="$classAC__AttitudeControl.html#abae95a10026ec6871f01b3e4c0919ea3" title="AC_AttitudeControl\l::get_accel_pitch_max_radss" alt="" coords="2027,1348,2219,1389"/>
+<area shape="rect" id="node153" href="$classAC__AttitudeControl.html#a445cb2fecd81068727882285bf839807" title="AC_AttitudeControl\l::get_accel_yaw_max_radss" alt="" coords="2029,1413,2217,1454"/>
+<area shape="rect" id="node155" href="$classAP__AHRS__View.html#aec99fce6a0287cfe2542ed2b7459d4d1" title="AP_AHRS_View::get_gyro\l_latest" alt="" coords="2033,1478,2212,1520"/>
+<area shape="rect" id="node157" href="$classQuaternion.html#a6f5e82dd828c59392a3133d6d5877f39" title="Quaternion::length" alt="" coords="2289,543,2417,570"/>
+<area shape="rect" id="node166" href="$classAC__PosControl.html#a146634dd74332c97600e933213a75d5a" title="AC_PosControl::lean\l_angles_to_accel" alt="" coords="1290,2362,1435,2404"/>
+<area shape="rect" id="node168" href="$classAC__PI__2D.html#a8ac4814c01feeaf004cb2b51de479cc5" title="AC_PI_2D::set_integrator" alt="" coords="1277,2530,1449,2556"/>
+<area shape="rect" id="node169" href="$classAC__PosControl.html#a4ba57bbeb61365135b713ed19b5aba35" title="set_alt_target &#45; set altitude target in cm above home " alt="" coords="1536,2488,1675,2529"/>
+<area shape="rect" id="node175" href="$classAC__PosControl.html#a26ec8e9313b7c01fa449ba4f2d194d28" title="AC_PosControl::set\l_desired_velocity" alt="" coords="1293,2049,1432,2090"/>
+<area shape="rect" id="node176" href="$classAC__PosControl.html#a85a901d243ace613341b084dec4cc816" title="initialise and check for ekf position resets " alt="" coords="1293,2166,1432,2208"/>
+<area shape="rect" id="node177" href="$classAC__PosControl.html#aaba369d68aee2f1a4f1a4dcdb96c6f0c" title="initialise ekf z axis reset check " alt="" coords="1293,2297,1432,2338"/>
+<area shape="rect" id="node167" href="$AP__Math_8h.html#a5c0b5c82749ac54970b2699d3c10ee9b" title="MAX" alt="" coords="1580,2436,1631,2463"/>
+<area shape="rect" id="node170" href="$classAC__PosControl.html#abdf36318a7f50bebb43db11450dcbb1b" title="AC_PosControl::set\l_alt_target_with_slew" alt="" coords="1791,2340,1939,2381"/>
+<area shape="rect" id="node172" href="$classAC__PosControl.html#aeb1a00e1e1eba467a1fb6aec60c2a03d" title="AC_PosControl::set\l_alt_target_from_climb_rate" alt="" coords="1773,2573,1956,2614"/>
+<area shape="rect" id="node173" href="$classAC__PosControl.html#ab155864e4b4d10d2542d2444c2156ff0" title="AC_PosControl::set\l_alt_target_from_climb\l_rate_ff" alt="" coords="1787,1638,1942,1694"/>
+<area shape="rect" id="node174" href="$classAC__PosControl.html#aea37a59cb777a85e230e141957e6dd8c" title="AC_PosControl::add\l_takeoff_climb_rate" alt="" coords="1793,2508,1936,2549"/>
+<area shape="rect" id="node171" href="$classAP__InertialNav.html#ac47da3c171cdcaabb4bc3a2749762461" title="AP_InertialNav::get\l_altitude" alt="" coords="2055,2504,2191,2545"/>
+<area shape="rect" id="node178" href="$classAP__AHRS__View.html#a26c40a71ff04297ec75f7fbcf0cc89ad" title="AP_AHRS_View::getLastPos\lDownReset" alt="" coords="1508,2370,1703,2412"/>
+<area shape="rect" id="node179" href="$classAP__AHRS.html#a943d914cf96c8e823f73249758e39209" title="AP_AHRS::getLastPosDownReset" alt="" coords="1751,2456,1979,2483"/>
+<area shape="rect" id="node181" href="$classAC__PosControl.html#ab4a37d0f0ce8ea8038758158f8d06562" title="AC_PosControl::get\l_dt_xy" alt="" coords="1067,1561,1205,1602"/>
+<area shape="rect" id="node184" href="$classAC__PosControl.html#af9c555a3b07ea1420ea28e7333379941" title="update_z_controller &#45; fly to altitude in cm above home " alt="" coords="1056,1780,1216,1821"/>
+<area shape="rect" id="node182" href="$classAC__PosControl.html#a4d39e0c0d33f5f6ca20461ad64982e8f" title="AC_PosControl::set\l_speed_z" alt="" coords="1293,1378,1432,1420"/>
+<area shape="rect" id="node183" href="$classAC__PosControl.html#acac2980eb3698791d55ca8fa260ab5af" title="AC_PosControl::calc\l_leash_length_z" alt="" coords="1533,1196,1678,1237"/>
+<area shape="rect" id="node185" href="$classAC__PosControl.html#a6e28625ae3a633cd363c467f71d089a3" title="check for ekf position reset and adjust loiter or brake target position " alt="" coords="1285,2232,1441,2273"/>
+<area shape="rect" id="node188" href="$classAC__PosControl.html#adaf1679fb65c1bef02180409dcd96cad" title="AC_PosControl::pos\l_to_rate_z" alt="" coords="1291,1780,1434,1821"/>
+<area shape="rect" id="node186" href="$classAC__PosControl.html#add9f8e5a5f3e35c0e99ddc3af4d9090b" title="shift altitude target (positive means move altitude up) " alt="" coords="1532,2232,1679,2273"/>
+<area shape="rect" id="node187" href="$classAC__PosControl.html#aa979d20c99f08a96d0f482c1dad50f78" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="1771,2288,1958,2315"/>
+<area shape="rect" id="node189" href="$classAC__PosControl.html#a7f2e50bce46c82e024fb47a288b2ffb2" title="AC_PosControl::rate\l_to_accel_z" alt="" coords="1534,1834,1677,1876"/>
+<area shape="rect" id="node190" href="$classAC__PosControl.html#a326002cec926ea659f8c06273c09513c" title="AC_PosControl::accel\l_to_throttle" alt="" coords="1789,2104,1941,2145"/>
+<area shape="rect" id="node191" href="$classAP__AHRS__View.html#a30dcc3814e306d0492b335d14ca35eba" title="AP_AHRS_View::get_accel\l_ef_blended" alt="" coords="2030,2133,2215,2174"/>
+<area shape="rect" id="node192" href="$classAC__PID.html#ac267330f1299f011febcaaba47994af7" title="AC_PID::set_input_filter_all" alt="" coords="2031,2199,2215,2226"/>
+<area shape="rect" id="node193" href="$classAC__PID.html#a3f727ab395b401474027b6b9efcab5a3" title="AC_PID::set_desired_rate" alt="" coords="2035,2250,2210,2276"/>
+<area shape="rect" id="node194" href="$classAC__PID.html#a4808bb2656a1e8d94c713e58a7a2a222" title="AC_PID::get_p" alt="" coords="2067,2300,2178,2327"/>
+<area shape="rect" id="node195" href="$classAC__PID.html#a0fc275cae5ff46799af85af551c65870" title="AC_PID::get_integrator" alt="" coords="2043,2351,2202,2378"/>
+<area shape="rect" id="node196" href="$classAP__Motors.html#a6641c5398dea1388547dff3db5d95a86" title="AP_Motors::get_throttle\l_hover" alt="" coords="2043,1900,2203,1941"/>
+<area shape="rect" id="node197" href="$classAC__PID.html#a78d399f4731c6c4e0a1f9a4421b6c066" title="AC_PID::imax" alt="" coords="2069,1966,2176,1992"/>
+<area shape="rect" id="node198" href="$classAC__PID.html#a2d5bf9811a78c93a396ec1e37ae6fa0a" title="AC_PID::get_i" alt="" coords="2069,1848,2176,1875"/>
+<area shape="rect" id="node199" href="$classAC__PID.html#ad0c0510049ea37401920792e843bec86" title="AC_PID::get_d" alt="" coords="2067,2016,2178,2043"/>
+<area shape="rect" id="node200" href="$classAC__AttitudeControl.html#afb7047fed5ca67153e98c7369b3b9cd7" title="AC_AttitudeControl\l::set_throttle_out" alt="" coords="2055,2068,2190,2109"/>
+</map>

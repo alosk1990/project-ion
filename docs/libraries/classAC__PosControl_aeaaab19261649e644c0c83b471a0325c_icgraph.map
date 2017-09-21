@@ -1,0 +1,11 @@
+<map id="AC_PosControl::is_active_z" name="AC_PosControl::is_active_z">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a9113b44ed876dd2d9a326eb59f3d625a" title="AC_PosControl::get\l_alt_target" alt="" coords="689,23,828,65"/>
+<area shape="rect" id="node6" href="$classAC__PosControl.html#a20ac6348cbb9a1ac803c626c91ec93e5" title="get_stopping_point_z &#45; calculates stopping point based on current position, velocity, vehicle acceleration " alt="" coords="240,82,379,123"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a8542028b741ca81881b9e00d42cc2eea" title="get_desired_alt &#45; get desired altitude (in cm above home) from loiter or wp controller which should b..." alt="" coords="876,5,1067,32"/>
+<area shape="rect" id="node4" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller " alt="" coords="907,56,1036,83"/>
+<area shape="rect" id="node5" href="$classAC__Circle.html#a176fe6b798510eb180d35f62d7f6487c" title="get_angle_total &#45; return total angle in radians that vehicle has circled " alt="" coords="1115,49,1261,90"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#a8caabd95cf51512456cd8d81f38dbff9" title="AC_WPNav::set_spline\l_destination" alt="" coords="453,82,615,123"/>
+<area shape="rect" id="node8" href="$classAC__PosControl.html#a51caffd56dd27f42595df30f63cd1eaa" title="set_target_to_stopping_point_z &#45; sets altitude target to reasonable stopping altitude in cm above hom..." alt="" coords="465,147,603,203"/>
+<area shape="rect" id="node10" href="$classAC__WPNav.html#a38519fcac3a24cf64ec7c37e90fc3e13" title="AC_WPNav::set_wp_destination" alt="" coords="427,227,641,253"/>
+<area shape="rect" id="node9" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="705,161,812,188"/>
+</map>

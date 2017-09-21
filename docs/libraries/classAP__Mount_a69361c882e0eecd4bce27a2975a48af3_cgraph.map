@@ -1,0 +1,38 @@
+<map id="AP_Mount::control_msg" name="AP_Mount::control_msg">
+<area shape="rect" id="node2" href="$classAP__Mount.html#a6b565b09fd7fa730f2d3f10a5c30ac7d" title="AP_Mount::handle_param\l_value" alt="" coords="217,133,389,174"/>
+<area shape="rect" id="node4" href="$classAP__Mount.html#af1e028172157b9ab0f818a9f93b565b0" title="AP_Mount::handle_gimbal\l_report" alt="" coords="216,198,391,239"/>
+<area shape="rect" id="node6" href="$classAP__Mount.html#af8f376cbf1c77af36fc4603921c5bb7a" title="AP_Mount::send_gimbal\l_report" alt="" coords="221,263,385,305"/>
+<area shape="rect" id="node36" href="$classAP__Mount.html#a8d86d7ee199f05160f10e6f34759523e" title="Return mount status information. " alt="" coords="224,329,383,356"/>
+<area shape="rect" id="node3" href="$classAP__Mount__Backend.html#a4d7cdf8450d0074f76ac69b9b5b13a46" title="AP_Mount_Backend::handle\l_param_value" alt="" coords="454,133,641,174"/>
+<area shape="rect" id="node5" href="$classAP__Mount__Backend.html#a0a623795006c1c9061d590c5ab3e042e" title="AP_Mount_Backend::handle\l_gimbal_report" alt="" coords="454,198,641,239"/>
+<area shape="rect" id="node7" href="$classAP__Mount__Backend.html#a19ece637981745522a93411a83f0d62d" title="AP_Mount_Backend::send\l_gimbal_report" alt="" coords="459,263,636,305"/>
+<area shape="rect" id="node8" href="$classAP__Mount__Backend.html#ab4be0d28626c019ba59dc179f728c9c9" title="AP_Mount_Backend::update\l_targets_from_rc" alt="" coords="704,174,892,215"/>
+<area shape="rect" id="node16" href="$classAP__Mount__Backend.html#a7cbf9f6695f80998e1cc39b9a3a5a0ae" title="AP_Mount_Backend::angle\l_input_rad" alt="" coords="940,230,1120,271"/>
+<area shape="rect" id="node17" href="$classAP__Mount__Backend.html#aca1f2d5e9e859d8458772006a5e9a178" title="AP_Mount_Backend::angle\l_input" alt="" coords="1168,270,1348,311"/>
+<area shape="rect" id="node22" href="$classAP__Mount__Backend.html#a4277879b4b95abe393ab963a527dc82d" title="AP_Mount_Backend::calc\l_angle_to_location" alt="" coords="711,386,885,427"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="977,128,1083,155"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a75b14352ec1c95a8276af9a0813cfdc3" title="radians" alt="" coords="1226,179,1290,205"/>
+<area shape="rect" id="node10" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1201,107,1315,133"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1416,5,1567,32"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1408,56,1575,83"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1410,107,1573,133"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1404,157,1579,184"/>
+<area shape="rect" id="node18" href="$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="1405,208,1578,235"/>
+<area shape="rect" id="node19" href="$classRC__Channel.html#af03023765299095f9933ac8db99cd571" title="RC_Channel::get_radio_in" alt="" coords="1404,259,1579,285"/>
+<area shape="rect" id="node20" href="$classRC__Channel.html#a28435fa792b2a6e187eb8c08d88b929c" title="RC_Channel::get_radio_min" alt="" coords="1398,309,1585,336"/>
+<area shape="rect" id="node21" href="$classRC__Channel.html#a8e742b258b4b600ec69fa4c5580df20a" title="RC_Channel::get_radio_max" alt="" coords="1396,360,1587,387"/>
+<area shape="rect" id="node23" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="1005,368,1055,395"/>
+<area shape="rect" id="node25" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="980,419,1080,445"/>
+<area shape="rect" id="node26" href="$AP__Math_8cpp.html#a21d0562d7b23dd9f04bc30a3611cc577" title="wrap_PI" alt="" coords="995,537,1065,564"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="1239,368,1277,395"/>
+<area shape="rect" id="node27" href="$AP__Math_8cpp.html#aa66b7eae8d7e99247c6a2b3d2b5c7b8d" title="wrap_2PI" alt="" coords="1219,461,1297,488"/>
+<area shape="rect" id="node32" href="$AP__Math_8cpp.html#a044023fcfa899d449f5a219ca7596ca4" title="wrap_PI\&lt; int \&gt;" alt="" coords="1204,512,1312,539"/>
+<area shape="rect" id="node33" href="$AP__Math_8cpp.html#ad0041912c2965b653fa9cf6854e47bc8" title="wrap_PI\&lt; short \&gt;" alt="" coords="1197,563,1319,589"/>
+<area shape="rect" id="node34" href="$AP__Math_8cpp.html#a789e7d40c173a1fab6560d1b61609952" title="wrap_PI\&lt; float \&gt;" alt="" coords="1199,613,1317,640"/>
+<area shape="rect" id="node35" href="$AP__Math_8cpp.html#a66b3a8191d62a34f4d673d5c62d8d1cf" title="wrap_PI\&lt; double \&gt;" alt="" coords="1192,664,1324,691"/>
+<area shape="rect" id="node28" href="$AP__Math_8cpp.html#a50a4ded454375642e1944882b01a1ae5" title="wrap_2PI\&lt; int \&gt;" alt="" coords="1434,411,1549,437"/>
+<area shape="rect" id="node29" href="$AP__Math_8cpp.html#aaf8ce7d4f9e3837bdbd5aac6545b4000" title="wrap_2PI\&lt; short \&gt;" alt="" coords="1426,461,1557,488"/>
+<area shape="rect" id="node30" href="$AP__Math_8cpp.html#a7182302503c136742396e3057b680dc7" title="wrap_2PI\&lt; float \&gt;" alt="" coords="1428,512,1555,539"/>
+<area shape="rect" id="node31" href="$AP__Math_8cpp.html#a0b4be48e39c65e97084146b9f1d22c00" title="wrap_2PI\&lt; double \&gt;" alt="" coords="1422,563,1561,589"/>
+<area shape="rect" id="node37" href="$classAP__Mount__Backend.html#a512837456aab67a48c108c10d07d101a" title="AP_Mount_Backend::status_msg" alt="" coords="439,329,656,356"/>
+</map>

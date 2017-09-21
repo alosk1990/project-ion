@@ -1,0 +1,15 @@
+<map id="AP_InertialSensor_PX4::_init_sensor" name="AP_InertialSensor_PX4::_init_sensor">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__PX4.html#a741122dbb9c2c53f63d42d0719424a65" title="AP_InertialSensor_PX4\l::_queue_depth" alt="" coords="212,71,371,112"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="455,195,567,222"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor.html#aa112654466199fa7ba51b2471fefdbd7" title="AP_InertialSensor::\lregister_gyro" alt="" coords="224,188,359,229"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor.html#a17706ae4e3ef55200ee8b1e5c4ead7ec" title="AP_InertialSensor::\lregister_accel" alt="" coords="224,253,359,295"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Backend.html#a28b3bb23c5310c8691b897875523d75c" title="AP_InertialSensor_Backend\l::get_sample_rate_hz" alt="" coords="419,71,604,112"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="652,166,843,193"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="674,217,821,259"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="893,5,1055,47"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="893,71,1055,112"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="893,137,1055,163"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="896,188,1052,229"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="896,253,1052,295"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="891,319,1057,360"/>
+</map>

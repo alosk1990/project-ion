@@ -1,0 +1,13 @@
+<map id="AC_Avoid::get_max_speed" name="AC_Avoid::get_max_speed">
+<area shape="rect" id="node2" href="$classAC__Avoid.html#ab17bec0b2b5b58be5d4686d680a68a6a" title="AC_Avoid::adjust_velocity\l_circle_fence" alt="" coords="473,5,649,47"/>
+<area shape="rect" id="node8" href="$classAC__Avoid.html#a951c0fa76621cd6ab06d0aa8138392dd" title="AC_Avoid::adjust_velocity_z" alt="" coords="235,63,425,90"/>
+<area shape="rect" id="node9" href="$classAC__Avoid.html#a888f3551abae1ca6982f69ee8a42d09a" title="AC_Avoid::limit_velocity" alt="" coords="247,114,413,141"/>
+<area shape="rect" id="node3" href="$classAC__Avoid.html#abee541d127ce0da1fe6be54f987a0779" title="AC_Avoid::adjust_velocity" alt="" coords="921,71,1097,98"/>
+<area shape="rect" id="node4" href="$classAC__Avoid.html#a95e227fdefd6f8c85b4d4888cad8993f" title="AC_Avoid::adjust_velocity" alt="" coords="1145,42,1321,69"/>
+<area shape="rect" id="node5" href="$classAC__WPNav.html#a3dbf7bda89b127cdc81bca29e2af25de" title="AC_WPNav::calc_loiter\l_desired_velocity" alt="" coords="1153,93,1314,135"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="1369,101,1545,127"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#ae34a88192799de8f2b96c8cd295bb971" title="get_loiter_target &#45; returns loiter target position " alt="" coords="1593,93,1748,135"/>
+<area shape="rect" id="node10" href="$classAC__Avoid.html#a5df9ee3c2b9a75e430ba4e52060c51d5" title="AC_Avoid::adjust_velocity\l_polygon" alt="" coords="473,107,649,148"/>
+<area shape="rect" id="node11" href="$classAC__Avoid.html#ac02a966259c9abb5ca2e5e4ee8e72d91" title="AC_Avoid::adjust_velocity\l_polygon_fence" alt="" coords="697,64,873,105"/>
+<area shape="rect" id="node12" href="$classAC__Avoid.html#aac95ba12099c07f5b9c6bfd5f7cee4b2" title="AC_Avoid::adjust_velocity\l_proximity" alt="" coords="697,129,873,171"/>
+</map>

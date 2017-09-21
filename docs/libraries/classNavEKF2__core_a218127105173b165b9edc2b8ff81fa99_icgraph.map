@@ -1,0 +1,14 @@
+<map id="NavEKF2_core::recordMagReset" name="NavEKF2_core::recordMagReset">
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#af6d172634e15ba1643bf4c53c390f5e2" title="NavEKF2_core::calcQuatAnd\lFieldStates" alt="" coords="268,89,463,131"/>
+<area shape="rect" id="node3" href="$classNavEKF2__core.html#a3989e564224adfa26b0e32a5a03aca10" title="NavEKF2_core::controlMag\lYawReset" alt="" coords="511,89,693,131"/>
+<area shape="rect" id="node4" href="$classNavEKF2__core.html#aa0f6cd840e93e0233f056c88ce45ef85" title="NavEKF2_core::SelectMagFusion" alt="" coords="741,97,961,123"/>
+<area shape="rect" id="node5" href="$classNavEKF2__core.html#a5f5c815cbd5ebba30d731f89f87726c3" title="NavEKF2_core::UpdateFilter" alt="" coords="1009,97,1200,123"/>
+<area shape="rect" id="node6" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="1248,97,1407,123"/>
+<area shape="rect" id="node7" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="1491,71,1648,98"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1455,122,1684,149"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1752,5,1904,47"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1732,71,1924,98"/>
+<area shape="rect" id="node9" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1972,5,2121,47"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1733,122,1923,149"/>
+<area shape="rect" id="node13" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2023,122,2070,149"/>
+</map>

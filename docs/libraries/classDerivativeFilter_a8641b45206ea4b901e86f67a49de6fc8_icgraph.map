@@ -1,0 +1,26 @@
+<map id="DerivativeFilter::slope" name="DerivativeFilter::slope">
+<area shape="rect" id="node2" href="$classDerivativeFilter.html#a2e8ffc2fb9c018e20e425070d81fabd1" title="DerivativeFilter\&lt; float,\l 7 \&gt;::DerivativeFilter" alt="" coords="418,99,569,141"/>
+<area shape="rect" id="node3" href="$classAP__Baro.html#afd63ca7ecadb313c2217bd9f7e6a7b42" title="AP_Baro::get_climb_rate" alt="" coords="203,208,369,235"/>
+<area shape="rect" id="node24" href="$Derivative_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="263,259,309,285"/>
+<area shape="rect" id="node25" href="$classDerivativeFilter.html#a8e3b26169400476390782cf27ffc13b8" title="DerivativeFilter::reset" alt="" coords="213,157,359,184"/>
+<area shape="rect" id="node4" href="$classAP__Baro.html#a0082cb428546cdc46fe4ce12dff3e5f2" title="AP_Baro::get_altitude" alt="" coords="419,165,568,192"/>
+<area shape="rect" id="node5" href="$classDataFlash__Class.html#a4a12c2f2025e0a63d6ec85602857d0cb" title="DataFlash_Class::Log\l_Write_Baro" alt="" coords="417,217,569,258"/>
+<area shape="rect" id="node23" href="$BARO__generic_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="470,283,517,309"/>
+<area shape="rect" id="node6" href="$classNavEKF3.html#afa5a1b626563d35ad95545e8f056214b" title="NavEKF3::check_log\l_write" alt="" coords="617,74,764,115"/>
+<area shape="rect" id="node15" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1541,263,1691,305"/>
+<area shape="rect" id="node17" href="$classNavEKF2.html#a124df957952b2cb0c04e4318a173f67a" title="NavEKF2::check_log\l_write" alt="" coords="617,217,764,258"/>
+<area shape="rect" id="node7" href="$classNavEKF3.html#a07f064fa513fbb6e7188141904f3b5b5" title="NavEKF3::InitialiseFilter" alt="" coords="812,107,976,133"/>
+<area shape="rect" id="node13" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="1060,56,1217,83"/>
+<area shape="rect" id="node16" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="815,5,973,32"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="1024,5,1253,32"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="1049,107,1228,133"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__NavEKF.html#a9bd3c7f1793a48cd0d736b19fbfaf19a" title="AP_AHRS_NavEKF::reset\l_attitude" alt="" coords="1049,158,1228,199"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1303,157,1492,184"/>
+<area shape="rect" id="node10" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1593,157,1639,184"/>
+<area shape="rect" id="node14" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1321,209,1473,250"/>
+<area shape="rect" id="node18" href="$classNavEKF2.html#a9c447b8d84abf2dfc845ddbbbad46a2b" title="NavEKF2::InitialiseFilter" alt="" coords="812,173,976,200"/>
+<area shape="rect" id="node20" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="1060,275,1217,301"/>
+<area shape="rect" id="node22" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="815,224,973,251"/>
+<area shape="rect" id="node19" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1024,224,1253,251"/>
+<area shape="rect" id="node21" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1301,275,1493,301"/>
+</map>

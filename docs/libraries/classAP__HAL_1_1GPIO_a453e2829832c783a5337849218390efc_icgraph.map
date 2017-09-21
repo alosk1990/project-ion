@@ -1,0 +1,26 @@
+<map id="AP_HAL::GPIO::read" name="AP_HAL::GPIO::read">
+<area shape="rect" id="node2" href="$classAP__Camera.html#a238c424e3b23b41e513efeaa1ee7f3ea" title="AP_Camera::feedback\l_pin_timer" alt="" coords="207,5,362,47"/>
+<area shape="rect" id="node8" href="$classAP__Button.html#aba35712bc3a265fab26d9a35823537ac" title="AP_Button::get_mask" alt="" coords="209,71,360,98"/>
+<area shape="rect" id="node11" href="$classAP__LeakDetector__Digital.html#a0c95923a91c75943b5ff4e5c52cf634e" title="AP_LeakDetector_Digital\l::read" alt="" coords="200,123,369,164"/>
+<area shape="rect" id="node12" href="$classLinux_1_1DigitalSource.html#a73a1221da68489fb14cb2e1f50c97a2a" title="Linux::DigitalSource\l::read" alt="" coords="215,188,354,229"/>
+<area shape="rect" id="node14" href="$classHALSITL_1_1DigitalSource.html#a73a1221da68489fb14cb2e1f50c97a2a" title="HALSITL::DigitalSource\l::read" alt="" coords="203,253,366,295"/>
+<area shape="rect" id="node15" href="$GPIOTest_8cpp.html#aaaf9a61ce8f7b81f01a998d6690fa243" title="test_gpio_input" alt="" coords="229,319,340,346"/>
+<area shape="rect" id="node18" href="$classAP__Relay.html#acadbe252379390594091edd75953456a" title="AP_Relay::toggle" alt="" coords="223,378,347,405"/>
+<area shape="rect" id="node25" href="$classHALSITL_1_1DigitalSource.html#adb7836c18f86869e408102d33f6fe5a3" title="HALSITL::DigitalSource\l::toggle" alt="" coords="203,429,366,471"/>
+<area shape="rect" id="node3" href="$classAP__Camera.html#a52203d3c3cc7e420e58c6d0e882f35f4" title="AP_Camera::setup_feedback\l_callback" alt="" coords="417,5,611,47"/>
+<area shape="rect" id="node4" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="659,13,820,39"/>
+<area shape="rect" id="node5" href="$classAP__Camera.html#aa6b15b7f84f291994d90173332891510" title="AP_Camera::AP_Camera" alt="" coords="1292,38,1464,65"/>
+<area shape="rect" id="node6" href="$classAP__Camera.html#a3f1660c56231d66cbaa47ef6e4514f37" title="AP_Camera::control" alt="" coords="876,38,1016,65"/>
+<area shape="rect" id="node7" href="$classAP__Camera.html#a27664cf70d78d5af17d66a3d715048db" title="decode deprecated MavLink message that controls camera. " alt="" coords="1072,89,1244,115"/>
+<area shape="rect" id="node9" href="$classAP__Button.html#a7c9719c38c11ea25e67bb9afc9dae4ea" title="AP_Button::timer_update" alt="" coords="430,71,598,98"/>
+<area shape="rect" id="node10" href="$classAP__Button.html#aca0e09611ac7454783d703c75d5df288" title="AP_Button::update" alt="" coords="673,97,805,123"/>
+<area shape="rect" id="node13" href="$classLinux_1_1DigitalSource.html#adb7836c18f86869e408102d33f6fe5a3" title="Linux::DigitalSource\l::toggle" alt="" coords="445,181,583,223"/>
+<area shape="rect" id="node16" href="$classMenuCommands.html#ab97bad97421a00be4e3cbeac2025ad26" title="MenuCommands::gpio\l_input" alt="" coords="437,247,591,288"/>
+<area shape="rect" id="node17" href="$classMenuCommands.html#af2f117fe69798ce05ef750b9ab49ef41" title="MenuCommands::gpio\l_input_channel" alt="" coords="437,312,591,353"/>
+<area shape="rect" id="node19" href="$classAP__ServoRelayEvents.html#a97e7a71ad2ed00b9b4ceb20bc617be4c" title="AP_ServoRelayEvents\l::do_set_relay" alt="" coords="661,367,817,408"/>
+<area shape="rect" id="node21" href="$classAP__Relay.html#a8799e43496aadd7f713ba6a59040114f" title="AP_Relay::enabled" alt="" coords="447,429,581,455"/>
+<area shape="rect" id="node23" href="$classAP__ServoRelayEvents.html#abae99d08dbec323313058baebc468f0e" title="AP_ServoRelayEvents\l::update_events" alt="" coords="436,487,592,528"/>
+<area shape="rect" id="node20" href="$classAP__ServoRelayEvents.html#ad44dd442ccbbff357fcd6c1a37df2d47" title="AP_ServoRelayEvents\l::set_channel_mask" alt="" coords="868,461,1024,503"/>
+<area shape="rect" id="node22" href="$classAP__ServoRelayEvents.html#a7bc553c3358ab805cc1ff315ca60ff97" title="AP_ServoRelayEvents\l::do_repeat_relay" alt="" coords="661,432,817,473"/>
+<area shape="rect" id="node24" href="$classAP__ServoRelayEvents.html#af3cde3623c5f0fa9368aa46eb85f916e" title="AP_ServoRelayEvents\l::do_repeat_servo" alt="" coords="661,549,817,591"/>
+</map>

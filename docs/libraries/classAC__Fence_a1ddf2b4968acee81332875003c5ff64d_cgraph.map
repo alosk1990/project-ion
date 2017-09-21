@@ -1,0 +1,30 @@
+<map id="AC_Fence::check_destination_within_fence" name="AC_Fence::check_destination_within_fence">
+<area shape="rect" id="node2" href="$classAC__Fence.html#a233d3a13b201e30c21c6d319f73d1ab2" title="get_enabled_fences &#45; returns bitmask of enabled fences " alt="" coords="251,115,413,156"/>
+<area shape="rect" id="node3" href="$classLocation__Class.html#a94d8de310c8bdf8441c367e90d6b3f90" title="get altitude in desired frame " alt="" coords="263,180,401,221"/>
+<area shape="rect" id="node5" href="$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="702,195,853,222"/>
+<area shape="rect" id="node14" href="$location_8cpp.html#ac4acf5d14c42d6255cd005460de4d1ad" title="get_distance_cm" alt="" coords="271,297,393,323"/>
+<area shape="rect" id="node25" href="$classAP__InertialNav.html#ad5e3413a7b1422a48869b660911b3634" title="AP_InertialNav::get\l_location" alt="" coords="264,348,400,389"/>
+<area shape="rect" id="node26" href="$classAP__InertialNav.html#a0400fb5866678c5657542a4c2769839b" title="AP_InertialNav::get\l_origin" alt="" coords="264,413,400,455"/>
+<area shape="rect" id="node27" href="$location_8cpp.html#a527b26472ed6f2e0c141e109a0722a0a" title="location_diff" alt="" coords="499,463,591,490"/>
+<area shape="rect" id="node28" href="$classAC__PolyFence__loader.html#a91a6b4c5611590d524eacac2c2aeec3a" title="AC_PolyFence_loader\l::boundary_breached" alt="" coords="256,531,408,572"/>
+<area shape="rect" id="node4" href="$classLocation__Class.html#a12eedb8fc1b0f9391bc07891decf95fc" title="Location_Class::get\l_alt_frame" alt="" coords="476,129,615,171"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#a8e90dbad885e5d8d4efe9a34d635886a" title="AP_AHRS_NavEKF::get\l_origin" alt="" coords="461,64,629,105"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a702b6313fff141dced78533a4d258ab0" title="AP_AHRS::set_home" alt="" coords="947,195,1098,222"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#a2421598bfc909c228709f99347a5fcea" title="AP_AHRS_NavEKF::ekf_type" alt="" coords="677,17,877,43"/>
+<area shape="rect" id="node10" href="$classNavEKF2.html#a3109981c3d7b2e386da87b760ee61b30" title="NavEKF2::getOriginLLH" alt="" coords="696,71,859,98"/>
+<area shape="rect" id="node12" href="$classNavEKF3.html#a173b61affdfe67a2ba705ce646cfc390" title="NavEKF3::getOriginLLH" alt="" coords="696,122,859,149"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__NavEKF.html#a9af775a381a41ff78ac75a06ba7b1a05" title="AP_AHRS_NavEKF::always\l_use_EKF" alt="" coords="927,5,1118,47"/>
+<area shape="rect" id="node11" href="$classNavEKF2__core.html#a0f070d9946f12e2dd0484ba395475f95" title="NavEKF2_core::getOriginLLH" alt="" coords="925,71,1120,98"/>
+<area shape="rect" id="node13" href="$classNavEKF3__core.html#af7d59bec1dcc3663bf68de8eaf0b2856" title="NavEKF3_core::getOriginLLH" alt="" coords="925,122,1120,149"/>
+<area shape="rect" id="node15" href="$location_8cpp.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="497,314,593,341"/>
+<area shape="rect" id="node16" href="$location_8cpp.html#ad2368c582f3e0c135e2a74772f4db61a" title="longitude_scale" alt="" coords="721,430,833,457"/>
+<area shape="rect" id="node23" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="752,314,803,341"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="969,430,1076,457"/>
+<area shape="rect" id="node18" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1168,430,1281,457"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1341,354,1492,381"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1333,405,1500,431"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1335,455,1498,482"/>
+<area shape="rect" id="node22" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1329,506,1504,533"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="1003,314,1042,341"/>
+<area shape="rect" id="node29" href="$polygon_8cpp.html#a69c7755ab39f2ede645c4542b3aed07c" title="Polygon_outside" alt="" coords="486,538,605,565"/>
+</map>

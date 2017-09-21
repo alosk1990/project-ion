@@ -1,0 +1,15 @@
+<map id="AP_MotorsHeli::output_armed_zero_throttle" name="AP_MotorsHeli::output_armed_zero_throttle">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#ade550578da44ebca78eca8323870142c" title="AP_MotorsHeli::reset\l_flight_controls" alt="" coords="215,31,361,72"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#ab71c94d1850c9749dc45388b3b4578de" title="AP_MotorsHeli::move\l_actuators" alt="" coords="213,96,363,137"/>
+<area shape="rect" id="node6" href="$classAP__Motors.html#a82a340f9ada90ee7399c857b3464e11a" title="AP_Motors::get_throttle" alt="" coords="208,162,368,189"/>
+<area shape="rect" id="node14" href="$classAP__MotorsHeli.html#adbdf96ff94fe109c7fa24650e3759f19" title="AP_MotorsHeli::update\l_motor_control" alt="" coords="209,213,367,255"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#ace1a63150b1449b08a4d6ac325c0882a" title="AP_MotorsHeli::init\l_outputs" alt="" coords="434,5,569,47"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli.html#a3b035659d70ab36f882f7c9871074b0c" title="AP_MotorsHeli::calculate\l_scalars" alt="" coords="416,71,587,112"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="448,137,555,163"/>
+<area shape="rect" id="node13" href="$classLowPassFilter.html#af4fadecd2b4865888d6262f2fe67f8d1" title="LowPassFilter::get" alt="" coords="436,187,567,214"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="635,137,748,163"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="808,61,959,87"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="800,111,967,138"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="802,162,965,189"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="796,213,971,239"/>
+</map>

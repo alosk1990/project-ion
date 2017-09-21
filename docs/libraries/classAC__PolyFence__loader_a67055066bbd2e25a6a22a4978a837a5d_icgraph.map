@@ -1,0 +1,12 @@
+<map id="AC_PolyFence_loader::max_points" name="AC_PolyFence_loader::max_points">
+<area shape="rect" id="node2" href="$classAC__PolyFence__loader.html#ab8cf5771a071bceda17f42d53ce244b2" title="AC_PolyFence_loader\l::create_point_array" alt="" coords="215,28,367,69"/>
+<area shape="rect" id="node5" href="$classAC__Fence.html#a4064af0cdae32b2fa68e8f85ea40c384" title="load polygon points stored in eeprom into boundary array and perform validation. returns true if load..." alt="" coords="425,28,593,69"/>
+<area shape="rect" id="node8" href="$classAC__PolyFence__loader.html#a28f972058b2fca40ed02a043e399d297" title="AC_PolyFence_loader\l::load_point_from_eeprom" alt="" coords="205,93,377,135"/>
+<area shape="rect" id="node11" href="$classAC__PolyFence__loader.html#ab58f95e4a19e4f30d9bb8e42cc2c910e" title="AC_PolyFence_loader\l::save_point_to_eeprom" alt="" coords="211,159,372,200"/>
+<area shape="rect" id="node3" href="$classAP__Proximity__SITL.html#a64912db994fb73e63f21adc0fa1eb6c5" title="AP_Proximity_SITL::\lload_fence" alt="" coords="437,93,582,135"/>
+<area shape="rect" id="node4" href="$classAP__Proximity__SITL.html#a6d9f228a0ae41c802bda9b6aff5f00dd" title="AP_Proximity_SITL::\lupdate" alt="" coords="652,93,797,135"/>
+<area shape="rect" id="node6" href="$classAC__Fence.html#a730e2005dc74a0a70ee16bfb9569baeb" title="AC_Fence::check_fence" alt="" coords="641,35,808,62"/>
+<area shape="rect" id="node7" href="$classAC__Fence.html#acdc600f19a3e4eb6de655c26f52e0968" title="enabled &#45; returns true if fence is enabled " alt="" coords="856,35,993,62"/>
+<area shape="rect" id="node9" href="$classAC__Fence.html#aa656adbd11c84edbf4e2b840054dfebb" title="handler for polygon fence messages with GCS " alt="" coords="428,166,591,193"/>
+<area shape="rect" id="node10" href="$classAC__Fence.html#ae37cf33a4fd250b66386253720fddbc9" title="set_home_distance &#45; update vehicle&#39;s distance from home in meters &#45; required for circular horizontal ..." alt="" coords="650,159,799,200"/>
+</map>

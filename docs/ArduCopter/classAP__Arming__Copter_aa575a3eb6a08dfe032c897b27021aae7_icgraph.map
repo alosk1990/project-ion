@@ -1,0 +1,20 @@
+<map id="AP_Arming_Copter::set_pre_arm_rc_check" name="AP_Arming_Copter::set_pre_arm_rc_check">
+<area shape="rect" id="node2" href="$classAP__Arming__Copter.html#a648d42363e504b53c1c5fb837a74c83b" title="AP_Arming_Copter::AP\l_Arming_Copter" alt="" coords="1079,166,1239,207"/>
+<area shape="rect" id="node3" href="$classAP__Arming__Copter.html#a4d21f6e5747f95805519e52aa4ef6014" title="AP_Arming_Copter::pre\l_arm_checks" alt="" coords="625,107,785,149"/>
+<area shape="rect" id="node11" href="$classAP__Arming__Copter.html#a3cfee91ce2d91772a4fa327e1f8c28ca" title="AP_Arming_Copter::pre\l_arm_rc_checks" alt="" coords="213,326,373,367"/>
+<area shape="rect" id="node4" href="$classAP__Arming__Copter.html#a24db4e071c410c66870bb5fbc7910319" title="AP_Arming_Copter::all\l_checks_passing" alt="" coords="854,57,1009,98"/>
+<area shape="rect" id="node9" href="$classAP__Arming__Copter.html#a6c564c58d8d7e8d539b661144d9ced28" title="AP_Arming_Copter::update" alt="" coords="841,5,1022,32"/>
+<area shape="rect" id="node5" href="$classCopter.html#a72a557f0cc50a672db8223f628363b21" title="Copter::init_arm_motors" alt="" coords="1077,115,1240,141"/>
+<area shape="rect" id="node6" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="1475,337,1629,364"/>
+<area shape="rect" id="node8" href="$classCopter.html#aeda76eb57229df64b95b257218007640" title="Copter::arm_motors\l_check" alt="" coords="1288,130,1427,171"/>
+<area shape="rect" id="node7" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="1677,330,1840,371"/>
+<area shape="rect" id="node10" href="$classCopter.html#a108ce4f21db1ee56d52c2bdf9a971a57" title="Copter::one_hz_loop" alt="" coords="1087,5,1230,32"/>
+<area shape="rect" id="node12" href="$classCopter.html#af0284b6bd2b24b55c38661665fc50807" title="Copter::esc_calibration\l_startup_check" alt="" coords="421,385,577,426"/>
+<area shape="rect" id="node13" href="$classCopter.html#aa0807aaa2460671f21b21c7f082a297d" title="Copter::init_rc_out" alt="" coords="641,451,770,477"/>
+<area shape="rect" id="node14" href="$classCopter.html#abd3ea1d00d3c109e18a5ab0ae08aea4f" title="Copter::mavlink_compassmot" alt="" coords="833,565,1029,592"/>
+<area shape="rect" id="node18" href="$classCopter.html#a9d1e391cf05a9c4b3fd6ba13d76693e5" title="Copter::mavlink_motor\l_test_check" alt="" coords="628,326,783,367"/>
+<area shape="rect" id="node19" href="$classAP__Arming__Copter.html#a7fc52e0dd601e2b2e09441ccc074e074" title="AP_Arming_Copter::rc\l_calibration_checks" alt="" coords="423,217,576,258"/>
+<area shape="rect" id="node15" href="$classCopter.html#a79a1d0d0c01a287893782f396b69f662" title="Copter::mavlink_motor\l_test_start" alt="" coords="854,377,1009,418"/>
+<area shape="rect" id="node16" href="$classCopter.html#a3dd81483501146cda2aec5d898c2592b" title="Copter::init_ardupilot" alt="" coords="860,451,1003,477"/>
+<area shape="rect" id="node17" href="$classCopter.html#ad672001a9ffbac72fe0ec2d8e336a4aa" title="Copter::setup" alt="" coords="1108,413,1209,440"/>
+</map>

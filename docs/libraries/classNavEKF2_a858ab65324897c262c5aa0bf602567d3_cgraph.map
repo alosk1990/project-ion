@@ -1,0 +1,21 @@
+<map id="NavEKF2::getEulerAngles" name="NavEKF2::getEulerAngles">
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#a6a1acb58d8d7f8e13e3875e80e6a9352" title="NavEKF2_core::getEulerAngles" alt="" coords="228,161,435,188"/>
+<area shape="rect" id="node3" href="$classQuaternion.html#ab3049efa36b211699ca03ea53970f0fd" title="Quaternion::to_euler" alt="" coords="483,121,622,148"/>
+<area shape="rect" id="node12" href="$classAP__AHRS.html#a93a3774320e331583fc6c6ac2418be21" title="AP_AHRS::get_trim" alt="" coords="483,201,623,228"/>
+<area shape="rect" id="node4" href="$classQuaternion.html#a9ae6c42349ddc744022a4a1cf7868eb0" title="Quaternion::get_euler_roll" alt="" coords="674,33,845,60"/>
+<area shape="rect" id="node5" href="$classQuaternion.html#a0bfe50c332309932cd833b83f6524e5f" title="Quaternion::get_euler\l_pitch" alt="" coords="686,85,833,126"/>
+<area shape="rect" id="node11" href="$classQuaternion.html#a35c2a1030832728574363ed8655da625" title="Quaternion::get_euler_yaw" alt="" coords="671,151,848,177"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a3370ada2588e54722319d65e00d8545c" title="safe_asin" alt="" coords="910,92,989,119"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#acde8e5813f30717986b84509948bf530" title="safe_asin\&lt; int \&gt;" alt="" coords="1063,5,1179,32"/>
+<area shape="rect" id="node8" href="$AP__Math_8cpp.html#a6baeda4985886aba9f6d5d5008ac2b10" title="safe_asin\&lt; short \&gt;" alt="" coords="1055,56,1186,83"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#a48612e903b0ef12fa5653056a6d5b3f7" title="safe_asin\&lt; float \&gt;" alt="" coords="1057,107,1184,133"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a9f2aae5b5adb09329c1a64b433d148dd" title="safe_asin\&lt; double \&gt;" alt="" coords="1051,157,1191,184"/>
+<area shape="rect" id="node13" href="$classAP__AHRS.html#a7dc27ba7ca4e7fe18a50c44c2c83845f" title="AP_AHRS::set_trim" alt="" coords="689,201,829,228"/>
+<area shape="rect" id="node20" href="$classAP__AHRS.html#a783631a678ef9034b1357c9aa93e1280" title="AP_AHRS::add_trim" alt="" coords="688,252,831,279"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="896,223,1003,249"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="1064,223,1177,249"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="1251,147,1401,173"/>
+<area shape="rect" id="node17" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="1243,197,1409,224"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="1245,248,1407,275"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="1239,299,1413,325"/>
+</map>

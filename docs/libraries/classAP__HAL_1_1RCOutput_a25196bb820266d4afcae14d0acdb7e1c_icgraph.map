@@ -1,0 +1,21 @@
+<map id="AP_HAL::RCOutput::enable_ch" name="AP_HAL::RCOutput::enable_ch">
+<area shape="rect" id="node2" href="$classSRV__Channels.html#ad4306fcdcf8ba30daa7c0bf62072ca2a" title="Should be called after the the servo functions have been initialized. " alt="" coords="271,63,429,104"/>
+<area shape="rect" id="node3" href="$classRCOutputRGBLed.html#a0231956650e7369488d5fc5e30f39818" title="RCOutputRGBLed::hw_init" alt="" coords="260,129,440,155"/>
+<area shape="rect" id="node4" href="$classRC__UART.html#a410755d321a1790e7e49aad3a71f64a9" title="RC_UART::loop" alt="" coords="291,179,409,206"/>
+<area shape="rect" id="node5" href="$classAP__Motors.html#a91e69152a30b5e1020f3e49271b9d054" title="AP_Motors::rc_enable_ch" alt="" coords="264,230,436,257"/>
+<area shape="rect" id="node20" href="$RCInputToRCOutput_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="323,281,377,307"/>
+<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#a934ca726182ad47b9fa2fe78aeb076c2" title="AP_MotorsMatrix::enable" alt="" coords="493,71,663,98"/>
+<area shape="rect" id="node9" href="$classAP__MotorsTri.html#a47d592e54579b7ef9a8b887e57f0a8e9" title="AP_MotorsTri::enable" alt="" coords="504,123,652,150"/>
+<area shape="rect" id="node11" href="$classAP__MotorsCoax.html#a7fe65e911c51fc652863ac6add5e14e1" title="AP_MotorsCoax::enable" alt="" coords="496,178,660,205"/>
+<area shape="rect" id="node13" href="$classAP__MotorsSingle.html#a6f680a991a165820c9d4d271e3082e0a" title="AP_MotorsSingle::enable" alt="" coords="493,230,663,257"/>
+<area shape="rect" id="node15" href="$classAP__MotorsHeli__Dual.html#ac1ba74732be86ef690df5a00947ff368" title="AP_MotorsHeli_Dual\l::enable" alt="" coords="506,281,650,323"/>
+<area shape="rect" id="node17" href="$classAP__MotorsHeli__Single.html#adba1c07c5edd3d389f788e2deed5d49e" title="AP_MotorsHeli_Single\l::enable" alt="" coords="501,347,655,388"/>
+<area shape="rect" id="node19" href="$classAP__Motors.html#a03665c7df835ae4b22a34c650819ce27" title="AP_Motors::get_pwm_type" alt="" coords="488,413,668,439"/>
+<area shape="rect" id="node7" href="$classAP__MotorsMatrix.html#a1079a240f98556fe4cb0af7d1d039917" title="Constructor. " alt="" coords="753,5,902,47"/>
+<area shape="rect" id="node8" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="800,71,855,98"/>
+<area shape="rect" id="node10" href="$classAP__MotorsTri.html#a282f48b7e788fbbe5ae835a00937cb02" title="Constructor. " alt="" coords="732,122,923,149"/>
+<area shape="rect" id="node12" href="$classAP__MotorsCoax.html#a9f2013067a9ad3699bad4bd7ec4fba55" title="Constructor. " alt="" coords="716,173,939,199"/>
+<area shape="rect" id="node14" href="$classAP__MotorsSingle.html#a93eade83957680ac6f0b01fadc8fbbfa" title="Constructor. " alt="" coords="753,224,902,265"/>
+<area shape="rect" id="node16" href="$classAP__MotorsHeli__Dual.html#a55d0c8d6ba98819e849fbd31be3353db" title="AP_MotorsHeli_Dual\l::AP_MotorsHeli_Dual" alt="" coords="751,289,903,331"/>
+<area shape="rect" id="node18" href="$classAP__MotorsHeli__Single.html#aa617a5f4634505d942568279034b2be2" title="AP_MotorsHeli_Single\l::AP_MotorsHeli_Single" alt="" coords="747,355,908,396"/>
+</map>

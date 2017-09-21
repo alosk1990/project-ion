@@ -1,0 +1,72 @@
+<map id="NavEKF2_core::checkAttitudeAlignmentStatus" name="NavEKF2_core::checkAttitudeAlignmentStatus">
+<area shape="rect" id="node2" href="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3::length" alt="" coords="316,824,427,851"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK.html#ae1d5ebd46ec3ddb644862c747e2968bf" title="GCS_MAVLINK::send_statustext_all" alt="" coords="252,951,491,978"/>
+<area shape="rect" id="node69" href="$classNavEKF2__core.html#abdf14c70cc51c1c489217763cc387232" title="NavEKF2_core::use_compass" alt="" coords="271,1159,471,1186"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="599,774,649,800"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="792,774,831,800"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Util.html#ac57ef0a9815cd597ad5cab5d6c31c6c8" title="AP_HAL::Util::vsnprintf" alt="" coords="1679,1108,1838,1135"/>
+<area shape="rect" id="node14" href="$GCS__Common_8cpp.html#a1d3cc361b864ddf64a44c12ab3bd044e" title="gcs" alt="" coords="603,926,645,952"/>
+<area shape="rect" id="node16" href="$classGCS.html#a313e604179053ea42415b1c9289f13cd" title="GCS::send_statustext" alt="" coords="921,976,1073,1003"/>
+<area shape="rect" id="node7" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="2679,1119,2769,1146"/>
+<area shape="rect" id="node13" href="$classBufferPrinter.html#a0b98d7f59a6591097d2011d68359b8a0" title="BufferPrinter::write" alt="" coords="1943,1159,2074,1186"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="2875,1119,3019,1146"/>
+<area shape="rect" id="node9" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="2902,1170,2991,1196"/>
+<area shape="rect" id="node10" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="2916,1220,2977,1247"/>
+<area shape="rect" id="node11" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="2901,1018,2993,1044"/>
+<area shape="rect" id="node12" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="2902,1068,2991,1095"/>
+<area shape="rect" id="node15" href="$classGCS.html#ae4cc34bdfabd2de4587d3553e6b4582d" title="GCS::instance" alt="" coords="757,926,865,952"/>
+<area shape="rect" id="node68" href="$classGCS.html#a824e538eff6cbf7c9074840600fbf6ff" title="GCS::service_statustext" alt="" coords="913,926,1080,952"/>
+<area shape="rect" id="node17" href="$classAP__Frsky__Telem.html#aef21b9f33af863589feda48a23877380" title="AP_Frsky_Telem::queue\l_message" alt="" coords="1136,977,1303,1018"/>
+<area shape="rect" id="node19" href="$classGCS__MAVLINK.html#acad5b4ab40c7b7486392f07193ce4190" title="GCS_MAVLINK::active\l_channel_mask" alt="" coords="1139,1042,1299,1084"/>
+<area shape="rect" id="node20" href="$classGCS__MAVLINK.html#af948c4a65f98679941885e2c7cc12ac5" title="GCS_MAVLINK::streaming\l_channel_mask" alt="" coords="1128,809,1311,850"/>
+<area shape="rect" id="node18" href="$classObjectArray.html#aec1630ad862991767b30ae80a71a26ea" title="ObjectArray::push_force" alt="" coords="1404,984,1567,1011"/>
+<area shape="rect" id="node21" href="$classGCS__MAVLINK.html#a24cdfb25ddef1c35ebb8470fd6672d7e" title="GCS_MAVLINK::send_statustext_chan" alt="" coords="1359,900,1612,927"/>
+<area shape="rect" id="node22" href="$classGCS__MAVLINK.html#a1b0f7429c8fb152e17cd5fc0ff0d9267" title="GCS_MAVLINK::send_parameter\l_value_all" alt="" coords="1376,804,1595,845"/>
+<area shape="rect" id="node23" href="$GCS__MAVLink_8cpp.html#a4952a82a239f8f856c59724eb66847a2" title="mav_var_type" alt="" coords="1707,862,1811,888"/>
+<area shape="rect" id="node24" href="$classAP__Param.html#a0819a26c7b80edb7a245036d1303cc75" title="AP_Param::count_parameters" alt="" coords="1660,256,1857,283"/>
+<area shape="rect" id="node36" href="$classDataFlash__Class.html#af898b7f68e05b5d2a6eaf53d2c178983" title="DataFlash_Class::instance" alt="" coords="1669,811,1849,838"/>
+<area shape="rect" id="node67" href="$classDataFlash__Class.html#a488ee9ba241f827fcb979dbccfdab76d" title="DataFlash_Class::Log\l_Write_Parameter" alt="" coords="1683,745,1835,786"/>
+<area shape="rect" id="node25" href="$classAP__Param.html#adc0c44f152f0e3cbb12703b2a58d8f6b" title="AP_Param::first" alt="" coords="2191,63,2305,90"/>
+<area shape="rect" id="node27" href="$classAP__Param.html#a8cf8477edefdb6a0b2173d8229894173" title="AP_Param::next_scalar" alt="" coords="1929,256,2089,283"/>
+<area shape="rect" id="node26" href="$classAP__Param.html#a1dcc7820ea51e29cfb762387a9212818" title="AP_Param::get_base" alt="" coords="2873,167,3020,194"/>
+<area shape="rect" id="node28" href="$classAP__Param.html#ae329f47d0829a6ca578562fbec2d7383" title="AP_Param::next" alt="" coords="2189,191,2307,218"/>
+<area shape="rect" id="node34" href="$classAP__Param.html#aa2638d3b9db28506452fc121c7faa7ff" title="AP_Param::find_var\l_info_token" alt="" coords="2179,297,2317,338"/>
+<area shape="rect" id="node29" href="$classAP__Param.html#af535cde8cb54b9c361e199b2161980e7" title="AP_Param::check_frame_type" alt="" coords="2624,58,2824,84"/>
+<area shape="rect" id="node30" href="$classAP__Param.html#a69baa95e011c7a8c4a29625c558c5501" title="get group_info pointer based on flags " alt="" coords="2635,327,2813,354"/>
+<area shape="rect" id="node31" href="$classAP__Param.html#a17601b9ec7791da2904e07683e059e11" title="AP_Param::next_group" alt="" coords="2401,163,2558,190"/>
+<area shape="rect" id="node32" href="$classAP__Param.html#aa8b43d95bca6adbf5497e8102cf73857" title="AP_Param::adjust_group\l_offset" alt="" coords="2641,160,2807,201"/>
+<area shape="rect" id="node33" href="$classAP__Param.html#a90f6be43b427d44475380211164f8292" title="AP_Param::group_id" alt="" coords="2653,226,2795,252"/>
+<area shape="rect" id="node35" href="$classAP__Param.html#a0a5b0b035c7d17569e4a814f20f00985" title="AP_Param::find_var\l_info_group" alt="" coords="2410,214,2549,256"/>
+<area shape="rect" id="node37" href="$classDataFlash__Class.html#a95bf3cac993c1ee326acc6447e99d875" title="DataFlash_Class::set\l_mission" alt="" coords="1934,738,2083,780"/>
+<area shape="rect" id="node38" href="$classDataFlash__Class.html#aabebe7ff9db07e2890274fceaa81b063" title="DataFlash_Class::Init" alt="" coords="1934,687,2083,714"/>
+<area shape="rect" id="node44" href="$classDataFlash__Class.html#a7ac0e748bbc5c6e72645bb6245257600" title="DataFlash_Class::structure" alt="" coords="2633,432,2815,459"/>
+<area shape="rect" id="node61" href="$classDataFlash__Backend.html#a33e7a1703d68bd91ac6782bb10b209f8" title="DataFlash_Backend::\lnum_types" alt="" coords="1935,804,2083,845"/>
+<area shape="rect" id="node62" href="$classDataFlash__Class.html#a1d18bc15f196f1deb794f9ebd4878da8" title="DataFlash_Class::CardInserted" alt="" coords="1905,870,2112,896"/>
+<area shape="rect" id="node63" href="$classDataFlash__Class.html#a803c6dd673a2eaac58eea2012e57ea17" title="DataFlash_Class::NeedErase" alt="" coords="1911,920,2107,947"/>
+<area shape="rect" id="node64" href="$classDataFlash__Class.html#a53a4a975a3813e9f58ddaaa3b5865a4a" title="DataFlash_Class::EraseAll" alt="" coords="1919,971,2099,998"/>
+<area shape="rect" id="node65" href="$classDataFlash__Class.html#a25205f61e9f81e241851833ac864541c" title="DataFlash_Class::NeedPrep" alt="" coords="1914,1022,2103,1048"/>
+<area shape="rect" id="node66" href="$classDataFlash__Class.html#a65077b33c55004bee38cd4a6ca6ae489" title="DataFlash_Class::Prep" alt="" coords="1929,382,2088,408"/>
+<area shape="rect" id="node39" href="$classDataFlash__Class.html#aae0343c167962178a8139f80e273a18a" title="DataFlash_Class::validate\l_structures" alt="" coords="2160,738,2336,780"/>
+<area shape="rect" id="node43" href="$classDataFlash__Class.html#a4217c35af395ef003e87caa8a27093fc" title="DataFlash_Class::dump\l_structures" alt="" coords="2398,680,2561,721"/>
+<area shape="rect" id="node45" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="2192,914,2304,940"/>
+<area shape="rect" id="node54" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="2171,1004,2325,1045"/>
+<area shape="rect" id="node56" href="$classDataFlash__Backend.html#aff10c329f79c1bdaedbc6fdf4028c2a5" title="DataFlash_Backend::Init" alt="" coords="2165,590,2331,616"/>
+<area shape="rect" id="node40" href="$DataFlash_8cpp.html#a6c29cfdd6f10b5426f57e67da4d1263a" title="return the number of commas present in string " alt="" coords="2424,746,2535,772"/>
+<area shape="rect" id="node41" href="$classDataFlash__Class.html#a474e87959e63149998c6e28e4f723f1b" title="DataFlash_Class::Log\l_Write_calc_msg_len" alt="" coords="2403,797,2555,838"/>
+<area shape="rect" id="node42" href="$classDataFlash__Class.html#abad9785e74911292cd9eb16895896202" title="pretty&#45;print field information from a log structure " alt="" coords="2643,674,2805,716"/>
+<area shape="rect" id="node46" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="2384,914,2575,940"/>
+<area shape="rect" id="node53" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="2406,965,2553,1006"/>
+<area shape="rect" id="node47" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="2643,870,2805,912"/>
+<area shape="rect" id="node48" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="2643,936,2805,977"/>
+<area shape="rect" id="node49" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="2643,1002,2805,1028"/>
+<area shape="rect" id="node50" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="2646,1053,2802,1094"/>
+<area shape="rect" id="node51" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="2646,740,2802,781"/>
+<area shape="rect" id="node52" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="2641,805,2807,846"/>
+<area shape="rect" id="node55" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="2403,1040,2556,1081"/>
+<area shape="rect" id="node57" href="$classDataFlash__Backend.html#a0d81b33bb8560bac27b7395e58045a76" title="DataFlash_Backend::\lset_mission" alt="" coords="2405,484,2553,525"/>
+<area shape="rect" id="node59" href="$classDataFlash__Backend.html#a225465cb83db429757bbbf224796ed8f" title="DataFlash_Backend::\lbufferspace_available" alt="" coords="2405,614,2553,656"/>
+<area shape="rect" id="node60" href="$classDataFlash__Backend.html#a5ff05c4c6461f5bfe61798adb4205a38" title="DataFlash_Backend::\lstart_new_log" alt="" coords="2405,549,2553,590"/>
+<area shape="rect" id="node58" href="$classDFMessageWriter__DFLogStart.html#a8584b1fa0775b7ff593a1760f5461074" title="DFMessageWriter_DFLogStart\l::set_mission" alt="" coords="2623,484,2825,525"/>
+<area shape="rect" id="node70" href="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1" title="AP_AHRS::get_compass" alt="" coords="539,1210,709,1236"/>
+<area shape="rect" id="node71" href="$classCompass.html#a97437729a583cd900e4dd1d6d84a4a0e" title="return true if the compass should be used for yaw calculations " alt="" coords="544,1159,704,1186"/>
+</map>

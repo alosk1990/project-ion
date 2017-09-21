@@ -1,0 +1,27 @@
+<map id="AP_HAL::RCOutput::set_freq" name="AP_HAL::RCOutput::set_freq">
+<area shape="rect" id="node2" href="$examples_2RCOutput2_2RCOutput_8cpp.html#a8e79a9cf7365493ca210e2da151a8839" title="drive" alt="" coords="303,64,353,91"/>
+<area shape="rect" id="node5" href="$classRCOutputRGBLed.html#a404002f4a7b7bfc3b5062fc0930ea22d" title="RCOutputRGBLed::hw\l_set_rgb" alt="" coords="250,182,406,223"/>
+<area shape="rect" id="node7" href="$classAP__Motors.html#a3d84a895c644d34e7fe78d7301ccf534" title="AP_Motors::rc_set_freq" alt="" coords="248,308,408,335"/>
+<area shape="rect" id="node26" href="$classRC__UART.html#a224db5129a0131061b659e7873532d4f" title="RC_UART::setup" alt="" coords="265,359,391,385"/>
+<area shape="rect" id="node3" href="$classMenu__Commands.html#a816be5305b658bb7ec972c1990fa9576" title="Menu_Commands::menu_esc" alt="" coords="459,5,655,32"/>
+<area shape="rect" id="node4" href="$classMenu__Commands.html#a197e4e276f4ed9110f934210ab9a2aec" title="Menu_Commands::menu\l_servo" alt="" coords="473,57,641,98"/>
+<area shape="rect" id="node6" href="$classRCOutputRGBLedOff.html#a6572290758ce733896987f2c256a7fa5" title="RCOutputRGBLedOff::\lhw_set_rgb" alt="" coords="479,122,636,163"/>
+<area shape="rect" id="node8" href="$classAP__Motors.html#a03665c7df835ae4b22a34c650819ce27" title="AP_Motors::get_pwm_type" alt="" coords="467,188,647,215"/>
+<area shape="rect" id="node9" href="$classAP__MotorsMatrix.html#a4ccbbe0d2641a973f7140b5c8ba7724e" title="AP_MotorsMatrix::set\l_update_rate" alt="" coords="483,239,632,281"/>
+<area shape="rect" id="node14" href="$classAP__MotorsTri.html#a45d195e2abd378c68e225c528e7d6bce" title="AP_MotorsTri::set_update_rate" alt="" coords="456,308,659,335"/>
+<area shape="rect" id="node17" href="$classAP__MotorsCoax.html#a10131e737c6b990c5be12746ee97367a" title="AP_MotorsCoax::set\l_update_rate" alt="" coords="485,365,629,406"/>
+<area shape="rect" id="node19" href="$classAP__MotorsSingle.html#adf3e4312d9570a1f244d08a9a839b116" title="AP_MotorsSingle::set\l_update_rate" alt="" coords="483,439,632,481"/>
+<area shape="rect" id="node22" href="$classAP__MotorsHeli__Dual.html#aa02b6d52fbd392d8e50c6feb79fef768" title="AP_MotorsHeli_Dual\l::set_update_rate" alt="" coords="485,515,629,557"/>
+<area shape="rect" id="node24" href="$classAP__MotorsHeli__Single.html#a54ccb51f6ac963c50ba729ec458c356d" title="AP_MotorsHeli_Single\l::set_update_rate" alt="" coords="481,602,634,643"/>
+<area shape="rect" id="node10" href="$classAP__MotorsMatrix.html#a1079a240f98556fe4cb0af7d1d039917" title="Constructor. " alt="" coords="998,127,1147,169"/>
+<area shape="rect" id="node11" href="$classAP__MotorsMatrix.html#aac841b5c0bd90818f0dbf5ea523b9ec7" title="AP_MotorsMatrix::init" alt="" coords="744,193,892,220"/>
+<area shape="rect" id="node12" href="$AP__Motors__test_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1045,219,1100,245"/>
+<area shape="rect" id="node13" href="$classAP__MotorsMatrix.html#a58482c4eb0d57303b9bd7f7e122e7187" title="AP_MotorsMatrix::set\l_frame_class_and_type" alt="" coords="738,127,898,169"/>
+<area shape="rect" id="node15" href="$classAP__MotorsTri.html#a282f48b7e788fbbe5ae835a00937cb02" title="Constructor. " alt="" coords="977,320,1168,347"/>
+<area shape="rect" id="node16" href="$classAP__MotorsTri.html#ab3d9289eccb10b59908b71f5d6deef12" title="AP_MotorsTri::init" alt="" coords="755,345,881,372"/>
+<area shape="rect" id="node18" href="$classAP__MotorsCoax.html#a9f2013067a9ad3699bad4bd7ec4fba55" title="Constructor. " alt="" coords="707,396,929,423"/>
+<area shape="rect" id="node20" href="$classAP__MotorsSingle.html#a93eade83957680ac6f0b01fadc8fbbfa" title="Constructor. " alt="" coords="998,465,1147,506"/>
+<area shape="rect" id="node21" href="$classAP__MotorsSingle.html#a23f9e9dec626aa810d730065eabadbf3" title="AP_MotorsSingle::init" alt="" coords="744,497,892,524"/>
+<area shape="rect" id="node23" href="$classAP__MotorsHeli__Dual.html#a55d0c8d6ba98819e849fbd31be3353db" title="AP_MotorsHeli_Dual\l::AP_MotorsHeli_Dual" alt="" coords="742,549,894,590"/>
+<area shape="rect" id="node25" href="$classAP__MotorsHeli__Single.html#aa617a5f4634505d942568279034b2be2" title="AP_MotorsHeli_Single\l::AP_MotorsHeli_Single" alt="" coords="737,614,899,655"/>
+</map>

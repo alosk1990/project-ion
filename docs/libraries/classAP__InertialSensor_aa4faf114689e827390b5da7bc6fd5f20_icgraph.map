@@ -1,0 +1,36 @@
+<map id="AP_InertialSensor::wait_for_sample" name="AP_InertialSensor::wait_for_sample">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#ad87496184e3c6a775a10b3b5eb069cd9" title="AP_InertialSensor::\lcalibrate_trim" alt="" coords="383,135,518,177"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#ad9ccf756f807b307872f7d6670a59bfb" title="AP_InertialSensor::\lget_gyro_drift_rate" alt="" coords="383,201,518,242"/>
+<area shape="rect" id="node5" href="$classSchedTest.html#a657a2e8890afb16490449517664384de" title="SchedTest::loop" alt="" coords="197,559,314,585"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__DCM.html#a6dcf4436ba6a7bfb3e6d76414c8f6e4b" title="AP_AHRS_DCM::reset" alt="" coords="371,267,531,293"/>
+<area shape="rect" id="node21" href="$INS__generic_8cpp.html#a176571c2fafdc1ba62438a006aa33f23" title="run_test" alt="" coords="416,493,485,520"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor.html#a2ab4e9e49af5ae38f38d3818fde2b675" title="AP_InertialSensor::\lupdate" alt="" coords="188,318,323,359"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#ab45fc4a074f3cfe5866c934f8d05c861" title="AP_AHRS::AP_AHRS" alt="" coords="594,5,750,32"/>
+<area shape="rect" id="node6" href="$classSchedTest.html#ab41681c4e9b1eda12cc3f85ed89e82cf" title="SchedTest::five_second_call" alt="" coords="1229,533,1420,560"/>
+<area shape="rect" id="node7" href="$Scheduler__test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="427,609,474,636"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__DCM.html#aa7cd5fe913c090673b3dcaa3da9eacb3" title="AP_AHRS_DCM::check\l_matrix" alt="" coords="813,234,980,275"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__DCM.html#a4bbf9d7f853103c8c497b90ae726b1ac" title="AP_AHRS_DCM::get_gyro\l_drift" alt="" coords="1468,99,1649,141"/>
+<area shape="rect" id="node19" href="$classAP__AHRS__DCM.html#ace68e355f57ff433c22fab05ebecd549" title="AP_AHRS_DCM::normalize" alt="" coords="579,216,765,243"/>
+<area shape="rect" id="node20" href="$classAP__AHRS__NavEKF.html#a532ff0df024a4537e5a108c42ba405a7" title="AP_AHRS_NavEKF::reset" alt="" coords="583,56,761,83"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="1028,209,1181,250"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__DCM.html#aa8a135d6852e94f279c0be3c8206bfdd" title="AP_AHRS_DCM::update" alt="" coords="1239,217,1410,244"/>
+<area shape="rect" id="node17" href="$ModuleTest_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1535,268,1582,295"/>
+<area shape="rect" id="node18" href="$classAP__AHRS__NavEKF.html#a7ce0035d07be995b5f45ac6c711570ce" title="AP_AHRS_NavEKF::update_DCM" alt="" coords="1697,219,1924,245"/>
+<area shape="rect" id="node13" href="$classAP__AHRS__NavEKF.html#a355d8890ddfaadaa9d8f694f780afbe6" title="AP_AHRS_NavEKF::get\l_gyro_drift" alt="" coords="1727,98,1895,139"/>
+<area shape="rect" id="node14" href="$classAP__Module.html#a9b4f06b2556a122f11b92b7b29d462c4" title="AP_Module::call_hook\l_AHRS_update" alt="" coords="1972,153,2124,194"/>
+<area shape="rect" id="node15" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="2172,131,2361,157"/>
+<area shape="rect" id="node16" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="2409,91,2456,117"/>
+<area shape="rect" id="node22" href="$INS__generic_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="649,508,695,535"/>
+<area shape="rect" id="node24" href="$classAP__InertialSensor.html#a8744303832541bef0025d9698468938c" title="AP_InertialSensor::\l_init_gyro" alt="" coords="383,377,518,418"/>
+<area shape="rect" id="node35" href="$classSchedTest.html#ad9313f964206eec5ce76b7c6a5ac140b" title="SchedTest::ins_update" alt="" coords="373,443,529,469"/>
+<area shape="rect" id="node25" href="$classAP__InertialSensor.html#a0ea2d66e9ff39ad18211e180caa3f74e" title="AP_InertialSensor::\laccel_cal_requires_reboot" alt="" coords="585,377,759,418"/>
+<area shape="rect" id="node29" href="$classAP__InertialSensor.html#a424609d1eb3dc8473040c9e6f87771ad" title="AP_InertialSensor::\linit_gyro" alt="" coords="605,442,739,483"/>
+<area shape="rect" id="node26" href="$classAP__Arming.html#a98bb929393d206413a92adb94d443fc8" title="AP_Arming::ins_checks" alt="" coords="815,384,978,411"/>
+<area shape="rect" id="node27" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="1033,377,1176,418"/>
+<area shape="rect" id="node28" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="1265,384,1384,411"/>
+<area shape="rect" id="node30" href="$classAP__InertialSensor.html#add26432115be0a87730c99952984a331" title="calibrating &#45; returns true if the gyros or accels are currently being calibrated " alt="" coords="829,439,964,481"/>
+<area shape="rect" id="node31" href="$classAP__InertialSensor.html#a741065b13832b5e4c90bbae17519c0ad" title="AP_InertialSensor::init" alt="" coords="821,505,973,532"/>
+<area shape="rect" id="node32" href="$classSchedTest.html#ae9afb73f76391e34d47286a516fe5292" title="SchedTest::setup" alt="" coords="1042,457,1167,484"/>
+<area shape="rect" id="node34" href="$AHRS__Test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1077,508,1132,535"/>
+<area shape="rect" id="node33" href="$Scheduler__test_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1297,457,1352,484"/>
+</map>

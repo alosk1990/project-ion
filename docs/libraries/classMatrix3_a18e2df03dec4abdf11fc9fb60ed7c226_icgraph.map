@@ -1,0 +1,64 @@
+<map id="Matrix3::transposed" name="Matrix3::transposed">
+<area shape="rect" id="node2" href="$classSoloGimbalEKF.html#ae3a2e7a2ef3021289c6919ab9613fe14" title="SoloGimbalEKF::alignHeading" alt="" coords="191,53,389,80"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#ab45fc4a074f3cfe5866c934f8d05c861" title="AP_AHRS::AP_AHRS" alt="" coords="212,151,368,177"/>
+<area shape="rect" id="node5" href="$classSITL_1_1Submarine.html#aeff8104fa2b5ed26f97ce00bfbf728d5" title="SITL::Submarine::calculate\l_forces" alt="" coords="200,267,380,309"/>
+<area shape="rect" id="node8" href="$classSITL_1_1Frame.html#a87ba820ad586d329b09e18db644114a9" title="SITL::Frame::calculate\l_forces" alt="" coords="213,202,367,243"/>
+<area shape="rect" id="node14" href="$classSITL_1_1Plane.html#a23a7248ca498b4b952d1673372689cb0" title="SITL::Plane::calculate\l_forces" alt="" coords="215,333,365,374"/>
+<area shape="rect" id="node16" href="$classMatrix3.html#a69d23fe802118124235bd5542b279259" title="Matrix3::from_axis\l_angle" alt="" coords="225,1163,355,1205"/>
+<area shape="rect" id="node23" href="$rotations_8cpp.html#ad6798e5b3eec8e581f4c054837985245" title="have_rotation" alt="" coords="240,1229,340,1256"/>
+<area shape="rect" id="node25" href="$classMatrix3.html#a2a30505165c5123ae7037cad81293820" title="Matrix3\&lt; float \&gt;::operator*=" alt="" coords="199,1280,381,1307"/>
+<area shape="rect" id="node26" href="$classSITL_1_1XPlane.html#ab30e1d12c7ebc3699a29f3442804a68b" title="SITL::XPlane::receive_data" alt="" coords="437,1117,620,1144"/>
+<area shape="rect" id="node29" href="$classMatrix3.html#aa8a6a2bce923d8931c017508cb00e24d" title="Matrix3\&lt; float \&gt;::transpose" alt="" coords="201,1331,379,1357"/>
+<area shape="rect" id="node30" href="$classSITL_1_1Gimbal.html#a54f32945de787791f9c234ec0976ee6d" title="SITL::Gimbal::update" alt="" coords="217,1388,363,1415"/>
+<area shape="rect" id="node39" href="$classSITL_1_1Tracker.html#aa2d26c0841ead98b60a9291eb4d74b71" title="SITL::Tracker::update" alt="" coords="454,965,603,992"/>
+<area shape="rect" id="node40" href="$classSITL_1_1SimRover.html#a0692a116e9c7cff78adb0b08b0d571b2" title="SITL::SimRover::update" alt="" coords="447,1016,610,1043"/>
+<area shape="rect" id="node41" href="$classSITL_1_1Balloon.html#a34f5716a3c9ba0805d89dc36656ae90c" title="SITL::Balloon::update" alt="" coords="455,477,603,504"/>
+<area shape="rect" id="node42" href="$classSITL_1_1Helicopter.html#a0e8602ead0fe804552ab7ade9a1b171e" title="SITL::Helicopter::update" alt="" coords="447,528,611,555"/>
+<area shape="rect" id="node43" href="$classSITL_1_1SingleCopter.html#a07d0997518b86260a6a80b914733d7b5" title="SITL::SingleCopter\l::update" alt="" coords="462,579,595,621"/>
+<area shape="rect" id="node44" href="$classSITL_1_1FlightAxis.html#abea39b8171735bf99ad90267f6be4c42" title="SITL::FlightAxis::update" alt="" coords="447,1067,610,1093"/>
+<area shape="rect" id="node45" href="$classSITL_1_1Aircraft.html#aeebf61e7de38e04708a092d7da898905" title="SITL::Aircraft::update\l_dynamics" alt="" coords="217,419,363,461"/>
+<area shape="rect" id="node46" href="$classSITL_1_1Aircraft.html#a6bf8f8d73b3cac2df90a20feff7c33ab" title="SITL::Aircraft::update\l_mag_field_bf" alt="" coords="217,739,363,781"/>
+<area shape="rect" id="node52" href="$classAP__AHRS.html#a34c0a28db3bc87426f69e34e5949bd8b" title="AP_AHRS::update_trig" alt="" coords="211,1504,369,1531"/>
+<area shape="rect" id="node3" href="$classSoloGimbalEKF.html#a3be12acb5c78532662967b12d611800b" title="SoloGimbalEKF::RunEKF" alt="" coords="442,5,615,32"/>
+<area shape="rect" id="node6" href="$classSITL_1_1Submarine.html#ae172876dbb527df84dfb38c9fa383878" title="SITL::Submarine::update" alt="" coords="445,275,612,301"/>
+<area shape="rect" id="node7" href="$classSITL_1_1Submarine.html#a9ac406adb6adef2936c9d51d45d74165" title="SITL::Submarine::create" alt="" coords="447,173,611,200"/>
+<area shape="rect" id="node9" href="$classSITL_1_1Frame.html#a326ecc99ce3c71ca671585884cb69b7b" title="SITL::Frame::Frame" alt="" coords="459,56,599,83"/>
+<area shape="rect" id="node10" href="$classSITL_1_1MultiCopter.html#a9694f42e1889713252a5b01312622bed" title="SITL::MultiCopter::\lcalculate_forces" alt="" coords="462,107,595,149"/>
+<area shape="rect" id="node13" href="$classSITL_1_1QuadPlane.html#af9068f0de1894f5afc49481c869e3b6c" title="SITL::QuadPlane::update" alt="" coords="444,224,613,251"/>
+<area shape="rect" id="node11" href="$classSITL_1_1MultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="SITL::MultiCopter::\lupdate" alt="" coords="692,369,825,410"/>
+<area shape="rect" id="node12" href="$classSITL_1_1MultiCopter.html#a9f90e1aa754f77fc472e461ec526c5a4" title="SITL::MultiCopter::\lcreate" alt="" coords="692,107,825,149"/>
+<area shape="rect" id="node15" href="$classSITL_1_1Plane.html#a7852409df29e250b1903384d1446930c" title="SITL::Plane::update" alt="" coords="459,325,598,352"/>
+<area shape="rect" id="node17" href="$classSITL_1_1Calibration.html#a529449c7dee022d7986666ed4bd1b11d" title="SITL::Calibration::\l_calibration_poses" alt="" coords="463,1169,594,1210"/>
+<area shape="rect" id="node20" href="$classMatrix3.html#a2c69227a793818d8a8f47e99ffa99885" title="Matrix3\&lt; float \&gt;::is_nan" alt="" coords="449,1235,609,1261"/>
+<area shape="rect" id="node21" href="$rotations_8cpp.html#acaec71463457149487901c616be1c74d" title="test_rotation_accuracy" alt="" coords="451,1285,606,1312"/>
+<area shape="rect" id="node18" href="$classSITL_1_1Calibration.html#a0c3f60adfbc5d68ae425883af18b62f4" title="SITL::Calibration::\lupdate" alt="" coords="695,743,823,785"/>
+<area shape="rect" id="node19" href="$classSITL_1_1Calibration.html#a06ad77d21ed540bdbad30e7d3147c1d2" title="SITL::Calibration::\lcreate" alt="" coords="695,1169,823,1210"/>
+<area shape="rect" id="node22" href="$rotations_8cpp.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="731,1311,786,1337"/>
+<area shape="rect" id="node24" href="$rotations_8cpp.html#a1452d16c339066eafa4bf6ad001b7695" title="missing_rotations" alt="" coords="467,1336,591,1363"/>
+<area shape="rect" id="node27" href="$classSITL_1_1XPlane.html#abc5e72c8fd3445fcb19b6b1d42ec9970" title="SITL::XPlane::update" alt="" coords="685,1117,832,1144"/>
+<area shape="rect" id="node28" href="$classSITL_1_1XPlane.html#a5cbab32f016edeff5108ded953c17cbe" title="SITL::XPlane::create" alt="" coords="687,1067,831,1093"/>
+<area shape="rect" id="node31" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="453,1387,604,1429"/>
+<area shape="rect" id="node32" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="683,1387,834,1429"/>
+<area shape="rect" id="node33" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="937,1387,1087,1429"/>
+<area shape="rect" id="node34" href="$classHALSITL_1_1Scheduler.html#a4cffd5bcba0175bf49c7aa75ff3bf09a" title="HALSITL::Scheduler\l::delay_microseconds" alt="" coords="1215,1387,1364,1429"/>
+<area shape="rect" id="node35" href="$classHALSITL_1_1Scheduler.html#a2c3ea70328333081349821921242cb39" title="HALSITL::Scheduler\l::from" alt="" coords="1689,1387,1832,1429"/>
+<area shape="rect" id="node38" href="$classHALSITL_1_1Scheduler.html#a14f3239ecbb9889823b20dc9de655c2f" title="HALSITL::Scheduler\l::delay" alt="" coords="1475,1417,1618,1458"/>
+<area shape="rect" id="node36" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="1880,1387,2031,1429"/>
+<area shape="rect" id="node37" href="$classHAL__SITL.html#add0e35ac5a212a6b187c55186c8f026a" title="HAL_SITL::run" alt="" coords="2079,1395,2188,1421"/>
+<area shape="rect" id="node47" href="$classSITL_1_1CRRCSim.html#ada236d396837feb2c5efe885ea504f87" title="SITL::CRRCSim::update" alt="" coords="445,915,613,941"/>
+<area shape="rect" id="node48" href="$classSITL_1_1Gazebo.html#a120a541070549b98ba4740c91abf97a7" title="SITL::Gazebo::update" alt="" coords="453,797,604,824"/>
+<area shape="rect" id="node49" href="$classSITL_1_1JSBSim.html#ac3a7a04e8c830f9be50a8d2a953833a1" title="SITL::JSBSim::recv_fdm" alt="" coords="445,696,613,723"/>
+<area shape="rect" id="node51" href="$classSITL_1_1last__letter.html#ae4e6d3acea9730faa873e8d25b876d19" title="SITL::last_letter::\lupdate" alt="" coords="467,849,590,890"/>
+<area shape="rect" id="node50" href="$classSITL_1_1JSBSim.html#a63f34aa2eb8898513ab887f7c0c8b1bf" title="SITL::JSBSim::update" alt="" coords="682,692,835,719"/>
+<area shape="rect" id="node53" href="$classAP__AHRS__DCM.html#aa8a135d6852e94f279c0be3c8206bfdd" title="AP_AHRS_DCM::update" alt="" coords="443,1631,614,1657"/>
+<area shape="rect" id="node61" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="1175,1453,1404,1480"/>
+<area shape="rect" id="node62" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="897,1504,1127,1531"/>
+<area shape="rect" id="node63" href="$classAP__AHRS__NavEKF.html#a5924a6c3f6301730272f01350eac6233" title="AP_AHRS_NavEKF::update_SITL" alt="" coords="1177,1555,1401,1581"/>
+<area shape="rect" id="node54" href="$classAP__AHRS__DCM.html#a4bbf9d7f853103c8c497b90ae726b1ac" title="AP_AHRS_DCM::get_gyro\l_drift" alt="" coords="668,1711,849,1753"/>
+<area shape="rect" id="node59" href="$ModuleTest_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="735,1605,782,1632"/>
+<area shape="rect" id="node60" href="$classAP__AHRS__NavEKF.html#a7ce0035d07be995b5f45ac6c711570ce" title="AP_AHRS_NavEKF::update_DCM" alt="" coords="899,1631,1125,1657"/>
+<area shape="rect" id="node55" href="$classAP__AHRS__NavEKF.html#a355d8890ddfaadaa9d8f694f780afbe6" title="AP_AHRS_NavEKF::get\l_gyro_drift" alt="" coords="928,1714,1096,1755"/>
+<area shape="rect" id="node56" href="$classAP__Module.html#a9b4f06b2556a122f11b92b7b29d462c4" title="AP_Module::call_hook\l_AHRS_update" alt="" coords="1213,1657,1365,1698"/>
+<area shape="rect" id="node57" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1452,1605,1641,1632"/>
+<area shape="rect" id="node58" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1737,1689,1784,1716"/>
+</map>

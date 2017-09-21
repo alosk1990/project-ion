@@ -1,0 +1,18 @@
+<map id="AP_MotorsHeli_Single::init_outputs" name="AP_MotorsHeli_Single::init_outputs">
+<area shape="rect" id="node2" href="$classSRV__Channels.html#a3d208ae4bdd1e6264f7d3203dc6f5ce3" title="SRV_Channels::get_channel_for" alt="" coords="207,5,419,32"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#a51b94250666355bd158fd162df0ad278" title="AP_MotorsHeli::reset\l_swash_servo" alt="" coords="239,57,386,98"/>
+<area shape="rect" id="node7" href="$classSRV__Channel.html#aaf3193d70a486747bfbc9c6398cff261" title="SRV_Channel::set_angle" alt="" coords="228,123,397,149"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli__RSC.html#aeb6143de2bc88e0540acd68349f61c73" title="AP_MotorsHeli_RSC::\linit_servo" alt="" coords="235,174,390,215"/>
+<area shape="rect" id="node4" href="$classSRV__Channel.html#a04f5baeec785c9f696798fa4a6c7d6ce" title="SRV_Channel::set_range" alt="" coords="485,13,655,40"/>
+<area shape="rect" id="node5" href="$classSRV__Channel.html#ab99bb118995cf764cba10744af7ebeb9" title="SRV_Channel::set_output_min" alt="" coords="469,64,671,91"/>
+<area shape="rect" id="node6" href="$classSRV__Channel.html#a268845f19faa97236e44c73464a262ca" title="SRV_Channel::set_output_max" alt="" coords="467,115,673,141"/>
+<area shape="rect" id="node9" href="$classSRV__Channels.html#a97577ca02c12e3b851cd5d563d32b640" title="SRV_Channels::set_aux\l_channel_default" alt="" coords="487,174,653,215"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="721,174,875,215"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="923,174,1076,215"/>
+<area shape="rect" id="node12" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="1124,181,1215,208"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="1263,80,1407,107"/>
+<area shape="rect" id="node14" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="1290,131,1379,157"/>
+<area shape="rect" id="node15" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="1304,181,1365,208"/>
+<area shape="rect" id="node16" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="1289,232,1381,259"/>
+<area shape="rect" id="node17" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="1290,283,1379,309"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Copter::autotune_attitude_control" name="Copter::autotune_attitude_control">
+<area shape="rect" id="node2" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a4e136782e86e2adaaf7f0f759067dfe1" title="wrap_180_cd" alt="" coords="264,5,363,32"/>
+<area shape="rect" id="node3" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a5d714010e1c33a42c22d8c80b5668ce9" title="AP_AHRS_DCM::get_gyro" alt="" coords="223,56,404,83"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="millis" alt="" coords="287,107,339,133"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classLowPassFilter.html#adad51ea3b156f167fff0fb586a912cb5" title="LowPassFilter\&lt; float\l \&gt;::reset" alt="" coords="242,158,385,199"/>
+<area shape="rect" id="node6" href="/home/ubuntu/ardupilot/docs/tags/libraries$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="260,224,367,251"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classLowPassFilter.html#a1cc5016de137b01080fa0a6fa7fe53cd" title="LowPassFilter\&lt; float\l \&gt;::set_cutoff_frequency" alt="" coords="231,275,395,317"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classLowPassFilter.html#aa390849d2e18ff3287f92b89d8657841" title="LowPassFilter\&lt; float\l \&gt;::apply" alt="" coords="242,341,385,382"/>
+</map>

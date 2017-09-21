@@ -1,0 +1,32 @@
+<map id="FlashTest::setup" name="FlashTest::setup">
+<area shape="rect" id="node2" href="$classFlashTest.html#a7db9772374cb8afa31cc1d815063302d" title="FlashTest::flash_erase" alt="" coords="173,506,328,533"/>
+<area shape="rect" id="node3" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="412,453,524,479"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1UARTDriver.html#a6ceedc792594e59fc7d80b39a435f027" title="AP_HAL::UARTDriver\l::printf" alt="" coords="174,559,327,600"/>
+<area shape="rect" id="node20" href="$classAP__FlashStorage.html#ac2133d4c431255ee294db68364dd43a3" title="AP_FlashStorage::init" alt="" coords="176,629,325,655"/>
+<area shape="rect" id="node29" href="$AP__Math_8cpp.html#a587a30a56f2ab102c7b42f89e4770530" title="get_random16" alt="" coords="199,679,303,706"/>
+<area shape="rect" id="node30" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="227,730,274,757"/>
+<area shape="rect" id="node31" href="$classFlashTest.html#af36af40bfac8e5a2d89c6c4dd22a1a42" title="FlashTest::write" alt="" coords="410,826,526,853"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="608,209,799,235"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="630,445,777,487"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="851,201,1013,243"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="851,267,1013,308"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="851,333,1013,359"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="854,5,1010,47"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="854,71,1010,112"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="849,136,1015,177"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1UARTDriver.html#aa8abfb6d6641299472c29ac1edde559f" title="AP_HAL::UARTDriver\l::vprintf" alt="" coords="391,504,545,545"/>
+<area shape="rect" id="node14" href="$print__vprintf_8cpp.html#a1534eaeab54696df96975b56d9f49212" title="print_vprintf" alt="" coords="658,511,749,538"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="860,383,1004,410"/>
+<area shape="rect" id="node16" href="$ftoa__engine_8cpp.html#a1c28234da8f20b43c85890d4bb452947" title="ftoa_engine" alt="" coords="887,434,977,461"/>
+<area shape="rect" id="node17" href="$replace_8cpp.html#a880bcc7b85a09e6254691bebd5344b51" title="strnlen" alt="" coords="901,485,963,511"/>
+<area shape="rect" id="node18" href="$utoa__invert_8cpp.html#a34926f552460b47c414ec4d83b32815c" title="ulltoa_invert" alt="" coords="886,535,978,562"/>
+<area shape="rect" id="node19" href="$utoa__invert_8cpp.html#a5d99bba8e697c1e11da489d88fca8559" title="ultoa_invert" alt="" coords="887,586,977,613"/>
+<area shape="rect" id="node21" href="$classAP__FlashStorage.html#a52941ea1e8855441fff7b664203b108a" title="AP_FlashStorage::erase_all" alt="" coords="376,570,560,597"/>
+<area shape="rect" id="node22" href="$classAP__FlashStorage.html#aa66f357c6838db0d13a163617e60f59c" title="AP_FlashStorage::erase\l_sector" alt="" coords="1069,680,1233,721"/>
+<area shape="rect" id="node23" href="$classAP__FlashStorage.html#ae12ba34e089d3e30f1f16a1b7c8a11c7" title="AP_FlashStorage::load\l_sector" alt="" coords="390,621,546,663"/>
+<area shape="rect" id="node24" href="$classAP__FlashStorage.html#a583ab6eb8d0903174321272fc3c39f5d" title="AP_FlashStorage::write_all" alt="" coords="378,750,558,777"/>
+<area shape="rect" id="node25" href="$classAP__FlashStorage.html#a6877daae6e6716aa5fc06d919b609bd8" title="AP_FlashStorage::all_zero" alt="" coords="615,738,792,765"/>
+<area shape="rect" id="node26" href="$classAP__FlashStorage.html#a0b06f85f5d21e01e5b2d76194bd8a075" title="AP_FlashStorage::write" alt="" coords="623,839,783,866"/>
+<area shape="rect" id="node27" href="$classAP__FlashStorage.html#a54f94604b92feaef993d8e1558878843" title="AP_FlashStorage::switch\l_sectors" alt="" coords="1065,807,1236,848"/>
+<area shape="rect" id="node28" href="$classAP__FlashStorage.html#a0f1fcc2a684940d96a9288c104afc98d" title="AP_FlashStorage::switch\l_full_sector" alt="" coords="847,777,1017,819"/>
+</map>

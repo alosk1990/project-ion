@@ -1,0 +1,20 @@
+<map id="Copter::land_init" name="Copter::land_init">
+<area shape="rect" id="node2" href="$classCopter.html#a06cf9a8d680a08e194896f711b1940cf" title="Copter::position_ok" alt="" coords="203,53,338,79"/>
+<area shape="rect" id="node8" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a2b0f45cd553e217e5ee44dfef68a674c" title="AC_WPNav::get_loiter\l_stopping_point_xy" alt="" coords="193,104,348,145"/>
+<area shape="rect" id="node9" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a3bd3abac616805d338d31255d76e978e" title="AC_WPNav::init_loiter\l_target" alt="" coords="193,169,348,211"/>
+<area shape="rect" id="node10" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a4d39e0c0d33f5f6ca20461ad64982e8f" title="AC_PosControl::set\l_speed_z" alt="" coords="201,235,340,276"/>
+<area shape="rect" id="node11" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#a1f3ebef93a2bad853cd1d9e308991e24" title="AC_WPNav::get_speed_down" alt="" coords="171,301,371,327"/>
+<area shape="rect" id="node12" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#ad17858e56cece4b2b287223dc4e31f67" title="AC_WPNav::get_speed_up" alt="" coords="179,351,362,378"/>
+<area shape="rect" id="node13" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#ad7ef264f7da50fe3f0e035604fdcfea4" title="AC_PosControl::set\l_accel_z" alt="" coords="201,403,340,444"/>
+<area shape="rect" id="node14" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__WPNav.html#ad18936d20f908d6d9327f5d93c3beab2" title="AC_WPNav::get_accel_z" alt="" coords="185,469,357,495"/>
+<area shape="rect" id="node15" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#aeaaab19261649e644c0c83b471a0325c" title="AC_PosControl::is_active_z" alt="" coords="177,519,364,546"/>
+<area shape="rect" id="node16" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#aad49fb4ca95f76231c9645c6cfee937d" title="AC_PosControl::set\l_alt_target_to_current_alt" alt="" coords="186,571,355,612"/>
+<area shape="rect" id="node17" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAC__PosControl.html#a08c02eed130aa89ef8bab6f8b83f97bc" title="AC_PosControl::set\l_desired_velocity_z" alt="" coords="201,636,340,677"/>
+<area shape="rect" id="node18" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#a7b543367e2256b2bf9fcea632cb3cf22" title="AP_InertialNav_NavEKF\l::get_velocity_z" alt="" coords="187,701,354,743"/>
+<area shape="rect" id="node19" href="/home/ubuntu/ardupilot/docs/tags/libraries$namespaceAP__HAL.html#a77dffbb18891996280308e21316ec186" title="millis" alt="" coords="245,767,297,794"/>
+<area shape="rect" id="node3" href="$classCopter.html#a09f2741a18ba8ca80ee125411602d366" title="Copter::ekf_position_ok" alt="" coords="431,27,591,54"/>
+<area shape="rect" id="node6" href="$classCopter.html#a48f22a85435e9ab7998e79f5acae9c10" title="Copter::optflow_position_ok" alt="" coords="419,78,603,105"/>
+<area shape="rect" id="node4" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__AHRS__NavEKF.html#a7933552ae34a7fd8fdfc1e51a4e2fad6" title="AP_AHRS_NavEKF::have\l_inertial_nav" alt="" coords="651,71,829,112"/>
+<area shape="rect" id="node5" href="/home/ubuntu/ardupilot/docs/tags/libraries$classAP__InertialNav__NavEKF.html#ad6004ffb427fd086592cc1c56f5de17a" title="AP_InertialNav_NavEKF\l::get_filter_status" alt="" coords="657,5,823,47"/>
+<area shape="rect" id="node7" href="/home/ubuntu/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="668,137,812,163"/>
+</map>

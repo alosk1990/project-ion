@@ -1,0 +1,28 @@
+<map id="AC_WPNav::advance_wp_target_along_track" name="AC_WPNav::advance_wp_target_along_track">
+<area shape="rect" id="node2" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title="AP_InertialNav::get\l_position" alt="" coords="241,5,377,47"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a89a2d6885b96dd09bab36ccda16a6dce" title="AC_WPNav::get_terrain\l_offset" alt="" coords="228,71,391,112"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a2c34476e01b9988589e9be01e6c8b5f0" title="norm" alt="" coords="481,301,532,327"/>
+<area shape="rect" id="node7" href="$classAC__PosControl.html#aa5759b18c7c1208b6979c728fb85f1e4" title="AC_PosControl::get\l_leash_xy" alt="" coords="240,188,379,229"/>
+<area shape="rect" id="node8" href="$classAC__PosControl.html#ab17ea3a4f6f232c9944712b39e76aac8" title="AC_PosControl::get\l_leash_up_z" alt="" coords="240,253,379,295"/>
+<area shape="rect" id="node9" href="$classAC__PosControl.html#aeba418c057fc5aa5aa784d809da98f14" title="AC_PosControl::get\l_leash_down_z" alt="" coords="240,319,379,360"/>
+<area shape="rect" id="node10" href="$AP__Math_8h.html#a6b187a3fa1e9f663e89175e7e8e213d6" title="MIN" alt="" coords="286,385,333,411"/>
+<area shape="rect" id="node11" href="$classAP__InertialNav.html#a5bfad40c8a4e0ca98aa09c80e17c4ff5" title="AP_InertialNav::get\l_velocity" alt="" coords="241,436,377,477"/>
+<area shape="rect" id="node12" href="$classAC__PosControl.html#a96d87c601aa6866bd9a743d024a08c51" title="get_pos_xy_kP &#45; returns xy position controller&#39;s kP gain " alt="" coords="240,553,379,595"/>
+<area shape="rect" id="node14" href="$AP__Math_8h.html#ad525609d9dba6ffa556a0fbf08a3f9b4" title="constrain_float" alt="" coords="256,619,363,646"/>
+<area shape="rect" id="node20" href="$classAC__WPNav.html#aae13f4e84af1728e5d382a3f97a181db" title="get_slow_down_speed &#45; returns target speed of target point based on distance from the destination (in..." alt="" coords="232,748,387,789"/>
+<area shape="rect" id="node26" href="$classAC__PosControl.html#ad70a79da0c5dcde97ccf848b03e7356a" title="set_pos_target in cm from home " alt="" coords="240,671,379,712"/>
+<area shape="rect" id="node27" href="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3::length" alt="" coords="254,137,365,163"/>
+<area shape="rect" id="node4" href="$classAP__InertialNav.html#ac47da3c171cdcaabb4bc3a2749762461" title="AP_InertialNav::get\l_altitude" alt="" coords="439,71,575,112"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a0375e3d67fd3911cacee5c3e1408c0f2" title="sq" alt="" coords="691,301,729,327"/>
+<area shape="rect" id="node13" href="$classAC__P.html#a723b372dfceb74ddb2edbe11544e9d5a" title="AC_P::kP" alt="" coords="466,561,547,587"/>
+<area shape="rect" id="node15" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="450,615,563,642"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="635,565,785,591"/>
+<area shape="rect" id="node17" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="627,615,793,642"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="629,666,791,693"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="623,514,797,541"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#ac89eb1832d8e4d67fcf1ac07e3c25184" title="safe_sqrt" alt="" coords="469,767,545,794"/>
+<area shape="rect" id="node22" href="$AP__Math_8cpp.html#aa5cb9421d48def32eb7574adb1b152b0" title="safe_sqrt\&lt; int \&gt;" alt="" coords="653,767,767,794"/>
+<area shape="rect" id="node23" href="$AP__Math_8cpp.html#a6952300e3d03222491051d674312b67d" title="safe_sqrt\&lt; short \&gt;" alt="" coords="645,818,775,845"/>
+<area shape="rect" id="node24" href="$AP__Math_8cpp.html#a40ae6cfccff676d9d2ff57e2e9ca549c" title="safe_sqrt\&lt; float \&gt;" alt="" coords="647,869,773,895"/>
+<area shape="rect" id="node25" href="$AP__Math_8cpp.html#acf6795fb73b8b915b53126f71cd2712a" title="safe_sqrt\&lt; double \&gt;" alt="" coords="641,717,779,743"/>
+</map>

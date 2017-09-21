@@ -1,0 +1,17 @@
+<map id="AP_InertialSensor_QURT::detect" name="AP_InertialSensor_QURT::detect">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__QURT.html#a41171d53adc712c9f02e00a3961b728e" title="AP_InertialSensor_QURT\l::AP_InertialSensor_QURT" alt="" coords="225,156,405,197"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__QURT.html#a17a6ef58bc7d09f4e4c2676859094707" title="AP_InertialSensor_QURT\l::init_sensor" alt="" coords="229,221,401,263"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#aa112654466199fa7ba51b2471fefdbd7" title="AP_InertialSensor::\lregister_gyro" alt="" coords="472,123,607,164"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor.html#a17706ae4e3ef55200ee8b1e5c4ead7ec" title="AP_InertialSensor::\lregister_accel" alt="" coords="472,188,607,229"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor__QURT.html#a1507c9d0d837fb1b25901267ab5e54cf" title="AP_InertialSensor_QURT\l::init_mpu9250" alt="" coords="453,253,625,295"/>
+<area shape="rect" id="node16" href="$AP__InertialSensor__QURT_8cpp.html#a28687e44344aa92d99461d43a4427de5" title="mpu_data_ready_trampoline" alt="" coords="673,290,859,317"/>
+<area shape="rect" id="node5" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="710,195,822,222"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="907,166,1097,193"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="929,217,1075,259"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="1147,5,1310,47"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="1147,71,1310,112"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="1147,137,1310,163"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="1151,188,1307,229"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="1151,253,1307,295"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="1145,319,1312,360"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="AP_AHRS::get_trim" name="AP_AHRS::get_trim">
+<area shape="rect" id="node2" href="$classNavEKF2__core.html#a6a1acb58d8d7f8e13e3875e80e6a9352" title="NavEKF2_core::getEulerAngles" alt="" coords="193,191,400,218"/>
+<area shape="rect" id="node15" href="$classNavEKF3__core.html#a161c108404d9fd7efb7def660787be1b" title="NavEKF3_core::getEulerAngles" alt="" coords="193,266,400,293"/>
+<area shape="rect" id="node3" href="$classNavEKF2.html#a858ab65324897c262c5aa0bf602567d3" title="NavEKF2::getEulerAngles" alt="" coords="691,125,865,151"/>
+<area shape="rect" id="node13" href="$classNavEKF2.html#a1688375d9bb837f012372f41f3f794cb" title="NavEKF2::updateLaneSwitch\lYawResetData" alt="" coords="448,184,643,225"/>
+<area shape="rect" id="node4" href="$classAP__AHRS__NavEKF.html#a0187c6d3d4348b002a204c05d3e94b07" title="AP_AHRS_NavEKF::update_EKF2" alt="" coords="913,223,1143,250"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__NavEKF.html#aef087033d882846f22b9e0bf9c34240d" title="AP_AHRS_NavEKF::get\l_secondary_attitude" alt="" coords="944,5,1112,47"/>
+<area shape="rect" id="node9" href="$classNavEKF2.html#ab18af2714c15fcf190493c01e2a28c73" title="NavEKF2::activeCores" alt="" coords="949,122,1107,149"/>
+<area shape="rect" id="node10" href="$classDataFlash__Class.html#a46e58faaa53c44516433f6bb7bde4163" title="DataFlash_Class::Log\l_Write_POS" alt="" coords="1211,307,1363,348"/>
+<area shape="rect" id="node12" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="1191,97,1383,123"/>
+<area shape="rect" id="node5" href="$classAP__AHRS__NavEKF.html#ac8111979c5dc37a55b2c50818534ea52" title="AP_AHRS_NavEKF::update" alt="" coords="1192,234,1381,261"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8cpp.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1482,234,1529,261"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__NavEKF.html#add98225e5350abab51cccd311f5496c3" title="AP_AHRS_NavEKF::get\l_NavEKF3_const" alt="" coords="1203,5,1371,47"/>
+<area shape="rect" id="node11" href="$classDataFlash__Class.html#a7868f0e3dcef65ea5b5fcae618f4c5d4" title="DataFlash_Class::get\l_structures" alt="" coords="1431,307,1580,348"/>
+<area shape="rect" id="node14" href="$classNavEKF2.html#a72815b1bbd9d7ceb0ff7ae52d14516df" title="NavEKF2::UpdateFilter" alt="" coords="699,191,857,218"/>
+<area shape="rect" id="node16" href="$classNavEKF3.html#ac85c1cfeb37f81929f981b6e6c4ac5b0" title="NavEKF3::getEulerAngles" alt="" coords="691,325,865,351"/>
+<area shape="rect" id="node19" href="$classNavEKF3.html#ab670249257282baefc2bafb3d5513995" title="NavEKF3::updateLaneSwitch\lYawResetData" alt="" coords="448,259,643,300"/>
+<area shape="rect" id="node17" href="$classAP__AHRS__NavEKF.html#a324160404f12959e955554f5aed26459" title="AP_AHRS_NavEKF::update_EKF3" alt="" coords="913,274,1143,301"/>
+<area shape="rect" id="node18" href="$classNavEKF3.html#a3e1f50ad977a17222fcd7a6851b0f2ec" title="NavEKF3::activeCores" alt="" coords="949,325,1107,351"/>
+<area shape="rect" id="node20" href="$classNavEKF3.html#a477020fcf29376e0c2205dbf79728104" title="NavEKF3::UpdateFilter" alt="" coords="699,274,857,301"/>
+</map>

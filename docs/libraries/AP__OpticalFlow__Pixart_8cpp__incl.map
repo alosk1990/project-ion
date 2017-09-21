@@ -1,0 +1,81 @@
+<map id="libraries/AP_OpticalFlow/AP_OpticalFlow_Pixart.cpp" name="libraries/AP_OpticalFlow/AP_OpticalFlow_Pixart.cpp">
+<area shape="rect" id="node2" href="$AP__HAL_8h.html" title="AP_HAL/AP_HAL.h" alt="" coords="2464,900,2602,927"/>
+<area shape="rect" id="node39" href="$edc_8h.html" title="AP_Math/edc.h" alt="" coords="3808,751,3920,777"/>
+<area shape="rect" id="node40" href="$AP__AHRS_8h.html" title="AP_AHRS/AP_AHRS.h" alt="" coords="1829,102,1992,129"/>
+<area shape="rect" id="node97" href="$AP__OpticalFlow_2OpticalFlow_8h.html" title="OpticalFlow.h" alt="" coords="4131,587,4234,613"/>
+<area shape="rect" id="node99" href="$AP__OpticalFlow__Pixart_8h.html" title="AP_OpticalFlow_Pixart.h" alt="" coords="4232,505,4400,531"/>
+<area shape="rect" id="node100" href="$AP__OpticalFlow__Pixart__SROM_8h.html" title="AP_OpticalFlow_Pixart\l_SROM.h" alt="" coords="4474,95,4632,136"/>
+<area shape="rect" id="node4" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="2727,1423,2888,1449"/>
+<area shape="rect" id="node8" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="1650,1348,1782,1375"/>
+<area shape="rect" id="node9" href="$AP__HAL__Macros_8h.html" title="AP_HAL_Macros.h" alt="" coords="2010,1199,2144,1225"/>
+<area shape="rect" id="node10" href="$AP__HAL__Main_8h.html" title="AP_HAL_Main.h" alt="" coords="2672,975,2791,1001"/>
+<area shape="rect" id="node11" href="$HAL_8h.html" title="HAL.h" alt="" coords="2704,1049,2762,1076"/>
+<area shape="rect" id="node12" href="$AnalogIn_8h.html" title="AnalogIn.h" alt="" coords="3134,1273,3218,1300"/>
+<area shape="rect" id="node14" href="$GPIO_8h.html" title="GPIO.h" alt="" coords="2569,1199,2636,1225"/>
+<area shape="rect" id="node15" href="$RCInput_8h.html" title="RCInput.h" alt="" coords="2925,1124,3008,1151"/>
+<area shape="rect" id="node16" href="$RCOutput_8h.html" title="RCOutput.h" alt="" coords="3083,1124,3175,1151"/>
+<area shape="rect" id="node21" href="$Storage_8h.html" title="Storage.h" alt="" coords="2660,1199,2739,1225"/>
+<area shape="rect" id="node22" href="$UARTDriver_8h.html" title="UARTDriver.h" alt="" coords="2288,1124,2394,1151"/>
+<area shape="rect" id="node30" href="$BetterStream_8h.html" title="utility/BetterStream.h" alt="" coords="2271,1199,2416,1225"/>
+<area shape="rect" id="node32" href="$Stream_8h.html" title="Stream.h" alt="" coords="2569,1273,2644,1300"/>
+<area shape="rect" id="node33" href="$Print_8h.html" title="Print.h" alt="" coords="2532,1348,2592,1375"/>
+<area shape="rect" id="node34" href="$system_8h.html" title="system.h" alt="" coords="1959,1124,2035,1151"/>
+<area shape="rect" id="node35" href="$AP__HAL_2OpticalFlow_8h.html" title="OpticalFlow.h" alt="" coords="2162,1124,2264,1151"/>
+<area shape="rect" id="node36" href="$Scheduler_8h.html" title="Scheduler.h" alt="" coords="1641,1199,1732,1225"/>
+<area shape="rect" id="node37" href="$Semaphores_8h.html" title="Semaphores.h" alt="" coords="2980,1049,3086,1076"/>
+<area shape="rect" id="node38" href="$Util_8h.html" title="Util.h" alt="" coords="2441,1199,2494,1225"/>
+<area shape="rect" id="node6" href="$functor_8h.html" title="utility/functor.h" alt="" coords="3276,1497,3384,1524"/>
+<area shape="rect" id="node17" href="$SPIDevice_8h.html" title="SPIDevice.h" alt="" coords="3293,1273,3389,1300"/>
+<area shape="rect" id="node18" href="$Device_8h.html" title="Device.h" alt="" coords="3293,1348,3368,1375"/>
+<area shape="rect" id="node19" href="$OwnPtr_8h.html" title="utility/OwnPtr.h" alt="" coords="4153,1348,4265,1375"/>
+<area shape="rect" id="node23" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries. " alt="" coords="974,1273,1167,1300"/>
+<area shape="rect" id="node25" href="$replace_8h.html" title="AP_HAL_QURT/replace.h" alt="" coords="1188,1348,1363,1375"/>
+<area shape="rect" id="node41" href="$AP__Math_8h.html" title="AP_Math/AP_Math.h" alt="" coords="1720,669,1866,695"/>
+<area shape="rect" id="node44" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system. " alt="" coords="708,751,870,777"/>
+<area shape="rect" id="node56" href="$AP__Compass_8h.html" title="AP_Compass/AP_Compass.h" alt="" coords="1811,505,2010,531"/>
+<area shape="rect" id="node64" href="$AP__Airspeed_8h.html" title="AP_Airspeed/AP_Airspeed.h" alt="" coords="362,505,552,531"/>
+<area shape="rect" id="node66" href="$AP__Beacon_8h.html" title="AP_Beacon/AP_Beacon.h" alt="" coords="880,415,1055,442"/>
+<area shape="rect" id="node68" href="$AP__GPS_8h.html" title="AP_GPS/AP_GPS.h" alt="" coords="2244,415,2387,442"/>
+<area shape="rect" id="node72" href="$AP__InertialSensor_8h.html" title="AP_InertialSensor/AP\l_InertialSensor.h" alt="" coords="2969,408,3118,449"/>
+<area shape="rect" id="node81" href="$AP__Baro_8h.html" title="AP_Baro/AP_Baro.h" alt="" coords="3193,415,3334,442"/>
+<area shape="rect" id="node88" href="$AP__AHRS__DCM_8h.html" title="AP_AHRS_DCM.h" alt="" coords="1462,184,1596,211"/>
+<area shape="rect" id="node89" href="$AP__AHRS__NavEKF_8h.html" title="AP_AHRS_NavEKF.h" alt="" coords="1620,184,1774,211"/>
+<area shape="rect" id="node48" href="$definitions_8h.html" title="definitions.h" alt="" coords="1676,825,1768,852"/>
+<area shape="rect" id="node49" href="$location_8h.html" title="location.h" alt="" coords="1551,751,1630,777"/>
+<area shape="rect" id="node50" href="$vector2_8h.html" title="vector2.h" alt="" coords="1423,825,1499,852"/>
+<area shape="rect" id="node51" href="$vector3_8h.html" title="vector3.h" alt="" coords="667,825,743,852"/>
+<area shape="rect" id="node52" href="$rotations_8h.html" title="rotations.h" alt="" coords="1165,900,1248,927"/>
+<area shape="rect" id="node53" href="$matrix3_8h.html" title="matrix3.h" alt="" coords="1004,751,1080,777"/>
+<area shape="rect" id="node54" href="$polygon_8h.html" title="polygon.h" alt="" coords="1448,751,1527,777"/>
+<area shape="rect" id="node55" href="$quaternion_8h.html" title="quaternion.h" alt="" coords="1254,825,1348,852"/>
+<area shape="rect" id="node46" href="$StorageManager_8h.html" title="StorageManager/StorageManager.h" alt="" coords="2057,825,2284,852"/>
+<area shape="rect" id="node57" href="$AP__Declination_8h.html" title="AP_Declination/AP_Declination.h" alt="" coords="3352,1049,3570,1076"/>
+<area shape="rect" id="node58" href="$GCS__MAVLink_8h.html" title="One size fits all header for MAVLink integration. " alt="" coords="880,587,1095,613"/>
+<area shape="rect" id="node62" href="$CompassCalibrator_8h.html" title="CompassCalibrator.h" alt="" coords="2072,587,2218,613"/>
+<area shape="rect" id="node63" href="$AP__Compass__Backend_8h.html" title="AP_Compass_Backend.h" alt="" coords="1824,587,1996,613"/>
+<area shape="rect" id="node65" href="$AP__Airspeed__Backend_8h.html" title="AP_Airspeed_Backend.h" alt="" coords="767,825,934,852"/>
+<area shape="rect" id="node67" href="$AP__SerialManager_8h.html" title="AP_SerialManager/AP\l_SerialManager.h" alt="" coords="1094,497,1246,539"/>
+<area shape="rect" id="node69" href="$AP__Vehicle_8h.html" title="AP_Vehicle/AP_Vehicle.h" alt="" coords="2346,505,2520,531"/>
+<area shape="rect" id="node71" href="$GPS__detect__state_8h.html" title="GPS_detect_state.h" alt="" coords="2595,505,2735,531"/>
+<area shape="rect" id="node70" href="$AP__Vehicle__Type_8h.html" title="AP_Vehicle_Type.h" alt="" coords="2547,587,2684,613"/>
+<area shape="rect" id="node73" href="$AP__AccelCal_8h.html" title="AP_AccelCal/AP_AccelCal.h" alt="" coords="1543,505,1736,531"/>
+<area shape="rect" id="node78" href="$LowPassFilter2p_8h.html" title="A class to implement a second order low pass filter. " alt="" coords="2861,587,3024,613"/>
+<area shape="rect" id="node79" href="$LowPassFilter_8h.html" title="A class to implement a low pass filter without losing precision even for int types the downside being..." alt="" coords="3301,587,3450,613"/>
+<area shape="rect" id="node74" href="$AccelCalibrator_8h.html" title="AccelCalibrator.h" alt="" coords="1576,587,1698,613"/>
+<area shape="rect" id="node75" href="$vectorN_8h.html" title="AP_Math/vectorN.h" alt="" coords="1844,825,1982,852"/>
+<area shape="rect" id="node76" href="$matrixN_8h.html" title="matrixN.h" alt="" coords="1786,900,1864,927"/>
+<area shape="rect" id="node80" href="$FilterClass_8h.html" title="A pure virtual interface class. " alt="" coords="3586,751,3682,777"/>
+<area shape="rect" id="node82" href="$Filter_8h.html" title="Filter/Filter.h" alt="" coords="3639,505,3734,531"/>
+<area shape="rect" id="node85" href="$DerivativeFilter_8h.html" title="DerivativeFilter.h" alt="" coords="3576,587,3698,613"/>
+<area shape="rect" id="node83" href="$AverageFilter_8h.html" title="A class to provide the average of a number of samples. " alt="" coords="3774,587,3884,613"/>
+<area shape="rect" id="node84" href="$FilterWithBuffer_8h.html" title="A filter with a buffer. This is implemented separately to the base Filter class to get around restric..." alt="" coords="3751,669,3875,695"/>
+<area shape="rect" id="node86" href="$ModeFilter_8h.html" title="A class to apply a mode filter which is basically picking the median value from the last x samples th..." alt="" coords="3960,587,4055,613"/>
+<area shape="rect" id="node87" href="$Butter_8h.html" title="Butter.h" alt="" coords="3506,669,3574,695"/>
+<area shape="rect" id="node90" href="$SITL_8h.html" title="SITL/SITL.h" alt="" coords="610,333,704,360"/>
+<area shape="rect" id="node91" href="$AP__NavEKF2_8h.html" title="AP_NavEKF2/AP_NavEKF2.h" alt="" coords="1499,259,1700,285"/>
+<area shape="rect" id="node92" href="$AP__Nav__Common_8h.html" title="AP_NavEKF/AP_Nav_Common.h" alt="" coords="981,333,1202,360"/>
+<area shape="rect" id="node95" href="$AP__NavEKF3_8h.html" title="AP_NavEKF3/AP_NavEKF3.h" alt="" coords="792,259,994,285"/>
+<area shape="rect" id="node93" href="$AP__RangeFinder_8h.html" title="Catch&#45;all header that defines all supported RangeFinder classes. " alt="" coords="1226,333,1461,360"/>
+<area shape="rect" id="node94" href="$RangeFinder_8h.html" title="RangeFinder.h" alt="" coords="1080,415,1186,442"/>
+<area shape="rect" id="node98" href="$OpticalFlow__backend_8h.html" title="OpticalFlow_backend.h" alt="" coords="4103,669,4262,695"/>
+</map>

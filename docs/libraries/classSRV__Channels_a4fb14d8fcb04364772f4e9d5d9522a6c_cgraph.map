@@ -1,0 +1,10 @@
+<map id="SRV_Channels::set_output_pwm_trimmed" name="SRV_Channels::set_output_pwm_trimmed">
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a68558c4f79a8582543daefde13c64abc" title="constrain_int16" alt="" coords="283,81,393,108"/>
+<area shape="rect" id="node8" href="$classSRV__Channel.html#a3a465c084225682a7bf6bd5ef78a369e" title="SRV_Channel::get_output_min" alt="" coords="237,132,439,159"/>
+<area shape="rect" id="node9" href="$classSRV__Channel.html#a07e33259e76a6863fb56394a3891bf79" title="SRV_Channel::get_output_max" alt="" coords="235,183,441,209"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a20e8f8671c282c69c1954652b6d61585" title="constrain_value" alt="" coords="489,81,603,108"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a37e8e901754cb9c8e53a8e3030c82c50" title="constrain_value\&lt; int \&gt;" alt="" coords="663,5,813,32"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#afdbe107ec1987d318a6347816fbf2b89" title="constrain_value\&lt; short \&gt;" alt="" coords="655,56,821,83"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#ae6c621670c214da687de21d4e3a92587" title="constrain_value\&lt; float \&gt;" alt="" coords="657,107,819,133"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#afe3990b00e9abc43fa97dfaf8e32f5c4" title="constrain_value\&lt; double \&gt;" alt="" coords="651,157,825,184"/>
+</map>

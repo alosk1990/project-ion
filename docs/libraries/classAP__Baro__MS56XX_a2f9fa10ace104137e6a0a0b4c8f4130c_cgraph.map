@@ -1,0 +1,29 @@
+<map id="AP_Baro_MS56XX::_init" name="AP_Baro_MS56XX::_init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Device.html#a9cfca3d6c720115b4c77b21b64a2b8af" title="AP_HAL::Device::get\l_semaphore" alt="" coords="236,5,384,47"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="460,239,640,266"/>
+<area shape="rect" id="node4" href="$namespaceAP__HAL.html#a71832f03d849a0c088f04fc98d3c8143" title="AP_HAL::panic" alt="" coords="494,509,606,535"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Device.html#a871deca702e85b91191788a3415b50ca" title="AP_HAL::Device::set\l_retries" alt="" coords="236,508,384,549"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Device.html#a2af24b5f93b678af718b65a606e538b0" title="AP_HAL::Device::transfer" alt="" coords="707,235,881,262"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="237,573,383,615"/>
+<area shape="rect" id="node16" href="$classAP__Baro__MS56XX.html#a69cb6716c705cc2df8c4d37e95b886f8" title="AP_Baro_MS56XX::_read\l_prom_5611" alt="" coords="223,123,397,164"/>
+<area shape="rect" id="node19" href="$classAP__Baro__MS56XX.html#a494378afab26087a53bc37def0df2950" title="AP_Baro_MS56XX::_read\l_prom_5637" alt="" coords="223,188,397,229"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="461,458,639,485"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1Device.html#a66ad6db2ed44e19a0777ef94be0a8561" title="AP_HAL::Device::bus_num" alt="" coords="219,639,401,666"/>
+<area shape="rect" id="node22" href="$classAP__HAL_1_1Device.html#a59d3cc81eb7f8a1ff2adc8821df75239" title="AP_HAL::Device::get\l_bus_address" alt="" coords="236,691,384,732"/>
+<area shape="rect" id="node23" href="$classAP__Baro.html#a2679b96d8c843053af9c658ff3efad73" title="AP_Baro::register_sensor" alt="" coords="225,406,395,433"/>
+<area shape="rect" id="node24" href="$classAP__Baro.html#ad0ac1e4c24c86973a0ebd43abb351ee7" title="AP_Baro::set_type" alt="" coords="244,757,376,783"/>
+<area shape="rect" id="node25" href="$classAP__HAL_1_1Device.html#ab516a6ba589841ce07a5cc4ef599ac62" title="AP_HAL::Device::register\l_periodic_callback" alt="" coords="223,808,397,849"/>
+<area shape="rect" id="node26" href="$classAP__Baro__MS56XX.html#a5d88be68c0df4f9aa14b7c4e60f1b897" title="AP_Baro_MS56XX::_timer" alt="" coords="221,305,399,331"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1RCInput.html#a2bea13d38f2b9ae8bf5193a3a69f0a31" title="AP_HAL::RCInput::teardown" alt="" coords="699,538,889,565"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="721,472,867,513"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1RCInput.html#aee1fade33080edef83dd7db0fad0f7da" title="AP_HAL::RCInput::new\l_input" alt="" coords="939,377,1102,419"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="939,443,1102,484"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="939,509,1102,535"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1RCInput.html#a0989c5ca271631fe655c047d4a022a3d" title="AP_HAL::RCInput::set\l_overrides" alt="" coords="943,560,1099,601"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1RCInput.html#abfd037ca0989a0422a60f418d34eb7d5" title="AP_HAL::RCInput::set\l_override" alt="" coords="943,625,1099,667"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1RCInput.html#ab3671bbe43fdb97c53071d7832ac256e" title="AP_HAL::RCInput::clear\l_overrides" alt="" coords="937,691,1104,732"/>
+<area shape="rect" id="node17" href="$classAP__Baro__MS56XX.html#af5051fb5f63cb1b5ed64510b77fb2d1d" title="AP_Baro_MS56XX::_read\l_prom_word" alt="" coords="463,173,637,215"/>
+<area shape="rect" id="node18" href="$AP__Baro__MS5611_8cpp.html#ad45905165dfbaffc217d8ca774f9412e" title="crc4" alt="" coords="527,122,573,149"/>
+<area shape="rect" id="node27" href="$classAP__Baro__MS56XX.html#a7bb536520a94483d01a9a000281ca6fb" title="AP_Baro_MS56XX::_read_adc" alt="" coords="449,407,651,434"/>
+<area shape="rect" id="node28" href="$classAP__Baro__MS56XX.html#a3fbe5997c7b2934b8bec33f8d3d92760" title="AP_Baro_MS56XX::_update\l_and_wrap_accumulator" alt="" coords="457,341,643,383"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="Copter::get_smoothing_gain" name="Copter::get_smoothing_gain">
+<area shape="rect" id="node2" href="$classCopter.html#ac38d223360fcc0870ec99cb2045e727a" title="Copter::althold_run" alt="" coords="915,90,1047,117"/>
+<area shape="rect" id="node8" href="$classCopter.html#a1ef5bf546b8ba4d148b99b6a7b4563a0" title="Copter::auto_circle_run" alt="" coords="903,295,1060,322"/>
+<area shape="rect" id="node10" href="$classCopter.html#a80a59eb03ba585a4a6e6380555e58cfa" title="Copter::auto_land_run" alt="" coords="484,427,635,454"/>
+<area shape="rect" id="node11" href="$classCopter.html#a6a25c352d38282741df85a945b09fdd7" title="Copter::auto_loiter_run" alt="" coords="699,351,853,378"/>
+<area shape="rect" id="node12" href="$classCopter.html#a3e4cd867cae6f295c3d1d968faaca94e" title="Copter::auto_payload\l_place_run" alt="" coords="703,479,849,520"/>
+<area shape="rect" id="node13" href="$classCopter.html#ab88e2a949d54adc5828e97817f0abc23" title="Copter::auto_payload\l_place_run_loiter" alt="" coords="486,479,633,520"/>
+<area shape="rect" id="node14" href="$classCopter.html#a342af3e95fbcd77876a7f7e5b12e1e2b" title="Copter::auto_spline_run" alt="" coords="901,838,1061,865"/>
+<area shape="rect" id="node15" href="$classCopter.html#a9f7c820c3a7cfc9a8e99030d52f3af16" title="Copter::auto_takeoff\l_attitude_run" alt="" coords="259,108,400,149"/>
+<area shape="rect" id="node16" href="$classCopter.html#a6d489f33910fab3c7d6fa912355b01b7" title="Copter::auto_takeoff_run" alt="" coords="476,174,643,201"/>
+<area shape="rect" id="node17" href="$classCopter.html#a3bd0d122deb7d86f1ba66d6b3fb3b795" title="Copter::auto_wp_run" alt="" coords="705,225,847,251"/>
+<area shape="rect" id="node18" href="$classCopter.html#ae4e728f6161d83e336ce9bf0983fc4f5" title="Copter::brake_run" alt="" coords="1109,965,1236,991"/>
+<area shape="rect" id="node19" href="$classCopter.html#a29281e1d4e934fea8de44ff4606729d6" title="Copter::circle_run" alt="" coords="1110,1015,1235,1042"/>
+<area shape="rect" id="node20" href="$classCopter.html#ac1404e87713be54f123c777d375e762c" title="Copter::drift_run" alt="" coords="1115,1066,1231,1093"/>
+<area shape="rect" id="node21" href="$classCopter.html#ae496249df53843a3c9430486739b55bf" title="Copter::flip_run" alt="" coords="926,1117,1037,1143"/>
+<area shape="rect" id="node22" href="$classCopter.html#a5456818211cacda7d964dbae51502edb" title="Copter::land_gps_run" alt="" coords="486,762,633,789"/>
+<area shape="rect" id="node24" href="$classCopter.html#ab4b9d0a886f5e899a46da4dfccb4f4dc" title="Copter::land_nogps_run" alt="" coords="479,965,639,991"/>
+<area shape="rect" id="node25" href="$classCopter.html#aa04fe03f6e6107472378985f61f063a2" title="Copter::land_run_horizontal\l_control" alt="" coords="239,544,420,585"/>
+<area shape="rect" id="node27" href="$classCopter.html#a1804d08e0ffa273db35f09792059c55a" title="Copter::rtl_land_run" alt="" coords="491,610,627,637"/>
+<area shape="rect" id="node30" href="$classCopter.html#a31ae6eb66b629da71efc24ce52951add" title="Copter::loiter_run" alt="" coords="1111,1167,1234,1194"/>
+<area shape="rect" id="node31" href="$classCopter.html#a1d74ca65de6e88376d929bb23d842935" title="Copter::poshold_run" alt="" coords="260,1218,399,1245"/>
+<area shape="rect" id="node32" href="$classCopter.html#a3b8be71548d0ccf338c06dedba9d8966" title="Copter::rtl_climb_return_run" alt="" coords="468,711,651,738"/>
+<area shape="rect" id="node33" href="$classCopter.html#ac0857310e7730049fb6c96bc81a7f1d4" title="Copter::rtl_descent_run" alt="" coords="480,813,639,839"/>
+<area shape="rect" id="node34" href="$classCopter.html#afb97c54b46b2173cedb88d15b36eefb7" title="Copter::rtl_loiterathome_run" alt="" coords="468,661,651,687"/>
+<area shape="rect" id="node35" href="$classCopter.html#abe33e195a88c9ad32f79a331327cb146" title="Copter::stabilize_run" alt="" coords="258,1269,401,1295"/>
+<area shape="rect" id="node36" href="$classCopter.html#a76ddd4835a6498394fa8a3403e849b52" title="Copter::throw_run" alt="" coords="266,1319,393,1346"/>
+<area shape="rect" id="node3" href="$classCopter.html#a1e967ef71b5acdd8b0c83a0471bdb581" title="Copter::update_flight_mode" alt="" coords="1284,1041,1467,1067"/>
+<area shape="rect" id="node4" href="$classCopter.html#a9935998c549ed56b80917705ee4522fb" title="Copter::fast_loop" alt="" coords="1531,1011,1653,1038"/>
+<area shape="rect" id="node6" href="$classCopter.html#a463474e8d6d99855217b8ec3dba27d63" title="Copter::gcs_set_mode" alt="" coords="1515,1066,1669,1093"/>
+<area shape="rect" id="node5" href="$classCopter.html#ac879265c540a24609ead56c389ba4b02" title="Copter::loop" alt="" coords="1752,1009,1845,1035"/>
+<area shape="rect" id="node7" href="$classGCS__MAVLINK__Copter.html#afe85f88545dfa66f9100ed341cf5f79b" title="GCS_MAVLINK_Copter\l::handleMessage" alt="" coords="1717,1060,1880,1101"/>
+<area shape="rect" id="node9" href="$classCopter.html#a0f9fe5cd7d49e5fbce6da32216c2419b" title="Copter::auto_run" alt="" coords="1113,427,1232,454"/>
+<area shape="rect" id="node23" href="$classCopter.html#a51c901bd72d5f073aa502be5177ab2fd" title="Copter::land_run" alt="" coords="717,914,835,941"/>
+<area shape="rect" id="node26" href="$classCopter.html#a5514bdb19d8d5c74bec8f16009197cc5" title="Copter::auto_payload\l_place_run_descend" alt="" coords="486,544,633,585"/>
+<area shape="rect" id="node28" href="$classCopter.html#af128f1c77f0c21ae3320df8e98130e05" title="Copter::rtl_run" alt="" coords="723,686,829,713"/>
+<area shape="rect" id="node29" href="$classCopter.html#a36c1f3abd71427b93ecbbf073ca6d753" title="Copter::auto_rtl_run" alt="" coords="913,619,1050,646"/>
+</map>
